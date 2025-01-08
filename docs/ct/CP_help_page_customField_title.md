@@ -7,13 +7,13 @@
 完成後，再次按下按鈕，系統會詢問您是否要儲存它。
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](/translation_data/recordcustomhelp_0_0_765_510.png)
 
 查看 AI 菜單，您將看到記錄的田地邊界。
 通過單擊名稱，您將獲得刪除或重命名的選項。 
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](/translation_data/donecustomhelp_0_0_765_510.png)
 
 第二個選項是在 AI 菜單地圖上繪製它。
 沒有選擇拖拉機或其他車輛（左鍵單擊地圖上的某處），您可以選擇繪製自訂田地。
@@ -22,5 +22,5 @@
 下一次右鍵單擊將從您的起點畫一條線到您的第二個位置，這將是下一條線的起點。
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](/translation_data/drawcustomhelp_0_0_765_510.png)
 

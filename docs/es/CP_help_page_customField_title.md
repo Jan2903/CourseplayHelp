@@ -8,14 +8,14 @@ Una vez hecho esto, presione el botón nuevamente y se le preguntará si desea g
 ¡El inicio y el final no deben superponerse!
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](/translation_data/recordcustomhelp_0_0_765_510.png)
 
 
 Los bordes de los campos personalizados se mostrarán en el menú de IA.
 Al hacer clic en el nombre, tendrá la opción de eliminarlo, cambiarle el nombre o editarlo con el editor.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](/translation_data/donecustomhelp_0_0_765_510.png)
 
 
 La segunda opción es dibujar el campo personalizado en el mapa del menú AI.
@@ -26,5 +26,5 @@ Los siguientes clics crearán líneas hasta el clic anterior.
 Haga clic en el botón Guardar en la parte inferior para terminar de dibujar el campo.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](/translation_data/drawcustomhelp_0_0_765_510.png)
 

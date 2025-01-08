@@ -16,25 +16,25 @@
      Обприскувачі повинні їздити поруч з виноградними лозами і пропускати один ряд, оскільки вони відразу розпилюють наліво і направо.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkgen_0_0_765_510.png)
+![Image](/translation_data/vineworkgen_0_0_765_510.png)
 
 
 Курс для збору має генеруватися над лозою, оскільки комбайн повинен рухатися і працювати над лозою.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 Попередній обрізувач працює над лозами, тому курс має генеруватися над виноградними лозами.
 Через те, що інструменти поставляються зі зсувом, трактор рухається між лозами.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 Обприскувач працює поруч з виноградними лозами, тому він має рухатися або зліва, або справа від лоз.
 Оскільки обприскувач може працювати на лівій і правій лозі одночасно, ми можемо пропустити ряд.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkspray_0_0_765_510.png)
+![Image](/translation_data/vineworkspray_0_0_765_510.png)
 

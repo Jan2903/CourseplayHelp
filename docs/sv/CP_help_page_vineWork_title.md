@@ -16,25 +16,25 @@ T.ex. Standardskördaren måste köra och arbeta på vinrankan.
       Sprutor måste köra bredvid vinrankorna och behöver hoppa över en rad, eftersom den sprayer till vänster och höger.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkgen_0_0_765_510.png)
+![Image](/translation_data/vineworkgen_0_0_765_510.png)
 
 
 En vinrankskurs bör genereras på vinrankorna, eftersom det fick köra och arbeta med vinrankorna.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 Förutbredningen fungerar på vinrankorna, så kursen måste genereras på vinrankorna.
 Verktygen kommer med en förskjutning för traktorn, så traktorn kör mellan vinrankorna.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 Sprutan fungerar bredvid vinrankorna så att den måste köra antingen vänster eller höger från vinrankorna.
 Eftersom sprutan kan fungera till vänster och höger vinstockar samtidigt kan vi hoppa över en rad.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkspray_0_0_765_510.png)
+![Image](/translation_data/vineworkspray_0_0_765_510.png)
 

@@ -16,25 +16,25 @@ Per esempio. la mietitrice predefinita deve guidare e lavorare sul filare.
       Gli spruzzatori devono guidare vicino a lato del filare e devono saltare una fila, poiché spruzza a sinistra e a destra.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkgen_0_0_765_510.png)
+![Image](/translation_data/vineworkgen_0_0_765_510.png)
 
 
 Il percorso di raccolta uva dovrebbe essere generato sul filare, in quanto deve guidare e lavorare sul filare.
   
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 Il potatore lavora sui filari, quindi il percorso deve essere generato sul filari.
 Gli strumenti sono dotati di un offset per il trattore, quindi il trattore guida tra i filari.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 L'irroratrice lavora tra i filari, quindi deve guidare a sinistra od a destra dai filari.
 Poiché l'irroratrice può lavorare contemporaneamente sulla vite sinistra e destra, possiamo saltare una fila.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkspray_0_0_765_510.png)
+![Image](/translation_data/vineworkspray_0_0_765_510.png)
 

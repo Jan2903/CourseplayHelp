@@ -35,5 +35,5 @@ hud还显示助手工作时堆或思洛存储器的剩余填充水平。
 现在，您的选择应该与图像相似。
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/shovelloadertrigger_0_0_830_610.png)
+![Image](/translation_data/shovelloadertrigger_0_0_830_610.png)
 

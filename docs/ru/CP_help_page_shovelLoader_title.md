@@ -39,5 +39,5 @@ HUD также показывает оставшийся уровень запо
 Теперь ваш выбор должен выглядеть похожим на изображение.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/shovelloadertrigger_0_0_830_610.png)
+![Image](/translation_data/shovelloadertrigger_0_0_830_610.png)
 

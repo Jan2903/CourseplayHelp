@@ -14,5 +14,5 @@ Alcune impostazioni esperto funzionano correttamente solo in determinate condizi
 NOTA IMPORTANTE: questa è un'impostazione sperimentale che potrebbe non funzionare per tutte le forme di campo. Se non funziona, prova un'altra impostazione.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/baseedge_0_0_1020_545.png)
+![Image](/translation_data/baseedge_0_0_1020_545.png)
 

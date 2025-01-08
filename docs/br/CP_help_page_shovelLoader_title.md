@@ -39,5 +39,5 @@ A direção da flecha informa ao figurante de que direção ele se aproximará d
 Agora sua seleção deve ser semelhante à imagem.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/shovelloadertrigger_0_0_830_610.png)
+![Image](/translation_data/shovelloadertrigger_0_0_830_610.png)
 

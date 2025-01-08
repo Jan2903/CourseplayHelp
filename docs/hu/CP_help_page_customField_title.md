@@ -7,14 +7,14 @@ Indítsd el a felvételt, és vedd fel a mező szélét.
 Ha elkészült, nyomd meg újra a gombot, és a rendszer megkérdezi, hogy szeretnéd-e menteni.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](/translation_data/recordcustomhelp_0_0_765_510.png)
 
 
 Ha megnézed az AI menüt, látni fogod a rögzített mezőszegélyt.
 A névre kattintva lehetősége van törölni vagy átnevezni.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](/translation_data/donecustomhelp_0_0_765_510.png)
 
 
 A második lehetőség az AI menütérképre való felrajzolása.
@@ -24,5 +24,5 @@ Használd a jobb egérgombot, hogy rákattints arra a pozícióra, ahol el szere
 A következő jobb kattintás egy vonalat húz a kezdőponttól a második pozícióig, amely a következő sor kezdőpontja lesz.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](/translation_data/drawcustomhelp_0_0_765_510.png)
 

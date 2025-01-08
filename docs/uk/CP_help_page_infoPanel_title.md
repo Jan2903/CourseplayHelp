@@ -1,6 +1,6 @@
 # Інфопанель
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/infopanel_0_0_480_130.png)
+![Image](/translation_data/infopanel_0_0_480_130.png)
 
 
 Це наша інформаційна панель, яку можна переміщати за допомогою курсора, як і наш Mini HUD.

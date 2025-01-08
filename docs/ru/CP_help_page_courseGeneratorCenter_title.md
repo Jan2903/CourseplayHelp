@@ -26,23 +26,23 @@
 челночный
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/updown_0_0_1024_591.png)
+![Image](/translation_data/updown_0_0_1024_591.png)
 
 ## 
 загонами
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/lands_0_0_1024_599.png)
+![Image](/translation_data/lands_0_0_1024_599.png)
 
 ## 
 круговой
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/spiral_0_0_1024_590.png)
+![Image](/translation_data/spiral_0_0_1024_590.png)
 
 ## 
 всвал/вразвал
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/racetrack_0_0_1024_589.png)
+![Image](/translation_data/racetrack_0_0_1024_589.png)
 

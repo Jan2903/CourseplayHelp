@@ -13,5 +13,5 @@ Algumas configurações de especialista só funcionam corretamente sob algumas c
 NOTA IMPORTANTE: se a rota geradaa não for perfeito ou mesmo ruim, a borda selecionada ou o campo não funcionarão com este recurso. Também não haverá uma atualização para isso!
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/baseedge_0_0_1020_545.png)
+![Image](/translation_data/baseedge_0_0_1020_545.png)
 

@@ -1,6 +1,6 @@
 # Panel informacyjny
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/infopanel_0_0_480_130.png)
+![Image](/translation_data/infopanel_0_0_480_130.png)
 
 
 To jest nasz panel informacyjny, można go przesuwać za pomocą myszki, podobnie jak nasz mini HUD.

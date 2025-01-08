@@ -29,23 +29,23 @@ Bu ayarlar, daha önce yaptığınız belirli seçimlere bağlı olarak görün�
 git/gel
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/updown_0_0_1024_591.png)
+![Image](/translation_data/updown_0_0_1024_591.png)
 
 ## 
 parçalı
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/lands_0_0_1024_599.png)
+![Image](/translation_data/lands_0_0_1024_599.png)
 
 ## 
 sarmal
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/spiral_0_0_1024_590.png)
+![Image](/translation_data/spiral_0_0_1024_590.png)
 
 ## 
 yarış pisti
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/racetrack_0_0_1024_589.png)
+![Image](/translation_data/racetrack_0_0_1024_589.png)
 

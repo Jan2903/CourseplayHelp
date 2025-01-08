@@ -17,5 +17,5 @@ giro en la cabecera siempre que la curvatura de la cabecera sea menor que el rad
 Los valores negativos amplían el área trabajada más allá del límite del campo para cubrir los bordes del campo que no se detectan perfectamente.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/sharproundcorner_0_0_330_130.png)
+![Image](/translation_data/sharproundcorner_0_0_330_130.png)
 

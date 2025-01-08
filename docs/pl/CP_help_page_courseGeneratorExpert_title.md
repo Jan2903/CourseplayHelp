@@ -14,5 +14,5 @@ Niektóre ustawienia zaawansowane działają poprawnie tylko w określonych waru
 WAŻNA UWAGA: Jeśli wygenerowany kurs nie będzie idealny lub nawet zły przez wybraną krawędź lub pole, nie będzie on działał z tą funkcją. Nie będzie również żadnej aktualizacji tego!
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/baseedge_0_0_1020_545.png)
+![Image](/translation_data/baseedge_0_0_1020_545.png)
 

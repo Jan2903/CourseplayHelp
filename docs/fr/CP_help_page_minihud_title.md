@@ -2,7 +2,7 @@
 
 ## General
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/minihudhelp_general_0_0_478_305.png)
+![Image](/translation_data/minihudhelp_general_0_0_478_305.png)
 
 
 A : Maintenez le bouton gauche de la souris sur le titre de la fenêtre pour faire glisser le HUD vers la position de votre choix. Sur le côté droit, la version installée est affichée et le X fermera le HUD d'un clic de souris.
@@ -16,7 +16,7 @@ G : Les paramètres affichés sous cette ligne dépendent du travail en cours. I
 
 ## Travaux
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](/translation_data/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 A : cliquez pour sélectionner l'endroit où commencer le travail. Si un parcours multi-outils est chargé, vous pouvez sélectionner le couloir sur le côté droit. 
@@ -28,7 +28,7 @@ E : Utilisez le symbole à droite pour copier la course actuelle dans le presse-
 
 ## Déchargement de récolteuse
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/minihudhelp_combineunload_0_0_478_305.png)
+![Image](/translation_data/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A : Sélectionnez le type de véhicule que l'ouvrier doit décharger. Ceci est utile si vous avez différents types de véhicules, comme une moissonneuse-batteuse et un chargeur tel que le ROPA Maus travaillant sur le même champ. 
@@ -40,7 +40,7 @@ E : Comme pour la copie d'un parcours, vous pouvez ici copier les positions des 
 
 ## Ramassage/enrub des bottes
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/minihudhelp_balecollect_0_0_478_305.png)
+![Image](/translation_data/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A : Balles restantes sur le champ. 
@@ -50,7 +50,7 @@ C : Décalage entre l'axe du tracteur et l'axe du bras chargeur. Il peut être n
 
 ## Chargeur silo
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/minihudhelp_siloloader_0_0_478_305.png)
+![Image](/translation_data/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A : Taille restante du tas en litres. 
@@ -61,7 +61,7 @@ D : Comme pour le déchargeur, vous pouvez copier les positions des marqueurs su
 
 ## Tassage silo
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/minihudhelp_siloworker_0_0_478_305.png)
+![Image](/translation_data/minihudhelp_siloworker_0_0_478_305.png)
 
 
 A : Comme pour le chargeur de silo, la hauteur de la niveleuse est essentielle. Vous pouvez la régler ici. 

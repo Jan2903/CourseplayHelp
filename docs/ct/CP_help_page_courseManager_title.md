@@ -11,7 +11,7 @@
 任務目前僅儲存在本地。
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](/translation_data/managerbasehelp_0_0_765_430.png)
 
 
 載入任務後，您可以透過單擊儲存任務按鈕，然後單擊資料夾來儲存它。  然後會出現一個彈出窗口，您可以在其中輸入任務名稱。 
@@ -28,7 +28,7 @@
 - 重命名任務或資料夾。 
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/manageredithelp_0_0_765_430.png)
+![Image](/translation_data/manageredithelp_0_0_765_430.png)
 
 
 對於移動任務： 

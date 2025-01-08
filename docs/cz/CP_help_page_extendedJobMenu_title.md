@@ -7,7 +7,7 @@ Globální nastavení jsou vždy viditelná.
 Pro generování trasy a zahájení úloh na trase budete muset vytvořit úlohu CP: Polní práce nebo CP: ovíjení/sběr balíků, podobně jako pomocníků Giants.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/startjobmenuhelp_0_0_1024_895.png)
+![Image](/translation_data/startjobmenuhelp_0_0_1024_895.png)
 
 
 Abyste mohli začít s první zakázkou CP, musíte vybrat vozidlo a správný nástroj, který je pro tuto zakázku vhodný.
@@ -22,7 +22,7 @@ Chcete-li využít pomocníka Giants pro jízdu na pole, pak je také potřeba n
 Nastavení odsazení jízdního pruhu se používá pouze v případě, že chcete, aby na stejném poli pracovalo více pomocníků. Za tímto účelem se podívejte na samostatnou stránku nabídky nápovědy níže.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/readyjobmenuhelp_0_0_765_510.png)
+![Image](/translation_data/readyjobmenuhelp_0_0_765_510.png)
 
 
 Když je poloha pole umístěna správně na pole, uvidíte na mapě nakreslenou hranici pole.

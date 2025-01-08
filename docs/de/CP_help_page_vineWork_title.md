@@ -17,25 +17,25 @@ aber mit einem Offset gefahren werden.
 Die Spritze muss neben den Reben arbeiten und eine Reihe überspringen, da diese die linke und rechte Rebenreihe bearbeitet.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkgen_0_0_765_510.png)
+![Image](/translation_data/vineworkgen_0_0_765_510.png)
 
 
 Der Rebenkurs sollte auf den Reben generiert werden, da er auf den Reben arbeitet.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 Der Blattschneider arbeitet auf den Reben, also muss der Kurs auf den Reben generiert werden.
 Das Tool hat einen automatischen Offset, damit der Traktor zwischen den Reben fährt.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 Die Spritze arbeitet neben den Reben und muss entweder links oder rechts von den Reben fahren.
 Da die Spritze die Reben links und rechts bearbeitet, kann man eine Reihe überspringen.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/vineworkspray_0_0_765_510.png)
+![Image](/translation_data/vineworkspray_0_0_765_510.png)
 
