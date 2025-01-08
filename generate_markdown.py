@@ -7,7 +7,7 @@ CURRENT_DIR = os.getcwd()
 CONFIG_FILE = os.path.join(CURRENT_DIR, "translation_data", "config.json")
 TRANSLATION_DIR = os.path.join(CURRENT_DIR, "translation_data")
 OUTPUT_DIR = os.path.join(CURRENT_DIR, "docs")
-IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets", "images")
+IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets")
 
 
 def copy_image_to_docs(image_filename):
