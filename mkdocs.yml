@@ -44,8 +44,8 @@ extra:
       link: /CourseplayHelp/en/CP_help_page_General_title/
       lang: en
     - name: Deutsch
-      link: /de/
-      lang: /CourseplayHelp/de/CP_help_page_General_title/
+      link: /CourseplayHelp/de/CP_help_page_General_title/
+      lang: de
   social:
     - icon: simple/github
       link: https://github.com/Courseplay/Courseplay_FS25/releases
