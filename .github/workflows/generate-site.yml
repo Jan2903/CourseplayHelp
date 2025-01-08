@@ -1,4 +1,4 @@
-name: markdown-file-generation
+name: generate-markdown-files
 
 on:
   push:
