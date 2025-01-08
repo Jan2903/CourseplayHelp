@@ -39,5 +39,5 @@ La direction de la flèche indique à l'ouvrier dans quelle direction il doit s'
 Votre sélection devrait ressembler à l'illustration ci-contre.
 
 
-![Image](assets/shovelloadertrigger_0_0_830_610.png)
+![Image](assets/imagesshovelloadertrigger_0_0_830_610.png)
 

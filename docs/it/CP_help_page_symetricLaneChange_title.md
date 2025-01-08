@@ -6,7 +6,7 @@ Con il cambio di corsia attivo, il veicolo cambia lato dopo ogni svolta.
 È un po' difficile da capire, quindi diamo un'occhiata a due esempi.
 
 
-![Image](assets/regularchange_0_0_1020_765.png)
+![Image](assets/imagesregularchange_0_0_1020_765.png)
 
 
 Se il cambio corsia è disattivato, il veicolo rimane sullo stesso lato per tutto il percorso da cui è partito.
@@ -15,7 +15,7 @@ ma i veicoli all'interno della curva (quelli più a sinistra per le curve a sini
 quelli più a destra per le curve a destra) dovranno fare curve più strette mentre proseguono sulla corsia adiacente.
 
 
-![Image](assets/symetricchange_0_0_1020_765.png)
+![Image](assets/imagessymetricchange_0_0_1020_765.png)
 
 
 Se è attivo il cambio corsia, ad esempio per due veicoli, il veicolo A a sinistra e il veicolo B a destra, dopo la svolta le corsie vengono cambiate.

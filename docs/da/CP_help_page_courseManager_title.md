@@ -12,7 +12,7 @@ Mapper kan simpelthen oprettes ved at trykke på knappen nederst på skærmen og
 Ruter gemmes kun lokalt indtil videre.
 
 
-![Image](assets/managerbasehelp_0_0_765_430.png)
+![Image](assets/imagesmanagerbasehelp_0_0_765_430.png)
 
 
 Når du har en rute indlæst, kan du gemme den ved at klikke på knappen Gem rute og derefter på mappen. Så kommer et pop op-vindue frem, hvor du kan indtaste navnet på ruten.
@@ -29,7 +29,7 @@ Når redigeringstilstanden er aktiv, har du disse muligheder:
 - Omdøbning af rute eller mapper.
 
 
-![Image](assets/manageredithelp_0_0_765_430.png)
+![Image](assets/imagesmanageredithelp_0_0_765_430.png)
 
 
 For at flytte en rute:

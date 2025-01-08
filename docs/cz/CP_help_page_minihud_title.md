@@ -2,7 +2,7 @@
 
 ## Obecné
 
-![Image](assets/minihudhelp_general_0_0_478_305.png)
+![Image](assets/imagesminihudhelp_general_0_0_478_305.png)
 
 
 A: Podržením levého tlačítka myši na titulku přetáhněte HUD do požadované polohy. Na pravé straně se zobrazí nainstalovaná verze a kliknutím myši se HUD zavře křížkem.
@@ -16,7 +16,7 @@ G: Nastavení zobrazená pod tímto řádkem závisí na aktuální úloze. Budo
 
 ## Polní práce
 
-![Image](assets/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](assets/imagesminihudhelp_fieldwork_0_0_478_305.png)
 
 
 A: Klepnutím na tlačítko vyberte místo, kde má být práce zahájena. Pokud je načtena trasa s více nástroji, můžete na pravé straně vybrat jízdní pruh.
@@ -28,7 +28,7 @@ E: Symbol na pravé straně slouží ke zkopírování aktuální trasy do schr�
 
 ## Vykládka kombajnu
 
-![Image](assets/minihudhelp_combineunload_0_0_478_305.png)
+![Image](assets/imagesminihudhelp_combineunload_0_0_478_305.png)
 
 
 A: Vyberte, jaký typ vozidla má pracovník vyložit. To je užitečné, pokud na stejném poli pracují různé typy, například kombajn a nakladač, jako je ROPA Maus.
@@ -40,7 +40,7 @@ E: Podobně jako při kopírování trasy můžete i zde zkopírovat načtenou t
 
 ## Sběr/ovíjení balíků
 
-![Image](assets/minihudhelp_balecollect_0_0_478_305.png)
+![Image](assets/imagesminihudhelp_balecollect_0_0_478_305.png)
 
 
 A: Zbývající balíky na poli.
@@ -50,7 +50,7 @@ C: Posun mezi osou traktoru a osou ramene nakladače. U větších traktorů (na
 
 ## Plnění silážní jámy
 
-![Image](assets/minihudhelp_siloloader_0_0_478_305.png)
+![Image](assets/imagesminihudhelp_siloloader_0_0_478_305.png)
 
 
 A: Zbývající objem hromady v litrech.
@@ -61,7 +61,7 @@ D: Stejně jako u vykládacího zařízení můžete i zde zkopírovat načtenou
 
 ## Práce v silážní jámě
 
-![Image](assets/minihudhelp_siloworker_0_0_478_305.png)
+![Image](assets/imagesminihudhelp_siloworker_0_0_478_305.png)
 
 
 A: Podobně jako u Plnění silážní jámy je rozhodující výška nahrnovače. Zde ji můžete nastavit.

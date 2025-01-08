@@ -8,14 +8,14 @@ Bist du wieder am Startpunkt angekommen, drücke den "Aufzeichnen"-Button noch m
 Start und Ende dürfen sich nicht überlappen!
 
 
-![Image](assets/recordcustomhelp_0_0_765_510.png)
+![Image](assets/imagesrecordcustomhelp_0_0_765_510.png)
 
 
 Im Helfermenü kannst du deinen Randkurs mit Namen sehen.
 Wenn du auf den Namen klickst, kannst du den Kurs löschen, umbenennen, oder mit dem Editor bearbeiten.
 
 
-![Image](assets/donecustomhelp_0_0_765_510.png)
+![Image](assets/imagesdonecustomhelp_0_0_765_510.png)
 
 
 Die zweite Option ist das Zeichnen im Helfermenü.
@@ -25,5 +25,5 @@ Mit der rechten Maustaste kannst du jetzt den ersten Punkt setzen.
 Mit einem weiteren Rechtsklick wird eine Linie von deinem ersten zum zweiten Punkt gezogen, der zweite Punkt ist nun wieder der Startpunkt für die nächste Linie.
 
 
-![Image](assets/drawcustomhelp_0_0_765_510.png)
+![Image](assets/imagesdrawcustomhelp_0_0_765_510.png)
 

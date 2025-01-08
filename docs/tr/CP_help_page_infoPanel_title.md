@@ -1,6 +1,6 @@
 # Bilgilendirme Paneli
 
-![Image](assets/infopanel_0_0_480_130.png)
+![Image](assets/imagesinfopanel_0_0_480_130.png)
 
 
 Bu bizim bilgilendirme panelimizdir. Tıpkı mini HUD gibi fare yardımıyla sürüklenebilir.

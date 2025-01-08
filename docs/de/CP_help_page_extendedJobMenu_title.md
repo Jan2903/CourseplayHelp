@@ -9,7 +9,7 @@ Um einen Feldkurs generieren zu können, muss ein gültiges Fahrzeug für Feldar
 Tipp: Um etwas schneller zu sein, könnt ihr das Menü über den Text im HUD "Kein Kurs" öffnen. Ihr seid dann direkt im Modus Job erstellen des Fahrzeugs in dem ihr drin sitzt.
 
 
-![Image](assets/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/imagesstartjobmenuhelp_0_0_1024_895.png)
 
 
 Um deinen ersten Job zu starten, musst du ein Fahrzeug mit einem für die Arbeit gültigen Arbeitsgerät auswählen.
@@ -24,7 +24,7 @@ Die Einstellung für die Bahn wird nur benutzt, wenn du mehrere Fahrzeuge auf ei
 Tip: Stehst du bereits auf einem Feld, wenn du über "kein Kurs" in dieses Menü gelangst, sind die Marker bereits auf dem Feld platziert.
 
 
-![Image](assets/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/imagesreadyjobmenuhelp_0_0_765_510.png)
 
 
 Wenn die Feldposition richtig auf einem Feld platziert wurde, wird der Feldrand weiß auf der Karte markiert.

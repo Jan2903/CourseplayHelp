@@ -1,6 +1,6 @@
 # Info panel
 
-![Image](assets/infopanel_0_0_480_130.png)
+![Image](assets/imagesinfopanel_0_0_480_130.png)
 
 
 This is our Info Panel, it can be moved arround with the mouse courser, just like our Mini HUD.

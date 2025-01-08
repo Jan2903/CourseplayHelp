@@ -30,23 +30,23 @@ Espiral".
 arriba/abajo
 
 
-![Image](assets/updown_0_0_1024_591.png)
+![Image](assets/imagesupdown_0_0_1024_591.png)
 
 ## 
 campos
 
 
-![Image](assets/lands_0_0_1024_599.png)
+![Image](assets/imageslands_0_0_1024_599.png)
 
 ## 
 espiral
 
 
-![Image](assets/spiral_0_0_1024_590.png)
+![Image](assets/imagesspiral_0_0_1024_590.png)
 
 ## 
 pista
 
 
-![Image](assets/racetrack_0_0_1024_589.png)
+![Image](assets/imagesracetrack_0_0_1024_589.png)
 

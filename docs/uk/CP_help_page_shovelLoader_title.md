@@ -39,5 +39,5 @@
 Тепер ваш вибір має виглядати як на зображенні.
 
 
-![Image](assets/shovelloadertrigger_0_0_830_610.png)
+![Image](assets/imagesshovelloadertrigger_0_0_830_610.png)
 

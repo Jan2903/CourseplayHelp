@@ -28,23 +28,23 @@ Essas configurações aparecem apenas para configurações específicas que voc�
 cima/baixo
 
 
-![Image](assets/updown_0_0_1024_591.png)
+![Image](assets/imagesupdown_0_0_1024_591.png)
 
 ## 
 terras
 
 
-![Image](assets/lands_0_0_1024_599.png)
+![Image](assets/imageslands_0_0_1024_599.png)
 
 ## 
 espiral
 
 
-![Image](assets/spiral_0_0_1024_590.png)
+![Image](assets/imagesspiral_0_0_1024_590.png)
 
 ## 
 racetrack
 
 
-![Image](assets/racetrack_0_0_1024_589.png)
+![Image](assets/imagesracetrack_0_0_1024_589.png)
 

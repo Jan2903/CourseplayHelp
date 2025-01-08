@@ -1,6 +1,6 @@
 # Painel Info
 
-![Image](assets/infopanel_0_0_480_130.png)
+![Image](assets/imagesinfopanel_0_0_480_130.png)
 
 
 Este é o nosso Painel de Informações, ele pode ser movido com o mouse, assim como nosso Mini HUD.

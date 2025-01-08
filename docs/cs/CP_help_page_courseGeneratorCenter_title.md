@@ -32,23 +32,23 @@ These settings appear only for specific settings you have done before:
 往返
 
 
-![Image](assets/updown_0_0_1024_591.png)
+![Image](assets/imagesupdown_0_0_1024_591.png)
 
 ## 
 区域（由内向外）
 
 
-![Image](assets/lands_0_0_1024_599.png)
+![Image](assets/imageslands_0_0_1024_599.png)
 
 ## 
 螺旋
 
 
-![Image](assets/spiral_0_0_1024_590.png)
+![Image](assets/imagesspiral_0_0_1024_590.png)
 
 ## 
 圆环（由外向内）
 
 
-![Image](assets/racetrack_0_0_1024_589.png)
+![Image](assets/imagesracetrack_0_0_1024_589.png)
 

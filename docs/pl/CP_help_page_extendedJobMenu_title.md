@@ -6,7 +6,7 @@ Ustawienia globalne są zawsze widoczne.
 Aby wygenerować kurs i rozpocząć zadania związane z kursem, musisz utworzyć zadanie CP: Prace polowe lub CP: Zbieranie/Owijanie bel, podobnie jak w przypadku pomocnika Giantsa.
 
 
-![Image](assets/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/imagesstartjobmenuhelp_0_0_1024_895.png)
 
 Aby rozpocząć swoją pierwszą pracę CP, musiałbyś wybrać pojazd i możliwe prawidłowe narzędzie, które jest obsługiwane w tym zadaniu.
 Następnie, klikając na utwórz pracę, możesz wybrać CP: Prace polowe dla narzędzi do prac polowych lub CP: Zbieranie/Owijanie bel
@@ -19,7 +19,7 @@ Jeśli chcesz użyć pomocnika Giantsa do przejazdu na pole, musisz również us
 Ustawienie przesunięcia pasa jest używane tylko wtedy, gdy chcesz mieć wielu pomocników pracujących na tym samym polu. W tym celu sprawdź oddzielną stronę menu pomocy poniżej.
 
 
-![Image](assets/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/imagesreadyjobmenuhelp_0_0_765_510.png)
 
 Gdy pozycja zostanie prawidłowo umieszczona na polu, na mapie pojawi się granica pola.
 Jeśli tworzysz CP: Prace polowe, uzyskasz dostęp do ustawień generatora kursów.

@@ -1,6 +1,6 @@
 # 訊息面板
 
-![Image](assets/infopanel_0_0_480_130.png)
+![Image](assets/imagesinfopanel_0_0_480_130.png)
 
 
 這是我們的訊息面板，它可以通過滑鼠移動，就像我們的迷你HUD一樣。

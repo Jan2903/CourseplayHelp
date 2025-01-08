@@ -5,7 +5,7 @@
 這有點難以理解，所以讓我們看兩個例子。
 
 
-![Image](assets/regularchange_0_0_1020_765.png)
+![Image](assets/imagesregularchange_0_0_1020_765.png)
 
 
 當對稱變道關閉時，車輛保持在側置車道上。
@@ -14,7 +14,7 @@
 不會有與其他車輛發生碰撞的風險。
 
 
-![Image](assets/symetricchange_0_0_1020_765.png)
+![Image](assets/imagessymetricchange_0_0_1020_765.png)
 
 
 如果開啟了對稱變道，左右將會交換(但不顯示在HUD中)。

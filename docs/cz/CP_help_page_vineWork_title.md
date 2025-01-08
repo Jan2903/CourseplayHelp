@@ -16,25 +16,25 @@ Např. výchozí harvestor potřebuje řídit a pracovat na révě.
       Postřikovače musí jet vedle révy a musí přeskočit jednu řadu, protože stříká doleva a doprava.
 
 
-![Image](assets/vineworkgen_0_0_765_510.png)
+![Image](assets/imagesvineworkgen_0_0_765_510.png)
 
 
 Na vinicích musí být vytvořena trasa pro vinice, protože umožní práci na vinicích.
 
 
-![Image](assets/vineworkharvest_0_0_765_510.png)
+![Image](assets/imagesvineworkharvest_0_0_765_510.png)
 
 
 Prořezávač pracuje na vinicích, takže trasa musí být generována na vinicích.
 Nástroje jsou dodávány s odsazením pro traktor, takže traktor jezdí mezi révou.
 
 
-![Image](assets/vineworkpruner_0_0_765_510.png)
+![Image](assets/imagesvineworkpruner_0_0_765_510.png)
 
 
 Postřikovač pracuje vedle vinné révy, takže musí od vinné révy jet buď vlevo, nebo vpravo.
 Vzhledem k tomu, že postřikovač může pracovat na levé i pravé révě současně, můžeme řadu přeskočit.
 
 
-![Image](assets/vineworkspray_0_0_765_510.png)
+![Image](assets/imagesvineworkspray_0_0_765_510.png)
 

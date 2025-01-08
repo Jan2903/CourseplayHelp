@@ -7,7 +7,7 @@ De globale indstillinger er altid synlige.
 For at generere en rute og starte ruteopgaverne skal du oprette jobbet CP: markarbejde eller CP: Indsamle/wrappe baller, ligesom ved Giants-hjælperen.
 
 
-![Image](assets/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/imagesstartjobmenuhelp_0_0_1024_895.png)
 
 
 For at starte dit første CP-job, skal du vælge et køretøj og et eventuelt gyldigt redskab, som understøttes til jobbet.
@@ -22,7 +22,7 @@ Hvis du vil bruge Giants-hjælperen til at køre til feltet, så skal du også i
 Bane offset-indstillingen bruges kun, hvis du ønsker at have flere hjælpere, der arbejder på den samme mark. For dette bedes du tjekke den separate hjælpemenuside nedenfor.
 
 
-![Image](assets/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/imagesreadyjobmenuhelp_0_0_765_510.png)
 
 
 Når markpositionen er placeret korrekt på en mark, vil du se markgrænsen tegnet på kortet.

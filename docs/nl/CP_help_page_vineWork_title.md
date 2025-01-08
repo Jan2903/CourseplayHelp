@@ -16,25 +16,25 @@ E.g. the default harvester needs to drive and work on the vine.
      Sprayers need to drive next to the vines and need to skip one row, since it sprays to the left and the right.
 
 
-![Image](assets/vineworkgen_0_0_765_510.png)
+![Image](assets/imagesvineworkgen_0_0_765_510.png)
 
 
 A vine course should be generated on the vines, as it got to drive and work on the vines.
 
 
-![Image](assets/vineworkharvest_0_0_765_510.png)
+![Image](assets/imagesvineworkharvest_0_0_765_510.png)
 
 
 The pre-pruner works on the vines, so the course have to be generated on the vines.
 The Tools comes with an offset for the tractor, so the tractor drives between the vines.
 
 
-![Image](assets/vineworkpruner_0_0_765_510.png)
+![Image](assets/imagesvineworkpruner_0_0_765_510.png)
 
 
 The sprayer works next to the vines so it has to drive either left or right from the vines.
 Since the sprayer can work on the left and right vines at the same time, we can skip a row.
   
 
-![Image](assets/vineworkspray_0_0_765_510.png)
+![Image](assets/imagesvineworkspray_0_0_765_510.png)
 
