@@ -29,23 +29,23 @@ These settings appear only for specific settings you have done before:
 up/down
 
 
-![Image](assets/images/updown_0_0_1024_591.png)
+![Image](../assets/images/updown_0_0_1024_591.png)
 
 ## 
 lands
 
 
-![Image](assets/images/lands_0_0_1024_599.png)
+![Image](../assets/images/lands_0_0_1024_599.png)
 
 ## 
 spiral
 
 
-![Image](assets/images/spiral_0_0_1024_590.png)
+![Image](../assets/images/spiral_0_0_1024_590.png)
 
 ## 
 racetrack
 
 
-![Image](assets/images/racetrack_0_0_1024_589.png)
+![Image](../assets/images/racetrack_0_0_1024_589.png)
 

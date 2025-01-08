@@ -13,5 +13,5 @@ Some expert settings only work properly under some conditions.
 IMPORTANT NOTE: Should the generated course not be perfect or even bad, the selected edge or the field will not work with this feature. There also won't be an Update for this!
 
 
-![Image](assets/images/baseedge_0_0_1020_545.png)
+![Image](../assets/images/baseedge_0_0_1020_545.png)
 

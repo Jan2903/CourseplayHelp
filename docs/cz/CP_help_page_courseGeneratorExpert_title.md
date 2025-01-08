@@ -13,5 +13,5 @@ Některá expertní nastavení fungují správně pouze za určitých podmínek.
 DŮLEŽITÉ UPOZORNĚNÍ: Pokud by vygenerovaný průběh nebyl dokonalý nebo dokonce špatný, vybraná hrana nebo pole nebude s touto funkcí fungovat. Nebude k dispozici ani aktualizace pro tuto funkci!
 
 
-![Image](assets/images/baseedge_0_0_1020_545.png)
+![Image](../assets/images/baseedge_0_0_1020_545.png)
 

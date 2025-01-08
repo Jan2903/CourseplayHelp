@@ -2,7 +2,7 @@
 
 ## General
 
-![Image](assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
 
 A: Mantenga presionado el botón izquierdo del mouse sobre el título para arrastrar el HUD a la posición que desee.  En el lado derecho se muestra la versión instalada y la X cerrará el HUD con un clic del mouse.
@@ -16,7 +16,7 @@ G: Las configuraciones que se muestran debajo de esta línea dependen del trabaj
 
 ## Trabajo de campo
 
-![Image](assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 A: Haga clic para seleccionar dónde comenzar el trabajo.  Si se carga un recorrido multiherramienta, en el lado derecho puede seleccionar el carril.
@@ -28,7 +28,7 @@ E: Utilice el símbolo del lado derecho para copiar el curso actual al portapape
 
 ## Descargador de combinada
 
-![Image](assets/images/minihudhelp_combineunload_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A: Seleccione qué tipo de vehículo debe descargar el trabajador.  Esto resulta útil si trabaja en el mismo campo diferentes tipos, como por ejemplo una cosechadora y un cargador como ROPA Maus.
@@ -40,7 +40,7 @@ E: De manera similar a copiar un recorrido, aquí puede copiar las posiciones de
 
 ## Recoger/Envolver pacas
 
-![Image](assets/images/minihudhelp_balecollect_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A: Pacas restantes en el campo.
@@ -50,7 +50,7 @@ C: Desplazamiento entre la línea central del tractor y la línea central del br
 
 ## Cargador de silos
 
-![Image](assets/images/minihudhelp_siloloader_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A: Tamaño restante del montón en litros.
@@ -61,7 +61,7 @@ D: Al igual que con el descargador, puedes copiar las posiciones de los marcador
 
 ## Trabajador de silo
 
-![Image](assets/images/minihudhelp_siloworker_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
 
 A: Al igual que con el cargador de silo, la altura del nivelador es fundamental.  Puedes ajustarlo aquí.

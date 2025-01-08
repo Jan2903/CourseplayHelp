@@ -16,5 +16,5 @@ Rund kommer att ta hänsyn till de nuvarande valda fordonen förvandla radie fö
 - Huvudlandsöverlappning: Hur mycket % överlappar alla Headlands bör ha. Den första kommer inte att ha någon överlappning med fältgränsen, men de inre kommer att överlappa med sin granne.
 
 
-![Image](assets/images/sharproundcorner_0_0_330_130.png)
+![Image](../assets/images/sharproundcorner_0_0_330_130.png)
 

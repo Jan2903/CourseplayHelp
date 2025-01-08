@@ -12,5 +12,5 @@ Você ganha opções de onde começar, configurações de canto, direção e sob
 As ferramentas são altamente recomendadas para evitar que as ferramentas saiam do campo ao virar.
 
 
-![Image](assets/images/sharproundcorner_0_0_330_130.png)
+![Image](../assets/images/sharproundcorner_0_0_330_130.png)
 

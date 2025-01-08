@@ -19,5 +19,5 @@ Tarla Payı: Pozitif değerler, tarlanın etrafında engeller varsa bir tampon b
 tarla sınırlarını düzgün algılanamadığı bölgeleri kapatmak için işlenecek alanı tarlanın sınırları dışına genişletir.
 
 
-![Image](assets/images/sharproundcorner_0_0_330_130.png)
+![Image](../assets/images/sharproundcorner_0_0_330_130.png)
 

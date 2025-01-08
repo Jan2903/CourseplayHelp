@@ -2,7 +2,7 @@
 
 ## General functions
 
-![Image](assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
 
 A: Hold the left mouse button on the headline to drag the HUD to a position you like. On the right side, the installed version is shown and the X will close the HUD with a mouse click.
@@ -16,7 +16,7 @@ G: The settings shown under this line depend on the current job. These will be e
 
 ## Fieldwork
 
-![Image](assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 A: Click to select where to the start the work. If a multitool course is loaded, you can select the lane on the right side.
@@ -28,7 +28,7 @@ E: Use the symbol on the right side to copy the current course to the clipboard.
 
 ## Combine unloader
 
-![Image](assets/images/minihudhelp_combineunload_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A: Select what type of vehicle should the worker unload. This is useful if you have different types, like a combine and a loader such as the ROPA Maus working on the same field.
@@ -40,7 +40,7 @@ E: Similar to copying a course, here you can copy the marker positions to anothe
 
 ## Bale collect/wrap
 
-![Image](assets/images/minihudhelp_balecollect_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A: Remaining bales on the field.
@@ -50,7 +50,7 @@ C: Offset between the tractor's centerline and the loader arm's centerline. You 
 
 ## Silo loader
 
-![Image](assets/images/minihudhelp_siloloader_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A: Remaining size of the heap in liters.
@@ -61,7 +61,7 @@ D: Just like with the unloader, you can copy the marker positions to another veh
 
 ## Silo worker
 
-![Image](assets/images/minihudhelp_siloworker_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
 
 A: Similar to the silo loader, the height of the leveler is critical. You can adjust it here.

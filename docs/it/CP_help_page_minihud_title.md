@@ -2,7 +2,7 @@
 
 ## Generale
 
-![Image](assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
 
 A: Tieni premuto il pulsante sinistro del mouse sul titolo per trascinare l'HUD nella posizione che preferisci. Sul lato destro viene mostrata la versione installata e la X chiuderà l'HUD con un clic del mouse.
@@ -16,7 +16,7 @@ G: Le impostazioni visualizzate sotto questa riga dipendono dal lavoro corrente.
 
 ## Lavoro sul campo
 
-![Image](assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 A: Fare clic per selezionare dove iniziare il lavoro. Se è caricato un percorso multi attrezzo, sul lato destro è possibile selezionare la corsia.
@@ -28,7 +28,7 @@ E: Utilizzare il simbolo sul lato destro per copiare il percorso corrente negli 
 
 ## Scaricatore per mietitrebbie
 
-![Image](assets/images/minihudhelp_combineunload_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A: Seleziona il tipo di veicolo che il lavoratore dovrà scaricare. Ciò è utile se si utilizzano tipi diversi, come una mietitrebbia e un caricatore come il ROPA Maus, che lavorano sullo stesso campo.
@@ -40,7 +40,7 @@ E: Similmente alla copia di un percorso, qui puoi copiare le posizioni dei marke
 
 ## Raccolta/avvolgimento delle balle
 
-![Image](assets/images/minihudhelp_balecollect_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A: Balle rimanenti sul campo.
@@ -50,7 +50,7 @@ C: Offset tra la linea centrale del trattore e la linea centrale del braccio car
 
 ## Caricatore silos
 
-![Image](assets/images/minihudhelp_siloloader_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A: Dimensione rimanente del mucchio in litri.
@@ -61,7 +61,7 @@ D: Proprio come con lo scaricatore, puoi copiare le posizioni dei marker su un a
 
 ## Lavoratore del silos
 
-![Image](assets/images/minihudhelp_siloworker_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
 
 A: Similmente al caricatore del silo, l'altezza della livellatrice è fondamentale. Puoi regolarlo qui.

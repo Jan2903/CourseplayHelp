@@ -11,7 +11,7 @@
 任务目前仅保存在本地。
 
 
-![Image](assets/images/managerbasehelp_0_0_765_430.png)
+![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
 
 加载任务后，您可以通过单击保存任务按钮，然后单击文件夹来保存它。  然后会出现一个弹出窗口，您可以在其中输入任务名称。 
@@ -28,7 +28,7 @@
 - 重命名任务或文件夹。 
 
 
-![Image](assets/images/manageredithelp_0_0_765_430.png)
+![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
 
 对于移动任务： 

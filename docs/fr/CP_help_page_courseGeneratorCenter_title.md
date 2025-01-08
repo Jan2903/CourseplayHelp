@@ -23,23 +23,23 @@ Ces réglages n'apparaissent que pour les réglages spécifiques que vous avez e
 aller-retour
 
 
-![Image](assets/images/updown_0_0_1024_591.png)
+![Image](../assets/images/updown_0_0_1024_591.png)
 
 ## 
 blocs
 
 
-![Image](assets/images/lands_0_0_1024_599.png)
+![Image](../assets/images/lands_0_0_1024_599.png)
 
 ## 
 spirale
 
 
-![Image](assets/images/spiral_0_0_1024_590.png)
+![Image](../assets/images/spiral_0_0_1024_590.png)
 
 ## 
 circulaire
 
 
-![Image](assets/images/racetrack_0_0_1024_589.png)
+![Image](../assets/images/racetrack_0_0_1024_589.png)
 

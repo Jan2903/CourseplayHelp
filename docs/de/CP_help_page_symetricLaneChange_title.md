@@ -6,14 +6,14 @@ Beim aktiven Tauschen, wechseln die Fahrer die Seite.
 Da dies etwas zu kompliziert zu erklären ist, werfen wir einen Blick auf 2 Beispiele.
 
 
-![Image](assets/images/regularchange_0_0_1020_765.png)
+![Image](../assets/images/regularchange_0_0_1020_765.png)
 
 
 Ist Bahnen tauschen ausgeschaltet, bleibt das Fahrzeug immer links oder rechts vom jeweils anderen.
 Somit entsteht auch kein direkter Gegenverkehr und kein Kontakt zwischen den Fahrzeugen.
 
 
-![Image](assets/images/symetricchange_0_0_1020_765.png)
+![Image](../assets/images/symetricchange_0_0_1020_765.png)
 
 
 Ist Bahnen tauschen eingeschaltet wird bei z.B. zwei Fahrzeugen, Fahrzeug A links und Fahrzeug B rechts, nach dem Wendemanöver die Bahn getauscht.

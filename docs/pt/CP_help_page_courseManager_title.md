@@ -12,7 +12,7 @@ As pastas podem ser criadas simplesmente pelo botão na parte inferior da tela e
 Os cursos são salvos apenas localmente por enquanto.
 
 
-![Image](assets/images/managerbasehelp_0_0_765_430.png)
+![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
 
 Quando você tem um curso carregado, você pode salvá-lo clicando no botão salvar curso e depois na pasta. Em seguida, uma janela pop-up aparecerá onde você pode inserir o nome do seu curso.
@@ -29,7 +29,7 @@ Com o modo de edição ativo você tem estas opções:
 - Renomear cursos ou diretórios.
 
 
-![Image](assets/images/manageredithelp_0_0_765_430.png)
+![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
 
 Para mover um curso:

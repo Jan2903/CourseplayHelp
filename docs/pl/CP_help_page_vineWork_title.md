@@ -14,22 +14,22 @@ Np. domyślny kombajn musi prowadzić i pracować na winorośli.
       Opryskiwacze muszą jechać obok winorośli i pominąć jeden rząd, ponieważ opryskuje z lewej i prawej strony.
 
 
-![Image](assets/images/vineworkgen_0_0_765_510.png)
+![Image](../assets/images/vineworkgen_0_0_765_510.png)
 
 Kurs prac na winoroślach powinien powstać na winorośli, ponieważ musi on jechać i pracować na winoroślach.
 
 
-![Image](assets/images/vineworkharvest_0_0_765_510.png)
+![Image](../assets/images/vineworkharvest_0_0_765_510.png)
 
 Sekator działa na winoroślach, więc kurs musi być generowany na winoroślach.
 Maszyna ma domyślne przesunięcie dla ciągnika, więc ciągnik jedzie między winoroślami.
 
 
-![Image](assets/images/vineworkpruner_0_0_765_510.png)
+![Image](../assets/images/vineworkpruner_0_0_765_510.png)
 
 Opryskiwacz pracuje obok winorośli, więc musi jechać w lewo lub w prawo od winorośli.
 Ponieważ opryskiwacz może pracować jednocześnie na lewej i prawej winorośli, możemy pominąć rząd.
 
 
-![Image](assets/images/vineworkspray_0_0_765_510.png)
+![Image](../assets/images/vineworkspray_0_0_765_510.png)
 

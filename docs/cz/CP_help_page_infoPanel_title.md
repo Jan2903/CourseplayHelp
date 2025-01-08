@@ -1,6 +1,6 @@
 # Informační panel
 
-![Image](assets/images/infopanel_0_0_480_130.png)
+![Image](../assets/images/infopanel_0_0_480_130.png)
 
 
 Toto je náš informační panel, lze s ním pohybovat pomocí kurzoru myši, stejně jako náš Mini HUD.

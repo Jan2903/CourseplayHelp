@@ -29,23 +29,23 @@ Bu ayarlar, daha önce yaptığınız belirli seçimlere bağlı olarak görün�
 git/gel
 
 
-![Image](assets/images/updown_0_0_1024_591.png)
+![Image](../assets/images/updown_0_0_1024_591.png)
 
 ## 
 parçalı
 
 
-![Image](assets/images/lands_0_0_1024_599.png)
+![Image](../assets/images/lands_0_0_1024_599.png)
 
 ## 
 sarmal
 
 
-![Image](assets/images/spiral_0_0_1024_590.png)
+![Image](../assets/images/spiral_0_0_1024_590.png)
 
 ## 
 yarış pisti
 
 
-![Image](assets/images/racetrack_0_0_1024_589.png)
+![Image](../assets/images/racetrack_0_0_1024_589.png)
 

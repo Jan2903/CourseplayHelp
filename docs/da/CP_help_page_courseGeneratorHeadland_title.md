@@ -16,5 +16,5 @@ Runde vil tage højde for de aktuelle valgte køretøjers drejeradius for at få
 - Forageroverlap: Hvor meget % overlap skal alle forager have. Den første vil ikke have noget overlap med markgrænsen, men de indre vil overlappe hinanden.
 
 
-![Image](assets/images/sharproundcorner_0_0_330_130.png)
+![Image](../assets/images/sharproundcorner_0_0_330_130.png)
 

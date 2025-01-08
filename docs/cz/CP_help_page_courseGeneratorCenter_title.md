@@ -26,23 +26,23 @@ Tato nastavení se zobrazují pouze pro konkrétní nastavení, která jste prov
 nahoru/dolů
 
 
-![Image](assets/images/updown_0_0_1024_591.png)
+![Image](../assets/images/updown_0_0_1024_591.png)
 
 ## 
 záhon
 
 
-![Image](assets/images/lands_0_0_1024_599.png)
+![Image](../assets/images/lands_0_0_1024_599.png)
 
 ## 
 spirála
 
 
-![Image](assets/images/spiral_0_0_1024_590.png)
+![Image](../assets/images/spiral_0_0_1024_590.png)
 
 ## 
 kruh
 
 
-![Image](assets/images/racetrack_0_0_1024_589.png)
+![Image](../assets/images/racetrack_0_0_1024_589.png)
 
