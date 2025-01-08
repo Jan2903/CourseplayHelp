@@ -40,8 +40,8 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
+    - icon: simple/github
+      link: https://github.com/Courseplay/Courseplay_FS25/releases
     - icon: simple/linkedin
       link: https://linkedin.com/in/willettjames
 
