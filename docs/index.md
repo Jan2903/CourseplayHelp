@@ -1,21 +1,4 @@
-# Welcome to MkDocs
+# Welcome to the Courseplay FS 25 Help Page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For the latest release visit [GitHub](https://github.com/Courseplay/Courseplay_FS25/releases).
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## Using Emojis
-
-I like to drink :beers: after I played :soccer:
