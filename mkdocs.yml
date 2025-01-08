@@ -39,9 +39,18 @@ markdown_extensions:
   - pymdownx.snippets
 
 extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
   social:
     - icon: simple/github
       link: https://github.com/Courseplay/Courseplay_FS25/releases
+
+ 
 
 
 copyright: Copyright &copy; 2025 Courseplay Dev Team
