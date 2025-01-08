@@ -1,6 +1,6 @@
 # Painel Info
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/infopanel_0_0_480_130.png)
+![Image](assets/images/infopanel_0_0_480_130.png)
 
 
 Este é o nosso Painel de Informações, ele pode ser movido com o mouse, assim como nosso Mini HUD.

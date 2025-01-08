@@ -5,7 +5,7 @@ Symetrická změna jízdního pruhu se používá v trasách s více stroji a ř
 To je trochu těžké pochopit, takže se podívejme na dva příklady.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
+![Image](assets/images/regularchange_0_0_1020_765.png)
 
 
 Když je symetrická změna jízdního pruhu vypnuta, vozidlo zůstane ve svém posunutém jízdním pruhu.
@@ -14,7 +14,7 @@ Tím je zajištěno, že pomocníci nejedou vedle sebe.
 Nebude hrozit konflikt s jiným řidičem.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
+![Image](assets/images/symetricchange_0_0_1020_765.png)
 
 
 Pokud je zapnuta symetrická změna jízdního pruhu, dojde k záměně levého a pravého pruhu (nezobrazeno na HUD).

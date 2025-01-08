@@ -2,7 +2,7 @@
 
 ## 完整的HUD
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_general_0_0_478_305.png)
+![Image](assets/images/minihudhelp_general_0_0_478_305.png)
 
 
 A: 按住标题上的鼠标左键，将HUD拖动到您喜欢的位置。在右侧，显示已安装的版本，X将通过鼠标单击关闭HUD.
@@ -17,7 +17,7 @@ G： 此行下显示的设置取决于当前作业。以下图片将对此进行
 
 ## 田间工作
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 A： 单击以选择开始工作的位置。如果加载了多工具课程，则可以在右侧选择车道。
@@ -29,7 +29,7 @@ E： 使用右侧的符号将当前课程复制到剪贴板。复制的课程名
 
 ## 联合收割卸载工作
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_combineunload_0_0_478_305.png)
+![Image](assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A： 选择工人应卸载的车辆类型。如果您有不同的类型，如联合收割机和装载机，如在同一场地上工作的ROPA-Maus，这将非常有用。
@@ -41,7 +41,7 @@ E： 与复制路线类似，您可以在此处将标记位置复制到另一辆
 
 ## 草捆的收集/打包
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_balecollect_0_0_478_305.png)
+![Image](assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A： 田地上的剩余捆数。
@@ -51,7 +51,7 @@ C： 拖拉机中心线和装载机臂中心线之间的偏移。对于较大的
 
 ## 青贮池装填
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloloader_0_0_478_305.png)
+![Image](assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A： 堆的剩余大小（以升为单位）。
@@ -62,7 +62,7 @@ D： 就像卸载机一样，您可以将标记位置复制到另一辆车上。
 
 ## 青贮池工作
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloworker_0_0_478_305.png)
+![Image](assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
 
 A： 与筒仓装载机类似，整平机的高度至关重要。你可以在这里调整。

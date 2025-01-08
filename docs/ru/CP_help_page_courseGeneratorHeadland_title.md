@@ -19,5 +19,5 @@
 Отрицательные значения увеличивают площадь обрабатываемой области за пределы границы поля, чтобы скрыть границы поля, которые не были идеально обнаружены.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/sharproundcorner_0_0_330_130.png)
+![Image](assets/images/sharproundcorner_0_0_330_130.png)
 

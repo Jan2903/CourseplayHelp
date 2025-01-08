@@ -39,5 +39,5 @@ Okun yönü, işçinin boşaltma yapmak için tetik noktasına hangi yönden yak
 Seçimler tamamlandığında örnek görsele benzer bir görüntü olması gerekir.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/shovelloadertrigger_0_0_830_610.png)
+![Image](assets/images/shovelloadertrigger_0_0_830_610.png)
 

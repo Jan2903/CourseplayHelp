@@ -2,7 +2,7 @@
 
 ## Funções Gerais
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_general_0_0_478_305.png)
+![Image](assets/images/minihudhelp_general_0_0_478_305.png)
 
 
 R: Segure o botão esquerdo do mouse no título para arrastar o HUD para a posição desejada. No lado direito é mostrada a versão instalada e o X fechará o HUD com um clique do mouse.
@@ -16,7 +16,7 @@ G: As configurações mostradas nesta linha dependem do trabalho atual. Isso ser
 
 ## Trabalho no campo
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 R: Clique para selecionar onde iniciar o trabalho. Se um curso multiferramenta estiver carregado, no lado direito você pode selecionar a pista.
@@ -28,7 +28,7 @@ E: Use o símbolo do lado direito para copiar a rota atual para a área de trans
 
 ## Colheitadeira descarrega
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_combineunload_0_0_478_305.png)
+![Image](assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A: Selecione que tipo de veículo o trabalhador deve descarregar. Isto é útil se você tiver tipos diferentes, como uma colheitadeira e uma carregadeira como a ROPA Maus trabalhando no mesmo campo.
@@ -40,7 +40,7 @@ E: Semelhante a copiar um percurso, aqui você pode copiar as posições dos mar
 
 ## Fardos coletar/embalar
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_balecollect_0_0_478_305.png)
+![Image](assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A: Fardos restantes no campo.
@@ -49,7 +49,7 @@ C: Deslocamento entre a linha central do trator e a linha central do braço da c
 
 ## Carregar silo
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloloader_0_0_478_305.png)
+![Image](assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A: Tamanho restante da pilha em litros.
@@ -60,7 +60,7 @@ D: Assim como no descarregador, você pode copiar as posições dos marcadores p
 
 ## Trabalho no silo
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloworker_0_0_478_305.png)
+![Image](assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
 
 R: Similar ao carregar de silo, a altura do nivelador é crítica. Você pode ajustá-lo aqui.

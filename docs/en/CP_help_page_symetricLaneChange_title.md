@@ -6,7 +6,7 @@ With lane switch active, the vehicle changes the side after each turn.
 This is a bit hard to understand so let's have a look at two examples.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
+![Image](assets/images/regularchange_0_0_1020_765.png)
 
 
 If switching lanes is turned off, the vehicle stays on the same side during the entire course where it was started.
@@ -15,7 +15,7 @@ but vehicles on the inside of the turn (leftmost for left turns, rightmost for r
 turns as they continue on the adjacent lane.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
+![Image](assets/images/symetricchange_0_0_1020_765.png)
 
 
 If switching lanes is active, for example for two vehicles, vehicle A left and vehicle B right, after then turn the lanes are switched.

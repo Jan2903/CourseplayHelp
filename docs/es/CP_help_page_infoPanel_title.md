@@ -1,6 +1,6 @@
 # Panel de Información
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/infopanel_0_0_480_130.png)
+![Image](assets/images/infopanel_0_0_480_130.png)
 
 
 Este es nuestro Panel de información, se puede mover con el cursor del mouse, al igual que nuestro Mini HUD.

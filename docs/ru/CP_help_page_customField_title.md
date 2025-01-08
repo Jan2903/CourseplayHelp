@@ -7,14 +7,14 @@
 По завершению нажмите кнопку ещё раз, вам будет предложено сохранить его.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](assets/images/recordcustomhelp_0_0_765_510.png)
 
 
 Посмотрите на меню ИИ, и вы увидите свою записанную границу поля.
 Нажав на имя, вы получите возможность либо удалить его или переименовать.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](assets/images/donecustomhelp_0_0_765_510.png)
 
 
 Второй вариант - нарисовать его на карте в меню ИИ.
@@ -24,5 +24,5 @@
 Следующий щелчок правой кнопкой мыши нарисует линию от старта ко второй точки, которая будет начальной точкой для следующей линии.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](assets/images/drawcustomhelp_0_0_765_510.png)
 

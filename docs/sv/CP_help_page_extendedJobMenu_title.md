@@ -7,7 +7,7 @@ De globala inställningarna är alltid synliga.
 För att skapa en kurs och starta courseplay-jobb måste du skapa jobb CP: fältarbete eller CP: Wrap / Collect Bales, som liknar Giants-hjälpen.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/images/startjobmenuhelp_0_0_1024_895.png)
 
 
 För att börja med ditt första CP -jobb måste du välja ett fordon och ett eventuellt giltigt implementering som stöds för jobbet.
@@ -22,7 +22,7 @@ Om du vill använda Giants-hjälpen för att köra till fältet måste du också
 Lane Offset-inställningen används endast om du vill ha flera hjälpare som arbetar på samma fält. För det här, kolla in den separata hjälpmenyn nedan.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/images/readyjobmenuhelp_0_0_765_510.png)
 
 
 När fältpositionen är korrekt placerad på ett fält, kommer du att se fältgränsen på kartan.

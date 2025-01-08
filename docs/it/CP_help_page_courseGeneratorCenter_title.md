@@ -29,23 +29,23 @@ Queste impostazioni vengono visualizzate solo per le impostazioni specifiche che
 su/giù
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/updown_0_0_1024_591.png)
+![Image](assets/images/updown_0_0_1024_591.png)
 
 ## 
 terreni
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/lands_0_0_1024_599.png)
+![Image](assets/images/lands_0_0_1024_599.png)
 
 ## 
 spirale
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/spiral_0_0_1024_590.png)
+![Image](assets/images/spiral_0_0_1024_590.png)
 
 ## 
 cerchio
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/racetrack_0_0_1024_589.png)
+![Image](assets/images/racetrack_0_0_1024_589.png)
 

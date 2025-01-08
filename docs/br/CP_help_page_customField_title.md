@@ -7,14 +7,14 @@ Inicie a gravação na borda do campo.
 Uma vez feito, pressione o botão novamente e você será perguntado se deseja salvá-lo.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](assets/images/recordcustomhelp_0_0_765_510.png)
 
 
 No Menu AI, você verá sua borda de campo gravada.
 Ao clicar no nome, você terá a opção de excluí-lo ou renomeá-lo.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](assets/images/donecustomhelp_0_0_765_510.png)
 
 
 A segunda opção é desenhar o campo customizado no mapa do menu AI.
@@ -25,5 +25,5 @@ Os próximos cliques criarão linhas para o clique anterior.
 Clique no botão salvar na parte inferior para terminar de desenhar o campo 
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](assets/images/drawcustomhelp_0_0_765_510.png)
 

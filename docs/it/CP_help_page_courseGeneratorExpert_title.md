@@ -14,5 +14,5 @@ Alcune impostazioni esperto funzionano correttamente solo in determinate condizi
 NOTA IMPORTANTE: questa è un'impostazione sperimentale che potrebbe non funzionare per tutte le forme di campo. Se non funziona, prova un'altra impostazione.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/baseedge_0_0_1020_545.png)
+![Image](assets/images/baseedge_0_0_1020_545.png)
 

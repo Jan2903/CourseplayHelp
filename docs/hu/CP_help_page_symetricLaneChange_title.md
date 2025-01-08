@@ -5,7 +5,7 @@ A szimmetrikus sávváltás a többjárműves útvonalakon használatos, és jel
 Ezt egy kicsit nehéz megérteni, ezért lássunk két példát.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
+![Image](assets/images/regularchange_0_0_1020_765.png)
 
 
 Ha a szimmetrikus sávváltás ki van kapcsolva, a jármű az eltoló sávban marad.
@@ -14,7 +14,7 @@ Ez biztosítja, hogy a segítők ne haladjanak egymás mellett.
 Nem áll fenn a konfliktus veszélye egy másik vezetővel.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
+![Image](assets/images/symetricchange_0_0_1020_765.png)
 
 
 Ha a szimmetrikus sávváltás be van kapcsolva, a bal és a jobb oldal felcserélődik (de nem jelenik meg a HUD-on).

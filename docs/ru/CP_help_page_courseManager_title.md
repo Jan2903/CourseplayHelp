@@ -12,7 +12,7 @@
 Курсы пока сохраняются только локально.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 
 Когда у вас загружен курс, вы можете его сохранить, выбрав папку, а затем нажав на кнопку 'Сохранить курс'. После появится всплывающее окно, где вы можете ввести имя вашего курса.
@@ -29,7 +29,7 @@
 - переименовывать курсы или папки.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/manageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 Для перемещения курса:

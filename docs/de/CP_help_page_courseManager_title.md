@@ -11,7 +11,7 @@ Kurse werden immer in Ordnern gespeichert, welche auf der linken Seite angezeigt
 Ordner können ganz leicht durch den Button unten am Bildschirmrand erstellt werden.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 
 Wenn du einen Kurs geladen hast, kannst du diesen speichern, indem du einen Ordner wählst in dem du den Kurs speichern möchtest und anschließen auf "Kurs speichern" klickst.
@@ -29,7 +29,7 @@ Mit dem Editiermodus erhältst du folgende Optionen:
 - Kurse oder Ordner umbenennen.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/manageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 Einen Kurs verschieben:

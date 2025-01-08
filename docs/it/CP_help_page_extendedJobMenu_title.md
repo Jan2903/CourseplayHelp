@@ -9,7 +9,7 @@ Per generare un percorso e avviare i lavori Courseplay, dovrai creare il lavoro 
 Suggerimento: Per ottenere un accesso più rapido, puoi cliccare su "nessun percorso" sull'HUD. Questo ti porterà al menu con un lavoro già creato per il veicolo.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/images/startjobmenuhelp_0_0_1024_895.png)
 
 
 Per iniziare con il tuo primo lavoro CP, dovresti selezionare un veicolo e un possibile attrezzo valido supportato per il lavoro.
@@ -24,7 +24,7 @@ L'impostazione della compensazione della corsia viene utilizzata solo se si desi
 Suggerimento:Sei già su un campo quando attraversi. "nessun percorso" Quando arrivi a questo menu, i marcatori sono già posizionati sul campo.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/images/readyjobmenuhelp_0_0_765_510.png)
 
 
 Quando la posizione del veicolo è posizionato correttamente su un campo, vedrai il bordo del campo disegnato sulla mappa.

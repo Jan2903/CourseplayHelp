@@ -12,7 +12,7 @@ Folders can simply be created by the button at the bottom of the screen and ente
 Courses are only saved locally for now.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 
 When you have a course loaded, you can save it by selecting a folder and then clicking on the save course button. Then a pop up window will appear where you can enter the name of your course.
@@ -29,7 +29,7 @@ When the edit mode is active you have these options:
 - Renaming courses or directories.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/manageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 For moving a course: 

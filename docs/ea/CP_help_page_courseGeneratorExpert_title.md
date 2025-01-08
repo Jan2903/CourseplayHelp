@@ -13,5 +13,5 @@ Algunas configuraciones expertas solo funcionan correctamente en determinadas co
 NOTA IMPORTANTE: Si el campo generado no es perfecto o incluso es malo, el borde seleccionado o el campo no funcionarán con esta función. ¡Tampoco habrá una actualización para esto!
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/baseedge_0_0_1020_545.png)
+![Image](assets/images/baseedge_0_0_1020_545.png)
 

@@ -15,5 +15,5 @@ Kółko - uwzględni aktualnie wybrany promień skrętu pojazdu, aby uzyskać na
 - Zachodzenie na uwrociach: w jakim % powinny nakładać się na siebie uwrocia. Pierwszy z nich nie będzie nachodził na granicę pola, ale następne nałożą się na siebie.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/sharproundcorner_0_0_330_130.png)
+![Image](assets/images/sharproundcorner_0_0_330_130.png)
 

@@ -12,7 +12,7 @@ Mappar kan enkelt skapas av knappen längst ner på skärmen och ange ett namn.
 Kurser sparas bara lokalt för nu.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 
 När du har en kurs laddad kan du spara den genom att klicka på knappen Spara kurs och sedan på mappen. Sedan kommer ett pop -up -fönster att visas där du kan ange namnet på din kurs.
@@ -29,7 +29,7 @@ Med redigeringsläget är aktivt har du dessa alternativ:
 - Byta namn på kurser eller kataloger.
 
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/manageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 För att flytta en kurs:

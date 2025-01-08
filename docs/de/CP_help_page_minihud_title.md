@@ -2,7 +2,7 @@
 
 ## Grundfunktionen
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_general_0_0_478_305.png)
+![Image](assets/images/minihudhelp_general_0_0_478_305.png)
 
 
 A: Mit gedrückter linker Maustaste auf der Kopfzeile lässt sich das HUD auf eine beliebige Position verschieben. Auf der rechten Seite wird die Version angezeigt und ein X zum Schließen mit der Maustaste.
@@ -16,7 +16,7 @@ G: Unterhalb dieser Linie befinden sich modusabhängige Einstellungen, die in de
 
 ## Feldarbeit
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 A: Mit der Maus lässt sich hier der Startpunkt per Mausklick durchschalten. Ist ein Multitoolkurs geladen, kann auf der rechten Seite die Bahn gewählt werden.
@@ -28,7 +28,7 @@ E: Mit einem Klick auf das Symbol auf der rechten Seite wird der Kurs des Fahrze
 
 ## Drescher Abfahrer
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_combineunload_0_0_478_305.png)
+![Image](assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A: Da sowohl ein Drescher als auch ein Lader (z.B. ROPA Maus) gleichzeitig auf einem Feld arbeiten könnten, kann hier gewählt werden, welches Gerät abgetankt werden soll.
@@ -40,7 +40,7 @@ E: Ähnlich wie beim Kopieren eines Kurses, werden hier die Positionen der Marke
 
 ## Ballen sammeln/wickeln
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_balecollect_0_0_478_305.png)
+![Image](assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A: Ballen die nach dem letzten automatischen Scan noch auf dem Feld liegen.
@@ -50,7 +50,7 @@ C: Versatz zwischen Traktormitte und der Mitte der Ballenaufnahme. Es kann nöti
 
 ## Silolader
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloloader_0_0_478_305.png)
+![Image](assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A: Die aktuelle Füllmenge des gewählten Haufens.
@@ -61,7 +61,7 @@ D: Wie schon beim Abfahrer, kannst du hier die benötigten Marker kopieren und a
 
 ## Siloarbeiter
 
-![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloworker_0_0_478_305.png)
+![Image](assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
 
 A: Wie auch beim Silolader, ist die Schildhöhe entscheidend. Die kannst du hier anpassen.
