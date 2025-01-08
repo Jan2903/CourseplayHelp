@@ -1,0 +1,35 @@
+name: Generate MkDocs Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+      
+      - name: Install Dependencies
+        run: pip install --upgrade pip
+      
+      - name: Run Markdown Generator Script
+        run: python generate_markdown.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "actions@github.com"
+          git add docs/
+          git commit -m "Update MkDocs site content"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
