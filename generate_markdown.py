@@ -26,7 +26,7 @@ def create_markdown_file(language_code, page, output_dir):
             if paragraph["text"]:
                 md_file.write(f"{paragraph['text']}\n\n")
             if paragraph["image"]["filename"]:
-                image_path = "https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/ + {paragraph['image']['filename']}
+                image_path = f"https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/{paragraph['image']['filename']}"
                 md_file.write(f"![Image]({image_path})\n\n")
 
 def generate_site():
