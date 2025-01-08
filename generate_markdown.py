@@ -9,6 +9,10 @@ TRANSLATION_DIR = os.path.join(CURRENT_DIR, "translation_data")
 OUTPUT_DIR = os.path.join(CURRENT_DIR, "docs")
 IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets", "images")
 
+# Ensure required directories exist
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(IMAGES_DIR, exist_ok=True)
+
 
 def copy_image_to_docs(image_filename):
     """Copy an image from the translation_data folder to the docs/assets/images folder."""
