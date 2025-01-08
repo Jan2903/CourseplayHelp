@@ -42,7 +42,7 @@ def create_markdown_file(language_code, page, output_dir):
                 copy_image_to_docs(paragraph["image"]["filename"])
                 # Adjust the image path for MkDocs
                 image_path = f"assets/images/{paragraph['image']['filename']}"
-                f.write(f"![{paragraph['text']['raw']}]({image_path})\n\n")
+                md.write(f"![{paragraph['text']['raw']}]({image_path})\n\n")
 
 def generate_site():
     """
