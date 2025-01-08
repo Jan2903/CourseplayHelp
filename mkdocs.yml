@@ -38,14 +38,4 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
 
-extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
-
-
 copyright: Copyright &copy; 2025 Courseplay Dev Team
