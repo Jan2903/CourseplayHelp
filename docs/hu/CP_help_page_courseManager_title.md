@@ -12,7 +12,7 @@ Mappákat egyszerűen létrehozhatsz a képernyő alján található gombbal és
 Az útvonalak jelenleg csak helyi fájlokként kerülnek mentésre.
 
 
-![Image](assets/imagesmanagerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 
 Ha van egy betöltött útvonalad, azt úgy tudod menteni, hogy először az Útvonal mentése gombra kattintasz, majd a célmappára. Ezután egy felugró ablak jelenik meg, ahová beírhatod az útvonal nevét.
@@ -29,7 +29,7 @@ A szerkesztő mód aktiválása a következő opciókat teszi elérhetővé:
 - Útvonalak vagy mappák átnevezése.
 
 
-![Image](assets/imagesmanageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 Útvonal áthelyezése: 

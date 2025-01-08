@@ -7,14 +7,14 @@ Activez l'enregistrement puis créez votre contour de champ.
 Une fois terminé, appuyez à nouveau sur le bouton d'enregistrement pour avoir la possibilité de sauvegarder le champ personnalisé.
 
 
-![Image](assets/imagesrecordcustomhelp_0_0_765_510.png)
+![Image](assets/images/recordcustomhelp_0_0_765_510.png)
 
 
 Les contours du champ personnalisé apparaissent dans l'onglet des ouvriers.
 Cliquez sur son nom pour le supprimer ou le renommer.
 
 
-![Image](assets/imagesdonecustomhelp_0_0_765_510.png)
+![Image](assets/images/donecustomhelp_0_0_765_510.png)
 
 
 La deuxième option est de placer les contours du champ depuis la carte dans l'onglet des ouvriers.
@@ -24,5 +24,5 @@ Le premier clic droit détermine le point de départ du contour.
 Les prochains clics droits formeront des lignes correspondantes au contour du champ personnalisé. Procédez ainsi jusqu'à clôturer intégralement le champ personnalisé.
 
 
-![Image](assets/imagesdrawcustomhelp_0_0_765_510.png)
+![Image](assets/images/drawcustomhelp_0_0_765_510.png)
 

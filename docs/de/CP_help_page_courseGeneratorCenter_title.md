@@ -26,23 +26,23 @@ Folgende Einstellungen erscheinen erst Anhand bestimmter vorheriger Einstellung:
 hoch/runter
 
 
-![Image](assets/imagesupdown_0_0_1024_591.png)
+![Image](assets/images/updown_0_0_1024_591.png)
 
 ## 
 Beete
 
 
-![Image](assets/imageslands_0_0_1024_599.png)
+![Image](assets/images/lands_0_0_1024_599.png)
 
 ## 
 spiralförmig
 
 
-![Image](assets/imagesspiral_0_0_1024_590.png)
+![Image](assets/images/spiral_0_0_1024_590.png)
 
 ## 
 kreisförmig
 
 
-![Image](assets/imagesracetrack_0_0_1024_589.png)
+![Image](assets/images/racetrack_0_0_1024_589.png)
 

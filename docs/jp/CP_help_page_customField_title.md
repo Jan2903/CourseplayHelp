@@ -7,14 +7,14 @@
 完了したら、もう一度ボタンを押すと、保存するかどうか尋ねられます。
 
 
-![Image](assets/imagesrecordcustomhelp_0_0_765_510.png)
+![Image](assets/images/recordcustomhelp_0_0_765_510.png)
 
 
 AIメニューを見ると、レコードしたフィールドの境界線が表示されます。
 名前をクリックすると、削除するか、名前を変更するかのオプションが表示されます。
 
 
-![Image](assets/imagesdonecustomhelp_0_0_765_510.png)
+![Image](assets/images/donecustomhelp_0_0_765_510.png)
 
 
 2つ目の選択肢は、AIメニューマップに描くことです。
@@ -24,5 +24,5 @@ AIメニューを見ると、レコードしたフィールドの境界線が表
 次の右クリックで、開始点から2番目の位置まで線が引かれます。
 
 
-![Image](assets/imagesdrawcustomhelp_0_0_765_510.png)
+![Image](assets/images/drawcustomhelp_0_0_765_510.png)
 

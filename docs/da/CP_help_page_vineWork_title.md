@@ -16,25 +16,25 @@ For eksempel. standardhøsteren skal køre og arbejde på vinstokken.
      Sprøjter skal køre ved siden af vinstokkene og skal springe en række over, da den sprøjter til venstre og højre.
 
 
-![Image](assets/imagesvineworkgen_0_0_765_510.png)
+![Image](assets/images/vineworkgen_0_0_765_510.png)
 
 
 En rute skal genereres på vinstokkene, da den kom til at køre og arbejde på vinstokkene.
 
 
-![Image](assets/imagesvineworkharvest_0_0_765_510.png)
+![Image](assets/images/vineworkharvest_0_0_765_510.png)
 
 
 Forbeskæreren virker på vinstokkene, så banen skal genereres på vinstokkene.
 Værktøjet kommer med en offset til traktoren, så traktoren kører mellem vinstokkene.
 
 
-![Image](assets/imagesvineworkpruner_0_0_765_510.png)
+![Image](assets/images/vineworkpruner_0_0_765_510.png)
 
 
 Sprøjten arbejder ved siden af vinstokkene, så den skal køre enten til venstre eller højre for vinstokkene.
 Da sprøjten kan arbejde på venstre og højre vinstokke på samme tid, kan vi springe en række over.
 
 
-![Image](assets/imagesvineworkspray_0_0_765_510.png)
+![Image](assets/images/vineworkspray_0_0_765_510.png)
 

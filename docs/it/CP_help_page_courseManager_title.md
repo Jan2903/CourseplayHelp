@@ -12,7 +12,7 @@ Le cartelle possono essere create semplicemente premendo il pulsante nella parte
 Per adesso i percorsi vengono salvati solo localmente.
 
 
-![Image](assets/imagesmanagerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 
 Quando hai caricato un percorso, puoi salvarlo facendo clic sul pulsante salva percorso e quindi sulla cartella. Quindi apparirà una finestra pop-up in cui puoi inserire il nome del tuo percorso.
@@ -29,7 +29,7 @@ Con la modalità di modifica attiva hai queste opzioni:
 - Rinominare percorsi o cartella.
 
 
-![Image](assets/imagesmanageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 Per spostare un percorso:

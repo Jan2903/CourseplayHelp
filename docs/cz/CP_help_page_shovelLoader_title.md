@@ -39,5 +39,5 @@ Směr šipky udává pomocníkovi, ze kterého směru se má přiblížit k trig
 Nyní by váš výběr měl vypadat podobně jako na obrázku.
 
 
-![Image](assets/imagesshovelloadertrigger_0_0_830_610.png)
+![Image](assets/images/shovelloadertrigger_0_0_830_610.png)
 

@@ -29,23 +29,23 @@ Queste impostazioni vengono visualizzate solo per le impostazioni specifiche che
 su/giù
 
 
-![Image](assets/imagesupdown_0_0_1024_591.png)
+![Image](assets/images/updown_0_0_1024_591.png)
 
 ## 
 terreni
 
 
-![Image](assets/imageslands_0_0_1024_599.png)
+![Image](assets/images/lands_0_0_1024_599.png)
 
 ## 
 spirale
 
 
-![Image](assets/imagesspiral_0_0_1024_590.png)
+![Image](assets/images/spiral_0_0_1024_590.png)
 
 ## 
 cerchio
 
 
-![Image](assets/imagesracetrack_0_0_1024_589.png)
+![Image](assets/images/racetrack_0_0_1024_589.png)
 

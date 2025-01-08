@@ -14,5 +14,5 @@ Some expert settings only work properly under some conditions.
 IMPORTANT NOTE: This is an experimental setting which may not work for all field shapes. If it doesn't work, try another setting.
 
 
-![Image](assets/imagesbaseedge_0_0_1020_545.png)
+![Image](assets/images/baseedge_0_0_1020_545.png)
 

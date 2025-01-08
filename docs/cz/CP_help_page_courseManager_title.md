@@ -11,7 +11,7 @@ Složky lze jednoduše vytvořit tlačítkem v dolní části obrazovky a zadán
 Trasy jsou nyní ukládány pouze lokálně.
 
 
-![Image](assets/imagesmanagerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 
 Když máte trasu načtenou, můžete ji uložit kliknutím na tlačítko uložit trasu a poté na složku. Poté se objeví vyskakovací okno, kde můžete zadat název vaší trasy.
@@ -28,7 +28,7 @@ Když je režim úprav aktivní, máte tyto možnosti:
 - Přejmenování tras nebo adresářů.
 
 
-![Image](assets/imagesmanageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 Pro přesun trasy:

@@ -16,5 +16,5 @@ Vorgewende sind empfohlen, damit die Arbeitsgeräte beim Wenden von einer Feldba
 Negative Werte vergrößern den Arbeitsbereich über das Feld hinaus, um eine größere Abdeckung zu bekommen, z.B. wenn der Feldrand nicht genau genug erkannt wurde.
 
 
-![Image](assets/imagessharproundcorner_0_0_330_130.png)
+![Image](assets/images/sharproundcorner_0_0_330_130.png)
 

@@ -5,7 +5,7 @@ Jest to bardzo ważne, gdy chcesz, aby wielu pomocników jeździło tym samym ku
 Ta funkcja umożliwia również zbieranie pokosu pozostawionego przez kombajn lub zgrabiarkę z przyczepą samozbierającą lub prasą.
 
 
-![Image](assets/imagesmanagerbasehelp_0_0_765_430.png)
+![Image](assets/images/managerbasehelp_0_0_765_430.png)
 
 Lokalizacja zapisu plików kursu to: Dokumenty\My Games\FarmingSimulator2025\modSettings\FS25_Courseplay\Courses\Nazwa_mapy.SampleModMap (lub w przypadku map z gry, np. MapUS).
 Menedżer kursu działa inaczej niż ten, do którego przywykłeś w FS19.
@@ -27,7 +27,7 @@ Gdy tryb edycji jest aktywny, masz następujące opcje:
 - Zmiana nazw kursów lub folderów.
 
 
-![Image](assets/imagesmanageredithelp_0_0_765_430.png)
+![Image](assets/images/manageredithelp_0_0_765_430.png)
 
 
 Aby przenieś kurs:

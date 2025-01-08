@@ -1,6 +1,6 @@
 # Panel informacyjny
 
-![Image](assets/imagesinfopanel_0_0_480_130.png)
+![Image](assets/images/infopanel_0_0_480_130.png)
 
 
 To jest nasz panel informacyjny, można go przesuwać za pomocą myszki, podobnie jak nasz mini HUD.

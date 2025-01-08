@@ -7,7 +7,7 @@ A globális beállítások mindig láthatóak.
 Az útvonal generálásához és a CP munka elkezdéséhez létre kell hoznod a munkát (CP: táblamunka, vagy CP: bála csomagolás/gyűjtés, hasonlóan a beépített segítőhöz).
 
 
-![Image](assets/imagesstartjobmenuhelp_0_0_1024_895.png)
+![Image](assets/images/startjobmenuhelp_0_0_1024_895.png)
 
 
 Hogy elkezdd az első CP munkát, ki kell választanod egy járművet és egy lehetséges, érvényes munkagépet, ami a munkához támogatott.
@@ -22,7 +22,7 @@ Ha a beépített segítőt szeretnéd arra használni, hogy a táblához vezesse
 A sáveltolás opciót csak akkor használd, ha több segítőt akarsz dolgoztatni ugyanazon a táblán. Ehhez kérlek nézd meg az alábbi különálló segítő oldalt.
 
 
-![Image](assets/imagesreadyjobmenuhelp_0_0_765_510.png)
+![Image](assets/images/readyjobmenuhelp_0_0_765_510.png)
 
 
 Ha a tábla pozíció helyesen lett beállítva, a tábla határai kirajzolódnak a térképen.

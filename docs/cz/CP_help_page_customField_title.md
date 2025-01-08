@@ -7,14 +7,14 @@ Spusťte záznam a zaznamenejte hranici pole.
 Po dokončení znovu stiskněte tlačítko a budete dotázáni, zda jej chcete uložit.
 
 
-![Image](assets/imagesrecordcustomhelp_0_0_765_510.png)
+![Image](assets/images/recordcustomhelp_0_0_765_510.png)
 
 
 Když se podíváte na nabídku AI, uvidíte hranici zaznamenaného pole.
 Kliknutím na Název získáte možnost jej buď smazat, nebo přejmenovat.
 
 
-![Image](assets/imagesdonecustomhelp_0_0_765_510.png)
+![Image](assets/images/donecustomhelp_0_0_765_510.png)
 
 
 Druhou možností je nakreslit jej na AI Menu Map.
@@ -24,5 +24,5 @@ Pomocí pravého tlačítka myši klikněte na pozici, kde chcete začít.
 Další kliknutí pravým tlačítkem nakreslí čáru z vašeho počátečního bodu do vaší druhé pozice, která bude počátečním bodem pro další čáru.
 
 
-![Image](assets/imagesdrawcustomhelp_0_0_765_510.png)
+![Image](assets/images/drawcustomhelp_0_0_765_510.png)
 

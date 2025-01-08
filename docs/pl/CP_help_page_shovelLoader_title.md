@@ -37,5 +37,5 @@ Kierunek strzałki mówi pomocnikowi, z której strony podejdzie do triggera w c
 Twój wybór powinien wyglądać podobnie do tego zdjęcia.
 
 
-![Image](assets/imagesshovelloadertrigger_0_0_830_610.png)
+![Image](assets/images/shovelloadertrigger_0_0_830_610.png)
 

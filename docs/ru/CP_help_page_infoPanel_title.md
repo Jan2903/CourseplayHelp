@@ -1,6 +1,6 @@
 # Инфопанель
 
-![Image](assets/imagesinfopanel_0_0_480_130.png)
+![Image](assets/images/infopanel_0_0_480_130.png)
 
 
 Это наша информационная панель, которая может быть перемещена при помощи курсора, как и наш Mini HUD.
