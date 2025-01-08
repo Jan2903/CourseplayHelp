@@ -7,7 +7,7 @@ CURRENT_DIR = os.getcwd()
 CONFIG_FILE = os.path.join(CURRENT_DIR, "translation_data", "config.json")
 TRANSLATION_DIR = os.path.join(CURRENT_DIR, "translation_data")
 OUTPUT_DIR = os.path.join(CURRENT_DIR, "docs")
-IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets")
+IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets", "images")
 
 
 def copy_image_to_docs(image_filename):
@@ -41,7 +41,7 @@ def create_markdown_file(language_code, page, output_dir):
                 # Copy the image to the docs/assets/images folder
                 copy_image_to_docs(paragraph["image"]["filename"])
                 # Adjust the image path for MkDocs
-                image_path = f"assets/{paragraph['image']['filename']}"
+                image_path = f"assets/images{paragraph['image']['filename']}"
                 md_file.write(f"![Image]({image_path})\n\n")
 
 def generate_site():
