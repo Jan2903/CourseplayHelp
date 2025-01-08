@@ -9,7 +9,7 @@ Rota oluşturmak ve Courseplay işini başlatmak için, önce işe uygun bir ara
 İpucu: Daha hızlı erişim sağlamak için, HUD’da bulunan 'rota yok' seçeneğine tıklayabilirsiniz. Böylece seçili araç için otomatik olarak bir iş oluşturulmuş şekilde direkt menüye gidersiniz.
 
 
-![Image](/translation_data/startjobmenuhelp_0_0_1024_895.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/startjobmenuhelp_0_0_1024_895.png)
 
 
 İlk CP işinize başlamak için, bir araç ve yapılacak işe uygun bir ekipmana sahip olmanız gerekmektedir.
@@ -24,7 +24,7 @@ Hat ofset ayarı yalnızca aynı tarlada birden fazla işçinin çalışmasını
 İpucu: Eğer menüye girmek için 'rota yok' seçeneğine tıkladığınız zaman hali hazırda bir tarlada bulunuyorsanız, işaretleyiciler otomatik olarak yerleştirilmiş olur.
 
 
-![Image](/translation_data/readyjobmenuhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/readyjobmenuhelp_0_0_765_510.png)
 
 
 Tarla konumu doğru bir şekilde yerleştirildiğinde, haritada tarla sınırlarını göreceksiniz.

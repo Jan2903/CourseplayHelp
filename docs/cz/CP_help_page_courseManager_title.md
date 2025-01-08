@@ -11,7 +11,7 @@ Složky lze jednoduše vytvořit tlačítkem v dolní části obrazovky a zadán
 Trasy jsou nyní ukládány pouze lokálně.
 
 
-![Image](/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/managerbasehelp_0_0_765_430.png)
 
 
 Když máte trasu načtenou, můžete ji uložit kliknutím na tlačítko uložit trasu a poté na složku. Poté se objeví vyskakovací okno, kde můžete zadat název vaší trasy.
@@ -28,7 +28,7 @@ Když je režim úprav aktivní, máte tyto možnosti:
 - Přejmenování tras nebo adresářů.
 
 
-![Image](/translation_data/manageredithelp_0_0_765_430.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/manageredithelp_0_0_765_430.png)
 
 
 Pro přesun trasy:

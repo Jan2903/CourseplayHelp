@@ -39,5 +39,5 @@ A nyíl iránya jelzi a segítőnek, hogy melyik irányból közelítse meg a ki
 A kijelölésnek hasonlónak kell lennie, mint a képen.
 
 
-![Image](/translation_data/shovelloadertrigger_0_0_830_610.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/shovelloadertrigger_0_0_830_610.png)
 

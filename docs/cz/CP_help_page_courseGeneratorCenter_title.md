@@ -26,23 +26,23 @@ Tato nastavení se zobrazují pouze pro konkrétní nastavení, která jste prov
 nahoru/dolů
 
 
-![Image](/translation_data/updown_0_0_1024_591.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/updown_0_0_1024_591.png)
 
 ## 
 záhon
 
 
-![Image](/translation_data/lands_0_0_1024_599.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/lands_0_0_1024_599.png)
 
 ## 
 spirála
 
 
-![Image](/translation_data/spiral_0_0_1024_590.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/spiral_0_0_1024_590.png)
 
 ## 
 kruh
 
 
-![Image](/translation_data/racetrack_0_0_1024_589.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/racetrack_0_0_1024_589.png)
 

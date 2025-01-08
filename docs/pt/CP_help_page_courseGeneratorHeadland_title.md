@@ -12,5 +12,5 @@ Você ganha opções de onde começar, configurações de canto, direção e sob
 As ferramentas são altamente recomendadas para evitar que as ferramentas saiam do campo ao virar.
 
 
-![Image](/translation_data/sharproundcorner_0_0_330_130.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/sharproundcorner_0_0_330_130.png)
 

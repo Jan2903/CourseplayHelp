@@ -13,5 +13,5 @@
 ВАЖНОЕ ПРИМЕЧАНИЕ: Это экспериментальная настройка, которая может не работать для всех форм поля. Если она не работает, попробуйте другой метод работы.
 
 
-![Image](/translation_data/baseedge_0_0_1020_545.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/baseedge_0_0_1020_545.png)
 

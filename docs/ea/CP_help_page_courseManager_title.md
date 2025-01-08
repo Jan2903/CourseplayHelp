@@ -12,7 +12,7 @@ Las carpetas se pueden crear simplemente con el botón en la parte inferior de l
 Los cursos solo se guardan localmente por ahora.
 
 
-![Image](/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/managerbasehelp_0_0_765_430.png)
 
 
 Cuando tenga un curso cargado, puede guardarlo haciendo clic en el botón Guardar curso y luego en la carpeta. Luego aparecerá una ventana emergente donde puede ingresar el nombre de su curso.
@@ -29,7 +29,7 @@ Con el modo de edición activo, tiene estas opciones:
 - Renombrar cursos o directorios.
 
 
-![Image](/translation_data/manageredithelp_0_0_765_430.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/manageredithelp_0_0_765_430.png)
 
 
 Para mover un curso:

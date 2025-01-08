@@ -16,5 +16,5 @@
 - 地頭重疊：所有地頭應有多少重疊百分比。 第一個與字田地邊界沒有重疊，但中間的將與其鄰居重疊。
 
 
-![Image](/translation_data/sharproundcorner_0_0_330_130.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/sharproundcorner_0_0_330_130.png)
 

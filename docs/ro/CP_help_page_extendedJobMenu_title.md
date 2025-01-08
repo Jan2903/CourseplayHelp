@@ -7,7 +7,7 @@ The global settings are always visible.
 For generating a course and starting the courseplay jobs, you will need to create the job CP: Fieldwork or CP: wrap/collect bales, similar to the Giants helper.
 
 
-![Image](/translation_data/startjobmenuhelp_0_0_1024_895.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/startjobmenuhelp_0_0_1024_895.png)
 
 
 To start off with your first CP job, you would have to select a vehicle and a possible valid implement which is supported for the job.
@@ -22,7 +22,7 @@ If you want to use the Giants helper to drive to the field, then you also need t
 The lane offset setting is only used if you want to have multiple helpers working on the same field. For this please checkout the separate help menu page below.
 
 
-![Image](/translation_data/readyjobmenuhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/readyjobmenuhelp_0_0_765_510.png)
 
 
 When the field position is placed correctly on a field, you will see the field border drawn on the map.

@@ -2,7 +2,7 @@
 
 ## Genel işlevler
 
-![Image](/translation_data/minihudhelp_general_0_0_478_305.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_general_0_0_478_305.png)
 
 
 A: HUD'u istediğiniz bir konuma sürüklemek için başlığa sol fare düğmesiyle basılı tutun. Sağ tarafta, yüklü versiyon gösterilir, X tıklayınca HUD kapanır.
@@ -16,7 +16,7 @@ G: Bu çizginin altındaki ayarlar, mevcut işe bağlıdır. Bu ayarlar aşağı
 
 ## Tarla çalışması
 
-![Image](/translation_data/minihudhelp_fieldwork_0_0_478_305.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_fieldwork_0_0_478_305.png)
 
 
 A: Çalışmaya nereden başlanacağını seçmek için tıklayın. Eğer çoklu araç rotası yüklüyse, sağ taraftan hat seçebilirsiniz.
@@ -28,7 +28,7 @@ E: Mevcut rotayı panoya kopyalamak için sağdaki simgeyi kullanın. Kopyalanan
 
 ## Biçerdöver boşaltma
 
-![Image](/translation_data/minihudhelp_combineunload_0_0_478_305.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_combineunload_0_0_478_305.png)
 
 
 A: İşçinin hangi tip aracı boşaltacağını seçin. Aynı tarlada çalışan biçerdöver ve ROPA Maus gibi farklı tip araçlarınız varsa kullanışlıdır.
@@ -40,7 +40,7 @@ E: Rota kopyalamaya benzer şekilde, işaretçi konumlarını başka bir araca k
 
 ## Balya toplama/sarma
 
-![Image](/translation_data/minihudhelp_balecollect_0_0_478_305.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_balecollect_0_0_478_305.png)
 
 
 A: Tarlada kalan balyaların sayısı.
@@ -50,7 +50,7 @@ C: Traktörün orta noktası ile toplayıcı kolunun orta noktası arasındaki m
 
 ## Silo doldurucu
 
-![Image](/translation_data/minihudhelp_siloloader_0_0_478_305.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloloader_0_0_478_305.png)
 
 
 A: Litre cinsinden yığında kalan miktar.
@@ -61,7 +61,7 @@ D: Tıpkı boşaltıcıda olduğu gibi, işaretçi konumlarını başka bir arac
 
 ## Silo çalışması
 
-![Image](/translation_data/minihudhelp_siloworker_0_0_478_305.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/minihudhelp_siloworker_0_0_478_305.png)
 
 
 A: Silo doldurucuya benzer şekilde, düzleyicinin yüksekliği önemlidir. Buradan ayarlayabilirsiniz.

@@ -16,25 +16,25 @@
      噴霧器需要開到葡萄藤旁邊，需要跳過一行，因為它的噴霧器向左和向右。
 
 
-![Image](/translation_data/vineworkgen_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkgen_0_0_765_510.png)
 
 
 葡萄樹任務應該在葡萄樹上建立，因為它需要在有葡萄樹的路線上工作。
 
 
-![Image](/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 修剪機對葡萄藤進行修剪，所以任務必須在葡萄藤上建立。
 設置工具與拖拉機的橫縱方向調整，以便在葡萄藤之間工作.
 
 
-![Image](/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 噴霧器工作在葡萄藤旁邊，所以它必須從葡萄藤上向左或向右行駛。
 由於噴霧器可以同時在左右藤上工作，我們可以跳過一行。
 
 
-![Image](/translation_data/vineworkspray_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkspray_0_0_765_510.png)
 

@@ -5,7 +5,7 @@ Symmetrisk körfältbyte används i multitool kurser och berättar föraren i vi
 Det här är lite svårt att förstå så låt oss ta en titt på två exempel.
 
 
-![Image](/translation_data/regularchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
 
 
 När den symmetriska banansändringen är avstängd, fortsätter fordonet på den offsetbanan.
@@ -14,7 +14,7 @@ Detta säkerställer att hjälparna inte kör tillsammans med varandra.
 Det kommer inte att finnas en risk för att konflikt med en annan förare.
 
 
-![Image](/translation_data/symetricchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
 
 
 Om symmetrisk körfält är aktiverad, kommer vänster och höger utbytas (men inte visas i HUD).

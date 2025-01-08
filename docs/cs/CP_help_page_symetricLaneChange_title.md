@@ -5,7 +5,7 @@
 这有点难以理解，所以让我们看两个例子。
 
 
-![Image](/translation_data/regularchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
 
 
 当对称变道关闭时，车辆保持在侧置车道上。
@@ -14,7 +14,7 @@
 不会有与其他车辆发生碰撞的风险。
 
 
-![Image](/translation_data/symetricchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
 
 
 如果开启了对称变道，左右将会交换(但不显示在HUD中)。

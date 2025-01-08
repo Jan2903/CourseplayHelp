@@ -1,6 +1,6 @@
 # 信息面板
 
-![Image](/translation_data/infopanel_0_0_480_130.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/infopanel_0_0_480_130.png)
 
 
 这是我们的信息面板，它可以通过鼠标移动，就像我们的迷你HUD一样。

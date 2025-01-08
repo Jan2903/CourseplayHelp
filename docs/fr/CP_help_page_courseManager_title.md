@@ -12,7 +12,7 @@ Les dossiers peuvent être créés en utilisant le bouton correspondant en bas d
 Les courses sont uniquement sauvegardées en local (et non sur le serveur) pour l'instant.
 
 
-![Image](/translation_data/managerbasehelp_0_0_765_430.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/managerbasehelp_0_0_765_430.png)
 
 
 Lorsque vous avez une course active, vous pouvez la sauvegarder en cliquant sur le bouton de sauvegarde puis le dossier de destination.  Une fenêtre s'ouvrira alors pour donner un nom à la course.
@@ -29,7 +29,7 @@ Lorsque vous êtes en mode édition vous pouvez :
 - Renommer des courses ou des dossiers.
 
 
-![Image](/translation_data/manageredithelp_0_0_765_430.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/manageredithelp_0_0_765_430.png)
 
 
 Pour déplacer une course : 

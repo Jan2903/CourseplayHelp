@@ -1,6 +1,6 @@
 # Infofenster
 
-![Image](/translation_data/infopanel_0_0_480_130.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/infopanel_0_0_480_130.png)
 
 
 Das ist unser Infofenster, es kann genauso mit der Maus bewegt werden, wie das Mini-HUD.

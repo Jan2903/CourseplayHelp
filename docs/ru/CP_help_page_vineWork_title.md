@@ -16,25 +16,25 @@
      Опрыскиватели должны ездить рядом с виноградными лозами и должны пропускать один ряд, так как он сразу распыляет налево и направо.
 
 
-![Image](/translation_data/vineworkgen_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkgen_0_0_765_510.png)
 
 
 Курс для сбора должен генерироваться над лозой, так как комбайн должен двигаться и работать над лозой.
 
 
-![Image](/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 Предобрезатель работает над лозами, поэтому курс должен генерироваться над виноградными лозами.
 Из-за того, что инструменты поставляются со смещением, поэтому трактор ездит между лозами.
 
 
-![Image](/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 Опрыскиватель работает рядом с виноградными лозами, поэтому он должен ездить либо слева, либо справа от лоз.
 Поскольку опрыскиватель может работать на левой и правой лозе одновременно, мы можем пропускать ряд.
 
 
-![Image](/translation_data/vineworkspray_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkspray_0_0_765_510.png)
 

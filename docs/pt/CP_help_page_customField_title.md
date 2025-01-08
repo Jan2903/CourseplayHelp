@@ -7,14 +7,14 @@ Inicie o registro e registre sua borda de campo.
 Uma vez feito, pressione o botão novamente e você será perguntado se deseja salvá-lo.
 
 
-![Image](/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/recordcustomhelp_0_0_765_510.png)
 
 
 Dando uma olhada no Menu AI, você verá sua borda de campo gravada.
 Ao clicar no nome, você terá a opção de excluí-lo ou renomeá-lo.
 
 
-![Image](/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/donecustomhelp_0_0_765_510.png)
 
 
 A segunda opção é desenhá-lo no Mapa do Menu AI.
@@ -24,5 +24,5 @@ Use o botão direito do mouse para clicar em uma posição em que você deseja c
 O próximo clique direito desenhará uma linha do seu ponto inicial até a sua segunda posição, que será o ponto inicial da próxima linha.
 
 
-![Image](/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/drawcustomhelp_0_0_765_510.png)
 

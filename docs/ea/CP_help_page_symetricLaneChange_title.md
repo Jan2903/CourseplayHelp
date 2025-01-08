@@ -5,7 +5,7 @@ El cambio de carril simétrico se utiliza en cursos multiherramienta y le dice a
 Esto es un poco difícil de entender, así que echemos un vistazo a dos ejemplos:
 
 
-![Image](/translation_data/regularchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
 
 
 Cuando el cambio de carril simétrico está desactivado, el vehículo permanece en su carril de compensación.
@@ -14,7 +14,7 @@ Esto asegura que los ayudantes no conduzcan uno al lado del otro.
 No habrá riesgo de conflicto con otro conductor.
 
 
-![Image](/translation_data/symetricchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
 
 
 Si el cambio de carril está activo, por ejemplo para dos vehículos, el vehículo A a la izquierda y el vehículo B a la derecha, después de cada giro se cambian de carril.

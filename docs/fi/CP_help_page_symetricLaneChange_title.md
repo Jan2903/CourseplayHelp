@@ -5,7 +5,7 @@ Symmetric lane change is used in multitool courses and tells the driver in which
 This is a bit hard to understand so let's have a look at two examples.
 
 
-![Image](/translation_data/regularchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
 
 
 When the symmetric lane change is turned off, the vehicle stays on it's offset lane.
@@ -14,7 +14,7 @@ This ensures, that the helpers are not driving alongside each other.
 There won't be a risk of on conflict with another driver.
 
 
-![Image](/translation_data/symetricchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
 
 
 If symmetric lane change is turned on, left and right will be exchanged (but not shown in the HUD).

@@ -16,26 +16,26 @@ Például. az alapértelmezett kombájnnak vezetnie kell és dolgoznia kell a sz
       A permetezőknek a szőlő mellett kell haladniuk, és egy sort ki kell hagyniuk, mivel balra és jobbra permetez.
 
 
-![Image](/translation_data/vineworkgen_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkgen_0_0_765_510.png)
 
 
 Az útvonalat a szőlőre kell helyezni eltolás nélkül, mert a vezetés és a munka is a szőlőn történik,
 nem mellette mint példáúl az előmetsző.
 
 
-![Image](/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 Az előmetsző a szőlőn dolgozik, így az útvonalat a szőlőn kell létrehozni.
 Itt eltolást kell beállítani, hogy a traktor a szőlő mellett haladjon.
 
 
-![Image](/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 A permetező a szőlő mellett működik, így a szőlőtől balra vagy jobbra kell hajtania.
 Mivel a permetező egyszerre tud dolgozni a bal és a jobb szőlőn, kihagyhatunk egy sort.
 
 
-![Image](/translation_data/vineworkspray_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkspray_0_0_765_510.png)
 

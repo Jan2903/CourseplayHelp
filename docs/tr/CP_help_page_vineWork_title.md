@@ -16,25 +16,25 @@ Kullandığınız araca bağlı olarak asma üzerinde veya asmaların yan taraf�
      Püskürtücüler asmaların yan tarafında sürmelidir ve püskürtme işlemi hem sola hem de sağa yapıldığından bir satır atlamaları gerekir.
 
 
-![Image](/translation_data/vineworkgen_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkgen_0_0_765_510.png)
 
 
 Hasat makinesi için bağ rotası, asma üzerinde çalışılması gerektiğinden asmanın üzerine denk gelecek şekilde oluşturulmalıdır.
 
 
-![Image](/translation_data/vineworkharvest_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkharvest_0_0_765_510.png)
 
 
 Ön budayıcı asma üzerinde çalışır, bu nedenle rotayı asma üzerinde oluşturmak gerekir.
 Alet traktörün yan tarafında çalışır, böylece traktör asmaların arasından geçer..
 
 
-![Image](/translation_data/vineworkpruner_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkpruner_0_0_765_510.png)
 
 
 Püskürtücü asmaların yanında çalışır, bu nedenle asmaların ya solundan ya da sağından gitmesi gerekir.
 Püskürtücü sol ve sağ asmalara aynı anda işlem yapabildiğinden, bir sıra atlanabilir.
 
 
-![Image](/translation_data/vineworkspray_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/vineworkspray_0_0_765_510.png)
 

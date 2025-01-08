@@ -14,5 +14,5 @@ Bazı uzman ayarları, yalnızca belirli koşullar altında düzgün çalışır
 ÖNEMLİ NOT: Bu deneysel bir ayardır ve tüm tarla şekillerinde çalışmayabilir. Çalışmazsa, başka bir ayarı deneyin.
 
 
-![Image](/translation_data/baseedge_0_0_1020_545.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/baseedge_0_0_1020_545.png)
 

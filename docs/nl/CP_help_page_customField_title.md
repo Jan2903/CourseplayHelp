@@ -7,14 +7,14 @@ Start the record and record your field border.
 Once done, press the button again and you will be asked if you want to save it.
 
 
-![Image](/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/recordcustomhelp_0_0_765_510.png)
 
 
 Having a look on the AI Menu, you will see your recorded field border.
 By clicking on the Name, you will get the option to either delete it or rename it.
 
 
-![Image](/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/donecustomhelp_0_0_765_510.png)
 
 
 The second option is to draw it on the AI Menu Map.
@@ -24,5 +24,5 @@ Use the right mouse button to click on a position on where you want to start.
 The next right click will draw a line from your startpoint to your second position, wich will be the start point for the next line.
 
 
-![Image](/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/drawcustomhelp_0_0_765_510.png)
 

@@ -16,5 +16,5 @@ Round levará em consideração o raio de giro dos veículos selecionados atualm
 - Sobreposição de cabeceira: Qual a % de sobreposição que todas as cabeceiras devem ter. O primeiro não terá sobreposição com a borda do campo, mas os internos se sobreporão ao vizinho.
 
 
-![Image](/translation_data/sharproundcorner_0_0_330_130.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/sharproundcorner_0_0_330_130.png)
 

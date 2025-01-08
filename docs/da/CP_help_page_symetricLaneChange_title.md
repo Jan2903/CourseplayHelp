@@ -4,7 +4,7 @@
 Symmetrisk vognbaneskift bruges i konvojtilstand og fortæller chaufføren, i hvilken vognbane han skal køre efter svinget.
 Dette er lidt svært at forstå, så lad os tage et kig på to eksempler.
 
-![Image](/translation_data/regularchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
 
 
 Når det symmetriske vognbaneskift er slået fra, forbliver køretøjet på dets forskudte vognbane.
@@ -13,7 +13,7 @@ Dette sikrer, at hjælperne ikke kører ved siden af ​​hinanden.
 Der vil ikke være risiko for konflikt med en anden chauffør.
 
 
-![Image](/translation_data/symetricchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
 
 
 Hvis symmetrisk vognbaneskift er slået til, vil venstre og højre blive udskiftet (men ikke vist i HUD).

@@ -1,6 +1,6 @@
 # Инфопанель
 
-![Image](/translation_data/infopanel_0_0_480_130.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/infopanel_0_0_480_130.png)
 
 
 Это наша информационная панель, которая может быть перемещена при помощи курсора, как и наш Mini HUD.

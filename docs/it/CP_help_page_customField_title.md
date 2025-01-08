@@ -8,14 +8,14 @@ Una volta terminato, premi semplicemente di nuovo il pulsante e ti verrà chiest
 Inizio e fine non devono sovrapporsi!
 
 
-![Image](/translation_data/recordcustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/recordcustomhelp_0_0_765_510.png)
 
 
 Dando un'occhiata al menu IA, vedrai il bordo del tuo campo registrato.
 Facendo clic sul Nome, avrai la possibilità di eliminarlo o rinominarlo.
 
 
-![Image](/translation_data/donecustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/donecustomhelp_0_0_765_510.png)
 
 
 La seconda opzione è disegnare il campo personalizzato sulla mappa del menu IA.
@@ -26,5 +26,5 @@ I clic successivi creeranno linee per il clic precedente.
 Fai clic sul pulsante salva in basso per terminare di disegnare il campo.
 
 
-![Image](/translation_data/drawcustomhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/drawcustomhelp_0_0_765_510.png)
 

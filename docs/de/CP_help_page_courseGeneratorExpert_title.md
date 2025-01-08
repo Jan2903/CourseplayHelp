@@ -13,5 +13,5 @@ Bevor ihr euch mit den Einstellmöglichkeiten beschäftigt, solltet ihr euch ers
 ANMERKUNG: Sollte ein Kurs nicht sauber generiert werden, funktioniert diese Funktion nicht auf dem Feld oder mit dem Feldrand. Es wird dafür auch kein Update geben!
 
 
-![Image](/translation_data/baseedge_0_0_1020_545.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/baseedge_0_0_1020_545.png)
 

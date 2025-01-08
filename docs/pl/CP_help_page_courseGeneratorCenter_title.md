@@ -25,23 +25,23 @@ Te ustawienia są wyświetlane tylko dla określonych ustawień, które zostały
 ## 
 Tam i z powrotem
 
-![Image](/translation_data/updown_0_0_1024_591.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/updown_0_0_1024_591.png)
 
 ## 
 Wyspy
 
 
-![Image](/translation_data/lands_0_0_1024_599.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/lands_0_0_1024_599.png)
 
 ## 
 Spirala
 
 
-![Image](/translation_data/spiral_0_0_1024_590.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/spiral_0_0_1024_590.png)
 
 ## 
 Na około
 
 
-![Image](/translation_data/racetrack_0_0_1024_589.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/racetrack_0_0_1024_589.png)
 

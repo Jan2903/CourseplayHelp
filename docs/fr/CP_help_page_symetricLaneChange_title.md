@@ -5,14 +5,14 @@ Le changement symétrique de rangées est uniquement utilisé dans une course à
 Pour mieux comprendre, prenons deux exemples :
 
 
-![Image](/translation_data/regularchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/regularchange_0_0_1020_765.png)
 
 
 Lorsque le changement symétrique est désactivé, le véhicule restera toujours de son côté dans toutes les rangées, c'est à dire toujours à gauche ou toujours à droite.
 Cela évite ainsi tout risque de collision par croisement avec les autres véhicules.
 
 
-![Image](/translation_data/symetricchange_0_0_1020_765.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/symetricchange_0_0_1020_765.png)
 
 
 Lorsque le changement symétrique est désactivé, les côtés gauche et droit seront alternés à chaque nouvelle rangée (non indiqué par l'ATH).

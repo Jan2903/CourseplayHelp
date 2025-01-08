@@ -7,7 +7,7 @@
 为了生成任务路线并开始作业，您需要创建作业CP: 田地工作或CP: 扎捆/收集草垛，类似于官方的雇佣工人。
 
 
-![Image](/translation_data/startjobmenuhelp_0_0_1024_895.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/startjobmenuhelp_0_0_1024_895.png)
 
 
 为了开始你的第一个CP作业，你必须选择一辆车和一个支持当前任务的有效工具。
@@ -21,7 +21,7 @@
 工具横纵向设置仅在你想让多个工人在同一块田地中工作时使用。 为此，请查看下面的单独帮助菜单页面。 
 
 
-![Image](/translation_data/readyjobmenuhelp_0_0_765_510.png)
+![Image](https://raw.githubusercontent.com/Jan2903/CourseplayHelp/refs/heads/main/translation_data/readyjobmenuhelp_0_0_765_510.png)
 
 
 当田地的位置被正确地放置在田地中时，您将看到田地的边界绘制在地图上。
