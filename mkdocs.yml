@@ -37,15 +37,6 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-  - admonition
-  - pymdownx.details
 
 extra:
   social:
@@ -54,4 +45,4 @@ extra:
     - icon: simple/linkedin
       link: https://linkedin.com/in/willettjames
 
-copyright: Copyright &copy; 2024 James Willett
+copyright: Copyright &copy; 2025 Courseplay Devs
