@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
+          git add docs/
           git commit -m "Update generated markdown files" || echo "No changes to commit"
           git push
