@@ -26,7 +26,7 @@ def create_markdown_file(language_code, page, output_dir):
             if paragraph["text"]:
                 md_file.write(f"{paragraph['text']}\n\n")
             if paragraph["image"]["filename"]:
-                image_path = os.path.join("images", paragraph["image"]["filename"])
+                image_path = os.path.join(CURRENT_DIR, paragraph["image"]["filename"])
                 md_file.write(f"![Image]({image_path})\n\n")
 
 def generate_site():
