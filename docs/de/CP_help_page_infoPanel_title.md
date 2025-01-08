@@ -1,6 +1,6 @@
 # Infofenster
 
-![Image](images/infopanel_0_0_480_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/infopanel_0_0_480_130.png)
 
 
 Das ist unser Infofenster, es kann genauso mit der Maus bewegt werden, wie das Mini-HUD.

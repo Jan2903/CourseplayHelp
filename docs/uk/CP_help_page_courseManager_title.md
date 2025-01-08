@@ -11,7 +11,7 @@
 Поки що курси зберігаються лише локально.
 
 
-![Image](images/managerbasehelp_0_0_765_430.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/managerbasehelp_0_0_765_430.png)
 
 
 Коли у вас завантажений курс, ви можете його зберегти, вибравши папку, а потім натиснувши кнопку 'Зберегти курс'. Після цього з’явиться спливаюче вікно, де ви можете ввести ім’я вашого курсу.
@@ -28,7 +28,7 @@
 - перейменовувати курси або папки.
 
 
-![Image](images/manageredithelp_0_0_765_430.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/manageredithelp_0_0_765_430.png)
 
 
 Для переміщення курсу:

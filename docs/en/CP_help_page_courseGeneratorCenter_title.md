@@ -29,23 +29,23 @@ These settings appear only for specific settings you have done before:
 up/down
 
 
-![Image](images/updown_0_0_1024_591.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/updown_0_0_1024_591.png)
 
 ## 
 lands
 
 
-![Image](images/lands_0_0_1024_599.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/lands_0_0_1024_599.png)
 
 ## 
 spiral
 
 
-![Image](images/spiral_0_0_1024_590.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/spiral_0_0_1024_590.png)
 
 ## 
 racetrack
 
 
-![Image](images/racetrack_0_0_1024_589.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/racetrack_0_0_1024_589.png)
 

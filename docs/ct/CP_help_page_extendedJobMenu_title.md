@@ -7,7 +7,7 @@
 為了生成任務路線並開始作業，您需要建立作業CP: 田地工作或CP: 扎捆/收集草垛，類似於官方的僱傭工人。
 
 
-![Image](images/startjobmenuhelp_0_0_1024_895.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/startjobmenuhelp_0_0_1024_895.png)
 
 
 為了開始你的第一個CP作業，你必須選擇一輛車和一個支持當前任務的有效工具。
@@ -21,7 +21,7 @@
 工具橫縱向設置僅在你想讓多個工人在同一塊田地中工作時使用。 為此，請查看下面的單獨幫助選單頁面。 
 
 
-![Image](images/readyjobmenuhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/readyjobmenuhelp_0_0_765_510.png)
 
 
 當田地的位置被正確地放置在田地中時，您將看到田地的邊界繪製在地圖上。

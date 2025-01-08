@@ -1,6 +1,6 @@
 # Bilgilendirme Paneli
 
-![Image](images/infopanel_0_0_480_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/infopanel_0_0_480_130.png)
 
 
 Bu bizim bilgilendirme panelimizdir. Tıpkı mini HUD gibi fare yardımıyla sürüklenebilir.

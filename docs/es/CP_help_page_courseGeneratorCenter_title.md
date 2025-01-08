@@ -30,23 +30,23 @@ Espiral".
 arriba/abajo
 
 
-![Image](images/updown_0_0_1024_591.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/updown_0_0_1024_591.png)
 
 ## 
 campos
 
 
-![Image](images/lands_0_0_1024_599.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/lands_0_0_1024_599.png)
 
 ## 
 espiral
 
 
-![Image](images/spiral_0_0_1024_590.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/spiral_0_0_1024_590.png)
 
 ## 
 pista
 
 
-![Image](images/racetrack_0_0_1024_589.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/racetrack_0_0_1024_589.png)
 

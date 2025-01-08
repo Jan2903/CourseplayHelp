@@ -16,25 +16,25 @@ Por exemplo. a colheitadeira padrão precisa dirigir e trabalhar na videira.
       Os pulverizadores precisam dirigir ao lado das videiras e precisam pular uma fileira, pois pulveriza para a esquerda e para a direita.
 
 
-![Image](images/vineworkgen_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkgen_0_0_765_510.png)
 
 
 Uma rota de videira deve ser criado nas videiras, pois ele deve conduzir e trabalhar nas videiras.
 
 
-![Image](images/vineworkharvest_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkharvest_0_0_765_510.png)
 
 
 O pré-podador trabalha nas videiras, então a rota deve ser criada nas videiras.
 Os implementos vêm com um deslocamento para o trator, para que o trator se mova entre as videiras.
 
 
-![Image](images/vineworkpruner_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkpruner_0_0_765_510.png)
 
 
 O pulverizador trabalha próximo às videiras, por isso deve dirigir para a esquerda ou para a direita das videiras.
 Como o pulverizador pode trabalhar nas videiras esquerda e direita ao mesmo tempo, podemos pular uma fileira.
 
 
-![Image](images/vineworkspray_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkspray_0_0_765_510.png)
 

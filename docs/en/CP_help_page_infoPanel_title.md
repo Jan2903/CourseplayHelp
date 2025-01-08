@@ -1,6 +1,6 @@
 # Info panel
 
-![Image](images/infopanel_0_0_480_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/infopanel_0_0_480_130.png)
 
 
 This is our info panel, it can be moved around with the mouse cursor, just like our mini HUD.

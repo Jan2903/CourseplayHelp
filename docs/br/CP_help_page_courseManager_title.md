@@ -12,7 +12,7 @@ As pastas podem ser criadas simplesmente pelo botão na parte inferior da tela e
 As rotas serão salvas apenas localmente por enquanto.
 
 
-![Image](images/managerbasehelp_0_0_765_430.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/managerbasehelp_0_0_765_430.png)
 
 
 Quando você tem uma rota carregado, você pode salvá-lo clicando no botão salvar rota e depois na pasta. Em seguida, uma janela pop-up aparecerá onde você pode inserir o nome da sua rota.
@@ -29,7 +29,7 @@ Com o modo de edição ativo você tem estas opções:
 - Renomear rota ou pasta.
 
 
-![Image](images/manageredithelp_0_0_765_430.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/manageredithelp_0_0_765_430.png)
 
 
 Para mover uma rota:

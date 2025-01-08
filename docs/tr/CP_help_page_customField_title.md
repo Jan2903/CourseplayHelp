@@ -8,14 +8,14 @@
 Başlangıç ve bitiş noktalarının üst üste binmemesi gerektiğini unutmayın!
 
 
-![Image](images/recordcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/recordcustomhelp_0_0_765_510.png)
 
 
 Özel çalışma alanı sınırları YZ menüsünde görüntülenecektir.
 İsmine tıkladığınızda silme, yeniden adlandırma veya düzenleyici ile düzenleme seçenekleri çıkacaktır.
 
 
-![Image](images/donecustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/donecustomhelp_0_0_765_510.png)
 
 
 İkinci yöntem, özel çalışma alanı sınırlarını YZ menüsündeki harita üzerinde çizmektir.
@@ -26,5 +26,5 @@ Sonraki tıklamalar, bir önceki noktadan itibaren çizgiler oluşturacaktır.
 Tarla çizmeyi bitirmek için alt kısımdaki Kaydet butonuna tıklayın..
 
 
-![Image](images/drawcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/drawcustomhelp_0_0_765_510.png)
 

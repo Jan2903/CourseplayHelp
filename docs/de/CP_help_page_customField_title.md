@@ -8,14 +8,14 @@ Bist du wieder am Startpunkt angekommen, drücke den "Aufzeichnen"-Button noch m
 Start und Ende dürfen sich nicht überlappen!
 
 
-![Image](images/recordcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/recordcustomhelp_0_0_765_510.png)
 
 
 Im Helfermenü kannst du deinen Randkurs mit Namen sehen.
 Wenn du auf den Namen klickst, kannst du den Kurs löschen, umbenennen, oder mit dem Editor bearbeiten.
 
 
-![Image](images/donecustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/donecustomhelp_0_0_765_510.png)
 
 
 Die zweite Option ist das Zeichnen im Helfermenü.
@@ -25,5 +25,5 @@ Mit der rechten Maustaste kannst du jetzt den ersten Punkt setzen.
 Mit einem weiteren Rechtsklick wird eine Linie von deinem ersten zum zweiten Punkt gezogen, der zweite Punkt ist nun wieder der Startpunkt für die nächste Linie.
 
 
-![Image](images/drawcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/drawcustomhelp_0_0_765_510.png)
 

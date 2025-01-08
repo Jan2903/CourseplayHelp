@@ -22,5 +22,5 @@
 Від'ємні значення збільшують оброблювану ділянку за межі поля, щоб приховати межі поля, які визначаються неточно.
 
 
-![Image](images/sharproundcorner_0_0_330_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/sharproundcorner_0_0_330_130.png)
 

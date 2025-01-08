@@ -39,5 +39,5 @@ La direzione della freccia indica al figurante da quale direzione si avvicinerà
 Ora la tua selezione dovrebbe essere simile all'immagine.
 
 
-![Image](images/shovelloadertrigger_0_0_830_610.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/shovelloadertrigger_0_0_830_610.png)
 

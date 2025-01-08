@@ -13,5 +13,5 @@
 ВАЖЛИВА ПРИМІТКА: Це експериментальне налаштування, яке може не працювати для всіх форм поля. Якщо воно не працює, спробуйте інший метод роботи.
 
 
-![Image](images/baseedge_0_0_1020_545.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/baseedge_0_0_1020_545.png)
 

@@ -5,7 +5,7 @@
 Це трохи складно зрозуміти, тому давайте розглянемо на двох прикладах.
 
 
-![Image](images/regularchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/regularchange_0_0_1020_765.png)
 
 
 Коли симетрична зміна проходів вимкнена, техніка залишається на своєму зміщенні.
@@ -14,7 +14,7 @@
 Таким чином, не буде ризику конфлікту з іншим водієм.
 
 
-![Image](images/symetricchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/symetricchange_0_0_1020_765.png)
 
 
 Якщо симетрична зміна проходів увімкнена, положення зліва і справа буде змінюватися (але не будуть відображатися в HUD).

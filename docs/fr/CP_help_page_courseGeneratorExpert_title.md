@@ -11,5 +11,5 @@ Certains paramètres ne sont visibles que si vous avez activé le mode expert da
 REMARQUE IMPORTANTE : Il s'agit d'un paramètre expérimental qui peut ne pas fonctionner pour toutes les formes de champ. Si cela ne fonctionne pas, essayez un autre paramètre.
 
 
-![Image](images/baseedge_0_0_1020_545.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/baseedge_0_0_1020_545.png)
 

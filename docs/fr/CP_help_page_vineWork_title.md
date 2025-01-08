@@ -15,23 +15,23 @@ Exemples :
     - Les sulfateuses travaillent le long des vignes mais doivent ignorer une rangée sur deux car elles traitent les deux côtés d'une rangée.
 
 
-![Image](images/vineworkgen_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkgen_0_0_765_510.png)
 
 
 Une course de vendangeuse doit être générée depuis la sélection d'une vigne avec le mode enjambeur.
 
 
-![Image](images/vineworkharvest_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkharvest_0_0_765_510.png)
 
 
 Une course de pré-tailleuse  doit être générée depuis la sélection d'une vigne avec le mode enjambeur mais avec un décalage latéral pour le tracteur afin qu'il puisse circuler dans les rangées.
 
 
-![Image](images/vineworkpruner_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkpruner_0_0_765_510.png)
 
 
 Une course de sulfateuse doit être générée en mode côté gauche ou côté droit afin que le véhicule puisse longer les vignes. Vous pouvez également paramétrer la course pour ignorer un rang sur deux car les deux côtés de la rangée sont traités de toute façon.
 
 
-![Image](images/vineworkspray_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/vineworkspray_0_0_765_510.png)
 

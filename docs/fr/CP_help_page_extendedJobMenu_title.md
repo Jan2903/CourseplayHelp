@@ -7,7 +7,7 @@ Les paramètres globaux sont toujours accessibles.
 Pour générer une course et la démarrer, choisissez dans le type de tâche CP:Travail,CP:Ramassage/enrub. bottes, CP:Tassage silo, CP:Remplissage silo.
 
 
-![Image](images/startjobmenuhelp_0_0_1024_895.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/startjobmenuhelp_0_0_1024_895.png)
 
 
 Pour créer une course CP, assurez vous de sélectionner un véhicule équipé avec des outils compatibles avec un travail du Courseplay (CP).
@@ -21,7 +21,7 @@ Si vous souhaitez vous rendre au champ en utilisant l'ouvrier de base du jeu, vo
 La position dans la rangée n'est utilisée que lorsque vous avez plusieurs ouvriers qui travaillent dans le même champ (voir plus bas la rubrique outils multiples).
 
 
-![Image](images/readyjobmenuhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/readyjobmenuhelp_0_0_765_510.png)
 
 
 Lorsque le point de départ dans le champ est correctement défini, les contours du champ seront mis en surbrillance.
