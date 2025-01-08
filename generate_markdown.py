@@ -1,63 +1,87 @@
 import os
 import json
 
-# Constants for directory and file paths
-CONFIG_FILE = "./translation_data/config.json"
-TRANSLATION_DIR = "./translation_data"
-OUTPUT_DIR = "./docs"
+# Constants for paths
+CURRENT_DIR = os.getcwd()
+CONFIG_FILE = os.path.join(CURRENT_DIR, "translation_data", "config.json")
+TRANSLATION_DIR = os.path.join(CURRENT_DIR, "translation_data")
+OUTPUT_DIR = os.path.join(CURRENT_DIR, "output")
 
-def create_markdown_file(language, page, output_dir):
-    """Creates a Markdown file with content from JSON data."""
-    # File path for the Markdown file
-    filename = os.path.join(output_dir, f"{page['title']['raw']}.md")
+def create_markdown_file(language_code, page, output_dir):
+    """
+    Creates a markdown file for a given page in a specific language.
+    """
+    file_name = f"{page['title']}.md"
+    file_path = os.path.join(output_dir, file_name)
     
-    # Write the Markdown file
-    with open(filename, "w", encoding="utf-8") as md_file:
-        # Title
+    with open(file_path, "w", encoding="utf-8") as md_file:
+        # Write the page title
         md_file.write(f"# {page['title']}\n\n")
         
-        # Content: Paragraphs and Images
+        # Write paragraphs
         for paragraph in page.get("paragraphs", []):
-            if "title" in paragraph:
+            if "title" in paragraph and paragraph["title"]:
                 md_file.write(f"## {paragraph['title']}\n\n")
-            if "text" in paragraph:
+            if "text" in paragraph and paragraph["text"]:
                 md_file.write(f"{paragraph['text']}\n\n")
-            if "image" in paragraph and paragraph["image"].get("filename"):
-                image_path = f"/assets/{language}/{paragraph['image']['filename']}"
-                md_file.write(f"![{paragraph['text']['raw']}]({image_path})\n\n")
-
+            if "image" in paragraph and paragraph["image"]["filename"]:
+                image_path = os.path.join("images", paragraph["image"]["filename"])
+                md_file.write(f"![Image]({image_path})\n\n")
 
 def generate_site():
-    """Main function to generate the site content."""
-    # Load the configuration file
-    with open(CONFIG_FILE, "r", encoding="utf-8") as config_file:
-        config = json.load(config_file)
-    
-    # Loop through supported languages
-    for language_file in os.listdir(TRANSLATION_DIR):
-        if language_file.endswith(".json") and language_file != "config.json":
-            language_code = language_file.split(".")[0]
-            output_dir = os.path.join(OUTPUT_DIR, language_code)
-            
-            # Ensure the output directory exists
-            os.makedirs(output_dir, exist_ok=True)
-            
-            # Load the language translation file
-            with open(os.path.join(TRANSLATION_DIR, language_file), "r", encoding="utf-8") as lang_file:
-                translations = json.load(lang_file)
-            
-            # Generate Markdown files for each page
-            for page in config[0]["pages"]:
-                # Translate titles and paragraphs
-                page["title"] = translations.get(page["title"]["raw"], page["title"])
-                for paragraph in page.get("paragraphs", []):
-                    if "title" in paragraph:
-                        paragraph["title"] = translations.get(paragraph["title"]["raw"], paragraph["title"])
-                    if "text" in paragraph:
-                        paragraph["text"] = translations.get(paragraph["text"]["raw"], paragraph["text"])
+    """
+    Main function to generate markdown files for a multi-language site.
+    """
+    try:
+        # Load the configuration file
+        with open(CONFIG_FILE, "r", encoding="utf-8") as config_file:
+            config = json.load(config_file)
+        
+        # Ensure config is a list and contains valid data
+        if not isinstance(config, list) or not isinstance(config[0].get("pages", []), list):
+            raise ValueError("Invalid config.json format. Ensure it has a list with 'pages' key.")
+        
+        # Load the pages from the configuration
+        pages = config[0]["pages"]
+        
+        # Loop through supported languages
+        for language_file in os.listdir(TRANSLATION_DIR):
+            if language_file.endswith(".json") and language_file != "config.json":
+                language_code = language_file.split(".")[0]
+                output_dir = os.path.join(OUTPUT_DIR, language_code)
                 
-                # Create the Markdown file
-                create_markdown_file(language_code, page, output_dir)
+                # Ensure the output directory exists
+                os.makedirs(output_dir, exist_ok=True)
+                
+                # Load the language translation file
+                with open(os.path.join(TRANSLATION_DIR, language_file), "r", encoding="utf-8") as lang_file:
+                    translations = json.load(lang_file)
+                    if not isinstance(translations, dict):
+                        raise ValueError(f"Invalid {language_file} format. Ensure it is a JSON object.")
+                
+                # Generate Markdown files for each page
+                for page in pages:
+                    # Translate titles and paragraphs
+                    page_title = translations.get(page["title"]["raw"], page["title"]["raw"])
+                    page_data = {
+                        "title": page_title,
+                        "paragraphs": []
+                    }
+                    
+                    for paragraph in page.get("paragraphs", []):
+                        translated_paragraph = {
+                            "title": translations.get(paragraph["title"]["raw"], paragraph["title"]["raw"]) if paragraph["title"]["raw"] else "",
+                            "text": translations.get(paragraph["text"]["raw"], paragraph["text"]["raw"]) if paragraph["text"]["raw"] else "",
+                            "image": paragraph["image"]  # Images are the same across all languages
+                        }
+                        page_data["paragraphs"].append(translated_paragraph)
+                    
+                    # Create the Markdown file
+                    create_markdown_file(language_code, page_data, output_dir)
+                    
+    except Exception as e:
+        print(f"Error: {e}")
+        raise
 
 if __name__ == "__main__":
     generate_site()
