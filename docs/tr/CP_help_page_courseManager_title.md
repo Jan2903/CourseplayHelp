@@ -12,7 +12,7 @@ Klasörler, ekranın alt kısmındaki buton yardımıyla kolayca oluşturulabili
 Rotalar şu an için yalnızca yerel olarak kaydedilmektedir.
 
 
-![Image](assets/images/managerbasehelp_0_0_765_430.png)
+![Image](assets/managerbasehelp_0_0_765_430.png)
 
 
 Oluşturulmuş bir rotayı kaydetmek için bir klasör seçip 'Rotayı Kaydet' butonuna tıklayabilirsiniz. Ardından açılan pencerede rotanız için bir isim belirleyebilirsiniz.
@@ -29,7 +29,7 @@ Düzenleme modu aktif olduğunda şu seçenekler mevcut olur:
 - Rota ya da dizinleri yeniden adlandırma.
 
 
-![Image](assets/images/manageredithelp_0_0_765_430.png)
+![Image](assets/manageredithelp_0_0_765_430.png)
 
 
 Bir rotayı taşımak için: 

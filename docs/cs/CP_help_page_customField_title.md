@@ -7,13 +7,13 @@
 完成后，再次按下按钮，系统会询问您是否要保存它。
 
 
-![Image](assets/images/recordcustomhelp_0_0_765_510.png)
+![Image](assets/recordcustomhelp_0_0_765_510.png)
 
 查看 AI 菜单，您将看到记录的田地边界。
 通过单击名称，您将获得删除或重命名的选项。 
 
 
-![Image](assets/images/donecustomhelp_0_0_765_510.png)
+![Image](assets/donecustomhelp_0_0_765_510.png)
 
 第二个选项是在 AI 菜单地图上绘制它。
 没有选择拖拉机或其他车辆（左键单击地图上的某处），您可以选择绘制自定义田地。
@@ -22,5 +22,5 @@
 下一次右键单击将从您的起点画一条线到您的第二个位置，这将是下一条线的起点。
 
 
-![Image](assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](assets/drawcustomhelp_0_0_765_510.png)
 

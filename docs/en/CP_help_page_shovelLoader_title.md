@@ -39,5 +39,5 @@ The driection of the arrow tells the helper from which direction he will approac
 Now your selection should look similar to the image.
 
 
-![Image](assets/images/shovelloadertrigger_0_0_830_610.png)
+![Image](assets/shovelloadertrigger_0_0_830_610.png)
 

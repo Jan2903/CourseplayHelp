@@ -7,7 +7,7 @@ As configurações globais estão sempre visíveis.
 Para criar uma rota e iniciar os trabalhos do courseplay, você precisará criar o trabalho CP: Trabalho no campo ou CP: fardos coletar/embalar, similar ao Giants ajuda.
 
 
-![Image](assets/images/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/startjobmenuhelp_0_0_1024_895.png)
 
 
 Para começar com seu primeiro trabalho de CP, você terá que selecionar um veículo e um possível implemento válido que seja suportado para o trabalho.
@@ -22,7 +22,7 @@ Se você quiser usar o ajudante do Giants para dirigir até o campo, também pre
 A configuração de deslocamento de pista só é usada se você quiser ter vários ajudantes trabalhando no mesmo campo. Para isso, verifique a página separada do menu de ajuda abaixo.
 
 
-![Image](assets/images/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/readyjobmenuhelp_0_0_765_510.png)
 
 
 Quando a posição do campo é colocada corretamente em um campo, você verá a borda do campo desenhada no mapa.

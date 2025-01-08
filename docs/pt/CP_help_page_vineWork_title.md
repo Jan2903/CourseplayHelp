@@ -16,25 +16,25 @@ Por exemplo. a colheitadeira padrão precisa dirigir e trabalhar na videira.
       Os pulverizadores precisam dirigir ao lado das videiras e precisam pular uma linha, pois pulverizam para a esquerda e para a direita.
 
 
-![Image](assets/images/vineworkgen_0_0_765_510.png)
+![Image](assets/vineworkgen_0_0_765_510.png)
 
 
 Um curso de videira deve ser gerado nas videiras, pois ele tem que conduzir e trabalhar nas videiras.
 
 
-![Image](assets/images/vineworkharvest_0_0_765_510.png)
+![Image](assets/vineworkharvest_0_0_765_510.png)
 
 
 O pré-podador trabalha nas videiras, então o curso deve ser gerado nas videiras.
 As ferramentas vêm com um deslocamento para o trator, para que o trator se mova entre as videiras.
 
 
-![Image](assets/images/vineworkpruner_0_0_765_510.png)
+![Image](assets/vineworkpruner_0_0_765_510.png)
 
 
 O pulverizador trabalha próximo às videiras, por isso deve dirigir para a esquerda ou para a direita das videiras.
 Como o pulverizador pode trabalhar nas videiras esquerda e direita ao mesmo tempo, podemos pular uma linha.
 
 
-![Image](assets/images/vineworkspray_0_0_765_510.png)
+![Image](assets/vineworkspray_0_0_765_510.png)
 

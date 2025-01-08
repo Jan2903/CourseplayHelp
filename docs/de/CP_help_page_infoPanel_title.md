@@ -1,6 +1,6 @@
 # Infofenster
 
-![Image](assets/images/infopanel_0_0_480_130.png)
+![Image](assets/infopanel_0_0_480_130.png)
 
 
 Das ist unser Infofenster, es kann genauso mit der Maus bewegt werden, wie das Mini-HUD.

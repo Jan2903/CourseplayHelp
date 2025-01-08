@@ -7,7 +7,7 @@ As configurações globais estão sempre visiveis.
 Para gerar uma rota e começar o serviço no campo, primeiro tem de se criar um serviço, ou para apanhar os fardos ou embala-los, assim como na ajuda da Giants.
 
 
-![Image](assets/images/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/startjobmenuhelp_0_0_1024_895.png)
 
 
 Para começar com o primeiro serviço, tem de selecionar um veículo e uma alfaia válida que seja suportado para esse mesmo serviço.
@@ -21,7 +21,7 @@ Então, clicando em criar trabalho, você pode selecionar CP: Trabalho de campo 
 com um empacotador de fardos ou coletor de fardos anexado.
 
 
-![Image](assets/images/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/readyjobmenuhelp_0_0_765_510.png)
 
 
 Quando a posição do campo é colocada corretamente em um campo, você verá a borda do campo desenhada no mapa.

@@ -12,7 +12,7 @@ Folders can simply created by the button at the bottom of the screen and enterin
 Courses are only saved localy for now.
 
 
-![Image](assets/images/managerbasehelp_0_0_765_430.png)
+![Image](assets/managerbasehelp_0_0_765_430.png)
 
 
 When you have a course loaded, you can save it by clicking on the save course button and then on the folder. Then a pop up window will appear where you can enter the name of your course.
@@ -29,7 +29,7 @@ With the edit mode is active you have these options:
 - Renaming courses or directories.
 
 
-![Image](assets/images/manageredithelp_0_0_765_430.png)
+![Image](assets/manageredithelp_0_0_765_430.png)
 
 
 For moving a course: 

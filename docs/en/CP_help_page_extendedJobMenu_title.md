@@ -9,7 +9,7 @@ For generating a course and starting the Courseplay jobs, you will need to creat
 Tip: To gain quicker access, you can click on "no course" on the HUD. This will bring you to the menu with a job already created for the vehicle.
 
 
-![Image](assets/images/startjobmenuhelp_0_0_1024_895.png)
+![Image](assets/startjobmenuhelp_0_0_1024_895.png)
 
 
 To start off with your first CP job, you would have to select a vehicle and a possible valid implement which is supported for the job.
@@ -24,7 +24,7 @@ The lane offset setting is only used if you want to have multiple helpers workin
 Tip: If you stand already on the field when you click on "no course" to enter the menu, the markers are already placed.
 
 
-![Image](assets/images/readyjobmenuhelp_0_0_765_510.png)
+![Image](assets/readyjobmenuhelp_0_0_765_510.png)
 
 
 When the field position is placed correctly on a field, you will see the field border drawn on the map.
