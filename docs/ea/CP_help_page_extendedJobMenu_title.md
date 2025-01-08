@@ -9,7 +9,7 @@ Para generar un recorrido e iniciar los trabajos de Courseplay, tendrás que cre
 Sugerencia: Para obtener un acceso más rápido, puedes hacer clic en "sin ruta" en el HUD. Esto te llevará al menú con un trabajo ya creado para el vehículo.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/startjobmenuhelp_0_0_1024_895.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/startjobmenuhelp_0_0_1024_895.png)
 
 
 Para comenzar con su primer trabajo de CP, deberá seleccionar un vehículo y un posible implemento válido que sea compatible con el trabajo.
@@ -24,7 +24,7 @@ La configuración de desplazamiento de carril solo se usa si desea tener varios 
 Consejo: Si ya estás parado en el campo cuando haces clic en "sin ruta" para ingresar al menú, los marcadores ya están colocados.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/readyjobmenuhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/readyjobmenuhelp_0_0_765_510.png)
 
 
 Cuando la posición del campo se coloca correctamente en un campo, verá el borde del campo dibujado en el mapa.

@@ -1,6 +1,6 @@
 # Panel de Información
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/infopanel_0_0_480_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/infopanel_0_0_480_130.png)
 
 
 Este es nuestro Panel de información, se puede mover con el cursor del mouse, al igual que nuestro Mini HUD.

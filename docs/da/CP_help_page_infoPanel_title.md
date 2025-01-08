@@ -1,6 +1,6 @@
 # Info panel
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/infopanel_0_0_480_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/infopanel_0_0_480_130.png)
 
 
 Dette er vores infopanel, det kan flyttes rundt med musen, ligesom vores Mini HUD.

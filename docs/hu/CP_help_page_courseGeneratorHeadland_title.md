@@ -16,5 +16,5 @@ A kerek opció figyelembe veszi a kiválasztott jármű fordulási sugarát, hog
 - Fordulósáv átfedés: Fordulósávok átfedése százalékban megadva. Az első nem lesz fedésben a tábla határával, de a belső sávok átfedésben lesznek egymással.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/sharproundcorner_0_0_330_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/sharproundcorner_0_0_330_130.png)
 

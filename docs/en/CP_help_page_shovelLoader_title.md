@@ -39,5 +39,5 @@ The driection of the arrow tells the helper from which direction he will approac
 Now your selection should look similar to the image.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/shovelloadertrigger_0_0_830_610.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/shovelloadertrigger_0_0_830_610.png)
 

@@ -36,5 +36,5 @@ Die Richtung des Pfeils entspricht hierbei der Anfahrtsrichtung vom Helfer.
 Das Kreuz sollte jetzt, wie im Bild dargestellt, gelb sein.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/shovelloadertrigger_0_0_830_610.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/shovelloadertrigger_0_0_830_610.png)
 

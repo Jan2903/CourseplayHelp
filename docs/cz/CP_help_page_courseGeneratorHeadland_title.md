@@ -16,5 +16,5 @@ Zaoblený vezme v úvahu aktuálně vybraný poloměr zatáčky, aby byl pro dan
 - Souvraťový přesah: Kolik % by měly mít všechny souvratě. První se nebude překrývat s hranicí pole, ale vnitřní se budou překrývat se svou sousední.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/sharproundcorner_0_0_330_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/sharproundcorner_0_0_330_130.png)
 

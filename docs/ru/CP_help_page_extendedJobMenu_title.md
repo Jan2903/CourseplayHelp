@@ -7,7 +7,7 @@
 Для создания курса и начала работы по нему вам нужно будет создать задание CP: Полевые работы или CP: Сбор/обмотка тюков, аналогичные помощнику Giants.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/startjobmenuhelp_0_0_1024_895.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/startjobmenuhelp_0_0_1024_895.png)
 
 
 Чтобы начать ваше первое задания CP, вам нужно выбрать транспортное средство и возможное доступное оборудование, которое поддерживается для работы.
@@ -22,7 +22,7 @@
 Для этого, пожалуйста, проверьте отдельную страницу меню справки ниже.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/readyjobmenuhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/readyjobmenuhelp_0_0_765_510.png)
 
 
 Когда будет правильно указано положение на поле, вы увидите его границу, нарисованную на карте.

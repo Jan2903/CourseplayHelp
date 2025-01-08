@@ -14,5 +14,5 @@ Cela peut être attenué avec le chevauchement mais sans pour autant complèteme
 - Chevauchement : Le pourcentage de recouvrement entre les fourrières. La première fourrière (contour du champ) n'aura pas de recouvrement mais les suivantes utiliseront ce paramètre.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/sharproundcorner_0_0_330_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/sharproundcorner_0_0_330_130.png)
 

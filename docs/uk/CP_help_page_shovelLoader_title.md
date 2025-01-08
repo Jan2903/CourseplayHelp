@@ -39,5 +39,5 @@
 Тепер ваш вибір має виглядати як на зображенні.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/shovelloadertrigger_0_0_830_610.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/shovelloadertrigger_0_0_830_610.png)
 

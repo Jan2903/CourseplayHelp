@@ -6,13 +6,13 @@ Rozpocznij nagrywanie i przejedź po krawędziach wokół nowego pola.
 Gdy gotowe, wciśnij przycisk ponownie a zostaniesz zapytany czy zapisać to pole.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/recordcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/recordcustomhelp_0_0_765_510.png)
 
 Zaglądając do menu pomocników SI, zobaczysz nagrany obrys pola.
 Klikając na NAZWĘ, dostaniesz opcję usunięcia go lub zmiany nazwy.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/donecustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/donecustomhelp_0_0_765_510.png)
 
 Druga opcja to narysowanie go na mapie w menu pomocników SI.
 Nie miej wybranego żadnego ciągnika czy innego pojazdu (kliknij lewym przyciskiem gdzieś na mapie), pojawi się wtedy opcja narysowania nowego pola.
@@ -21,5 +21,5 @@ Użyj prawego przycisku myszy, aby kliknąć na pozycję, gdzie chcesz zacząć.
 Następne prawe kliknięcie narysuje linię od punktu początkowego do obecnej pozycji kursora, będzie to punk początku nowej linii.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/drawcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/drawcustomhelp_0_0_765_510.png)
 

@@ -19,5 +19,5 @@ which side the pipe or conveyor belt is.
 Negative values enlarge worked area beyond the field boundary to cover up field borders that are not perfectly detected.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/sharproundcorner_0_0_330_130.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/sharproundcorner_0_0_330_130.png)
 

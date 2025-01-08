@@ -5,7 +5,7 @@
 Это немного сложно понять, поэтому давайте рассмотрим на два примера.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/regularchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/regularchange_0_0_1020_765.png)
 
 
 Когда симметричная смена проходов выключена, техника остается на своём смещении.
@@ -14,7 +14,7 @@
 Таким образом не будет риска конфликта с другим водителем.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/symetricchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/symetricchange_0_0_1020_765.png)
 
 
 Если симметричная смена проходов включена, положение слева и справа будет меняться (но не будут отображаться в HUD).

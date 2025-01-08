@@ -5,7 +5,7 @@ A mudança de faixa simétrica é usada em rotas multi implementos e informa ao 
 Isso é um pouco difícil de entender, então vamos dar uma olhada em dois exemplos.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/regularchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/regularchange_0_0_1020_765.png)
 
 
 Quando a mudança de faixa simétrica é desativada, o veículo permanece em sua faixa de deslocamento.
@@ -14,7 +14,7 @@ Isso garante que os veículos não estejam dirigindo lado a lado.
 Não haverá risco de conflito com outro motorista.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/symetricchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/symetricchange_0_0_1020_765.png)
 
 
 Se a mudança de faixa simétrica estiver ativada, a esquerda e a direita serão trocadas (mas não mostradas no HUD).

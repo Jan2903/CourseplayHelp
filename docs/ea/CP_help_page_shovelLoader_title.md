@@ -39,5 +39,5 @@ La dirección de la flecha le indica al ayudante desde qué dirección se acerca
 Ahora su selección debería verse similar a la imagen.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/shovelloadertrigger_0_0_830_610.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/shovelloadertrigger_0_0_830_610.png)
 

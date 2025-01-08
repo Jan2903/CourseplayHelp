@@ -7,14 +7,14 @@
 По завершенню натисніть кнопку ще раз, вам буде запропоновано зберегти його.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/recordcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/recordcustomhelp_0_0_765_510.png)
 
 
 Подивіться на меню ШІ, і ви побачите свою записану межу поля.
 Натискаючи на ім’я, ви отримаєте можливість або видалити його, або перейменувати.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/donecustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/donecustomhelp_0_0_765_510.png)
 
 
 Другий варіант - намалювати його на карті в меню ШІ.
@@ -24,5 +24,5 @@
 Наступний клік правою кнопкою миші намалює лінію від початку до другої точки, яка буде початковою точкою для наступної лінії.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/drawcustomhelp_0_0_765_510.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/drawcustomhelp_0_0_765_510.png)
 

@@ -6,7 +6,7 @@ Hat değiştirme aktifken, araç her dönüşten sonra taraf değiştirir.
 Bu biraz kafa karıştırıcı olabilir, o yüzden aşağıdaki iki örneğe bakalım.
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/regularchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/regularchange_0_0_1020_765.png)
 
 
 Eğer hat değiştirme kapalıysa, araç tüm rota boyunca başladığı tarafta kalır.
@@ -15,7 +15,7 @@ ancak iç tarafta kalan araçlar daha dar dönüş yapmak zorunda kalır.(sola d
 
 
 
-![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/symetricchange_0_0_1020_765.png)
+![Image](/home/runner/work/CourseplayHelp/CourseplayHelp/translation_data/symetricchange_0_0_1020_765.png)
 
 
 Hat değiştirme aktifse, örneğin iki araç için, A aracı solda ve B aracı sağda başlıyorsa, dönüşten sonra hatlar değiştirilir.
