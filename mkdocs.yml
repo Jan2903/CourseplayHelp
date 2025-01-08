@@ -1,4 +1,4 @@
-site_name: Courseplay Help Menu
+site_name: Courseplay
 site_url: https://sitename.example
 theme:
   name: material
@@ -42,7 +42,6 @@ extra:
   social:
     - icon: simple/github
       link: https://github.com/Courseplay/Courseplay_FS25/releases
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
 
-copyright: Copyright &copy; 2025 Courseplay Devs
+
+copyright: Copyright &copy; 2025 Courseplay Dev Team
