@@ -1,7 +1,7 @@
 site_name: Courseplay
 site_url: https://sitename.example
 theme:
- name: material
+  name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
@@ -37,5 +37,11 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/Courseplay/Courseplay_FS25/releases
+
 
 copyright: Copyright &copy; 2025 Courseplay Dev Team
