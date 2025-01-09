@@ -61,7 +61,7 @@ def create_index_md(language_code, translations, output_dir):
     """
     index_path = os.path.join(output_dir, "index.md")
     title = translations.get("CP_help_title", "CP_help_title")
-    sub_title = translations.get("CP_help_title", "CP_help_title")
+    sub_title = translations.get("CP_help_subtitle", "CP_help_subtitle")
     
     with open(index_path, "w", encoding="utf-8") as index_file:
         index_file.write(f"# {title}\n\n")
