@@ -45,54 +45,80 @@ plugins:
       languages:
         - locale: "en"
           name: "English"
-        - locale: "pt_BR"
+          default: true
+          build: true
+        - locale: "pt"
           name: "Brasil"
+          build: true
         - locale: "cs"
           name: "Čeština"
+          build: true
         - locale: "ca"
           name: "Català"
+          build: true
         - locale: "cs"
           name: "Česko"
+          build: true
         - locale: "da"
           name: "Dansk"
+          build: true
         - locale: "de"
           name: "Deutsch"
+          build: true
         - locale: "es"
           name: "Español (EA)"
+          build: true
         - locale: "es"
           name: "Español"
-        - locale: "fr_CA"
+          build: true
+        - locale: "fr"
           name: "Français (Canada)"
+          build: true
         - locale: "fi"
           name: "Suomi"
+          build: true
         - locale: "fr"
           name: "Français"
+          build: true
         - locale: "hu"
           name: "Magyar"
+          build: true
         - locale: "it"
           name: "Italiano"
+          build: true
         - locale: "ja"
           name: "日本語"
+          build: true
         - locale: "ko"
           name: "한국어"
+          build: true
         - locale: "nl"
           name: "Nederlands"
+          build: true
         - locale: "no"
           name: "Norsk"
+          build: true
         - locale: "pl"
           name: "Polski"
+          build: true
         - locale: "pt"
           name: "Português"
+          build: true
         - locale: "ro"
           name: "Română"
+          build: true
         - locale: "ru"
           name: "Русский"
+          build: true
         - locale: "sv"
           name: "Svenska"
+          build: true
         - locale: "tr"
           name: "Türkçe"
+          build: true
         - locale: "uk"
           name: "Українська"
+          build: true
 
 extra:
   social:
