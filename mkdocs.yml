@@ -43,56 +43,56 @@ plugins:
   - i18n:
       default_language: en
       languages:
-        - locale: en
-          name: English
-        - locale: pt_BR
-          name: Brasil
-        - locale: cs
-          name: Čeština
-        - locale: ca
-          name: Català
-        - locale: cs
-          name: Česko
-        - locale: da
-          name: Dansk
-        - locale: de
-          name: Deutsch
-        - locale: es
-          name: Español (EA)
-        - locale: es
-          name: Español
-        - locale: fr_CA
-          name: Français (Canada)
-        - locale: fi
-          name: Suomi
-        - locale: fr
-          name: Français
-        - locale: hu
-          name: Magyar
-        - locale: it
-          name: Italiano
-        - locale: ja
-          name: 日本語
-        - locale: ko
-          name: 한국어
-        - locale: nl
-          name: Nederlands
-        - locale: no
-          name: Norsk
-        - locale: pl
-          name: Polski
-        - locale: pt
-          name: Português
-        - locale: ro
-          name: Română
-        - locale: ru
-          name: Русский
-        - locale: sv
-          name: Svenska
-        - locale: tr
-          name: Türkçe
-        - locale: uk
-          name: Українська
+        - locale: "en"
+          name: "English"
+        - locale: "pt_BR"
+          name: "Brasil"
+        - locale: "cs"
+          name: "Čeština"
+        - locale: "ca"
+          name: "Català"
+        - locale: "cs"
+          name: "Česko"
+        - locale: "da"
+          name: "Dansk"
+        - locale: "de"
+          name: "Deutsch"
+        - locale: "es"
+          name: "Español (EA)"
+        - locale: "es"
+          name: "Español"
+        - locale: "fr_CA"
+          name: "Français (Canada)"
+        - locale: "fi"
+          name: "Suomi"
+        - locale: "fr"
+          name: "Français"
+        - locale: "hu"
+          name: "Magyar"
+        - locale: "it"
+          name: "Italiano"
+        - locale: "ja"
+          name: "日本語"
+        - locale: "ko"
+          name: "한국어"
+        - locale: "nl"
+          name: "Nederlands"
+        - locale: "no"
+          name: "Norsk"
+        - locale: "pl"
+          name: "Polski"
+        - locale: "pt"
+          name: "Português"
+        - locale: "ro"
+          name: "Română"
+        - locale: "ru"
+          name: "Русский"
+        - locale: "sv"
+          name: "Svenska"
+        - locale: "tr"
+          name: "Türkçe"
+        - locale: "uk"
+          name: "Українська"
 
 extra:
   social:
