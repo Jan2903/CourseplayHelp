@@ -1,3 +1,3 @@
 # CoursePlay - помічник водія
 
-CoursePlay - помічник водія
+CP_help_subtitle
