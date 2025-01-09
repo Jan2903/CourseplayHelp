@@ -1,5 +1,6 @@
 site_name: Courseplay
 site_url: https://sitename.example
+
 theme:
   name: material
   font:
@@ -10,14 +11,13 @@ theme:
   features:
     - navigation.footer
   palette:
-    # Dark Mode
+    # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
       primary: green
       accent: deep purple
-
     # Light Mode
     - scheme: default
       toggle:
@@ -38,87 +38,39 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
 
-extra:
-  alternate:
-    - name: English
-      link: /CourseplayHelp/en/
-      lang: en
-    - name: Deutsch
-      link: /CourseplayHelp/de/
-      lang: de
-    - name: Brasil
-      link: /CourseplayHelp/br/
-      lang: br
-    - name: Čeština
-      link: /CourseplayHelp/cs/
-      lang: cs
-    - name: Català
-      link: /CourseplayHelp/ct/
-      lang: ct
-    - name: Česko
-      link: /CourseplayHelp/cz/
-      lang: cz
-    - name: Dansk
-      link: /CourseplayHelp/da/
-      lang: da
-    - name: Español (EA)
-      link: /CourseplayHelp/ea/
-      lang: ea
-    - name: Español
-      link: /CourseplayHelp/es/
-      lang: es
-    - name: Français (Canada)
-      link: /CourseplayHelp/fc/
-      lang: fc
-    - name: Suomi
-      link: /CourseplayHelp/fi/
-      lang: fi
-    - name: Français
-      link: /CourseplayHelp/fr/
-      lang: fr
-    - name: Magyar
-      link: /CourseplayHelp/hu/
-      lang: hu
-    - name: Italiano
-      link: /CourseplayHelp/it/
-      lang: it
-    - name: 日本語
-      link: /CourseplayHelp/jp/
-      lang: jp
-    - name: 한국어
-      link: /CourseplayHelp/kr/
-      lang: kr
-    - name: Nederlands
-      link: /CourseplayHelp/nl/
-      lang: nl
-    - name: Norsk
-      link: /CourseplayHelp/no/
-      lang: no
-    - name: Polski
-      link: /CourseplayHelp/pl/
-      lang: pl
-    - name: Português
-      link: /CourseplayHelp/pt/
-      lang: pt
-    - name: Română
-      link: /CourseplayHelp/ro/
-      lang: ro
-    - name: Русский
-      link: /CourseplayHelp/ru/
-      lang: ru
-    - name: Svenska
-      link: /CourseplayHelp/sv/
-      lang: sv
-    - name: Türkçe
-      link: /CourseplayHelp/tr/
-      lang: tr
-    - name: Українська
-      link: /CourseplayHelp/uk/
-      lang: uk
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        br: Brasil
+        cs: Čeština
+        ct: Català
+        cz: Česko
+        da: Dansk
+        de: Deutsch
+        ea: Español (EA)
+        en: English
+        es: Español
+        fc: Français (Canada)
+        fi: Suomi
+        fr: Français
+        hu: Magyar
+        it: Italiano
+        jp: 日本語
+        kr: 한국어
+        nl: Nederlands
+        no: Norsk
+        pl: Polski
+        pt: Português
+        ro: Română
+        ru: Русский
+        sv: Svenska
+        tr: Türkçe
+        uk: Українська
 
+extra:
   social:
     - icon: simple/github
       link: https://github.com/Courseplay/Courseplay_FS25/releases
-
 
 copyright: Copyright &copy; 2025 Courseplay Dev Team
