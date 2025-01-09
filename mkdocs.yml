@@ -41,16 +41,84 @@ markdown_extensions:
 extra:
   alternate:
     - name: English
-      link: /CourseplayHelp/en/CP_help_page_General_title/
+      link: /en/
       lang: en
     - name: Deutsch
-      link: /CourseplayHelp/de/CP_help_page_General_title/
+      link: /de/
       lang: de
+    - name: Brasil
+      link: /br/
+      lang: br
+    - name: Čeština
+      link: /cs/
+      lang: cs
+    - name: Català
+      link: /ct/
+      lang: ct
+    - name: Česko
+      link: /cz/
+      lang: cz
+    - name: Dansk
+      link: /da/
+      lang: da
+    - name: Español (EA)
+      link: /ea/
+      lang: ea
+    - name: Español
+      link: /es/
+      lang: es
+    - name: Français (Canada)
+      link: /fc/
+      lang: fc
+    - name: Suomi
+      link: /fi/
+      lang: fi
+    - name: Français
+      link: /fr/
+      lang: fr
+    - name: Magyar
+      link: /hu/
+      lang: hu
+    - name: Italiano
+      link: /it/
+      lang: it
+    - name: 日本語
+      link: /jp/
+      lang: jp
+    - name: 한국어
+      link: /kr/
+      lang: kr
+    - name: Nederlands
+      link: /nl/
+      lang: nl
+    - name: Norsk
+      link: /no/
+      lang: no
+    - name: Polski
+      link: /pl/
+      lang: pl
+    - name: Português
+      link: /pt/
+      lang: pt
+    - name: Română
+      link: /ro/
+      lang: ro
+    - name: Русский
+      link: /ru/
+      lang: ru
+    - name: Svenska
+      link: /sv/
+      lang: sv
+    - name: Türkçe
+      link: /tr/
+      lang: tr
+    - name: Українська
+      link: /uk/
+      lang: uk
+
   social:
     - icon: simple/github
       link: https://github.com/Courseplay/Courseplay_FS25/releases
-
- 
 
 
 copyright: Copyright &copy; 2025 Courseplay Dev Team
