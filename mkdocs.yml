@@ -39,7 +39,27 @@ markdown_extensions:
   - pymdownx.snippets
 
 plugins:
-  - search
+  - search:
+      lang:
+        - en
+        - fr
+        - de
+        - es
+        - pt
+        - ru
+        - it
+        - nl
+        - da
+        - fi
+        - hu
+        - jp
+        - kr
+        - no
+        - pl
+        - ro
+        - sv
+        - tr
+        - uk
   - i18n:
       default_language: en
       docs_structure: folder
