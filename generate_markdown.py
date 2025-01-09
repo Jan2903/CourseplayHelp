@@ -13,7 +13,6 @@ IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets", "images")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(IMAGES_DIR, exist_ok=True)
 
-
 def copy_image_to_docs(image_filename):
     """Copy an image from the translation_data folder to the docs/assets/images folder."""
     source_path = os.path.join(TRANSLATION_DIR, image_filename)
@@ -23,12 +22,16 @@ def copy_image_to_docs(image_filename):
     else:
         print(f"Warning: Image file '{image_filename}' not found in translation_data folder.")
 
-def create_markdown_file(language_code, page, output_dir):
+def format_text_with_line_breaks(text):
+    """Format text by replacing detected newlines with Markdown-compatible line breaks."""
+    return text.replace("\n", "  \n")
+
+def create_markdown_file(language_code, page, output_dir, file_index):
     """
     Creates a markdown file for a given page in a specific language.
     """
-    # Use the raw title for the file name
-    file_name = f"{page['raw_title']}.md"
+    # Format the file name with a numbered prefix
+    file_name = f"{file_index:02d}_page_{page['raw_title']}.md"
     file_path = os.path.join(output_dir, file_name)
     
     with open(file_path, "w", encoding="utf-8") as md_file:
@@ -40,7 +43,9 @@ def create_markdown_file(language_code, page, output_dir):
             if paragraph["title"]:
                 md_file.write(f"## {paragraph['title']}\n\n")
             if paragraph["text"]:
-                md_file.write(f"{paragraph['text']}\n\n")
+                # Format text with forced line breaks
+                formatted_text = format_text_with_line_breaks(paragraph["text"])
+                md_file.write(f"{formatted_text}\n\n")
             if paragraph["image"]["filename"]:
                 # Copy the image to the docs/assets/images folder
                 copy_image_to_docs(paragraph["image"]["filename"])
@@ -82,8 +87,8 @@ def generate_site():
                     if not isinstance(translations, dict):
                         raise ValueError(f"Invalid {language_file} format. Ensure it is a JSON object.")
                 
-                # Generate Markdown files for each page
-                for page in pages:
+                # Generate Markdown files for each page with numbering
+                for index, page in enumerate(pages, start=1):
                     # Translate titles and paragraphs
                     page_data = {
                         "raw_title": page["title"]["raw"],
@@ -100,7 +105,7 @@ def generate_site():
                         page_data["paragraphs"].append(translated_paragraph)
                     
                     # Create the Markdown file
-                    create_markdown_file(language_code, page_data, language_output_dir)
+                    create_markdown_file(language_code, page_data, language_output_dir, index)
                     
     except Exception as e:
         print(f"Error: {e}")
