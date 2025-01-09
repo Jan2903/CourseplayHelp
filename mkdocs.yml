@@ -43,81 +43,56 @@ plugins:
   - i18n:
       default_language: en
       languages:
-        en: 
+        - locale: en
           name: English
-          locale: en
-        br: 
+        - locale: pt_BR
           name: Brasil
-          locale: pt_BR
-        cs: 
+        - locale: cs
           name: Čeština
-          locale: cs
-        ct: 
+        - locale: ca
           name: Català
-          locale: ca
-        cz: 
+        - locale: cs
           name: Česko
-          locale: cs
-        da: 
+        - locale: da
           name: Dansk
-          locale: da
-        de: 
+        - locale: de
           name: Deutsch
-          locale: de
-        ea: 
+        - locale: es
           name: Español (EA)
-          locale: es
-        es: 
+        - locale: es
           name: Español
-          locale: es
-        fc: 
+        - locale: fr_CA
           name: Français (Canada)
-          locale: fr_CA
-        fi: 
+        - locale: fi
           name: Suomi
-          locale: fi
-        fr: 
+        - locale: fr
           name: Français
-          locale: fr
-        hu: 
+        - locale: hu
           name: Magyar
-          locale: hu
-        it: 
+        - locale: it
           name: Italiano
-          locale: it
-        jp: 
+        - locale: ja
           name: 日本語
-          locale: ja
-        kr: 
+        - locale: ko
           name: 한국어
-          locale: ko
-        nl: 
+        - locale: nl
           name: Nederlands
-          locale: nl
-        no: 
+        - locale: no
           name: Norsk
-          locale: no
-        pl: 
+        - locale: pl
           name: Polski
-          locale: pl
-        pt: 
+        - locale: pt
           name: Português
-          locale: pt
-        ro: 
+        - locale: ro
           name: Română
-          locale: ro
-        ru: 
+        - locale: ru
           name: Русский
-          locale: ru
-        sv: 
+        - locale: sv
           name: Svenska
-          locale: sv
-        tr: 
+        - locale: tr
           name: Türkçe
-          locale: tr
-        uk: 
+        - locale: uk
           name: Українська
-          locale: uk
 
 extra:
   social:
