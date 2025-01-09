@@ -43,31 +43,81 @@ plugins:
   - i18n:
       default_language: en
       languages:
-        - br: Brasil
-        - cs: Čeština
-        - ct: Català
-        - cz: Česko
-        - da: Dansk
-        - de: Deutsch
-        - ea: Español (EA)
-        - en: English
-        - es: Español
-        - fc: Français (Canada)
-        - fi: Suomi
-        - fr: Français
-        - hu: Magyar
-        - it: Italiano
-        - jp: 日本語
-        - kr: 한국어
-        - nl: Nederlands
-        - no: Norsk
-        - pl: Polski
-        - pt: Português
-        - ro: Română
-        - ru: Русский
-        - sv: Svenska
-        - tr: Türkçe
-        - uk: Українська
+        en: 
+          name: English
+          locale: en
+        br: 
+          name: Brasil
+          locale: pt_BR
+        cs: 
+          name: Čeština
+          locale: cs
+        ct: 
+          name: Català
+          locale: ca
+        cz: 
+          name: Česko
+          locale: cs
+        da: 
+          name: Dansk
+          locale: da
+        de: 
+          name: Deutsch
+          locale: de
+        ea: 
+          name: Español (EA)
+          locale: es
+        es: 
+          name: Español
+          locale: es
+        fc: 
+          name: Français (Canada)
+          locale: fr_CA
+        fi: 
+          name: Suomi
+          locale: fi
+        fr: 
+          name: Français
+          locale: fr
+        hu: 
+          name: Magyar
+          locale: hu
+        it: 
+          name: Italiano
+          locale: it
+        jp: 
+          name: 日本語
+          locale: ja
+        kr: 
+          name: 한국어
+          locale: ko
+        nl: 
+          name: Nederlands
+          locale: nl
+        no: 
+          name: Norsk
+          locale: no
+        pl: 
+          name: Polski
+          locale: pl
+        pt: 
+          name: Português
+          locale: pt
+        ro: 
+          name: Română
+          locale: ro
+        ru: 
+          name: Русский
+          locale: ru
+        sv: 
+          name: Svenska
+          locale: sv
+        tr: 
+          name: Türkçe
+          locale: tr
+        uk: 
+          name: Українська
+          locale: uk
 
 extra:
   social:
