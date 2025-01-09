@@ -1,4 +1,4 @@
-name: ci 
+name: ci
 on:
   workflow_run:
     workflows: 
@@ -12,14 +12,21 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - uses: actions/checkout@v4
+
+      # Step 2: Configure Git credentials
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+      # Step 3: Set up Python environment
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
+
+      # Step 4: Cache dependencies
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       - uses: actions/cache@v4
         with:
@@ -27,5 +34,17 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+
+      # Step 5: Install MkDocs and plugins
+      - name: Install MkDocs and Plugins
+        run: |
+          pip install mkdocs-material
+          pip install mkdocs-static-i18n
+
+      # Step 6: Build the multilingual site
+      - name: Build the Site
+        run: mkdocs build
+
+      # Step 7: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
