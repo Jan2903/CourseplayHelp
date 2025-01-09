@@ -8,10 +8,12 @@ CONFIG_FILE = os.path.join(CURRENT_DIR, "translation_data", "config.json")
 TRANSLATION_DIR = os.path.join(CURRENT_DIR, "translation_data")
 OUTPUT_DIR = os.path.join(CURRENT_DIR, "docs")
 IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets", "images")
+CONFIG_DIR = os.path.join(CURRENT_DIR, "config")  # Base folder for mkdocs.yml
 
 # Ensure required directories exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(IMAGES_DIR, exist_ok=True)
+os.makedirs(CONFIG_DIR, exist_ok=True)
 
 def copy_image_to_docs(image_filename):
     """Copy an image from the translation_data folder to the docs/assets/images folder."""
@@ -67,9 +69,12 @@ def create_index_md(language_code, translations, output_dir):
 
 def create_mkdocs_yml(language_code):
     """
-    Creates a mkdocs.yml file for the specified language.
+    Creates a mkdocs.yml file for the specified language in the config directory.
     """
-    mkdocs_path = os.path.join(CURRENT_DIR, f"mkdocs_{language_code}.yml")
+    language_config_dir = os.path.join(CONFIG_DIR, language_code)
+    os.makedirs(language_config_dir, exist_ok=True)  # Ensure the language-specific config directory exists
+    mkdocs_path = os.path.join(language_config_dir, "mkdocs.yml")
+    
     with open(mkdocs_path, "w", encoding="utf-8") as mkdocs_file:
         mkdocs_file.write(f"""site_name: CP Help ({language_code.upper()})
 nav:
