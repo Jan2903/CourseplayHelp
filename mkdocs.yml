@@ -41,19 +41,85 @@ markdown_extensions:
 plugins:
   - search
   - i18n:
-      default_language: en
       docs_structure: folder
       languages:
         - locale: en
           name: English
           build: true
           default: true
+        - locale: de
+          name: Deutsch
+          build: true
+        - locale: br
+          name: Português (Brasil)
+          build: true
+        - locale: cs
+          name: Čeština
+          build: true
+        - locale: ct
+          name: Català
+          build: true
+        - locale: cz
+          name: Česko
+          build: true
+        - locale: da
+          name: Dansk
+          build: true
+        - locale: ea
+          name: Español (EA)
+          build: true
+        - locale: es
+          name: Español
+          build: true
+        - locale: fc
+          name: Français (Canada)
+          build: true
+        - locale: fi
+          name: Suomi
+          build: true
         - locale: fr
           name: Français
           build: true
+        - locale: hu
+          name: Magyar
+          build: true
+        - locale: it
+          name: Italiano
+          build: true
+        - locale: jp
+          name: 日本語
+          build: true
+        - locale: kr
+          name: 한국어
+          build: true
+        - locale: nl
+          name: Nederlands
+          build: true
+        - locale: no
+          name: Norsk
+          build: true
+        - locale: pl
+          name: Polski
+          build: true
+        - locale: pt
+          name: Português
+          build: true
+        - locale: ro
+          name: Română
+          build: true
+        - locale: ru
+          name: Русский
+          build: true
+        - locale: sv
+          name: Svenska
+          build: true
+        - locale: tr
+          name: Türkçe
+          build: true
+        - locale: uk
+          name: Українська
+          build: true
 
-
-          
 extra:
   social:
     - icon: simple/github
