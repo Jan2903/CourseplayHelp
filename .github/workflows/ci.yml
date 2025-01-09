@@ -1,7 +1,7 @@
-name: ci
+name: ci 
 on:
   workflow_run:
-    workflows:
+    workflows: 
       - generate-markdown-files
     types:
       - completed
@@ -13,33 +13,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-
-      - name: Install MkDocs and Material Theme
-        run: pip install mkdocs-material
-
-      - name: Build Multi-language MkDocs Site
-        run: |
-          LANGUAGES="br cs ct cz da de ea en es fc fi fr hu it jp kr nl no pl pt ro ru sv tr uk"
-          for lang in $LANGUAGES; do
-            echo "Building site for $lang..."
-            cd config/$lang
-            mkdocs build
-            mv site ../../site/$lang
-            cd ../..
-          done
-
-      - name: Deploy Multi-language Site to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: site
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
