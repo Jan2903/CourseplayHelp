@@ -1,7 +1,7 @@
 # Erweitertes Helfermenü
 
   
-Die Einstellungen für jeden Helfer finden jetzt im Menü "Helfer Einstellungen" statt.  
+Die Einstellungen für jeden Helfer finden jetzt im Menü "Helfereinstellungen" statt.  
 Das Menü funktioniert grundlegend wie das alte Helfermenü.  
 Wird ein Fahrzeug auf der Map ausgewählt, könnt ihr einen Job erstellen, in Abhängigkeit der angeschlossenen Geräte und des Fahrzeugstyps.  
 Neben der Karte und den Job-Einstellungen findet ihr oben im Menü noch die Kursgenerator-Einstellungen für Feldarbeit und Reben. Diese sind nur verfügbar, wenn ihr ein gültiges Fahrzeug ausgewählt habt und einen Job erstellt habt.  
