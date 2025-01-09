@@ -89,9 +89,6 @@ plugins:
         - locale: "hu"
           name: "Magyar"
           build: true
-        - locale: "no"
-          name: "Norsk"
-          build: true
         - locale: "pl"
           name: "Polski"
           build: true
