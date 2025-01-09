@@ -51,7 +51,7 @@ plugins:
           name: Deutsch
           build: true
         - locale: br
-          name: Português (Brasil)
+          name: Brasil
           build: true
         - locale: cs
           name: Čeština
