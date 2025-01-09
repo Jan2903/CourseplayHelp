@@ -41,6 +41,7 @@ markdown_extensions:
 plugins:
   - search
   - i18n:
+      default_language: en
       docs_structure: folder
       languages:
         - locale: en
@@ -119,6 +120,7 @@ plugins:
         - locale: uk
           name: Українська
           build: true
+
 
 extra:
   social:
