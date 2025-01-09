@@ -39,34 +39,35 @@ markdown_extensions:
   - pymdownx.snippets
 
 plugins:
+  - search
   - i18n:
       default_language: en
       languages:
-        br: Brasil
-        cs: Čeština
-        ct: Català
-        cz: Česko
-        da: Dansk
-        de: Deutsch
-        ea: Español (EA)
-        en: English
-        es: Español
-        fc: Français (Canada)
-        fi: Suomi
-        fr: Français
-        hu: Magyar
-        it: Italiano
-        jp: 日本語
-        kr: 한국어
-        nl: Nederlands
-        no: Norsk
-        pl: Polski
-        pt: Português
-        ro: Română
-        ru: Русский
-        sv: Svenska
-        tr: Türkçe
-        uk: Українська
+        - br: Brasil
+        - cs: Čeština
+        - ct: Català
+        - cz: Česko
+        - da: Dansk
+        - de: Deutsch
+        - ea: Español (EA)
+        - en: English
+        - es: Español
+        - fc: Français (Canada)
+        - fi: Suomi
+        - fr: Français
+        - hu: Magyar
+        - it: Italiano
+        - jp: 日本語
+        - kr: 한국어
+        - nl: Nederlands
+        - no: Norsk
+        - pl: Polski
+        - pt: Português
+        - ro: Română
+        - ru: Русский
+        - sv: Svenska
+        - tr: Türkçe
+        - uk: Українська
 
 extra:
   social:
