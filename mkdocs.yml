@@ -44,9 +44,9 @@ plugins:
       default_language: en
       docs_structure: folder
       languages:
-        en:
+        - locale: en
           name: English
-        fr:
+        - locale: fr
           name: Français
           
 extra:
