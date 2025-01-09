@@ -8,12 +8,10 @@ CONFIG_FILE = os.path.join(CURRENT_DIR, "translation_data", "config.json")
 TRANSLATION_DIR = os.path.join(CURRENT_DIR, "translation_data")
 OUTPUT_DIR = os.path.join(CURRENT_DIR, "docs")
 IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets", "images")
-CONFIG_DIR = os.path.join(CURRENT_DIR, "config")  # Base folder for mkdocs.yml
 
 # Ensure required directories exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(IMAGES_DIR, exist_ok=True)
-os.makedirs(CONFIG_DIR, exist_ok=True)
 
 def copy_image_to_docs(image_filename):
     """Copy an image from the translation_data folder to the docs/assets/images folder."""
@@ -28,12 +26,12 @@ def format_text_with_line_breaks(text):
     """Format text by replacing detected newlines with Markdown-compatible line breaks."""
     return text.replace("\n", "  \n")
 
-def create_markdown_file(language_code, page, output_dir, file_index):
+def create_markdown_file(language_code, page, output_dir, file_index, is_index=False):
     """
     Creates a markdown file for a given page in a specific language.
+    If is_index is True, this file will be saved as index.md.
     """
-    # Format the file name with a numbered prefix
-    file_name = f"{file_index:02d}_page_{page['raw_title']}.md"
+    file_name = "index.md" if is_index else f"{file_index:02d}_page_{page['raw_title']}.md"
     file_path = os.path.join(output_dir, file_name)
     
     with open(file_path, "w", encoding="utf-8") as md_file:
@@ -54,46 +52,6 @@ def create_markdown_file(language_code, page, output_dir, file_index):
                 # Adjust the image path for MkDocs
                 image_path = f"../assets/images/{paragraph['image']['filename']}"
                 md_file.write(f"![Image]({image_path})\n\n")
-
-def create_index_md(language_code, translations, output_dir):
-    """
-    Creates an index.md file for the specified language.
-    """
-    index_path = os.path.join(output_dir, "index.md")
-    title = translations.get("CP_help_title", "CP_help_title")
-    sub_title = translations.get("CP_help_subtitle", "CP_help_subtitle")
-    
-    with open(index_path, "w", encoding="utf-8") as index_file:
-        index_file.write(f"# {title}\n\n")
-        index_file.write(f"{sub_title}\n")
-
-def create_mkdocs_yml(language_code):
-    """
-    Creates a mkdocs.yml file for the specified language in the config directory.
-    """
-    language_config_dir = os.path.join(CONFIG_DIR, language_code)
-    os.makedirs(language_config_dir, exist_ok=True)  # Ensure the language-specific config directory exists
-    mkdocs_path = os.path.join(language_config_dir, "mkdocs.yml")
-    
-    with open(mkdocs_path, "w", encoding="utf-8") as mkdocs_file:
-        mkdocs_file.write(f"""site_name: CP Help ({language_code.upper()})
-nav:
-  - Home: index.md
-  - Pages:
-""")
-        # Dynamically add the page links
-        docs_dir = os.path.join(OUTPUT_DIR, language_code)
-        for file_name in sorted(os.listdir(docs_dir)):
-            if file_name.endswith(".md") and file_name != "index.md":
-                mkdocs_file.write(f"    - {file_name.replace('.md', '').replace('_', ' ')}: {file_name}\n")
-        mkdocs_file.write("""
-theme:
-  name: material
-
-plugins:
-  - search
-""")
-
 
 def generate_site():
     """
@@ -129,9 +87,6 @@ def generate_site():
                     if not isinstance(translations, dict):
                         raise ValueError(f"Invalid {language_file} format. Ensure it is a JSON object.")
                 
-                # Create index.md for the language
-                create_index_md(language_code, translations, language_output_dir)
-                
                 # Generate Markdown files for each page with numbering
                 for index, page in enumerate(pages, start=1):
                     # Translate titles and paragraphs
@@ -150,10 +105,8 @@ def generate_site():
                         page_data["paragraphs"].append(translated_paragraph)
                     
                     # Create the Markdown file
-                    create_markdown_file(language_code, page_data, language_output_dir, index)
-                
-                # Create mkdocs.yml for the language
-                create_mkdocs_yml(language_code)
+                    is_index = (index == 1)  # First page becomes index.md
+                    create_markdown_file(language_code, page_data, language_output_dir, index, is_index=is_index)
                     
     except Exception as e:
         print(f"Error: {e}")
@@ -161,3 +114,4 @@ def generate_site():
 
 if __name__ == "__main__":
     generate_site()
+    
