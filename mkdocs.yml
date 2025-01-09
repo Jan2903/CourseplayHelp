@@ -44,10 +44,12 @@ plugins:
       default_language: en
       docs_structure: folder
       languages:
-        - locale: en
+         en:
           name: English
-        - locale: fr
+          build: true
+         fr:
           name: Français
+          build: true
           
 extra:
   social:
