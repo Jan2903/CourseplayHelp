@@ -89,12 +89,6 @@ plugins:
         - locale: "hu"
           name: "Magyar"
           build: true
-        - locale: "jp"
-          name: "日本語"
-          build: true
-        - locale: "kr"
-          name: "한국어"
-          build: true
         - locale: "no"
           name: "Norsk"
           build: true
