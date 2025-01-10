@@ -43,7 +43,7 @@ plugins:
       default_language: en
       docs_structure: folder
       languages:
-        - locale: "jp"
+        - locale: "ja"
           name: "日本語"
           build: true
         - locale: "en"
