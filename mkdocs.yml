@@ -1,21 +1,24 @@
 site_name: CoursePlay
 site_url: https://jan2903.github.io/CourseplayHelp
+
 theme:
   name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/logo.png
-  favicon: assets/favicon.ico
+  logo: assets/icons/logo.png
+  favicon: assets/icons/favicon.ico
   features:
     - navigation.footer
   palette:
+    # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
       primary: green
       accent: deep purple
+    # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -43,55 +46,65 @@ plugins:
         - de
         - es
         - pt
-        - ru
         - it
         - nl
         - da
+        - fi
         - hu
-        - jp
-        - pl
   - i18n:
+      default_language: en
       docs_structure: folder
       languages:
         - locale: "en"
           name: "English"
+          build: true
           default: true
         - locale: "fr"
           name: "Français"
+          build: true
         - locale: "de"
           name: "Deutsch"
+          build: true
         - locale: "es"
           name: "Español"
+          build: true
         - locale: "pt"
           name: "Português"
+          build: true
         - locale: "ru"
           name: "Русский"
+          build: true
         - locale: "it"
           name: "Italiano"
+          build: true
         - locale: "nl"
           name: "Nederlands"
+          build: true
         - locale: "da"
           name: "Dansk"
+          build: true
         - locale: "fi"
           name: "Suomi"
+          build: true
         - locale: "hu"
           name: "Magyar"
-        - locale: "jp"
-          name: "日本語"
-        - locale: "kr"
-          name: "한국어"
-        - locale: "no"
-          name: "Norsk"
+          build: true
         - locale: "pl"
           name: "Polski"
+          build: true
         - locale: "ro"
           name: "Română"
+          build: true
         - locale: "sv"
           name: "Svenska"
+          build: true
         - locale: "tr"
           name: "Türkçe"
+          build: true
         - locale: "uk"
           name: "Українська"
+          build: true
+
 
 extra:
   social:
