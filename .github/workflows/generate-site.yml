@@ -1,9 +1,6 @@
 name: generate-markdown-files
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
