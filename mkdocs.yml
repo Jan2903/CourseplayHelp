@@ -16,7 +16,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
+      primary: lime
       accent: deep purple
     # Light Mode
     - scheme: default
