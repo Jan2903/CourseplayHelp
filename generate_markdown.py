@@ -86,7 +86,8 @@ def generate_site():
                         "ea": "es_BR",
                         "fc": "fr_CA",
                         "jp": "ja",
-                        "kr": "ko"
+                        "kr": "ko",
+                        "no": "nb"
                  }
                 # Adjust language_code based on the mapping
                 language_code = mapping.get(language_code, language_code)
