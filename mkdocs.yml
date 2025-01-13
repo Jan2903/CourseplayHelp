@@ -54,6 +54,7 @@ plugins:
           build: true
         - locale: "en"
           name: "English"
+          default: true
           build: true
         - locale: "es"
           name: "Español"
