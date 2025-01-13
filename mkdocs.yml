@@ -86,7 +86,7 @@ plugins:
         - locale: "nl"
           name: "Nederlands"
           build: true
-        - locale: "no"
+        - locale: "nb"
           name: "Norsk"
           build: true
         - locale: "pl"
