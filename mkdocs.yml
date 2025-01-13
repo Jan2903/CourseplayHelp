@@ -43,48 +43,65 @@ plugins:
   - i18n:
       docs_structure: folder
       languages:
-        - locale: "ja"
-          name: "日本語"
-          build: true
-        - locale: "en"
-          name: "English"
-          build: true
-          default: true
-        - locale: "fr"
-          name: "Français"
-          build: true
-        - locale: "de"
-          name: "Deutsch"
-          build: true
-        - locale: "es"
-          name: "Español"
-          build: true
-        - locale: "pt"
-          name: "Português"
-          build: true
-        - locale: "ru"
-          name: "Русский"
-          build: true
-        - locale: "it"
-          name: "Italiano"
-          build: true
-        - locale: "nl"
-          name: "Nederlands"
+        - locale: "cs"
+          name: "Čeština"
           build: true
         - locale: "da"
           name: "Dansk"
           build: true
+        - locale: "de"
+          name: "Deutsch"
+          build: true
+        - locale: "en"
+          name: "English"
+          build: true
+        - locale: "es"
+          name: "Español"
+          build: true
+        - locale: "es_419"
+          name: "Español Latinoamericano"
+          build: true
         - locale: "fi"
           name: "Suomi"
+          build: true
+        - locale: "fr"
+          name: "Français"
+          build: true
+        - locale: "fr_CA"
+          name: "Français Canadien"
           build: true
         - locale: "hu"
           name: "Magyar"
           build: true
+        - locale: "it"
+          name: "Italiano"
+          build: true
+        - locale: "ja"
+          name: "日本語"
+          build: true
+        - locale: "ko"
+          name: "한국어"
+          build: true
+        - locale: "nl"
+          name: "Nederlands"
+          build: true
+        - locale: "no"
+          name: "Norsk"
+          build: true
         - locale: "pl"
           name: "Polski"
           build: true
+        - locale: "pt"
+          name: "Português"
+          build: true
+        - locale: "pt_BR"
+          name: "Português Brasileiro"
+          build: true
         - locale: "ro"
           name: "Română"
+          build: true
+        - locale: "ru"
+          name: "Русский"
           build: true
         - locale: "sv"
           name: "Svenska"
@@ -95,7 +112,12 @@ plugins:
         - locale: "uk"
           name: "Українська"
           build: true
-
+        - locale: "zh_CN"
+          name: "简体中文"
+          build: true
+        - locale: "zh_TW"
+          name: "繁體中文"
+          build: true
 
 extra:
   social:
