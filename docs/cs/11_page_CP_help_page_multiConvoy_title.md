@@ -1,25 +1,25 @@
-# 多工具与车队
+# Více strojů a konvoj
 
   
-一个车队最多可以有 5 辆车在同一田地上一起工作（也称为多工具任务）。   
-
-
-  
-加载多工具任务后，您需要为驾驶员选择车道。   
-这些车道的名称总是相同的：   
-左（1），左（2），右（1），右（2）。   
- 2辆车有左（1）和右（1），4 辆车有左（2）和右（2）。   
-拥有 3 或 5 辆车时，您还将获得中间选项。   
+Je možné mít až 5 vozidel spolupracujících na stejném poli (také nazývané jako konvoj).  
 
 
   
-只有当车辆具有相同的多工具路线并加载相同的名称时，车队才能工作。   
-它们会自动与前面的车辆保持一小段距离。   
-此外，当打包机在同一路线上的联合收割机后面行驶时，也会应用车辆距离功能。  
+Po načtení trasy s více stroji budete muset vybrat dráhu pro řidiče.  
+Tyto pruhy se vždy jmenují stejně:  
+vlevo (2), vlevo (1), uprostřed, vpravo (1), vpravo (2).  
+2 vozidla budou mít levou (1) a pravou (1), 4 budou mít levou (2) a pravou (2).  
+Se 3 nebo 5 vozidly získáte také středovou variantu.  
 
 
   
-车辆距离设置更改车辆之间的距离。  
-所有具有相同任务名称的车辆的距离将自动设置为车队中所有车辆的最大值。   
+Konvoj funguje pouze v případě, že vozidla mají nahranou stejnou trasu s více stroji se stejným názvem.  
+Automaticky budou udržovat malý odstup od vozidla před vámi.  
+Kromě toho se funkce konvoje také uplatní, když například lis jede za kombajnem na stejné trase.  
+
+
+  
+Nastavení vzdálenosti konvoje vozidel mění vzdálenost mezi vozidly.  
+Vzdálenost všech vozidel se stejným názvem trasy bude automaticky nastavena na nejvyšší hodnotu ze všech vozidel v konvoji.  
 
 

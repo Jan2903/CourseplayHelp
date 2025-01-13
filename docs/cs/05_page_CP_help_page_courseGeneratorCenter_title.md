@@ -1,53 +1,47 @@
-# Course generator center
+# Generátor tras středu pole
 
   
-针对于田地的路径规划，可以采取不同的模式来完成工作。  
-大多数情况下，所使用工具是选择何种模式的原因所在。  
-这些模式是根据我们社区的反馈和信息制定的。  
-简单的往返模式几乎适用于任何工具。  
-但在某些情况下，选择其他模式可能更佳；  
-例如在使用联合收割机收割时，采用区域（由内向外）模式能更好地保证管道位于作物之外，从而提高卸载效率。  
-圆环（由外向内）模式可能是减少狭窄转角的最好解决方案，使得收集工作更加容易。  
-螺旋模式是给予带偏置的牵引式收割机的更好解决方案， 把工具放在作物里，把拖拉机放在外面。  
+Pro střed pole jsou k dispozici různé strategie pro práci. Většinou je zvolený nástroj důvodem pro výběr konkrétní strategie před ostatními. Dostupné strategie byly vytvořeny na základě zpětné vazby a informací od naší komunity.  
+Jednoduchá strategie nahoru dolů funguje téměř vždy pro jakýkoli nástroj. Může však být lepší zvolit jinou, například při sklizni kombajnem, režim záhon je lepší způsob, jak udržet rouru mimo plodinu pro efektivnější vykládání.  
+U sekání může být lepší řešením režim kruh pro méně úzké zatáčky, aby se usnadnila práce vykladači.  
+Spirála je lepším řešením pro tažený kombajn s odsazením, aby nářadí zůstalo v plodině a traktor mimo něj.  
 
 
   
-- 路径规划: 关于你的路径规划模式有多种模式，最经典和常用的是往返。  
-          螺旋、圆环（由外向内）和区域（由内向外）在其他田地有其独特优势。  
-          例如，条田通常能让联合收割机的管道伸出作物之外，从而更便于卸货。  
-- 路径方向：与地头转向设置类似，但现在可以独立设置。  
-- 均分车道：如果田地的总宽度不能被工具的作业宽度均匀分配，那么第一行或最后一行将会有一个狭窄的剩余作业区域。  
-           为避免这种情况，每行的宽度都会减小，以确保所有行都能均匀分配。  
-- 往返方向：程序自动通常会找到最佳方向，但有时最长的边更适合。您如果对其自动生成的方向不满意，请选择手动并设置方向。  
-- 方向角度：当往返方向设置为手动时，会出现此设置，手动设置往返方向角度。  
+- Střed pole: Existují různé režimy, jak by měl vypadat vzor středu pole. Klasický a nejpoužívanější je nahoru/dolů.  
+Spirála, kruh a záhon mají oproti ostatním své specifické výhody. Například u kruh bude trubka kombajnu většinu času směřovat ven z plodin, aby se snadněji vykládaly.  
+- Směr na středu: Funguje to stejně jako u směru na souvrati, ale lze jej nyní nastavit nezávisle.  
+- Rovnoměrná šířka řádku: Pokud má střed pole celkovou šířku, kterou nelze rovnoměrně rozdělit na pracovní šířku nástroje, bude mít 1. nebo poslední řádek úzký zbytek práce. Aby se tomu zabránilo, šířka každého řádku se zmenší, aby byla rovnoměrně rozdělena na všechny řádky.  
+- Směr řádku: automatický režim většinou najde nejlepší směr, ale někdy se lépe hodí nejdelší okraj. Pokud nejste spokojeni ani s jedním z nich, zvolte ruční a nastavte směr ručně.  
+- Úhel řádku: Pokud je směr řádků nastaven na ruční, zobrazí se toto nastavení, které generátoru udává směr řádků.  
   
-These settings appear only for specific settings you have done before:  
-- 需要跳过的路径: 当田地中心路线设置为"往返"模式时才出现。可以加快您的工作，使车辆不会在地头的转向、倒车时花费太多的时间。  
-- 每块区域的行数: 当田地中心路线设置为"区域（由内向外）"模式时才出现。将告诉任务生成器每块区域应该有多少行。行越多，产生的区域就越少。  
-- 从内部螺旋: 当田地中心路线设置为"螺旋"模式时才出现。  
-- 圆环数量: 当田地中心路线设置为"圆环（由外向内）"模式时才出现。  
+Tato nastavení se zobrazují pouze pro konkrétní nastavení, která jste provedli dříve:  
+- Řádky k přeskočení: Zobrazí se, když je střed pole nastaven na "nahoru/dolů". Jedná se o velmi užitečnou volbu pro urychlení práce, protože nástroje nebudou muset couvat, aby se otočily do dalšího řádku.  
+- Řádky na záhonu: Zobrazí se, když je střed pole nastaven na "záhon". Tato položka má vliv pouze tehdy, když je střed pole nastaven na záhon, a říká generátoru, kolik řádků má mít každý záhon. Čím více řádků, tím méně záhonů bude vygenerováno.  
+- Spirála zevnitř: Zobrazí se, když je střed pole nastaven na "spirála".  
+- Počet obkroužení: Zobrazí se, když je střed pole nastaven na "kruh".  
 
 
 ## 
-往返
+nahoru/dolů
 
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
 ## 
-区域（由内向外）
+záhon
 
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
 ## 
-螺旋
+spirála
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
 ## 
-圆环（由外向内）
+kruh
 
 
 ![Image](../assets/images/racetrack_0_0_1024_589.png)

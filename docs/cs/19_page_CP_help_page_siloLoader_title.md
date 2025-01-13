@@ -1,14 +1,14 @@
-# 筒仓或谷堆装载
+# Odvoz do/ze silážní jámy
 
   
-有了这项工作，就可以从田地上或附近的堆中加载。  
-此外，还可以从料仓装载。  
-加载程序可以使用Courseplay卸载程序卸载  
+S touto funkcí je možné nabírat z hromady na poli nebo v jeho blízkosti.  
+Navíc je možné nabírat siláž z jámy.  
+Nakladač může být vyložen pomocí CP.  
 
 
   
-要启动AI菜单上的加载标记，需要设置。  
-标记检测堆或竖井，并在地图上高亮显示它们。  
-现在可以启动辅助程序了。  
+Chcete-li spustit nakládací značku v nabídce AI, je třeba ji nastavit.  
+Značka detekuje hromady nebo silážní jámy a zvýrazňuje je na mapě.  
+Nyní je možné spustit pracovníka.  
 
 

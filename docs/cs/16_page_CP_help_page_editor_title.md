@@ -1,26 +1,26 @@
-# 任务线路编辑
+# Editor tras
 
   
-任务编辑器可用于编辑任务和自定义地块。  
-当编辑器关闭时，加载的任务将自动保存/覆盖。  
-1） 编辑自定义地块可以使用ai菜单页面上的选定地块来完成。  
-2） 编辑任务可以在任务管理器中完成。  
-在那里，您可以编辑保存的路线，但一定要从车辆中清除当前加载的路线。  
-当然，只有当任务生成器无法生成足够好的任务时，才应该进行编辑。  
-不正确的编辑可能会给cp驱动程序带来问题，因为路点具有隐藏的属性。  
-
-
-  
-基本类别下有：  
-1） 移动笔刷将悬停的航路点移动到笔刷位置。  
-2） 插入笔刷可以在选定航路点的前面或后面插入航路点。  
-可以使用红色删除按钮删除航路点。  
+Editor tras lze použít k úpravě tras a vlastních polí.  
+Po zavření editoru budou načtené trasy automaticky uloženy/přepsány.  
+1) Úpravu vlastního pole lze provést pomocí vybraného pole na stránce nabídky ai.  
+2) Editaci trasy lze provést ve správci trasy.  
+Zde můžete upravit uloženou trasu, ale ujistěte se, že jste vymazali aktuálně načtenou trasu z vozidla.  
+Úpravy by samozřejmě měly být prováděny pouze tehdy, když generátor tras nemůže vytvořit dostatečně dobrou trasu.  
+Nesprávná úprava může způsobit problémy ovladači cp, protože trasové body mají skryté atributy.  
 
 
   
-高级类别下有：  
-1） 将其间的多个路点移动到选定路点的笔刷。  
-2） 在选定的路点之间插入路点曲线的笔刷。  
-3） 用于设置航路点转弯属性的笔刷（仅适用于航线，而非自定义字段）。  
+V základní kategorii jsou:  
+1) Pohyblivý štětec přesune visící navigační bod do polohy štětce.  
+2) Vkládací štětec může vkládat trasové body před nebo za vybraný trasový bod.  
+Mazání trasových bodů lze provést červeným tlačítkem mazání.  
+
+
+  
+Pod pokročilou kategorií jsou:  
+1) Štětec pro přesun více trasových bodů mezi vybrané trasové body.  
+2) Štětec pro vložení křivky trasových bodů mezi vybrané trasové body.  
+3) Štětec pro nastavení atributu otočení trasového bodu (pouze s trasou a ne vlastním polem).  
 
 

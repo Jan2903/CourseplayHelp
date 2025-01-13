@@ -1,25 +1,27 @@
-# 自定义田地
+# Vlastní pole
 
   
-有两种方法可以创建自定义田地。  
-第一个是使用HUD的记录功能。  
-开始记录并记录田地边界。  
-完成后，再次按下按钮，系统会询问您是否要保存它。  
+Vlastní pole lze vytvořit dvěma způsoby.  
+Prvním z nich je použití funkce záznamu HUD.  
+Spusťte záznam a zaznamenejte hranici pole.  
+Po dokončení znovu stiskněte tlačítko a budete dotázáni, zda jej chcete uložit.  
 
 
 ![Image](../assets/images/recordcustomhelp_0_0_765_510.png)
 
-查看 AI 菜单，您将看到记录的田地边界。  
-通过单击名称，您将获得删除或重命名的选项。   
+  
+Když se podíváte na nabídku AI, uvidíte hranici zaznamenaného pole.  
+Kliknutím na Název získáte možnost jej buď smazat, nebo přejmenovat.  
 
 
 ![Image](../assets/images/donecustomhelp_0_0_765_510.png)
 
-第二个选项是在 AI 菜单地图上绘制它。  
-没有选择拖拉机或其他车辆（左键单击地图上的某处），您可以选择绘制自定义田地。  
-开始时，将显示文本右键单击绘制自定义田地线。  
-使用鼠标右键单击要开始的位置。  
-下一次右键单击将从您的起点画一条线到您的第二个位置，这将是下一条线的起点。  
+  
+Druhou možností je nakreslit jej na AI Menu Map.  
+Nemáte-li vybraný žádný traktor nebo jiné vozidlo (klikněte levým tlačítkem někam na mapu), získáte možnost nakreslit vlastní pole.  
+Po spuštění se zobrazí text kreslení vlastních čar pole kliknutím pravým tlačítkem.  
+Pomocí pravého tlačítka myši klikněte na pozici, kde chcete začít.  
+Další kliknutí pravým tlačítkem nakreslí čáru z vašeho počátečního bodu do vaší druhé pozice, která bude počátečním bodem pro další čáru.  
 
 
 ![Image](../assets/images/drawcustomhelp_0_0_765_510.png)

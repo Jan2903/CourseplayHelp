@@ -1,28 +1,28 @@
-# 对称变道
+# Symetrická změna jízdního pruhu
 
   
-对称变道用于多工具任务模式，能使AI司机转弯后知道他必须在哪条车道上行驶。  
-这有点难以理解，所以让我们看两个例子。  
+Symetrická změna jízdního pruhu se používá v trasách s více stroji a říká řidiči, ve kterém pruhu má jet po odbočení.  
+To je trochu těžké pochopit, takže se podívejme na dva příklady.  
 
 
 ![Image](../assets/images/regularchange_0_0_1020_765.png)
 
   
-当对称变道关闭时，车辆保持在侧置车道上。  
-这意味着他总是在车道靠左行驶或靠右行驶。  
-这就确保了AI助手们不会并排行驶。  
-不会有与其他车辆发生碰撞的风险。  
+Když je symetrická změna jízdního pruhu vypnuta, vozidlo zůstane ve svém posunutém jízdním pruhu.  
+To znamená, že vždy jede vlevo nebo vpravo z trasy.  
+Tím je zajištěno, že pomocníci nejedou vedle sebe.  
+Nebude hrozit konflikt s jiným řidičem.  
 
 
 ![Image](../assets/images/symetricchange_0_0_1020_765.png)
 
   
-如果开启了对称变道，左右将会交换(但不显示在HUD中)。  
-车辆在彼此相向行驶时可能会发生碰撞。  
-那么，对称变道的优势是什么呢?  
-如果你看一下车道的次序，从左到右，就会很清楚:  
-没有对称的变化:左，右，左，右——它几乎就像跳过一个车道。  
-有对称的变化:左，右，右，左——从左到右，一条车道接着另一条。  
-在联合收割机的例子中，它的意思是，没有联合收割机的车道左右都不会有作物。  
+Pokud je zapnuta symetrická změna jízdního pruhu, dojde k záměně levého a pravého pruhu (nezobrazeno na HUD).  
+Vozidla se mohou vzájemně střetávat, když jedou proti sobě.  
+Jaká je potom výhoda symetrické změny pruhu?  
+Pokud se podíváte na pořadí jízdních pruhů zleva doprava, bude to jasné:  
+Bez symetrické změny: vlevo, vpravo, vlevo, vpravo - je to skoro jako přeskakování jízdního pruhu.  
+Se symetrickou změnou: vlevo, vpravo, vpravo, vlevo - zleva doprava, jeden jízdní pruh za druhým.  
+V příkladu s kombajnem to znamená, že žádný kombajn nebude mít plodinu nalevo a napravo od své dráhy.  
 
 

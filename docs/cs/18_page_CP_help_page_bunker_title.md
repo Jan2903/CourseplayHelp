@@ -1,19 +1,19 @@
-# 青贮工作
+# Pracovník v silážní jámě
 
   
-Courseplay能够在料仓中压实或分配箔条，或在楔形料仓中推动箔条。  
-无需任何专用工具、使用压路机、配重或仅使用车辆即可压实。  
-对于分发，有专门的工具。（例如der Fliegel DUO）。  
-对于楔形筒仓，使用护罩将谷壳推到筒仓后部。  
+Courseplay je schopen dusat nebo nahrnovat řezanku v silážní jámě.  
+Zhutňování je možné bez speciálního nářadí, s válcem, závažím nebo jen vozidlem.  
+Pro tyto práce existují speciální nástroje. (např. der Fliegl DUO).  
+V uzavřených silážních jámách se používá radlice k nahrnování řezanky na zadní stranu sila.  
 
 
   
-如果车辆连接了分配器或护罩，则会预选筒仓模式。仅连接重物或滚轮  
-在起始点之间切换，直到出现模式。  
-除了工作宽度，您还可以选择驾驶员驶入筒仓的方向。在附接屏蔽的情况下，  
-方向是自动选择的。  
-使用HUD上的目标图标在AI地图上选择思洛存储器。如果选中，则将显示为蓝色线条，并亮起白色。  
-停车位置用标记“A”设置；停车位置”；维奇也可以和巨人队的助手一起开车去那里  
-在开始实际工作之前。  
+Pokud má vozidlo připevněnu radlici, je předvolen režim Silo. S připojeným závažím nebo váleci  
+přepínáte počáteční bod, dokud se neobjeví režim.  
+Kromě pracovní šířky můžete také zvolit směr, kterým má řidič zajíždět do sila. S připevněnou radlicí,  
+se směr volí automaticky.  
+Pomocí ikony cíle na HUD vyberte silo na mapě AI. Pokud se zobrazí s modrými čarami a rozsvítí se bíle, je vybráno.  
+Parkovací poloha se nastavuje pomocí značky "parkovací pozice"; se kterou lze také jezdit s pomocníkem Giants  
+před zahájením skutečné práce.  
 
 

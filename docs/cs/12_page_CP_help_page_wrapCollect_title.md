@@ -1,26 +1,28 @@
-# 扎捆和草垛收集
+# Ovíjení a sběr balíků
 
   
-扎捆和收集草垛可以通过两种不同的方式完成。  
-第一个是加载用于打包机的相同任务，并让打包机机或装载车运行该任务。   
-然而，这可能很棘手，因为有些草垛喜欢滚动或飞离路径。  
-此时，我们的 扎捆和草垛收集 作业类型可以提供帮助，因为它不需要创建任务路径。   
-留在场地上，只需从 迷你HUD 启动司机，使用扎捆/草垛收集或使用 AI 地图将他送到场地开始工作。   
-
-
-  
-扎捆包非常简单。 加载您的打包机任务并像任何其他田地工作一样开始，或者没有任务，从 迷你HUD 或 AI 菜单开始扎捆/草垛收集。   
+Ovíjení a sběr balíků lze provádět dvěma různými způsoby.  
+Prvním z nich je načíst stejnou dráhu, kterou jste použili pro svůj lis a nechat ovíječku nebo sběrač jet v této dráze.  
+To však může být složité, protože některé balíky se rády kutálejí nebo sjedou z trasy.  
+V tomto okamžiku může pomoci náš typ úlohy zabalit a vyzvednou, protože nepotřebuje trasu.  
+Zůstaňte na poli a jednoduše nastartujte řidiče z HUD s ovíjením/sbíráním balíků nebo použijte AI mapu a pošlete ho na pole, aby začal pracovat.  
 
 
   
-使用路线时，助手以预设工具纵横向调整行驶，因此草垛打包机位于路线中间。   
-如果没有路线，Courseplay 会扫描田地以识别未收集的草垛，并使用路径查找寻找最接近收集车辆的草垛。   
-如果草垛在车前或太靠近田地边缘，则会自动倒车防止事故的发生。   
+Ovíjení balíků je velmi jednoduché. Načtěte trasu svého lisu a začněte jako jakákoli jiná práce v terénu, nebo bez trasy,  
+spusťte jej ovíjením/sběrem balíků z HUD nebo nabídky AI.  
 
 
   
-收集草垛的工作是类似的，有或没有路线。  
-当收集拖车已满时，它将停止工作并告诉玩家需要卸载它。如果你有AutoDrive  
-安装后，您可以使用它运行一个自动卸载草垛拖车的任务。  
+Při použití trasy jede pomocník s přednastaveným odsazením, takže sběrač je uprostřed trasy.  
+Bez trasy Courseplay prohledá pole, zda neobsahuje nezabalené balíky, a pomocí pathfinderu najde způsob, jak  
+vyhledat nejbližší balík k ovíjení.  
+Automatické couvání, pokud je balík před vozidlem nebo pokud jsme příliš blízko hranice pole, by mělo zabránit nehodám.  
+
+
+  
+Sběr balíků funguje stejně, s trasou nebo bez ní.  
+Když je sběrač plný, zastaví práci a oznámí uživateli, že je třeba vyložit. Pokud máte  
+nainstalován AutoDrive, můžete jej použít k automatickému spuštění vykládky sběrače balíků.  
 
 

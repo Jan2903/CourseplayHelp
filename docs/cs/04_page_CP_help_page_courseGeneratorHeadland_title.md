@@ -1,19 +1,19 @@
-# 任务生成器地头
+# Generátor tras souvratí
 
   
-田间地头设置，只会当你设置了至少1个地头数量时显示。  
-你可以选择从哪里开始，转角设置，方向和地头重叠。  
-强烈建议使用地头，以防止工具在转弯时离开田地范围。  
+Nastavení souvrati se zobrazí pouze tehdy, když nastavíte alespoň 1 v poli 'Počet souvratí'.  
+Získáte možnosti, kde začít, nastavení rohů, směr a překrytí.  
+Velmi se doporučují souvratě, aby se zabránilo tomu, že nástroje opustí pole při otáčení.  
 
 
   
-- 开始工作:如AI扩展菜单中所述，田地位置用于设置田地工作过程的开始或结束位置。  
-当设置从地头出发时，它会告诉起点应该在哪里。当更改为从路径点开始时，它将告诉在哪里结束工作。  
-- 地头：平滑 会对角落进行简单的平滑处理，这适用于所有工具，但会导致角落出现微小的未覆盖到的区域。   
-未覆盖到的区域可以通过重叠减少，但并不能完美解决。  倒车会根据田地边缘角的角度生成一个转弯。   
-循环会根据当前选定的车辆转弯半径，以获得该工具的最佳圆角。   
-- 地头方向： 从左往右或从右往左。 这对于联合收割机和收割机来说可能很重要，具体取决于管道或传送带的哪一侧。   
-- 地头重叠：所有地头应有多少重叠百分比。 第一个与字田地边界没有重叠，但中间的将与其邻居重叠。  
+- Začátek práce: Jak je uvedeno v rozšířené nabídce AI, poloha pole se používá k nastavení počáteční nebo koncové polohy pro trasu práce na poli.  
+Když je nastaven start na souvrati, říká, kde by měl být start. Když se změní na začátek na řádcích, řekne, kde má práci ukončit.  
+- Souvraťové rohy: Zaoblený bude mít jednoduché vyhlazení přes rohy. To funguje pro všechny nástroje, ale povede to k drobným neopracovaným místům v rozích.  
+S pocouvnutím se dají zmenšit, ale nikdy nezmizí. Pocouvnutí vygeneruje otočení na základě úhlu hranice pole.  
+Zaoblený vezme v úvahu aktuálně vybraný poloměr zatáčky, aby byl pro daný nástroj nejlepší zaoblený roh.  
+- Směr souvrati: ve směru nebo proti směru hodinových ručiček. To může být důležité pro kombajny a sklízeče, v závislosti na tom, na které straně je výsypová roura nebo dopravní pás.  
+- Souvraťový přesah: Kolik % by měly mít všechny souvratě. První se nebude překrývat s hranicí pole, ale vnitřní se budou překrývat se svou sousední.  
 
 
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)

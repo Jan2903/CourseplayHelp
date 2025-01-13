@@ -1,42 +1,42 @@
-# 任务管理
+# Správce tras
 
   
-任务管理器允许您保存任务并允许您稍后再次加载保存的任务。   
-当您想让多个工人为车队（多工具）驾驶同一路线时，这一点非常重要。   
-此功能还允许您使用牧草车或打包机拾取联合收割机或割晒机留下的条带。   
-任务文件的保存位置是：..\My Games\FarmingSimulator2022\modSettings\FS22_Courseplay\Courses\Mapname.SampleModMap (或vanilla，例如MapUS).  
-任务管理的工作方式与您在 FS19 中习惯的方式不同。   
-任务被保存到文件夹中，该文件夹将显示在左侧。 这意味着您至少需要一个文件夹才能开始将任务保存到其中。  
-文件夹可以通过屏幕底部的按钮简单地创建并输入名称。  
-任务目前仅保存在本地。  
+Správce tras vám umožňuje ukládat trasy a umožňuje vám uloženou trasu později znovu načíst.  
+To je opravdu důležité, když chcete, aby více pracovníků použilo stejnou trasu (konvoj).  
+Tato funkce vám také umožňuje sebrat řádek, který za sebou zanechal kombajn nebo řádkovač se sběracím vozem nebo lisem.  
+Umístění pro uložení souborů tras je: ..\My Games\FarmingSimulator2022\modSettings\FS22_Courseplay\Courses\Mapname.SampleModMap (nebo např. MapUS).  
+Správce tras funguje jinak, než na co jste zvyklí ve FS19.  
+Trasy se ukládají do složek, které se zobrazí vlevo. To znamená, že k ukládání tras budete potřebovat alespoň jednu složku.  
+Složky lze jednoduše vytvořit tlačítkem v dolní části obrazovky a zadáním názvu.  
+Trasy jsou nyní ukládány pouze lokálně.  
 
 
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
-加载任务后，您可以通过单击保存任务按钮，然后单击文件夹来保存它。  然后会出现一个弹出窗口，您可以在其中输入任务名称。   
-名称和位置可以稍后更改。   
-要从您的车辆中删除任务，请单击“清除当前任务”按钮。  
-要加载任务，您必须先选择文件夹，单击加载任务按钮，然后只需单击要加载的任务。   
-单击更改模式会激活任务管理的编辑模式。   
+Když máte trasu načtenou, můžete ji uložit kliknutím na tlačítko uložit trasu a poté na složku. Poté se objeví vyskakovací okno, kde můžete zadat název vaší trasy.  
+Název a umístění lze později změnit.  
+Chcete-li odstranit trasu ze svého vozidla, klikněte na tlačítko „Vymazat aktuální trasu“.  
+Pro načtení trasy byste museli nejprve vybrat složku, kliknout na tlačítko načíst trasu a poté jednoduše kliknout na trasu, kterou chcete načíst.  
+Kliknutím na režim Upravit aktivujete režim úprav správce tras.  
 
 
   
-在编辑模式处于活动状态时，您有以下选项：  
-- 将任务移动到另一个文件夹。  
-- 删除任务或文件夹。   
-- 重命名任务或文件夹。   
+Když je režim úprav aktivní, máte tyto možnosti:  
+- Přesunutí trasy do jiného adresáře.  
+- Mazání tras nebo adresářů.  
+- Přejmenování tras nebo adresářů.  
 
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
   
-对于移动任务：   
-  1) 单击屏幕底部的移动按钮。   
-  2) 单击要移动的任务。   
-  3) 单击要将任务移至的文件夹。   
-要重命名，您只需单击重命名按钮，然后单击文件夹或任务。 然后只需输入新名称。   
-要删除任务或文件夹，请单击删除按钮，然后单击要删除的文件夹或任务。   
-如果要删除文件夹，文件夹必须为空。   
+Pro přesun trasy:  
+   1) Klikněte na tlačítko pro přesun ve spodní části obrazovky.  
+   2) Klikněte na trasu, kterou chcete přesunout.  
+   3) Klikněte na adresář, kam chcete trasu přesunout.  
+Pro přejmenování stačí kliknout na tlačítko přejmenovat a poté na adresář nebo trasu. Poté stačí zadat nový název.  
+Pro smazání trasy nebo adresáře klikněte na tlačítko smazat a poté na složku nebo trasu, který chcete smazat.  
+Adresáře musí být prázdné, pokud je chcete smazat.  
 
 

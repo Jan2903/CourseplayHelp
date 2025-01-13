@@ -1,16 +1,16 @@
-# 任务生成器专家
+# Expertní generátor tras
 
   
-Some settings are only visible, if you set the expert mode to active on the global courseplay settings.  
-Before you play arround with those settings, you should make sure you know what the basic settings do.  
-Some expert settings only work properly under some conditions.  
+Některá nastavení jsou viditelná pouze v případě, že v globálním nastavení courseplay nastavíte expertní režim na aktivní.  
+Než si začnete hrát s těmito nastaveními, měli byste se ujistit, že víte, co základní nastavení dělají.  
+Některá expertní nastavení fungují správně pouze za určitých podmínek.  
   
-- Multiple Tools: This setting is used when you want more then just one vehicle to work on your course. As this gets a bit more complicated, there is a separate help topic for it.  
-- Narrow field: Creates the headland only at two short edges of the field. In that case, it is not possible to keep your vehicle on the field on the longest edges at the headland.  
-- Headland overlap: There is a default value that will always be used. This value can be changed with this setting. The overlap will be withing the field and won't overlap the field border.  
-- Field margin: This setting lets you move the field border in- or outwards of the original border.  
-- Use base line edge: A completly new feature, what only works on specific fields. If you have a field with a long radial border and place the field marker near it, the center line will follow that border.  
-IMPORTANT NOTE: Should the generated course not be perfect or even bad, the selected edge or the field will not work with this feature. There also won't be an Update for this!  
+- Více nástrojů: Toto nastavení se používá, pokud chcete, aby na kurzu pracovalo více než jen jedno vozidlo. Protože je to trochu složitější, je pro to samostatné téma nápovědy.  
+- Úzké pole: Vytváří souvratě pouze na dvou krátkých okrajích pole. V takovém případě není možné udržet vozidlo na poli na nejdelších okrajích na souvrati.  
+- Překrytí souvrati: Vždy se použije výchozí hodnota. Tuto hodnotu lze změnit pomocí tohoto nastavení. Překrytí bude uvnitř pole a nebude překrývat hranice pole.  
+- Okraj pole: Toto nastavení umožňuje posunout okraj pole dovnitř nebo ven z původního okraje.  
+- Použijte okraj základní čáry: Zcela nová funkce, která funguje pouze na určitých polích. Pokud máte pole s dlouhým radiálním okrajem a umístíte značku pole do jeho blízkosti, bude středová čára kopírovat tento okraj.  
+DŮLEŽITÉ UPOZORNĚNÍ: Pokud by vygenerovaný průběh nebyl dokonalý nebo dokonce špatný, vybraná hrana nebo pole nebude s touto funkcí fungovat. Nebude k dispozici ani aktualizace pro tuto funkci!  
 
 
 ![Image](../assets/images/baseedge_0_0_1020_545.png)

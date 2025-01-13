@@ -1,25 +1,25 @@
-# 信息面板
+# Informační panel
 
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
-这是我们的信息面板，它可以通过鼠标移动，就像我们的迷你HUD一样。  
-除了Mod的名称和版本，它还显示了关于cp任务车辆的状态信息。  
-当鼠标悬停在状态信息上时，车辆的名称将显示出来。  
-点击它，你就可以直接切换到车辆。  
+Toto je náš informační panel, lze s ním pohybovat pomocí kurzoru myši, stejně jako náš Mini HUD.  
+Kromě názvu a verze našeho Modu také zobrazuje stavové informace o ovladačích CP.  
+Při najetí na stavovou zprávu se zobrazí název vozidla.  
+Kliknutím na něj můžete skočit přímo do vozidla.  
 
 
   
-信息如下:  
-- 助手卡住了  
-- 被物体挡住  
-- 应该加油  
-- 需要加油  
-- 需要修理  
-- 需要重新填充  
-- 需要卸载  
-- 已完成工作  
-- 资金不足  
-- 等待雨停  
+Informace jsou následující:  
+- Pomocník se zasekl  
+- Je blokován objektem  
+- Měl by se natankovat  
+- Je třeba doplnit palivo  
+- Potřebuje opravit  
+- Je třeba doplnit  
+- Je třeba vyložit  
+- Práce dokončena  
+- Nedostatek peněz  
+- Čeká, až skončí déšť  
 
 
