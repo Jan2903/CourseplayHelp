@@ -83,7 +83,7 @@ def generate_site():
                         "cs": "zh_CN",
                         "ct": "zh_TW",
                         "cz": "cs",
-                        "ea": "es_419",
+                        "ea": "es_BR",
                         "fc": "fr_CA",
                         "jp": "ja",
                         "kr": "ko"
