@@ -79,12 +79,12 @@ def generate_site():
                
                 # Adjust language codes that do not match the official ISO
                 mapping = {
-                        "br": "pt_BR",
+                        "br": "pt-BR",
                         "cs": "zh",
-                        "ct": "zh_TW",
+                        "ct": "zh-TW",
                         "cz": "cs",
-                        "ea": "es_BR",
-                        "fc": "fr_CA",
+                        "ea": "es-BR",
+                        "fc": "fr-CA",
                         "jp": "ja",
                         "kr": "ko",
                         "no": "nb"
