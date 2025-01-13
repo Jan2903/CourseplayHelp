@@ -81,7 +81,7 @@ def generate_site():
                 mapping = {
                         "br": "pt_BR",
                         "cs": "zh",
-                        "ct": "zh_Hant",
+                        "ct": "zh_TW",
                         "cz": "cs",
                         "ea": "es_BR",
                         "fc": "fr_CA",
