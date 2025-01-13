@@ -16,14 +16,14 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: lime
+      primary: "#397801"
       accent: deep purple
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: "#397801"
       accent: deep orange
 
 markdown_extensions:
