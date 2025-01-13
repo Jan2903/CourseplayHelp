@@ -88,8 +88,8 @@ def generate_site():
                         "jp": "ja",
                         "kr": "ko"
                  }
-                # Adjust languageCode based on the mapping
-                languageCode = mapping.get(languageCode, languageCode)
+                # Adjust language_code based on the mapping
+                language_code = mapping.get(languageCode, languageCode)
 
                 language_output_dir = os.path.join(OUTPUT_DIR, language_code)
                 # Ensure the language-specific output directory exists
