@@ -58,7 +58,7 @@ plugins:
         - locale: "es"
           name: "Español"
           build: true
-        - locale: "es_419"
+        - locale: "es_BR"
           name: "Español Latinoamericano"
           build: true
         - locale: "fi"
