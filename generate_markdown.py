@@ -76,10 +76,21 @@ def generate_site():
         for language_file in os.listdir(TRANSLATION_DIR):
             if language_file.endswith(".json") and language_file != "config.json":
                 language_code = language_file.split(".")[0]
-                # Adjust language codes that do not match the official ISO
-                if language_code == "jp":
-                            language_code = "ja"
                
+                # Adjust language codes that do not match the official ISO
+                mapping = {
+                        "br": "pt_BR",
+                        "cs": "zh_CN",
+                        "ct": "zh_TW",
+                        "cz": "cs",
+                        "ea": "es_419",
+                        "fc": "fr_CA",
+                        "jp": "ja",
+                        "kr": "ko"
+                 }
+                # Adjust languageCode based on the mapping
+                languageCode = mapping.get(languageCode, languageCode)
+
                 language_output_dir = os.path.join(OUTPUT_DIR, language_code)
                 # Ensure the language-specific output directory exists
                 os.makedirs(language_output_dir, exist_ok=True)
