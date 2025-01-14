@@ -1,3 +1,9 @@
+# markdown_site_gen.py
+# Author: Jan2903
+# Date: 14/01/2025
+# Description: Script to generate multilingual Markdown files from JSON configurations and translations. 
+#              Handles images and cleans up unused assets.
+
 import os
 import json
 import shutil
@@ -22,14 +28,16 @@ def copy_image_to_docs(image_filename):
     else:
         print(f"Warning: Image file '{image_filename}' not found in translation_data folder.")
 
-def format_text_with_line_breaks(text):
-    """Format text by replacing detected newlines with Markdown-compatible line breaks."""
-    return text.replace("\n", "  \n")
-
 def create_markdown_file(language_code, page, output_dir, file_index, is_index=False):
     """
-    Creates a markdown file for a given page in a specific language.
-    If is_index is True, this file will be saved as index.md.
+    Create a Markdown file for a given page in a specific language.
+
+    Args:
+        language_code (str): Language code for the output file.
+        page (dict): Page data containing title, paragraphs, and images.
+        output_dir (str): Output directory for the Markdown file.
+        file_index (int): Index number for the file name.
+        is_index (bool): Whether this page should be saved as index.md.
     """
     file_name = "index.md" if is_index else f"{file_index:02d}_page_{page['raw_title']}.md"
     file_path = os.path.join(output_dir, file_name)
@@ -43,9 +51,8 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
             if paragraph["title"]:
                 md_file.write(f"## {paragraph['title']}\n\n")
             if paragraph["text"]:
-                # Format text with forced line breaks
-                formatted_text = format_text_with_line_breaks(paragraph["text"])
-                md_file.write(f"{formatted_text}\n\n")
+                # Directly replace newlines with Markdown-compatible line breaks
+                md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
             if paragraph["image"]["filename"]:
                 # Copy the image to the docs/assets/images folder
                 copy_image_to_docs(paragraph["image"]["filename"])
@@ -54,7 +61,7 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
                 md_file.write(f"![Image]({image_path})\n\n")
 
 def delete_unused_images(used_images):
-    """Delete all images in IMAGES_DIR that are not in the used_images list."""
+    """Delete all images in IMAGES_DIR that are not in the used_images set."""
     for image_file in os.listdir(IMAGES_DIR):
         if image_file not in used_images:
             image_path = os.path.join(IMAGES_DIR, image_file)
@@ -63,12 +70,10 @@ def delete_unused_images(used_images):
 
 def generate_site():
     """
-    Main function to generate markdown files for a multi-language site.
+    Main function to generate Markdown files for a multilingual site.
+    Reads configuration, processes translations, and manages assets.
     """
     try:
-        # Ensure the output directory exists
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
-
         # Load the configuration file
         with open(CONFIG_FILE, "r", encoding="utf-8") as config_file:
             config = json.load(config_file)
@@ -90,21 +95,20 @@ def generate_site():
                
                 # Adjust language codes that do not match the official ISO
                 mapping = {
-                        "br": "pt-BR",
-                        "cs": "zh",
-                        "ct": "zh-TW",
-                        "cz": "cs",
-                        "ea": "es-BR",
-                        "fc": "fr-CA",
-                        "jp": "ja",
-                        "kr": "ko",
-                        "no": "nb"
-                 }
-                # Adjust language_code based on the mapping
+                    "br": "pt-BR",
+                    "cs": "zh",
+                    "ct": "zh-TW",
+                    "cz": "cs",
+                    "ea": "es-BR",
+                    "fc": "fr-CA",
+                    "jp": "ja",
+                    "kr": "ko",
+                    "no": "nb"
+                }
                 language_code = mapping.get(language_code, language_code)
 
+                # Create language-specific output directory
                 language_output_dir = os.path.join(OUTPUT_DIR, language_code)
-                # Ensure the language-specific output directory exists
                 os.makedirs(language_output_dir, exist_ok=True)
                 
                 # Load the language translation file
@@ -124,11 +128,11 @@ def generate_site():
                     
                     for paragraph in page.get("paragraphs", []):
                         translated_paragraph = {
-                            "title": translations.get(paragraph["title"]["raw"], paragraph["title"]["raw"]) if paragraph["title"]["raw"] else "",
-                            "text": translations.get(paragraph["text"]["raw"], paragraph["text"]["raw"]) if paragraph["text"]["raw"] else "",
+                            "title": translations.get(paragraph["title"]["raw"], paragraph["title"]["raw"]) if paragraph["title"].get("raw") else "",
+                            "text": translations.get(paragraph["text"]["raw"], paragraph["text"]["raw"]) if paragraph["text"].get("raw") else "",
                             "image": paragraph["image"]  # Images are the same across all languages
                         }
-                        if paragraph["image"]["filename"]:
+                        if paragraph["image"].get("filename"):
                             used_images.add(paragraph["image"]["filename"])
                         page_data["paragraphs"].append(translated_paragraph)
                     
