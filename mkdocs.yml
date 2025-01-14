@@ -12,6 +12,7 @@ theme:
     - navigation.footer
   palette:
     # Palette toggle for automatic mode
+    primary: custom
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
