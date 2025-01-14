@@ -17,6 +17,7 @@ theme:
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
+      primary: custom
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -24,6 +25,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+      primary: custom
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -31,7 +33,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+      primary: custom
 
+       
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
