@@ -53,6 +53,14 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
                 image_path = f"../assets/images/{paragraph['image']['filename']}"
                 md_file.write(f"![Image]({image_path})\n\n")
 
+def delete_unused_images(used_images):
+    """Delete all images in IMAGES_DIR that are not in the used_images list."""
+    for image_file in os.listdir(IMAGES_DIR):
+        if image_file not in used_images:
+            image_path = os.path.join(IMAGES_DIR, image_file)
+            os.remove(image_path)
+            print(f"Deleted unused image: {image_file}")
+
 def generate_site():
     """
     Main function to generate markdown files for a multi-language site.
@@ -71,6 +79,9 @@ def generate_site():
         
         # Load the pages from the configuration
         pages = config[0]["pages"]
+
+        # Track used images
+        used_images = set()
         
         # Loop through supported languages
         for language_file in os.listdir(TRANSLATION_DIR):
@@ -117,16 +128,20 @@ def generate_site():
                             "text": translations.get(paragraph["text"]["raw"], paragraph["text"]["raw"]) if paragraph["text"]["raw"] else "",
                             "image": paragraph["image"]  # Images are the same across all languages
                         }
+                        if paragraph["image"]["filename"]:
+                            used_images.add(paragraph["image"]["filename"])
                         page_data["paragraphs"].append(translated_paragraph)
                     
                     # Create the Markdown file
                     is_index = (index == 1)  # First page becomes index.md
                     create_markdown_file(language_code, page_data, language_output_dir, index, is_index=is_index)
-                    
+        
+        # Delete unused images
+        delete_unused_images(used_images)
+        
     except Exception as e:
         print(f"Error: {e}")
         raise
 
 if __name__ == "__main__":
     generate_site()
-    
