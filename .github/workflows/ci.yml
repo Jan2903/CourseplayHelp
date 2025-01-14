@@ -42,8 +42,8 @@ jobs:
           pip install mkdocs-static-i18n
 
       # Step 6: Build the multilingual site
-      - name: Build the Site
-        run: mkdocs build
+      #- name: Build the Site
+      # run: mkdocs build
 
       # Step 7: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
