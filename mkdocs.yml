@@ -130,4 +130,7 @@ extra:
     - icon: simple/github
       link: https://github.com/Courseplay/Courseplay_FS25/releases
 
+extra_css:
+  - stylesheets/extra.css
+
 copyright: Copyright &copy; 2025 Courseplay Dev Team
