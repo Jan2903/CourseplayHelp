@@ -66,7 +66,7 @@ plugins:
           build: true
         - locale: "es-BR"
           name: "Español Latinoamericano"
-          build: true
+          build: false
         - locale: "fi"
           name: "Suomi"
           build: true
@@ -75,7 +75,7 @@ plugins:
           build: true
         - locale: "fr-CA"
           name: "Français Canadien"
-          build: true
+          build: false
         - locale: "hu"
           name: "Magyar"
           build: true
