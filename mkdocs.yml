@@ -71,7 +71,7 @@ plugins:
         - locale: "es"
           name: "Español Latinoamericano"
           link : "/es-BR/"
-          build: true
+          build: false
         - locale: "fi"
           name: "Suomi"
           build: true
@@ -80,8 +80,8 @@ plugins:
           build: true
         - locale: "fr"
           name: "Français Canadien"
-          link : /fr-CA/
-          build: true
+          link : "/fr-CA/"
+          build: false
         - locale: "hu"
           name: "Magyar"
           build: true
