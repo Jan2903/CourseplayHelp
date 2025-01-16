@@ -16,16 +16,16 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default 
       toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+        icon: material/weather-sunny
+        name: Dark mode
       primary: custom
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+        icon: material/weather-night
+        name: Light mode
       primary: custom
 
        
@@ -62,7 +62,7 @@ plugins:
         - locale: "es"
           name: "Español"
           build: true
-        - locale: "es"
+        - locale: "es-BR"
           name: "Español Latinoamericano"
           link : "/es-BR/"
           build: false
@@ -72,7 +72,7 @@ plugins:
         - locale: "fr"
           name: "Français"
           build: true
-        - locale: "fr"
+        - locale: "fr-CA"
           name: "Français Canadien"
           link : "/fr-CA/"
           build: false
