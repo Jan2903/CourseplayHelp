@@ -95,9 +95,9 @@ plugins:
         - locale: "pt"
           name: "Português"
           build: true
-        - locale: "pt-BR"
+        - locale: "pt_BR"
           name: "Português Brasileiro"
-          link : "/pt-BR/"
+          #link : "/pt-BR/"
           build: true
         - locale: "ro"
           name: "Română"
