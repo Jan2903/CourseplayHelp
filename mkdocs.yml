@@ -80,7 +80,7 @@ plugins:
           build: true
         - locale: "fr"
           name: "Français Canadien"
-          link : "/fr-CA/"
+          link : /fr-CA/
           build: true
         - locale: "hu"
           name: "Magyar"
