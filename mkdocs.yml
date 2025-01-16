@@ -97,7 +97,6 @@ plugins:
           build: true
         - locale: "pt-BR"
           name: "Português Brasileiro"
-          link : "/pt_BR/"
           build: true
         - locale: "ro"
           name: "Română"
@@ -119,7 +118,6 @@ plugins:
           build: true
         - locale: "zh-TW"
           name: "繁體中文"
-          link : "/zh-TW/"
           build: true
 
 extra:
