@@ -51,8 +51,13 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
             if paragraph["title"]:
                 md_file.write(f"## {paragraph['title']}\n\n")
             if paragraph["text"]:
+                # Ensure lists render properly by adding a newline before list items
+                text_with_lists = "\n\n".join(
+                    f"  \n{line}" if line.startswith("-") else line
+                    for line in paragraph["text"].split("\n")
+                )
                 # Directly replace newlines with Markdown-compatible line breaks
-                md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
+                md_file.write(f"{text_with_lists.replace('\n', '  \n')}\n\n")
             if paragraph["image"]["filename"]:
                 # Copy the image to the docs/assets/images folder
                 copy_image_to_docs(paragraph["image"]["filename"])
@@ -149,3 +154,4 @@ def generate_site():
 
 if __name__ == "__main__":
     generate_site()
+
