@@ -5,12 +5,22 @@
 }
 
 
+
 .md-nav__link {
-    border-bottom: 1px solid #e0e0e0;
-    padding-bottom: 8px;            
-    margin-bottom: 8px;             
+    border-bottom: 1px solid var(--md-default-fg-color--light);
+    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
+
 
 .md-nav__item:last-child .md-nav__link {
     border-bottom: none;
 }
+
+
+@media (prefers-color-scheme: dark) {
+    .md-nav__link {
+        border-bottom: 1px solid var(--md-default-fg-color--dark);
+    }
+}
+
