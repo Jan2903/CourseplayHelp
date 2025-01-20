@@ -3,3 +3,14 @@
   --md-primary-fg-color--light: #85a425;
   --md-primary-fg-color--dark:  #85a425;
 }
+
+
+.md-nav__link {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 8px;            
+    margin-bottom: 8px;             
+}
+
+.md-nav__item:last-child .md-nav__link {
+    border-bottom: none;
+}
