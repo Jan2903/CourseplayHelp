@@ -6,7 +6,6 @@ Om du är ny för detta, bör du förmodligen börja med att bara ändra satsen 
 Därefter kan du alltid ändra de andra värdena och slå generera kurs och ta en titt, vilket påverkar vissa värden på kursen.  
 Experimentera med det och kontrollera vilken inverkan den olika inställningen på olika fält har är det bästa sättet att vänja sig vid det.  
 
-
   
 Grunderna:  
 De första värdena du ser här är riktiga grundläggande saker.  
@@ -21,5 +20,4 @@ Spiral, racetrack och land har sina egna specifika fördelar jämfört med de an
 - Rader att hoppa över: Detta är ett mycket bra alternativ för att påskynda ditt arbete, eftersom verktyg inte måste backa upp för att bli nästa rad.  
 - Rader per land: Detta har bara påverkan när fältcentret är inställt på land och kommer att berätta för generatorn hur många rader som varje land ska ha. Ju fler rader, de färre markerna kommer att genereras.  
 - Upp / ner radvinkel: När upp / ner radriktningen är inställd på manuell, kommer den här inställningen att berätta för att generera riktningen.  
-
 

@@ -11,7 +11,6 @@ Os cursos são salvos em pastas, que serão exibidas à esquerda. Isso significa
 As pastas podem ser criadas simplesmente pelo botão na parte inferior da tela e digitando um nome.  
 Os cursos são salvos apenas localmente por enquanto.  
 
-
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
@@ -21,13 +20,11 @@ Para remover o curso do seu veículo, clique no botão 'Limpar curso atual'.
 Para carregar um curso você teria que selecionar primeiro a pasta, clicar no botão carregar curso e depois simplesmente clicar no curso que deseja carregar.  
 Clicar no modo de alteração ativa o modo de edição do gerenciador de curso.  
 
-
   
 Com o modo de edição ativo você tem estas opções:  
 - Mover um curso para outro diretório.  
 - Exclusão de cursos ou diretórios.  
 - Renomear cursos ou diretórios.  
-
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
@@ -39,5 +36,4 @@ Para mover um curso:
 Para renomear, basta clicar no botão renomear e depois no diretório ou curso. Em seguida, basta digitar o novo nome.  
 Para excluir um curso ou diretório, clique no botão excluir e depois na pasta ou curso que deseja excluir.  
 Os diretórios devem estar vazios se você quiser excluí-los.  
-
 

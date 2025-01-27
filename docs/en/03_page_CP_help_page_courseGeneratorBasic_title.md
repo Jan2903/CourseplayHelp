@@ -7,7 +7,6 @@ If you are new to Courseplay, you should probably start playing with the number 
 After changing a parameter, hit Generate to see what impact the setting has.   
 The best way to explore all the possibilities the generator offers is to experiment with it.  
 
-
   
 Basics:  
 The first few values you see here are real basic stuff.  
@@ -19,5 +18,4 @@ The Number of the Headlands multiplied by the work width should be at least the 
 - Start work on: As mentioned in the extended AI Menu, the field position is used to set the start or end position for the fieldwork course.  
 You want to start working on the headland when harvesting, and work towards the middle of the field.  
 Plowing, sowing and cultivating should start in the center of the field and work towards the headland.  
-
 

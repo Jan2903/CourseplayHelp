@@ -7,7 +7,6 @@ probabilmente iniziare a giocare prima con il numero di promontori e poi avventu
 Dopo aver modificato un parametro, premi Genera per vedere quale impatto ha l'impostazione. Il modo migliore per esplorare tutte le possibilità  
 offerte dal generatore è sperimentarlo.  
 
-
   
 Nozioni di base:  
 I primi valori che vedi qui sono davvero fondamentali.  
@@ -18,5 +17,4 @@ Il numero di capezzagne moltiplicato per la larghezza di lavoro dovrebbe essere 
 - Inizia a lavorare su: come menzionato nel menu IA esteso, la posizione del campo viene utilizzata per impostare la posizione di inizio o fine per  
 il percorso di lavoro sul campo. Si desidera iniziare a lavorare a fine campo durante la raccolta e lavorare verso il centro del campo.  
 L'aratura, la semina e la coltivazione dovrebbero iniziare dal centro del campo e proseguire verso il promontorio.  
-
 

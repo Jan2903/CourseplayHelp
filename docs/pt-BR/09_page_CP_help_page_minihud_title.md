@@ -12,7 +12,6 @@ E: Este ícone de alvo possui diferentes opções dependendo do modo selecionado
 F: Clique no texto para alternar os modos disponíveis para suas ferramentas atuais.  
 G: As configurações mostradas nesta linha dependem do trabalho atual. Isso será explicado com as fotos a seguir.  
 
-
 ## Trabalho no campo
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
@@ -22,7 +21,6 @@ B: Exibe o nome da rota carregada. Se você acabou de gerar uma rota, ele mostra
 C: Clicar no texto recalculará a largura de trabalho, ou você pode configurá-la manualmente à direita clicando em +/-, ou com a roda do mouse sobre o número.  
 D: Algumas ferramentas precisam de um deslocamento lateral. O Courseplay irá calculá-lo automaticamente ao clicar no texto, ou você pode alterá-lo manualmente, assim como a largura de trabalho.  
 E: Use o símbolo do lado direito para copiar a rota atual para a área de transferência. O nome da rota copiado é mostrado à esquerda. Você pode carregar o percurso copiado em outro veículo que ainda não tenha percurso. Para remover a rota da área de transferência, clique no símbolo de remoção.  
-
 
 ## Colheitadeira descarrega
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
@@ -34,7 +32,6 @@ C: Às vezes, a posição do descarregador sob o tubo não é perfeita. Isto pod
 D: O mesmo que acima, mas aqui você pode ajustar a posição do descarregador em relação ao tubo para frente ou para trás.  
 E: Semelhante a copiar um percurso, aqui você pode copiar as posições dos marcadores para outro veículo.  
 
-
 ## Fardos coletar/embalar
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
@@ -42,7 +39,6 @@ E: Semelhante a copiar um percurso, aqui você pode copiar as posições dos mar
 A: Fardos restantes no campo.  
 B: Tipo de fardos a recolher/embalar.  
 C: Deslocamento entre a linha central do trator e a linha central do braço da carregadeira. Pode ser necessário ajustar isso para tratores maiores (por exemplo, com pneus mais largos).
-
 ## Carregar silo
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
@@ -52,7 +48,6 @@ B: Largura de trabalho igual à do trabalho de campo.
 C: O Courseplay precisa da altura exata acima do solo definida corretamente. Como esta altura pode ser diferente para cada ferramenta, você pode verificá-la e ajustá-la com esta configuração.  
 D: Assim como no descarregador, você pode copiar as posições dos marcadores para outro veículo.  
 
-
 ## Trabalho no silo
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
@@ -61,5 +56,4 @@ R: Similar ao carregar de silo, a altura do nivelador é crítica. Você pode aj
 B: Mostra o andamento da compactação. Clicando nele, alterna a opção de parar o driver quando atingir a compactação total.  
 C: Você pode alterar a largura de trabalho quando necessário aqui.  
 D: Esta configuração informa ao trabalhador para esperar no silo ou em uma posição de estacionamento selecionada quando um descarregador se aproxima do silo.  
-
 

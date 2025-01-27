@@ -18,4 +18,3 @@ Når eksperttilstanden er deaktiveret, har du kun adgang til nogle indstillinger
 De andre indstillinger er skjulte og indstillet til standardværdier, hvilket virker i de fleste situationer.  
 På den måde forsøger vi at hjælpe brugerne med at komme lettere ind i Courseplay uden at blive overvældet af alle indstillingerne.  
 
-

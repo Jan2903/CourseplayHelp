@@ -11,7 +11,6 @@ Courses are saved into folders, which will be displayed on the left. This means 
 Folders can simply be created by the button at the bottom of the screen and entering a name.  
 Courses are only saved locally for now.  
 
-
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
@@ -21,13 +20,11 @@ To remove the course from your vehicle, click on 'Clear current course' button.
 For loading a course you would have to select the folder first, then select the course and then simply clicking on the load course button.  
 Clicking on change mode activates the edit mode of the course manager.  
 
-
   
 When the edit mode is active you have these options:  
 - Moving a course into another directory.  
 - Deleting courses or directories.  
 - Renaming courses or directories.  
-
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
@@ -39,5 +36,4 @@ For moving a course:
 For renaming you simply have to click the rename button and after that the directory or course. Then just type in the new name.  
 For deleting a course or directory click on the delete button and after that the folder or course you want to delete.  
 Directories must be empty if you want to delete them.  
-
 

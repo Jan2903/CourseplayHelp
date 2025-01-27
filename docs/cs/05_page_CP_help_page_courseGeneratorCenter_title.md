@@ -6,7 +6,6 @@ Jednoduchá strategie nahoru dolů funguje téměř vždy pro jakýkoli nástroj
 U sekání může být lepší řešením režim kruh pro méně úzké zatáčky, aby se usnadnila práce vykladači.  
 Spirála je lepším řešením pro tažený kombajn s odsazením, aby nářadí zůstalo v plodině a traktor mimo něj.  
 
-
   
 - Střed pole: Existují různé režimy, jak by měl vypadat vzor středu pole. Klasický a nejpoužívanější je nahoru/dolů.  
 Spirála, kruh a záhon mají oproti ostatním své specifické výhody. Například u kruh bude trubka kombajnu většinu času směřovat ven z plodin, aby se snadněji vykládaly.  
@@ -20,7 +19,6 @@ Tato nastavení se zobrazují pouze pro konkrétní nastavení, která jste prov
 - Řádky na záhonu: Zobrazí se, když je střed pole nastaven na "záhon". Tato položka má vliv pouze tehdy, když je střed pole nastaven na záhon, a říká generátoru, kolik řádků má mít každý záhon. Čím více řádků, tím méně záhonů bude vygenerováno.  
 - Spirála zevnitř: Zobrazí se, když je střed pole nastaven na "spirála".  
 - Počet obkroužení: Zobrazí se, když je střed pole nastaven na "kruh".  
-
 
 ## 
 nahoru/dolů

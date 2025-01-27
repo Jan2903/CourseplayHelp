@@ -9,7 +9,6 @@ Altri schemi possono migliorare l'efficienza, come l'utilizzo dello schema Lands
 Per le trinciatrici, la pista può essere una scelta migliore per curve più ampie per semplificare il lavoro dello scaricatore.   
 La spirale è la scelta migliore per le mietitrici trainate con un offset per mantenere l'utensile nella frutta e il trattore all'esterno.  
 
-
   
 - Centro campo: ci sono diverse modalità su come dovrebbe apparire il modello del centro campo. Quello classico e più utilizzato è su/giù.  
 Spirale, Pista e Terreni hanno i loro vantaggi specifici rispetto agli altri. Ad esempio, i Terreni avranno la punta del tubo della mietitrebbia fuori dalla frutta per scaricarla più facilmente.  
@@ -23,7 +22,6 @@ Queste impostazioni vengono visualizzate solo per le impostazioni specifiche che
 - Righe per terreno: appare quando il centro del campo è impostato su "terreno". Questo ha impatto solo quando il centro del campo è impostato su terreno e indicherà al generatore quante righe dovrebbe avere ogni terreno. Più righe ci sono, meno terreni verranno generati.  
 - Spirale dall'interno: appare quando il centro del campo è impostato su "Spirale".  
 - Numero di cerchi: appare quando il centro del campo è impostato su"cerchio".  
-
 
 ## 
 su/giù

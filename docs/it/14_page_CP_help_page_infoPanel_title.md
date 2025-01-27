@@ -8,7 +8,6 @@ Oltre al nome e alla versione della nostra Mod, mostra anche informazioni sullo 
 Mentre si passa con il mouse sul messaggio di stato, verrà visualizzato il nome del veicolo.  
 Cliccandoci sopra, puoi saltare direttamente nel veicolo.  
 
-
   
 I messaggi di stato sono:  
 - L'aiutante è bloccato  
@@ -35,5 +34,4 @@ I messaggi di stato sono:
 - Prodotto sbagliato per la missione selezionata  
 - I pallet sono pieni  
 - Nessun pallet  
-
 

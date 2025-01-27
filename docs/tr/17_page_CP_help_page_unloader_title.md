@@ -15,7 +15,6 @@ Böylece römork neredeyse dolu bir şekilde bir sonraki çağrıyı beklemek ye
 - HUD üzerindeki ofset ayarını kullanarak boşaltıcıyı biçerdöverin borusu altında doğru şekilde konumlandırabilirsiniz..  
   
 
-
 ## Römork kullanma
   
 Bir römork kullanarak boşaltma yapıyorsanız, hasadınızı siloya veya satış noktasına taşımak için iki yöntem vardır:   
@@ -26,7 +25,6 @@ YZ Menüsü'nden hedef seçerek teslim etme işi oluşturabilir ya da HUD üzeri
   
 AutoDrive ile bir römorku boşaltmak, burgu vagonu kullanmayla benzer şekilde çalışır. AutoDrive ile ilgili eğitim videolarına internetten göz atabilirsiniz.  
 
-
 ## Burgu vagonu kullanma
   
 Burgu vagonlarının kullanımı çok basittir..  
@@ -35,7 +33,6 @@ Boşaltıcıyı başlatmak için yine tarlada olmanız veya tarlanın 20 metre y
 Burgu vagonu doluysa, otomatik olarak tarlada veya tarlanın yakınında yükleme yapabileceği bir römork arar.  
 Eğer römork doluysa ve burgu vagonu hâlâ boşalmamışsa yükü boşaltmak için başka bir römork arar.  
 Eğer hiç römork bulamazsa, biçerdöveri boşaltmaya devam eder.  
-
 
 ## Tarlada boşaltma
   
@@ -46,5 +43,4 @@ Konumun tarlada veya tarla yakınında olması gerekir.
 üzerine boşaltma yapılır.  
 Boşaltma yönünü işaretin yönü belirler.  
 Bazı römorklarda, boşaltma yönü geri ve tahıl kapısı arasında değiştirilebilir.  
-
 

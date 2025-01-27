@@ -6,7 +6,6 @@ Najprostsza strategia, 'tam i z powrotem', działa prawie za każdym razem dla k
 W przypadku sieczkarni, 'na około' może być lepszym rozwiązaniem dla mniejszej ilości ciasnych nawrotów, aby ułatwić pracę odwożących.  
 Spirale są lepszym rozwiązaniem dla półzawieszanych kombajnów bocznych, aby utrzymać maszynę w rzędzie, a ciągnik na poza nimi.  
 
-
   
 - Środek pola: Istnieją różne tryby tego, jak powinien wyglądać wzór środka pola. Klasyczny i najczęściej używany to 'tam i z powrotem'.  
 'Spirala', 'na około' i 'wyspy' mają swoje specyficzne zalety w stosunku do innych. Na przykład w trybie 'wysepek' rura kombajnu będzie przez większość czasu skierowana na skoszoną już część pola, aby ułatwić jego rozładunek.  
@@ -20,7 +19,6 @@ Te ustawienia są wyświetlane tylko dla określonych ustawień, które zostały
 - Rzędy na wysepkę: Pojawia się, gdy środek pola jest ustawiony na "wyspy". Określa generatorowi, ile rzędów powinna mieć każda z nich. Im więcej rzędów, tym mniej wysepek zostanie wygenerowanych.  
 - Spirala od środka: Pojawia się, gdy środek pola jest ustawione na "spirala".  
 - Liczba okręgów: Pojawia się, gdy środek pola jest ustawione na "na około".  
-
 
 ## 
 Tam i z powrotem

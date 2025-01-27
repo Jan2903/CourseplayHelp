@@ -5,13 +5,11 @@ Das Tauschen der Bahnen wird in Multitoolkursen benutzt und sagt dem Helfer, in 
 Beim aktiven Tauschen wechseln die Fahrer die Seite.  
 Da dies etwas zu kompliziert zu erklären ist, werfen wir einen Blick auf 2 Beispiele.  
 
-
 ![Image](../assets/images/regularchange_0_0_1020_765.png)
 
   
 Ist Bahnen tauschen ausgeschaltet, bleibt das Fahrzeug immer links oder rechts vom jeweils anderen.  
 Somit entsteht auch kein direkter Gegenverkehr und kein Kontakt zwischen den Fahrzeugen.  
-
 
 ![Image](../assets/images/symetricchange_0_0_1020_765.png)
 
@@ -26,5 +24,4 @@ Schaut man sich die Reihenfolge der Bahnen an, die von links nach rechts bearbei
 Ohne Bahnen tauschen: links, rechts, links, rechts - fast wie eine Bahn überspringen.  
 Mit Bahnen tauschen: links, rechts, rechts, links - von links nach rechts, also eine Bahn nach der anderen.  
 In dem Beispiel mit den Dreschern sorgt das dafür, dass kein Drescher links und rechts eine Bahn mit Frucht neben sich hat.  
-
 

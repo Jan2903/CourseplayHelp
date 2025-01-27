@@ -8,7 +8,6 @@ Kromě názvu a verze našeho Modu také zobrazuje stavové informace o ovladač
 Při najetí na stavovou zprávu se zobrazí název vozidla.  
 Kliknutím na něj můžete skočit přímo do vozidla.  
 
-
   
 Informace jsou následující:  
 - Pomocník se zasekl  
@@ -21,5 +20,4 @@ Informace jsou následující:
 - Práce dokončena  
 - Nedostatek peněz  
 - Čeká, až skončí déšť  
-
 

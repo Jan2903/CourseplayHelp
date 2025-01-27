@@ -11,7 +11,6 @@ Az útvonalak mentése mappákban történik, amik bal oldalon jelennek meg. Ez 
 Mappákat egyszerűen létrehozhatsz a képernyő alján található gombbal és név beírásával.  
 Az útvonalak jelenleg csak helyi fájlokként kerülnek mentésre.  
 
-
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
@@ -21,13 +20,11 @@ A betöltött útvonal járművedről való eltávolításához kattints a 'Jele
 Egy útvonal betöltéséhez először válaszd ki a mappát, kattints az 'Útvonal betöltése' gombra, majd kattints a betölteni kívánt útvonalra.  
 A 'Módváltás' gombra kattintva aktiválhatod az útvonalkezelő szerkesztő módját.  
 
-
   
 A szerkesztő mód aktiválása a következő opciókat teszi elérhetővé:  
 - Útvonal mozgatása másik mappába.  
 - Útvonalak vagy mappák törlése.  
 - Útvonalak vagy mappák átnevezése.  
-
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
@@ -39,5 +36,4 @@ A szerkesztő mód aktiválása a következő opciókat teszi elérhetővé:
 Az átnevezéshez egyszerűen kattints az átnevezés gombra, majd a mappára vagy a mentett útvonalra. Ezután csak írd be az új nevet.  
 Egy útvonal vagy könyvtár törléséhez kattints a törlés gombra, majd a törölni kívánt mappára vagy útvonalra.  
 A könyvtáraknak üresnek kell lenniük, ha törölni szeretnéd őket.  
-
 

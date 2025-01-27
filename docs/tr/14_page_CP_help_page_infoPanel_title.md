@@ -8,7 +8,6 @@ Modumuzun adı ve sürümünün yanı sıra, Courseplay işçilerine ait durum b
 Durum mesajının üzerine geldiğinizde, aracın adı görüntülenir.  
 Mesaja tıklayarak, doğrudan ilgili araca geçiş yapabilirsiniz.  
 
-
   
 Durum bilgi mesajları şunlardır:  
 - İşçi takıldı  
@@ -35,5 +34,4 @@ Durum bilgi mesajları şunlardır:
 - Seçilen görev için yanlış ürün  
 - Paletler dolu  
 - Palet yok  
-
 

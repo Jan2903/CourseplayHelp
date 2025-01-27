@@ -21,4 +21,3 @@ Cuando el Modo Experto es desactivado, solo tienes acceso a algunas configuracio
 Las otras configuraciones están ocultas y configuradas en valores predeterminados, lo que funciona en la mayoría de las situaciones.  
 De esa forma, tratamos de ayudar a los usuarios a que se familiaricen más fácilmente con Courseplay sin sentirse abrumados por todas las configuraciones.  
 
-

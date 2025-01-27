@@ -9,7 +9,6 @@ Tierras cuando se cosecha con una cosechadora, que mantendrá la tubería fuera 
 Para las picadoras, la pista de carreras puede ser una mejor opción para giros más amplios que faciliten el trabajo del descargador.  
 El espiral es la mejor opción para las cosechadoras remolcadas con un desplazamiento para mantener la herramienta en la fruta y el tractor afuera.  
 
-
   
 - Centro del campo: existen diferentes modos para determinar cómo debe verse el patrón del centro del campo. El clásico y más utilizado es arriba/abajo.  
 Los modos Espiral, Pista y Tierras tienen sus propias ventajas específicas sobre los demás. Por ejemplo, Tierras tendrán la tubería de la cosechadora apuntando hacia afuera de la fruta la mayor parte del tiempo para facilitar su descarga.  
@@ -24,7 +23,6 @@ Estas configuraciones aparecen solo para configuraciones específicas que haya r
 - Espiral desde el interior: aparece cuando el centro del campo está configurado en "  
 Espiral".  
 - Número de círculos: aparece cuando el centro del campo está configurado en "Pista".  
-
 
 ## 
 arriba/abajo

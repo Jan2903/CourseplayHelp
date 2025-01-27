@@ -5,7 +5,6 @@ El generador de cursos de Courseplay es una herramienta sofisticada que puede ge
 Tiene muchas configuraciones y puede llevar algún tiempo familiarizarse con él. Si es nuevo en Courseplay, probablemente debería comenzar a jugar con la cantidad de cabeceras primero y luego aventurarse en las configuraciones más avanzadas.  
 Después de cambiar un parámetro, presione Generar para ver qué impacto tiene la configuración. La mejor manera de explorar todas las posibilidades que ofrece el generador es experimentar con él.  
 
-
   
 Conceptos básicos:  
 Los primeros valores que verá aquí son datos muy básicos.  
@@ -16,5 +15,4 @@ El número de cabeceras multiplicado por el ancho de trabajo debe ser al menos l
 - Comenzar a trabajar en: como se mencionó en el menú AI extendido, la posición del campo se usa para establecer la posición de inicio o finalización para  
 el curso de trabajo de campo. Desea comenzar a trabajar en la cabecera al cosechar y trabajar hacia el medio del campo.  
 El arado, la siembra y el cultivo deben comenzar en el centro del campo y trabajar hacia la cabecera.  
-
 

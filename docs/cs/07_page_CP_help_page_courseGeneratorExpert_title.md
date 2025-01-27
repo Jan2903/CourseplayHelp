@@ -12,6 +12,5 @@ Některá expertní nastavení fungují správně pouze za určitých podmínek.
 - Použijte okraj základní čáry: Zcela nová funkce, která funguje pouze na určitých polích. Pokud máte pole s dlouhým radiálním okrajem a umístíte značku pole do jeho blízkosti, bude středová čára kopírovat tento okraj.  
 DŮLEŽITÉ UPOZORNĚNÍ: Pokud by vygenerovaný průběh nebyl dokonalý nebo dokonce špatný, vybraná hrana nebo pole nebude s touto funkcí fungovat. Nebude k dispozici ani aktualizace pro tuto funkci!  
 
-
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
 

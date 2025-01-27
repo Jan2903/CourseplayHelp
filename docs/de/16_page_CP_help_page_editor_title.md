@@ -11,14 +11,12 @@ Die geladenen Kurse werden automatisch gespeichert/überschrieben, wenn der Edit
 Eine Kurs sollte nur bearbeitet werden, wenn es der Generator nicht geschafft hat, diesen gut genug zu generieren.  
 Eine falsche Bearbeitung kann zu unerwünschten Fahrverhalten führen, da Wegpunkte noch weitere, versteckte Eigenschaften haben.  
 
-
   
 Unter der Kategorie "Einfach" gibt es:  
 1) Einen Wegpunkt mit der Maus festhalten und bewegen.  
 2) Wegpunkte vor oder hinter einem angeklickten Wegpunkt einfügen.  
   
 Das Löschen von Wegpunkten wird mit dem roten "Wegpunkte löschen"-Button durchgeführt.  
-
 
   
 Unter der Kategorie "Erweitert" gibt es:  
@@ -32,5 +30,4 @@ Um die Markierung aufzuheben, betätige einfach die rechte Maustaste.
 3) Ein Pinsel um eine Kurve von Wegpunkten einzufügen.  
 Wie auch beim Bewegen mehrerer Wegpunkte, markierst du zunächst 2 Wegpunkte, anschließend hältst du die linke Maustaste gedrückt und bewegst die Maus.  
 Achtung: Sobald du loslässt, werden die Wegpunkte abgesetzt, dies kann nicht rückgängig gemacht werden! (Wegpunkte lassen sich natürlich löschen.)  
-
 

@@ -5,7 +5,6 @@ Il cambio di corsia viene utilizzato nei percorsi multi-strumento e indica all'a
 Con il cambio di corsia attivo, il veicolo cambia lato dopo ogni svolta.  
 È un po' difficile da capire, quindi diamo un'occhiata a due esempi.  
 
-
 ![Image](../assets/images/regularchange_0_0_1020_765.png)
 
   
@@ -13,7 +12,6 @@ Se il cambio corsia è disattivato, il veicolo rimane sullo stesso lato per tutt
 Se è partito dalla corsia più a sinistra, rimarrà sempre nella corsia più a sinistra. Questo evita conflitti con gli altri conducenti,  
 ma i veicoli all'interno della curva (quelli più a sinistra per le curve a sinistra,   
 quelli più a destra per le curve a destra) dovranno fare curve più strette mentre proseguono sulla corsia adiacente.  
-
 
 ![Image](../assets/images/symetricchange_0_0_1020_765.png)
 
@@ -28,5 +26,4 @@ Se dai un'occhiata all'ordine delle corsie, da sinistra a destra, sarà chiaro:
 Senza cambio simmetrico: sinistra, destra, sinistra, destra - è quasi come saltare una corsia.  
 Con cambio simmetrico: sinistra, destra, destra, sinistra - da sinistra a destra, una corsia dopo l'altra.  
 Nell'esempio con la mietitrebbia significa che nessuna mietitrebbia avrà frutti a sinistra e a destra della sua corsia.  
-
 

@@ -21,4 +21,3 @@ Uzman Modu devre dışı bırakıldığında, yalnızca bazı ayarlara erişimin
 Diğer ayarlar gizlidir ve çoğu durumda düzgün çalışan varsayılan değerlere ayarlanır.  
 Bu şekilde, son kullanıcıları bütün bu ayarlarla bunaltmadan Courseplay'e daha kolay alışmalarına yardımcı olmaya çalışıyoruz.  
 
-

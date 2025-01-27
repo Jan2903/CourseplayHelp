@@ -8,7 +8,6 @@ Förutom namnet och versionen av vår mod visar den också statusinforentioner o
 När du svävar statusmeddelandet visas namnet på fordonet.  
 Genom att klicka på det kan du hoppa direkt in i fordonet.  
 
-
   
 Informationen är följande:  
 - Hjälparen sitter fast  
@@ -21,5 +20,4 @@ Informationen är följande:
 - Slutfört arbete  
 - Slut på pengar  
 - Väntar på att det ska sluta regna för att slutföra   
-
 

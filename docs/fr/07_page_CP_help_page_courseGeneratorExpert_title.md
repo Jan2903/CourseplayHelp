@@ -10,6 +10,5 @@ Certains paramètres ne sont visibles que si vous avez activé le mode expert da
 - Utiliser les contours du champ : Une toute nouvelle fonctionnalité, qui ne fonctionne que sur des champs spécifiques. Si vous avez un champ avec une longue bordure radiale et que vous placez le marqueur de champ près de cette bordure, la ligne centrale suivra cette bordure.  
 REMARQUE IMPORTANTE : Il s'agit d'un paramètre expérimental qui peut ne pas fonctionner pour toutes les formes de champ. Si cela ne fonctionne pas, essayez un autre paramètre.  
 
-
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
 

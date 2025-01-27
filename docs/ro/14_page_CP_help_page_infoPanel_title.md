@@ -8,7 +8,6 @@ Beside the name and the version of our Mod, it also shows status inforamtions ab
 While hovering the status message, the name of the vehicle will be displayed.  
 By clicking on it, you can jump directly into the vehicle.  
 
-
   
 The Informations are the following:  
 - Helper is stuck  
@@ -21,5 +20,4 @@ The Informations are the following:
 - Finished work  
 - Ouf of money  
 - Waiting for rain to finish  
-
 

@@ -8,7 +8,6 @@ Además del nombre y la versión de nuestro Mod, también muestra información d
 Mientras se desplaza el mensaje de estado, se mostrará el nombre del vehículo.  
 Al hacer clic en él, puede saltar directamente al vehículo.  
 
-
   
 Los mensajes de estado son:  
 - El ayudante está atascado  
@@ -35,5 +34,4 @@ Los mensajes de estado son:
 - Fruta incorrecta para la misión seleccionada  
 - Los palés están llenos  
 - No hay palés  
-
 

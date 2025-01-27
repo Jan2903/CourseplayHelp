@@ -11,7 +11,6 @@ Kurser sparas i mappar, som kommer att visas till vänster. Det betyder att du b
 Mappar kan enkelt skapas av knappen längst ner på skärmen och ange ett namn.  
 Kurser sparas bara lokalt för nu.  
 
-
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
@@ -21,13 +20,11 @@ För att ta bort kursen från ditt fordon klickar du på knappen 'Rensa aktuell 
 För att ladda en kurs måste du välja mappen först, klicka på Load Course -knappen och sedan klicka bara på den kurs du vill ladda.  
 Om du klickar på ändringsläge aktiverar du redigeringsläget för kurshanteraren.  
 
-
   
 Med redigeringsläget är aktivt har du dessa alternativ:  
 - Flytta en kurs i en annan katalog.  
 - Radera kurser eller kataloger.  
 - Byta namn på kurser eller kataloger.  
-
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
@@ -39,5 +36,4 @@ För att flytta en kurs:
 För att byta namn på dig måste du bara klicka på knappen Byt namn och efter det katalogen eller kursen. Skriv sedan in det nya namnet.  
 För att radera en kurs eller katalog klicka på knappen Radera och efter det att mappen eller kursen du vill radera.  
 Kataloger måste vara tomma om du vill radera dem.  
-
 

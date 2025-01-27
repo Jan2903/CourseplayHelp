@@ -7,13 +7,11 @@ Per prima cosa premi il pulsante di registrazione del percorso e poi guida il bo
 Una volta terminato, premi semplicemente di nuovo il pulsante e ti verrà chiesto se vuoi salvarlo.  
 Inizio e fine non devono sovrapporsi!  
 
-
 ![Image](../assets/images/recordcustomhelp_0_0_765_510.png)
 
   
 Dando un'occhiata al menu IA, vedrai il bordo del tuo campo registrato.  
 Facendo clic sul Nome, avrai la possibilità di eliminarlo o rinominarlo.  
-
 
 ![Image](../assets/images/donecustomhelp_0_0_765_510.png)
 
@@ -24,7 +22,6 @@ Dopodiché, nella parte superiore dello schermo appare un testo.
 Inizia cliccando con il tasto destro del mouse per impostare la posizione di partenza.  
 I clic successivi creeranno linee per il clic precedente.  
 Fai clic sul pulsante salva in basso per terminare di disegnare il campo.  
-
 
 ![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
 

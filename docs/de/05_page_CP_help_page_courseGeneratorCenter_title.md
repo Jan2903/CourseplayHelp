@@ -6,7 +6,6 @@ Das einfache hoch und runter fahren funktioniert an sich immer. Es kann aber bes
 Beim Häckseln möchte man möglichst wenig enge Wendemanöver haben, damit der Abfahrer einfacher hinterher fahren kann. Dafür ist Kreisförmig eine gute Wahl.  
 Spiralförmig hingegen kann man gut für schmale gezogene Ernter verwenden, so dass man durch dessen Offset das Arbeitsgerät immer zur Frucht stellt, den Traktor aber außerhalb dieser fährt.  
 
-
   
 - Feldmitte: Es gibt verschiedene Arbeitsweisen, um die Feldmitte zu bearbeiten. Der klassische Weg ist hoch/runter.  
 Spiralförmig, kreisförmig und Beete haben jeweils ihre eigenen Vorteile gegenüber den anderen. Bei Beeten zum Beispiel wird der Drescher die meiste Zeit mit dem Rohr außerhalb der Frucht fahren, um ein einfacheres Entladen zu ermöglichen.  
@@ -20,7 +19,6 @@ Folgende Einstellungen erscheinen erst Anhand bestimmter vorheriger Einstellung:
 - Reihen pro Beet: Erscheint bei Feldmitte "Beete". Diese Einstellung wirkt sich nur auf Beete aus. Je mehr Reihen pro Beete eingestellt werden, desto weniger Beete werden generiert.  
 - Spirale von Innen: Erscheint bei Feldmitte "spiralförmig".  
 - Anzahl Runden: Erscheint bei Feldmitte "kreisförmig".  
-
 
 ## 
 hoch/runter

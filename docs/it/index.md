@@ -21,4 +21,3 @@ Quando la Modalità Esperto è disattivata, hai accesso solo ad alcune impostazi
 Le altre impostazioni sono nascoste e impostate sui valori predefiniti, il che funziona nella maggior parte delle situazioni.  
 In questo modo, cerchiamo di aiutare gli utenti a entrare più facilmente in Courseplay senza essere sopraffatti da tutte le impostazioni.  
 
-

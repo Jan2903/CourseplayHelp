@@ -11,14 +11,12 @@ Yüklü rotalar, editör kapatıldığında otomatik olarak kaydedilecek ve üze
 Rota düzenleme işlevi yalnızca rota oluşturucu yeterince iyi bir rota oluşturamadığında kullanılmalıdır.  
 Yanlış düzenlemeler yol noktalarının gizli özelliklere sahip olması nedeniyle şoför için sorunlara yol açabilir.  
 
-
   
 Temel kategorisi altında şunlar bulunmaktadır:  
 1) Seçilen bir yol noktasının taşınması.  
 2) Seçili yol noktasının önüne veya arkasına yol noktası eklenmesi.  
   
 Yol noktalarını silmek için kırmızı silme düğmesini kullanabilirsiniz.  
-
 
   
 Gelişmiş kategori altında şunlar bulunmaktadır:  
@@ -32,5 +30,4 @@ Yol noktalarını işaretini kaldırmak için sağ fare tuşuna tıklayın.
 3) Seçilen iki yol noktası arasına kavis eklemek için bir fırça..  
 Birden fazla yol noktası taşımada olduğu gibi, iki yol noktası işaretleyin, sonra sol fare tuşunu basılı tutarak fareyi hareket ettirin.  
 Dikkat: Fare tuşunu bıraktığınızda, yol noktaları ayarlanır ve bu işlem geri alınamaz! (tabii ki bu yol noktalarını silebilirsiniz)  
-
 

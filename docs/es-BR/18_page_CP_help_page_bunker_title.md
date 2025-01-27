@@ -6,7 +6,6 @@ La compactación es posible sin ninguna herramienta especial, con rodillo, peso,
 Para la distribución, hay herramientas especiales. (por ejemplo, el Fliegel DUO).  
 Para los silos de cuña, se usa un escudo para empujar la paja hacia la parte posterior del silo.  
 
-
   
 Si el vehículo tiene instalado un distribuidor o escudo, el modo Silo será preseleccionado. Con solo un peso o un rodillo   
 adjunto se alterna entre el punto de inicio hasta que aparece el modo.  
@@ -16,5 +15,4 @@ Utilice el icono de destino en el HUD para seleccionar el silo en el mapa AI. Se
 en blanco si está seleccionado.  
 La posición de estacionamiento se establece con el marcador(posición de estacionamiento) que también se puede usar   
 para conducir allí con el Ayudante de Gigants antes de comenzar el trabajo real.  
-
 

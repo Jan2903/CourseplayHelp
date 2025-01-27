@@ -11,14 +11,12 @@ De indlæste ruter gemmes/overskrives automatisk, når editoren lukkes.
 Redigering bør naturligvis kun foretages, hvis rutegeneratoren ikke kan generer en god nok rute.  
 Forkert redigering kan give problemer for cp chaufføren, da vejpunkterne har skjulte attributter.  
 
-
   
 Under den grundlæggende kategori er:  
 1) Hold og flyt et vejpunkt med musen.  
 2) Indsæt vejpunkt før eller efter et markeret vejpunkt..  
   
 Sletning af vejpunkter kan gøres med den røde slet-knap.  
-
 
   
 Under den avancerede kategori er:  
@@ -34,5 +32,4 @@ For at fjerne markeringen skal du blot klikke på højre museknap..
 3) En pensel til at indsætte en kurve af vejpunkter.  
 Som med at flytte flere vejpunkter, skal du først markere 2 vejpunkter, derefter holde venstre museknap nede og flytte musen.  
 OBS: Så snart du giver slip, vil vejpunkterne blive sat af, dette kan ikke fortrydes! (vejpunkter kan selvfølgelig slettes.)  
-
 
