@@ -147,7 +147,6 @@ def generate_site():
     except Exception as e:
         print(f"Error: {e}")
         raise
-
 def ensure_list_rendering(file_path):
     """
     Ensures proper list rendering in a Markdown file for MkDocs Material
@@ -159,8 +158,8 @@ def ensure_list_rendering(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Use regular expression to find cases where a list starts without a preceding newline
-    updated_content = re.sub(r"(?<!\n)\n- ", r"\n\n- ", content)
+    # Use regular expression to find the first list item in a sequence of two or more
+    updated_content = re.sub(r"(?<!\n)(\n- [^\n]*\n- )", r"\n\1", content)
 
     # Write the updated content back to the file if changes were made
     if content != updated_content:
