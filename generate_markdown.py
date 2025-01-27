@@ -23,14 +23,16 @@ def copy_image_to_docs(image_filename):
     """Copy an image from the translation_data folder to the docs/assets/images folder."""
     source_path = os.path.join(TRANSLATION_DIR, image_filename)
     destination_path = os.path.join(IMAGES_DIR, image_filename)
+
     if os.path.exists(source_path):
         shutil.copy(source_path, destination_path)
+        print(f"Copied image: {image_filename}")
     else:
         print(f"Warning: Image file '{image_filename}' not found in translation_data folder.")
 
 def create_markdown_file(language_code, page, output_dir, file_index, is_index=False):
     """
-    Create a Markdown file for a given page in a specific language.
+    Create or overwrite a Markdown file for a given page in a specific language.
 
     Args:
         language_code (str): Language code for the output file.
@@ -41,7 +43,7 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
     """
     file_name = "index.md" if is_index else f"{file_index:02d}_page_{page['raw_title']}.md"
     file_path = os.path.join(output_dir, file_name)
-    
+
     with open(file_path, "w", encoding="utf-8") as md_file:
         # Write the page title
         md_file.write(f"# {page['title']}\n\n")
@@ -51,7 +53,6 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
             if paragraph["title"]:
                 md_file.write(f"## {paragraph['title']}\n\n")
             if paragraph["text"]:
-                # Directly replace newlines with Markdown-compatible line breaks
                 md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
             if paragraph["image"]["filename"]:
                 # Copy the image to the docs/assets/images folder
