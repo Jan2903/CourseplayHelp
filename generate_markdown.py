@@ -69,12 +69,24 @@ def delete_unused_images(used_images):
             os.remove(image_path)
             print(f"Deleted unused image: {image_file}")
 
+def clear_output_directory(output_dir):
+    """Delete all files and folders in the output directory."""
+    for root, dirs, files in os.walk(output_dir, topdown=False):
+        for name in files:
+            os.remove(os.path.join(root, name))
+        for name in dirs:
+            os.rmdir(os.path.join(root, name))
+    print(f"Cleared all files in {output_dir}")
+
 def generate_site():
     """
     Main function to generate Markdown files for a multilingual site.
     Reads configuration, processes translations, and manages assets.
     """
     try:
+        # Clear the output directory
+        clear_output_directory(OUTPUT_DIR)
+        
         # Load the configuration file
         with open(CONFIG_FILE, "r", encoding="utf-8") as config_file:
             config = json.load(config_file)
