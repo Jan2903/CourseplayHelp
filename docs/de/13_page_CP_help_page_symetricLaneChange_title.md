@@ -2,7 +2,7 @@
 
   
 Das Tauschen der Bahnen wird in Multitoolkursen benutzt und sagt dem Helfer, in welche Bahn er nach dem Wendemanöver fahren soll.  
-Beim aktiven Tauschen, wechseln die Fahrer die Seite.  
+Beim aktiven Tauschen wechseln die Fahrer die Seite.  
 Da dies etwas zu kompliziert zu erklären ist, werfen wir einen Blick auf 2 Beispiele.  
 
 

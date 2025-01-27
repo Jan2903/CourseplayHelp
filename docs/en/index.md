@@ -14,7 +14,7 @@ In Farming Simulator 25, Courseplay got its own menu, which you can access over 
   
 For more information please visit our GitHub: https://github.com/Courseplay/Courseplay_FS25 .  
 There you can get help or report any issues you've experienced.  
-Finally, we thank every translator and our community for reporting bugs, giving use feedback and new ideas.  
+Finally, we thank every translator and our community for reporting bugs, giving us feedback and new ideas.  
   
 What is the expert mode:  
 When the expert mode is deactivated, you only have access to some settings.  

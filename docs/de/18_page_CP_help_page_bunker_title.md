@@ -1,4 +1,4 @@
-# Bunkersilo Arbeiter
+# Bunkersilo-Arbeiter
 
   
 Courseplay ist in der Lage, Häckselgut in einem Bunker zu verdichten, zu verteilen oder in einem Keilsilo bis zum Ende zu schieben.  
@@ -9,11 +9,11 @@ Für Keilsilos wird ein Schild benutzt, um das Häckselgut nach hinten in das Si
 
   
 Für einen Verteiler oder Schild gibt es nur den Bunkersilo-Modus.  
-Ohne Verteiler oder Schild wird durch das Durchschalten des Startpunkts zum Bunkersilo-Modus gewechselt.  
+Ohne Verteiler oder Schild wird durch das Durchschalten des CP-Jobs zum Bunkersilo-Modus gewechselt.  
 Ebenfalls kann die Fahrtrichtung, mit welcher in das Silo gefahren wird, angegeben werden.  
 Mit dem Zielknopf im HUD wird auf der Helferkarte der Bunker ausgewählt.   
 Der ausgewählte Bunkerumriss auf der Karte wird dann weiß.  
 Die Parkposition wird mit dem Marker "Parkposition" gesetzt und wird angefahren, wenn sich der Abfahrer nahe des Silos befinden.  
-Die Parkposition kann auch genutzt werden, um mit dem Giants Helfer zum Bunker zu fahren, bevor mit der Arbeit begonnen wird.  
+Außerdem kann die Parkposition genutzt werden, um mit dem Giants Helfer zum Bunker zu fahren, bevor mit der Arbeit begonnen wird.  
 
 

@@ -20,8 +20,8 @@ Es gibt nur wenige Optionen zur Feineinstellung:
   
 Wird ein Anhänger zum Abfahren verwendet, gibt es 2 Möglichkeiten diesen zu entleeren:  
 - Giants Helfer:  
-  1) Starten über das Helfermenü mit der aktiven Option "Giants Ablader benutzen" oder im HUD starten mit aktivem Lenkrad-Knopf.  
-  2) Die gewünschte Abladestelle auswählen. Im HUD ist diese Option nur mit aktivem Lenkrad sichtbar.  
+  1) Starten über das Helfermenü mit der aktiven Option "Giants Ablader benutzen"  
+  2) Die gewünschte Abladestelle auswählen.  
 - AutoDrive: Funktioniert wie mit einem Ladewagen. Schaue dir dazu AutoDrive-Tutorials an.  
 
 

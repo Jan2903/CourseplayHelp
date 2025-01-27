@@ -3,7 +3,7 @@
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
-This is our info panel, it can be moved around with the mouse cursor, just like our mini HUD.  
+This is our info panel, it can be moved around with the mouse cursor, just like our Mini HUD.  
 Besides the name and the version of our mod, it also shows status information about the Courseplay drivers.  
 While hovering the status message, the name of the vehicle will be displayed.  
 By clicking on it, you can jump directly into the vehicle.  
@@ -11,6 +11,7 @@ By clicking on it, you can jump directly into the vehicle.
 
   
 The status messages are:  
+  
 - Helper is stuck  
 - Blocked by an object  
 - Should be refueled  

@@ -11,6 +11,7 @@ Durch Experimentieren mit den Werten oder auch der Startposition kannst du dich 
 
   
 Grundeinstellungen:  
+  
 - Arbeitsbreite: Die Arbeitsbreite der meisten Geräte wird exakt erkannt und es muss nichts weiter eingestellt werden. Wird der Wert angepasst, hat es Einfluss auf den gesamten Kurs.  
 - Anzahl Vorgewende: Damit deine Fahrzeuge und Geräte beim Wenden auf dem Feld bleiben, solltest du am besten ein paar Vorgewende einstellen.  
 Die Anzahl der Vorgewende, multipliziert mit der Arbeitsbreite sollte in etwa die Länge des Fahrzeugs plus das angehängte Arbeitsgerät sein.  

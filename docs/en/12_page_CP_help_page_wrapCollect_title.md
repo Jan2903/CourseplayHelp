@@ -17,8 +17,7 @@ start it with bale wrapping/collecting from the HUD or the AI Menu.
 
   
 When using a course, the helper drives with a preset offset so the wrappers pickup is in the middle of the course.  
-Without a course, the Courseplay scans the field for unwrapped bales and uses the pathfinder to find a way to  
-the best closest bale to wrap.  
+Without a course, the Courseplay scans the field for unwrapped bales and uses the pathfinder to find a way to the best closest bale to wrap.  
 Automatic backing up if a bale is in front of the vehicle or if we are too close to the field border should prevent accidents.  
 
 
