@@ -157,8 +157,8 @@ def ensure_list_rendering(file_path):
 
     # Regex explanation:
     # - (?<=\S): Ensure the list is preceded by a non-blank line (no existing newline).
-    # - (\n-.*\n-.*): Match a sequence of two list items starting with "-".
-    updated_content = re.sub(r"(?<=\S)(\n-.*\n-.*)", r"\n\1", content)
+    # - (\n- .*\n- .*): Match a sequence of two list items starting with "- ".
+    updated_content = re.sub(r"(?<=\S)(\n- .*\n- .*)", r"\n\1", content)
 
     if content != updated_content:
         with open(file_path, "w", encoding="utf-8") as file:
