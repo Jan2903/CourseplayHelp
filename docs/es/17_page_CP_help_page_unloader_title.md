@@ -6,19 +6,14 @@ Esto no funciona con Cosechadoras de Forraje.
 Puedes usar un remolque normal o un vagón con sinfín para descargar una cosechadora.  
 Para vaciar los remolques, puede usar el Ayudante de Giants o AutoDrive.  
 Arrancar el descargador requiere algunas cosas:  
-
 - Debe tener un solo remolque o vagón con sinfín adjunto. No se admiten varios remolques.  
-
 - Use el icono de destino en el HUD para seleccionar el campo que se está cosechando. El descargador descargará  
 todas las Cosechadoras conducidas por Courseplay que estén trabajando en ese campo.  
-
 - Debe estar en el campo o dentro de los 20 metros del borde fuera del campo para iniciar el descargador.  
   
 Los descargadores solo tienen unas pocas configuraciones que puedes modificar:  
-
 - Puedes establecer el nivel de llenado en el que el descargador se considerará lleno. Este  
 es evitar que una cosechadora llame a un descargador con un remolque casi lleno.  
-
 - Puede usar las compensaciones en el HUD para ajustar la posición del descargador debajo del tubo de la cosechadora.  
   
 

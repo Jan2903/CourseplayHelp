@@ -6,17 +6,12 @@ Tryb rozładunku w Courseplay działa z kombajnami i kombajnami półzawieszanym
 Możesz użyć pojedynczej przyczepy lub wozu przeładunkowego, aby rozładować kombajn.  
 Aby opróżnić przyczepy, możesz użyć Pomocnika SI z gry lub AutoDrive.  
 Uruchomienie rozładunku wymaga kilku rzeczy:  
-
 - Musisz mieć podłączoną jedną przyczepę lub wóz przeładunkowy. Zestaw przyczep nie jest obsługiwany.  
-
 - Użyj ikony 'celu' na HUD, aby wybrać koszone pole. Rozładowane zostaną wszystkie kombajny sterowane przez pomocnika Courseplay pracujące na tym polu.  
-
 - Musisz być na polu lub w odległości 20 metrów od niego by móc aktywować rozładunek.  
   
 Dostępnych jest tylko kilka ustawień, które możesz zmienić:  
-
 - Możesz ustawić poziom napełnienia, przy którym pomocnik będzie uważał podłączoną przyczepę za pełną. Ma to na celu uniknięcie czekania na kombajn z prawie pełną przyczepą.  
-
 - Możesz użyć przesunięć w HUD, aby dostosować pozycję pomocnika rozładowującego pod rurą kombajnu.  
 
 

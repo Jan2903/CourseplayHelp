@@ -24,11 +24,8 @@ Clicar no modo de alteração ativa o modo de edição do gerenciador de rotas.
 
   
 Com o modo de edição ativo você tem estas opções:  
-
 - Mover uma rota para outra pasta.  
-
 - Excluir uma rota ou pasta.  
-
 - Renomear rota ou pasta.  
 
 

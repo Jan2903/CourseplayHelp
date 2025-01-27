@@ -7,11 +7,8 @@ si necesita más espacio para que los vehículos giren en la isla. Tenga en cuen
 
 
   
-
 - Desvío de isla: activa o desactiva el desvío de la isla, si se encuentra una isla. ¡Esto no funciona para campos personalizados!  
-
 - Cabeceras de isla: la cantidad de vueltas alrededor de la isla ahora se puede configurar independientemente de la configuración de la cabecera.  
-
 - Dirección de la cabecera de isla: en qué dirección conduce el conductor alrededor de la isla, para no tener cambios de dirección extraños. Esto puede ser complicado de configurar, ya que depende del campo y del resto del recorrido.  
 
 

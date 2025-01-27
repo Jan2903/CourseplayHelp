@@ -5,17 +5,12 @@ Der Abfahrermodus von Courseplay funktioniert nur mit Dreschern, Vollerntern, H�
 Zum Abtanken können normale Anhänger oder Überladewagen verwendet werden.  
 Zum Entleeren von Anhängern kann entweder der Giants Helfer oder AutoDrive verwendet werden.  
 Um einen Abfahrer zu starten gibt es ein paar Voraussetzungen:  
-
 - Es muss ein Überladewagen oder maximal ein Anhänger angekuppelt sein.  
-
 - Mit dem Zielknopf im HUD muss vorher das Feld ausgewählt werden. Alle Courseplay-Drescher auf dem Feld werden dann abgetankt.  
-
 - Gestartet werden kann der Abfahrer, wenn er direkt auf dem Feld ist oder sehr nahe zur Feldgrenze steht.  
   
 Es gibt nur wenige Optionen zur Feineinstellung:  
-
 - Ab welchem Füllstand der Abfahrer voll ist und zum Entladen geschickt wird.  
-
 - Offsets im HUD, falls das Rohr des Dreschers den Abfahrer zum Überladen nicht trifft.  
   
 
@@ -23,11 +18,9 @@ Es gibt nur wenige Optionen zur Feineinstellung:
 ## Anhänger benutzen
   
 Wird ein Anhänger zum Abfahren verwendet, gibt es 2 Möglichkeiten diesen zu entleeren:  
-
 - Giants Helfer:  
   1) Starten über das Helfermenü mit der aktiven Option "Giants Ablader benutzen"  
   2) Die gewünschte Abladestelle auswählen.  
-
 - AutoDrive: Funktioniert wie mit einem Ladewagen. Schaue dir dazu AutoDrive-Tutorials an.  
 
 

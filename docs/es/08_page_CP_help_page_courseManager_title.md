@@ -24,11 +24,8 @@ Al hacer clic en el modo de cambio, se activa el modo de edición del administra
 
   
 Con el modo de edición activo, tiene estas opciones:  
-
 - Mover un curso a otro directorio.  
-
 - Eliminación de cursos o directorios.  
-
 - Renombrar cursos o directorios.  
 
 

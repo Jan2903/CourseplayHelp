@@ -24,11 +24,8 @@ Cliccando su cambia modalità si attiva la modalità di modifica del gestore del
 
   
 Con la modalità di modifica attiva hai queste opzioni:  
-
 - Spostamento di un percorso in un'altra cartella.  
-
 - Eliminazione percorsi o cartella.  
-
 - Rinominare percorsi o cartella.  
 
 

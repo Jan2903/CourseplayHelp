@@ -23,11 +23,8 @@ Kliknutím na režim Upravit aktivujete režim úprav správce tras.
 
   
 Když je režim úprav aktivní, máte tyto možnosti:  
-
 - Přesunutí trasy do jiného adresáře.  
-
 - Mazání tras nebo adresářů.  
-
 - Přejmenování tras nebo adresářů.  
 
 

@@ -8,11 +8,8 @@ sınırına çok yakın olduğu durumlarda oluşturucu daha az koridor oluşturm
 
 
   
-
 - Ada Çevreleme: Adanın çevresinden geçiş yapılıp yapılmayacağını belirler. Eğer bir ada bulunursa bu ayar aktif olur. Ancak, bu seçenek özel olarak tanımlanmış tarlalar için geçerli değildir!  
-
 - Ada Koridorları: Adanın etrafında kaç tur atılacağını, genel manevra koridoru ayarından bağımsız olarak belirlemenizi sağlar.  
-
 - Ada Koridorları Yönü: Şoförün adanın etrafında hangi yönde hareket edeceğini belirler, böylece yön değişiklikleri karmaşık hale gelmez. Bu ayar tarlanın yapısına ve rotanın geri kalanına bağlı olarak dikkatlice ayarlanmalıdır.  
 
 

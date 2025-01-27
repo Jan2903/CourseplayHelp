@@ -7,11 +7,8 @@ Keep in mind that the generator may decide to generate fewer headlands if the is
 
 
   
-
 - Island bypass: Turns on or off the bypass of the island, if an island is found. This does not work for custom fields!  
-
 - Island headlands: The number of rounds around the island can be set independently of the headland setting.  
-
 - Island headland direction: In which direction the driver drives around the island, for instance, to make sure the combine's pipe is not in the fruit or to not have strange direction changes.  
 
 

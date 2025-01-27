@@ -11,43 +11,24 @@ Ao clicar nele, você pode pular diretamente para o veículo.
 
   
 As Informações são as seguintes:  
-
 - Ajudante está preso  
-
 - Bloqueado por um objeto  
-
 - Deve ser reabastecido  
-
 - Precisa ser reabastecido  
-
 - Precisa ser reparado  
-
 - Precisa ser reabastecido  
-
 - Precisa ser descarregado  
-
 - Trabalho feito  
-
 - Condução para colheitdeira  
-
 - Dirigindo para o trailer  
-
 - Sem dinheiro  
-
 - Esperando a chuva passar  
-
 - Esperando no descarregador  
-
 - Saiu da rota, parou  
-
 - Tipo de fardo errado  
-
 - Nenhum caminho encontrado  
-
 - Não é possível tombar no chão  
-
 - Cortador não suportado  
-
 - Fixação do cortador desativada  
 
 

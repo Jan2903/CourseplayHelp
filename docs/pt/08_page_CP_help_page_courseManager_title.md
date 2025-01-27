@@ -24,11 +24,8 @@ Clicar no modo de alteração ativa o modo de edição do gerenciador de curso.
 
   
 Com o modo de edição ativo você tem estas opções:  
-
 - Mover um curso para outro diretório.  
-
 - Exclusão de cursos ou diretórios.  
-
 - Renomear cursos ou diretórios.  
 
 

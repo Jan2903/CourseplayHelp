@@ -8,26 +8,17 @@ Spirale są lepszym rozwiązaniem dla półzawieszanych kombajnów bocznych, aby
 
 
   
-
 - Środek pola: Istnieją różne tryby tego, jak powinien wyglądać wzór środka pola. Klasyczny i najczęściej używany to 'tam i z powrotem'.  
 'Spirala', 'na około' i 'wyspy' mają swoje specyficzne zalety w stosunku do innych. Na przykład w trybie 'wysepek' rura kombajnu będzie przez większość czasu skierowana na skoszoną już część pola, aby ułatwić jego rozładunek.  
-
 - Kierunek środka pola: Działa tak samo jak na uwrociach, ale można go teraz ustawić niezależnie.  
-
 - Równa szerokość rzędów: Jeśli środek pola ma całkowitą szerokość, której nie można równomiernie podzielić na szerokość roboczą narzędzia, pierwszy lub ostatni rząd będzie miał wąski zakres pracy. Aby temu zapobiec, szerokość każdego rzędu jest zmniejszana, aby zapewnić równomierny podział na wszystkie rzędy.  
-
 - Kierunek rzędów: Funkcja automatyczna w większości przypadków znajduje najlepszy kierunek, ale czasami najdłuższa krawędź pasuje lepiej. Jeśli nie jesteś zadowolony z żadnego z nich, wybierz opcję ręczną i ustaw kierunek ręcznie.  
-
 - Kąt rzędu: Gdy kierunek rzędów jest ustawiony na ręczny, pojawia się to ustawienie i informuje generator o kierunku rzędów.  
   
 Te ustawienia są wyświetlane tylko dla określonych ustawień, które zostały wprowadzone wcześniej:  
-
 - Rzędy do pominięcia: Pojawia się, gdy środek pola jest ustawiony na "tam i z powrotem". Jest to bardzo pomocna opcja przyspieszająca pracę, ponieważ pojazd nie będą musiał się cofać, aby trafić do następnego rzędu.  
-
 - Rzędy na wysepkę: Pojawia się, gdy środek pola jest ustawiony na "wyspy". Określa generatorowi, ile rzędów powinna mieć każda z nich. Im więcej rzędów, tym mniej wysepek zostanie wygenerowanych.  
-
 - Spirala od środka: Pojawia się, gdy środek pola jest ustawione na "spirala".  
-
 - Liczba okręgów: Pojawia się, gdy środek pola jest ustawione na "na około".  
 
 

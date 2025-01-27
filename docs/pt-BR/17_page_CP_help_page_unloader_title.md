@@ -6,18 +6,13 @@ Não funciona com choppers.
 Você pode usar uma carreta comum ou uma bazuca (aquela com cano) para descarregar uma colheitadeira.  
 Para descarregar uma carreta, você pode usar o Giants Helper ou o AutoDrive.  
 Iniciar o descarregador requer algumas coisas:  
-
 - Você precisa ter uma única carreta ou bazuca. várias carretas não são suportadas.  
-
 - Use o ícone de alvo no HUD para selecionar o campo que está sendo colhido. A carreta descarregará todos as colheitadeiras nquele campo.  
-
 - Você deve estar no campo ou a 20 metros do campo para iniciar a carreta.  
   
 As carretas têm algumas configurações que você pode ajustar:  
-
 - Você pode definir o nível de enchimento no qual a carreta se considerará cheio.   
 evitar esperar a chamada de uma colheitadeira com a carreta quase cheia.  
-
 - Você pode usar os deslocamentos no HUD para ajustar a posição da carreta sob o tubo da colheitadeira.  
   
 

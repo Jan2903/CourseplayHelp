@@ -24,11 +24,8 @@ Ved at klikke på ændringstilstand aktiveres rutegeneratorens redigeringstilsta
 
   
 Når redigeringstilstanden er aktiv, har du disse muligheder:  
-
 - Flytte en rute til en anden mappe.  
-
 - Sletning af rute eller mapper.  
-
 - Omdøbning af rute eller mapper.  
 
 
