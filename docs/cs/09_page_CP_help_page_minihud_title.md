@@ -1,7 +1,6 @@
 # Mini HUD
 
 ## Obecné
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: Nastavení zobrazená pod tímto řádkem závisí na aktuální úloze. Budo
 
 
 ## Polní práce
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Symbol na pravé straně slouží ke zkopírování aktuální trasy do schr�
 
 
 ## Vykládka kombajnu
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: Podobně jako při kopírování trasy můžete i zde zkopírovat načtenou t
 
 
 ## Sběr/ovíjení balíků
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C: Posun mezi osou traktoru a osou ramene nakladače. U větších traktorů (na
 
 
 ## Plnění silážní jámy
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D: Stejně jako u vykládacího zařízení můžete i zde zkopírovat načtenou
 
 
 ## Práce v silážní jámě
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

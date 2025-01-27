@@ -1,7 +1,6 @@
 # Mini HUD
 
 ## General
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: The settings shown under this line depend on the current job. These will be e
 
 
 ## Fieldwork
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Use the symbol on the right side to copy the current course to the clipboard.
 
 
 ## Combine unloader
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: Similar to copying a course, here you can copy the marker positions to anothe
 
 
 ## Bale collect/wrap
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C: Offset between the tractor's centerline and the loader arm's centerline. You 
 
 
 ## Silo loader
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D: Just like with the unloader, you can copy the marker positions to another veh
 
 
 ## Silo worker
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

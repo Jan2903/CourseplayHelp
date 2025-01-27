@@ -1,7 +1,6 @@
 # Mini ATH
 
 ## General
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G : Les paramètres affichés sous cette ligne dépendent du travail en cours. I
 
 
 ## Travaux
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E : Utilisez le symbole à droite pour copier la course actuelle dans le presse-
 
 
 ## Déchargement de récolteuse
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E : Comme pour la copie d'un parcours, vous pouvez ici copier les positions des 
 
 
 ## Ramassage/enrub des bottes
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C : Décalage entre l'axe du tracteur et l'axe du bras chargeur. Il peut être n
 
 
 ## Chargeur silo
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D : Comme pour le déchargeur, vous pouvez copier les positions des marqueurs su
 
 
 ## Tassage silo
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

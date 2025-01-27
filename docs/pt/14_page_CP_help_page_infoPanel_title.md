@@ -11,15 +11,25 @@ Ao clicar nele, você pode pular diretamente para o veículo.
 
   
 As Informações são as seguintes:  
+
 - O ajudante está preso  
+
 - Bloqueado por um objeto  
+
 - Deve ser reabastecido  
+
 - Precisa ser reabastecido  
+
 - Precisa ser reparado  
+
 - Precisa ser reabastecido  
+
 - Precisa ser descarregado  
+
 - Trabalho feito  
+
 - De dinheiro  
+
 - Esperando a chuva acabar  
 
 

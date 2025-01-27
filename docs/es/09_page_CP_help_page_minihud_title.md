@@ -1,7 +1,6 @@
 # Mini HUD
 
 ## General
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: Las configuraciones que se muestran debajo de esta línea dependen del trabaj
 
 
 ## Trabajo de campo
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Utilice el símbolo del lado derecho para copiar el curso actual al portapape
 
 
 ## Descargador de combinada
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: De manera similar a copiar un recorrido, aquí puede copiar las posiciones de
 
 
 ## Recoger/Envolver pacas
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C: Desplazamiento entre la línea central del tractor y la línea central del br
 
 
 ## Cargador de silos
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D: Al igual que con el descargador, puedes copiar las posiciones de los marcador
 
 
 ## Trabajador de silo
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

@@ -1,7 +1,6 @@
 # Mini HUD
 
 ## Genel işlevler
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: Bu çizginin altındaki ayarlar, mevcut işe bağlıdır. Bu ayarlar aşağı
 
 
 ## Tarla çalışması
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Mevcut rotayı panoya kopyalamak için sağdaki simgeyi kullanın. Kopyalanan
 
 
 ## Biçerdöver boşaltma
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: Rota kopyalamaya benzer şekilde, işaretçi konumlarını başka bir araca k
 
 
 ## Balya toplama/sarma
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C: Traktörün orta noktası ile toplayıcı kolunun orta noktası arasındaki m
 
 
 ## Silo doldurucu
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D: Tıpkı boşaltıcıda olduğu gibi, işaretçi konumlarını başka bir arac
 
 
 ## Silo çalışması
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

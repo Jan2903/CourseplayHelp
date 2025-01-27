@@ -11,15 +11,25 @@ Kliknutím na něj můžete skočit přímo do vozidla.
 
   
 Informace jsou následující:  
+
 - Pomocník se zasekl  
+
 - Je blokován objektem  
+
 - Měl by se natankovat  
+
 - Je třeba doplnit palivo  
+
 - Potřebuje opravit  
+
 - Je třeba doplnit  
+
 - Je třeba vyložit  
+
 - Práce dokončena  
+
 - Nedostatek peněz  
+
 - Čeká, až skončí déšť  
 
 

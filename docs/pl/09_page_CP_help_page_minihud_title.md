@@ -1,7 +1,6 @@
 # Mini HUD
 
 ## Informacje ogólne
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: Ustawienia wyświetlane w tym wierszu zależą od bieżącej pracy. Zostaną 
 
 
 ## Prace polowe
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Użyj symbolu po prawej stronie, aby skopiować bieżący kurs do schowka. Na
 
 
 ## Rozładunek kombajnu
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: Podobnie jak w przypadku kopiowania kursu, w tym miejscu można skopiować po
 
 
 ## Zbieranie/Owijanie bel
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C: Przesunięcie między linią środkową ciągnika a linią środkową ramieni
 
 
 ## Załadunek pryzmy
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D: Podobnie jak w przypadku rozładunku, można skopiować pozycje znaczników d
 
 
 ## Zagęszczanie i wyrównywanie
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

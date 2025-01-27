@@ -11,15 +11,25 @@ Klikając na nią, możesz wskoczyć bezpośrednio do pojazdu.
 
   
 Informacje są następujące:  
+
 - Utknął  
+
 - Zablokowany przez obiekt  
+
 - Powinien zostać zatankowany  
+
 - Musi zostać zatankowany  
+
 - Musi zostać naprawiony  
+
 - Musi zostać załadowany  
+
 - Musi zostać rozładowany  
+
 - Zakończył pracę  
+
 - Brak pieniędzy  
+
 - Oczekuje na koniec opadów  
 
 

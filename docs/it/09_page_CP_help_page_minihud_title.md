@@ -1,7 +1,6 @@
 # Mini HUD
 
 ## Generale
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: Le impostazioni visualizzate sotto questa riga dipendono dal lavoro corrente.
 
 
 ## Lavoro sul campo
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Utilizzare il simbolo sul lato destro per copiare il percorso corrente negli 
 
 
 ## Scaricatore per mietitrebbie
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: Similmente alla copia di un percorso, qui puoi copiare le posizioni dei marke
 
 
 ## Raccolta/avvolgimento delle balle
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C: Offset tra la linea centrale del trattore e la linea centrale del braccio car
 
 
 ## Caricatore silos
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D: Proprio come con lo scaricatore, puoi copiare le posizioni dei marker su un a
 
 
 ## Lavoratore del silos
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

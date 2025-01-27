@@ -11,10 +11,13 @@ offerte dal generatore è sperimentarlo.
   
 Nozioni di base:  
 I primi valori che vedi qui sono davvero fondamentali.  
+
 - Larghezza di lavoro: Courseplay rileva automaticamente la larghezza di lavoro per la maggior parte degli strumenti, quindi non dovrai preoccuparti di questo,  
 ma se il rilevamento automatico fallisce, puoi impostarlo manualmente. Questa impostazione ha un impatto sul percorso complessivo.  
+
 - Numero di promontori: il modo migliore per mantenere i veicoli sul campo durante le svolte alla fine di ogni fila è aggiungere promontori.  
 Il numero di capezzagne moltiplicato per la larghezza di lavoro dovrebbe essere almeno la lunghezza totale del veicolo più lo strumento collegato.  
+
 - Inizia a lavorare su: come menzionato nel menu IA esteso, la posizione del campo viene utilizzata per impostare la posizione di inizio o fine per  
 il percorso di lavoro sul campo. Si desidera iniziare a lavorare a fine campo durante la raccolta e lavorare verso il centro del campo.  
 L'aratura, la semina e la coltivazione dovrebbero iniziare dal centro del campo e proseguire verso il promontorio.  

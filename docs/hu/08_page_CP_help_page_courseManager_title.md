@@ -24,8 +24,11 @@ A 'Módváltás' gombra kattintva aktiválhatod az útvonalkezelő szerkesztő m
 
   
 A szerkesztő mód aktiválása a következő opciókat teszi elérhetővé:  
+
 - Útvonal mozgatása másik mappába.  
+
 - Útvonalak vagy mappák törlése.  
+
 - Útvonalak vagy mappák átnevezése.  
 
 

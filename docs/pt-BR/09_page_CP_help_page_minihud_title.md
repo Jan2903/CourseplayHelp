@@ -1,7 +1,6 @@
 # Mini HUD
 
 ## Funções Gerais
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: As configurações mostradas nesta linha dependem do trabalho atual. Isso ser
 
 
 ## Trabalho no campo
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Use o símbolo do lado direito para copiar a rota atual para a área de trans
 
 
 ## Colheitadeira descarrega
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: Semelhante a copiar um percurso, aqui você pode copiar as posições dos mar
 
 
 ## Fardos coletar/embalar
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -48,7 +44,6 @@ B: Tipo de fardos a recolher/embalar.
 C: Deslocamento entre a linha central do trator e a linha central do braço da carregadeira. Pode ser necessário ajustar isso para tratores maiores (por exemplo, com pneus mais largos).
 
 ## Carregar silo
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -59,7 +54,6 @@ D: Assim como no descarregador, você pode copiar as posições dos marcadores p
 
 
 ## Trabalho no silo
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

@@ -24,8 +24,11 @@ Om du klickar på ändringsläge aktiverar du redigeringsläget för kurshantera
 
   
 Med redigeringsläget är aktivt har du dessa alternativ:  
+
 - Flytta en kurs i en annan katalog.  
+
 - Radera kurser eller kataloger.  
+
 - Byta namn på kurser eller kataloger.  
 
 

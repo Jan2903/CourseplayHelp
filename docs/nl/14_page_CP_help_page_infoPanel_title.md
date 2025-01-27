@@ -11,15 +11,25 @@ By clicking on it, you can jump directly into the vehicle.
 
   
 The Informations are the following:  
+
 - Helper is stuck  
+
 - Blocked by an object  
+
 - Should be refueled  
+
 - Needs to be refueled  
+
 - Needs to be repaired  
+
 - Needs to be refilled  
+
 - Needs to be unloaded  
+
 - Finished work  
+
 - Ouf of money  
+
 - Waiting for rain to finish  
 
 

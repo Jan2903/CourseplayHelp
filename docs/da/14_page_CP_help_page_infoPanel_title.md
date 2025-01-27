@@ -11,15 +11,25 @@ Ved at klikke på den kan du hoppe direkte ind i køretøjet.
 
   
 Informationerne er følgende:  
+
 - Hjælperen sidder fast  
+
 - Blokeret af et objekt  
+
 - Skal tankes op  
+
 - Skal tankes op  
+
 - Skal repareres  
+
 - Skal fyldes op igen  
+
 - Skal losses  
+
 - Arbejdet er udført  
+
 - Ikke nok penge  
+
 - Venter på at regnen stopper  
 
 

@@ -11,15 +11,25 @@ Genom att klicka på det kan du hoppa direkt in i fordonet.
 
   
 Informationen är följande:  
+
 - Hjälparen sitter fast  
+
 - Blocked by an object  
+
 - Bör tankas  
+
 - Behöver tankas  
+
 - Behöver repareras  
+
 - Måste fyllas på  
+
 - Behöver lossas  
+
 - Slutfört arbete  
+
 - Slut på pengar  
+
 - Väntar på att det ska sluta regna för att slutföra   
 
 

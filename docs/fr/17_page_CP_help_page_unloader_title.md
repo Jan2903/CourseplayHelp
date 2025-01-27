@@ -6,18 +6,22 @@ Cela ne fonctionne pas avec les ensileuses.
 Vous pouvez soit utiliser une benne classique ou un transbordeur pour aller vider une moissonneuse.  
 Pour ensuite aller vider les bennes, vous pouvez utiliser soit les ouvriers Giants ou l'AutoDrive.  
 Pour démarrer le processus de déchargement, il a quelques conditions :  
+
 - Vous devez avoir attelé une seule remorque ou transbordeur. L'ouvrier CP ne gère pas plusieurs remorques attachées à la suite.  
+
 - Utilisez l'icone de la cible depuis l'ATH pour sélectionner le champ à surveiller et qui est en cours de récolte. L'ouvrier CP ira s'occuper de décharger toutes les récolteuses conduites par le CP travaillant dans ce champ.  
+
 - Vous devez être sur le champ ou à moins de 20 mètres de distance pour démarrer la course de déchargement.  
   
 Vous pouvez adapter quelques paramètres concernant le processus de déchargement :  
+
 - Fixer le seuil de remplissage au-delà duquel la benne ou le transbordeur sera considéré comme plein. Très pratique pour éviter qu'une moissonneuse appelle une benne qui serait déjà presque pleine.  
+
 - Utiliser l'ATH pour faire varier le décalage du placement de la benne ou du transbordeur sous la goulotte de la moissonneuse.  
   
 
 
 ## Utilisation des bennes
-
   
 Si vous utilisez une benne pour effectuer le déchargement, il existe deux possibilité de transporter la récolte vers un silo ou un point de vente : l'ouvrier Giants   
 ou l'AutoDrive.   
@@ -28,7 +32,6 @@ Pour utiliser AutoDrive, utilisez le mode charger puis livrer. Il existe des tut
 
 
 ## Utilisation des transbordeurs
-
   
 Les transbordeurs sont simples à utiliser.  
 Tout comme les bennes, utilisez la cible pour sélectionner le champ à surveiller dans lequel travaillent une ou des récolteuses.  
@@ -39,7 +42,6 @@ Si aucune benne ou remorque n'est disponible, le transbordeur continuera à déc
 
 
 ## Déchargement au champ
-
   
 L'emplacement ainsi que la position du déchargement peut être choisi en placant le marqueur.  
 L'emplacement doit être sur le même champ ou tout près des bords.  

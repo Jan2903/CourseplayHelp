@@ -1,7 +1,6 @@
 # 迷你HUD
 
 ## 完整的HUD
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -16,7 +15,6 @@ G： 此行下显示的设置取决于当前作业。以下图片将对此进行
 
 
 ## 田间工作
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -28,7 +26,6 @@ E： 使用右侧的符号将当前课程复制到剪贴板。复制的课程名
 
 
 ## 联合收割卸载工作
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -40,7 +37,6 @@ E： 与复制路线类似，您可以在此处将标记位置复制到另一辆
 
 
 ## 草捆的收集/打包
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -50,7 +46,6 @@ C： 拖拉机中心线和装载机臂中心线之间的偏移。对于较大的
 
 
 ## 青贮池装填
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -61,7 +56,6 @@ D： 就像卸载机一样，您可以将标记位置复制到另一辆车上。
 
 
 ## 青贮池工作
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

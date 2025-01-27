@@ -6,18 +6,22 @@ A kombájn kirakásához használhat normál pótkocsit vagy áttöltő kocsit.
 Az pótkocsi ürítéséhez használd a beépített segítőt, vagy az AutoDrive-ot.  
   
 A kirakó elindításához néhány dologra van szükség:  
+
 - Egyetlen pótkocsi vagy áttöltő kocsit kell csatlakoztatni. Több pótkocsi nem támogatott.  
+
 - Használd a HUD Cél ikonját a betakarított tábla kiválasztásához. A kirakodó kirakja az összes Courseplay segítő által vezetett betakarítógépet, amely azon a területen dolgozik.  
+
 - A kirakodó elindításához a táblán, vagy annak 20 méteres körzetében kell lennie.  
   
 A kirakodó csak néhány beállítással rendelkezik, amelyeket módosíthat:  
+
 - Beállíthatod azt a feltöltési szintet, amelynél a kirakodó telinek tekinti magát, hogy  
 ne várjon egy kombájnra, ha a pótkocsi majdnem tele van.  
+
 - A HUD-ban található eltolásokkal beállíthatja a kirakodó helyzetét a betakarítógép csöve alatt.  
 
 
 ## Pótkocsik használata
-
   
 Ha egy pótkocsit használsz a termény szállításához, két lehetőséged van az aratott termény szállítására: beépített segítőt, vagy az AutoDrive-ot használhatod.  
 Az AI menü segítségével létrehozol egy feladatot, majd aktiválod a beépített segítőt funkcióját és a lerakási célt a lista alján, vagy a HUD-on található kerék  
@@ -27,7 +31,6 @@ A pótkocsi ürítése az AutoDrive-val ugyanúgy működik, mint egy rakodókoc
 
 
 ## Áttöltő kocsik használata
-
   
 Az áttöltő kocsi használata nagyon egyszerű.  
 Csakúgy, mint a pótkocsik esetében, itt is a célkereszt ikon segítségével választhatod ki azt a táblát, ahol ki szeretnéd üríteni a kombájnt vagy betakarítógépet.  
@@ -38,7 +41,6 @@ Ha nem áll rendelkezésre pótkocsi, folytatja a kombájn kiürítését.
 
 
 ## Kirakodás a földön
-
   
 A kirakodási pozíciót a kirakodásjelzővel lehet kiválasztani.  
 A pozíciónak ugyanazon a táblán vagy a tábla szélének közelében kell lennie.  

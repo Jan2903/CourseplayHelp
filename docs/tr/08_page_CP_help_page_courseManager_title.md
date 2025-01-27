@@ -24,8 +24,11 @@ Bir rota yüklemek için önce klasörü seçmeli ardından rotayı seçip 'Rota
 
   
 Düzenleme modu aktif olduğunda şu seçenekler mevcut olur:  
+
 - Rotayı başka bir dizine taşıma.  
+
 - Rota ya da dizin silme.  
+
 - Rota ya da dizinleri yeniden adlandırma.  
 
 

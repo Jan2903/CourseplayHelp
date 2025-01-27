@@ -11,29 +11,53 @@ Cliccandoci sopra, puoi saltare direttamente nel veicolo.
 
   
 I messaggi di stato sono:  
+
 - L'aiutante è bloccato  
+
 - Bloccato da un oggetto  
+
 - Dovrebbe essere rifornito  
+
 - Deve essere rifornito  
+
 - Deve essere riparato  
+
 - Deve essere rifornito  
+
 - Deve essere scaricato  
+
 - Lavoro terminato  
+
 - Guida verso la mietitrebbia  
+
 - Guida verso il rimorchio  
+
 - Senza soldi  
+
 - In attesa che finisca la pioggia  
+
 - In attesa che scompaia la neve  
+
 - In attesa dello scaricatore  
+
 - Abbandonato il percorso, fermato  
+
 - Tipo di balla sbagliata  
+
 - Nessun percorso trovato  
+
 - Ribaltamento a terra impossibile  
+
 - Barra Falciante non supportata  
+
 - Attacco Barra Falciante disattivato  
+
 - Stagione sbagliata per il prodotto  
+
 - Prodotto sbagliato per la missione selezionata  
+
 - I pallet sono pieni  
+
 - Nessun pallet  
 
 

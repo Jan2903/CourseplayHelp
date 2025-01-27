@@ -24,8 +24,11 @@ Un clic sur le bouton de changement de mode permet de basculer entre le mode éd
 
   
 Lorsque vous êtes en mode édition vous pouvez :  
+
 - Déplacer une course dans un autre dossier.  
+
 - Supprimer des courses ou des dossiers.  
+
 - Renommer des courses ou des dossiers.  
 
 

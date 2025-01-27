@@ -22,8 +22,11 @@ Kliknięcie w tryb zmiany aktywuje tryb edycji menedżera kursu.
 
   
 Gdy tryb edycji jest aktywny, masz następujące opcje:  
+
 - Przenoszenie kursu do innego folderu.  
+
 - Usuwanie kursów lub folderu.  
+
 - Zmiana nazw kursów lub folderów.  
 
 

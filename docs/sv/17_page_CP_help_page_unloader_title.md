@@ -7,18 +7,20 @@ Du kan antingen använda en vanlig släpvagn eller en skruvvagn för att lossa e
 För att tömma trailers kan du använda Giants Helper eller AutoDrive.  
 Att starta avlastaren kräver några saker:  
 – Du behöver ha en enkel släpvagn eller skruvvagn kopplad. Flera trailers stöds inte.  
+
 - Använd målikonen på HUD för att välja fältet som ska skördas. Avlastaren kommer att lossa alla Courseplay-drivna skördare som arbetar på det fältet.  
 – Du måste vara på fältet eller inom 20 meter från fältet för att starta avlastaren.  
   
 Avlastare har bara ett fåtal inställningar som du kan justera:  
+
 - Du kan ställa in den fyllnadsnivå vid vilken avlastaren ska anses vara full. Detta  
 är att slippa vänta på att en skördetröska ska ringa med nästan full släp.  
+
 - Du kan använda förskjutningarna i HUD för att justera läget för avlastaren under skördarens rör.  
   
 
 
 ## Använder släp
-
   
 Om du använder en trailer för att lossa, finns det två sätt att transportera din skörd till en silo eller till ett försäljningsställe: Giants helper  
 eller AutoDrive.  
@@ -30,7 +32,6 @@ Att tömma en trailer med AutoDrive fungerar på samma sätt som att använda en
 
 
 ## Använda Fältvagn
-
   
 Fältvagnar är mycket enkla att använda.  
 Precis som med släp, använder du målikonen för att välja fältet där du vill lossa en skördetröska eller skördare.  
@@ -41,7 +42,6 @@ Finns ingen släpvagn tillgänglig fortsätter den att lasta av skördetröskan.
 
 
 ## avlastning på fältet
-
   
 Avlastningspositionen kan väljas med avlastningsmarkören.  
 Positionen måste vara på samma fält eller nära fältkanten.  

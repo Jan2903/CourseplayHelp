@@ -12,29 +12,53 @@ By clicking on it, you can jump directly into the vehicle.
   
 The status messages are:  
   
+
 - Helper is stuck  
+
 - Blocked by an object  
+
 - Should be refueled  
+
 - Needs to be refueled  
+
 - Needs to be repaired  
+
 - Needs to be refilled  
+
 - Needs to be unloaded  
+
 - Finished work  
+
 - Driving to combine  
+
 - Driving to trailer  
+
 - Ouf of money  
+
 - Waiting for rain to finish  
+
 - Waiting for snow to disappear  
+
 - Waiting on unloader  
+
 - Left the course, stopped  
+
 - Wrong bale type  
+
 - No path found  
+
 - Tipping to ground not possible  
+
 - Cutter not supported  
+
 - Cutter attaching deactivated  
+
 - Wrong season for fruit  
+
 - Wrong fruit for mission selected  
+
 - Pallets are full  
+
 - No pallets  
 
 

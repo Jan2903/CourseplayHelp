@@ -1,7 +1,6 @@
 # Mini-HUD
 
 ## Grundfunktionen
-
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
@@ -15,7 +14,6 @@ G: Unterhalb dieser Linie befinden sich modusabhängige Einstellungen, die in de
 
 
 ## Feldarbeit
-
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
@@ -27,7 +25,6 @@ E: Mit einem Klick auf das Symbol auf der rechten Seite wird der Kurs des Fahrze
 
 
 ## Drescher Abfahrer
-
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
@@ -39,7 +36,6 @@ E: Ähnlich wie beim Kopieren eines Kurses, werden hier die Positionen der Marke
 
 
 ## Ballen sammeln/wickeln
-
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
@@ -49,7 +45,6 @@ C: Versatz zwischen Traktormitte und der Mitte der Ballenaufnahme. Es kann nöti
 
 
 ## Silolader
-
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
@@ -60,7 +55,6 @@ D: Wie schon beim Abfahrer, kannst du hier die benötigten Marker kopieren und a
 
 
 ## Siloarbeiter
-
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   

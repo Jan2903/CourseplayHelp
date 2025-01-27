@@ -7,11 +7,17 @@ Vorgewende sind empfohlen, damit die Arbeitsgeräte beim Wenden von einer Feldba
 
 
   
+
 - Scharfe Ecken: Erzwingt die Ecken scharf zu fahren, sodass ein Wendemanöver durchgeführt wird.  
+
 - Anzahl runde Ecken: Hat man z.B. drei Vorgewende und stellt die Anzahl runder Ecken auf eins, wird vom ersten Vorgewende an gezählt, die Ecken des ersten Vorgewendes auf Rund gestellt, basierend auf den Eckenradius.  
+
 - Eckenradius: Bestimmt den Radius den runde Ecken haben sollen. Weiß man bereits, dass ein nachfolgender Arbeitsschritt mit einem Gerät bearbeitet wird, was einen minimalen Radius von 10 hat, kann man für den Kurs bereits diesen Radius einstellen.  
+
 - Vorgewende-Richtung: Im Uhrzeigersinn oder gegen den Uhrzeigersinn. Das kann für Drescher oder Ernter entscheidend sein, abhängig davon auf welcher Seite sich das Abladerohr oder Förderband befindet.  
+
 - Vorgewende-Überlappung: Wie viel % Überlappung die Vorgewende haben sollen. Die erste Vorgewendebahn hat keine Überlappung mit dem Feldrand, alle weiteren Bahnen überlappen mit der jeweils vorherigen Bahn.  
+
 - Feldgrenze: Positive Werte reduzieren den Arbeitsbereich, um einen Puffer zum Feldrand zu generieren. Das ist nützlich, sollten sich einige Objekte zu dicht an der Feldkante befinden.  
 Negative Werte vergrößern den Arbeitsbereich über das Feld hinaus, um eine größere Abdeckung zu bekommen, z.B. wenn der Feldrand nicht genau genug erkannt wurde.  
 
