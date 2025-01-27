@@ -149,19 +149,17 @@ def generate_site():
         raise
 def ensure_list_rendering(file_path):
     """
-    Ensures proper list rendering in a Markdown file for MkDocs Material
-    by adding a newline before the first list item if missing.
-    
-    Args:
-        file_path (str): Path to the Markdown file.
+    Ensures proper list rendering by adding a newline before the first list item
+    in a sequence of two or more, only if missing.
     """
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Use regular expression to find the first list item in a sequence of two or more
-    updated_content = re.sub(r"(?<!\n)(\n- [^\n]*\n- )", r"\n\1", content)
+    # Regex explanation:
+    # - (?<=\S): Ensure the list is preceded by a non-blank line (no existing newline).
+    # - (\n-.*\n-.*): Match a sequence of two list items starting with "-".
+    updated_content = re.sub(r"(?<=\S)(\n-.*\n-.*)", r"\n\1", content)
 
-    # Write the updated content back to the file if changes were made
     if content != updated_content:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(updated_content)
