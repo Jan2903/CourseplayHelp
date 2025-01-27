@@ -5,6 +5,7 @@
 #              Handles images and cleans up unused assets.
 
 import os
+import re
 import json
 import shutil
 
@@ -49,7 +50,7 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
         # Write paragraphs
         for paragraph in page.get("paragraphs", []):
             if paragraph["title"]:
-                md_file.write(f"## {paragraph['title']}\n\n")
+                md_file.write(f"## {paragraph['title']}\n")
             if paragraph["text"]:
                 # Directly replace newlines with Markdown-compatible line breaks
                 md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
@@ -147,5 +148,39 @@ def generate_site():
         print(f"Error: {e}")
         raise
 
+def ensure_list_rendering(file_path):
+    """
+    Ensures proper list rendering in a Markdown file for MkDocs Material
+    by adding a newline before the first list item if missing.
+    
+    Args:
+        file_path (str): Path to the Markdown file.
+    """
+    with open(file_path, "r", encoding="utf-8") as file:
+        content = file.read()
+
+    # Use regular expression to find cases where a list starts without a preceding newline
+    updated_content = re.sub(r"(?<!\n)\n- ", r"\n\n- ", content)
+
+    # Write the updated content back to the file if changes were made
+    if content != updated_content:
+        with open(file_path, "w", encoding="utf-8") as file:
+            file.write(updated_content)
+            
+def post_process_markdown_files(output_dir):
+    """
+    Post-processes all Markdown files in the output directory
+    to ensure proper rendering in MkDocs Material.
+    
+    Args:
+        output_dir (str): Directory containing the Markdown files.
+    """
+    for root, _, files in os.walk(output_dir):
+        for file in files:
+            if file.endswith(".md"):
+                file_path = os.path.join(root, file)
+                ensure_list_rendering(file_path)
+
 if __name__ == "__main__":
     generate_site()
+    post_process_markdown_files(OUTPUT_DIR)
