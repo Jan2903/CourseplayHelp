@@ -183,4 +183,4 @@ def post_process_markdown_files(output_dir):
 
 if __name__ == "__main__":
     generate_site()
-    post_process_markdown_files(OUTPUT_DIR)
+    #post_process_markdown_files(OUTPUT_DIR)
