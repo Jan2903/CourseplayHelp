@@ -50,10 +50,10 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
         # Write paragraphs
         for paragraph in page.get("paragraphs", []):
             if paragraph["title"]:
-                md_file.write(f"## {paragraph['title']}\n")
+                md_file.write(f"## {paragraph['title']}\n")  # One newline after the title
             if paragraph["text"]:
-                # Directly replace newlines with Markdown-compatible line breaks
-                md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
+                # Write the text immediately after the title, with only one newline separating them
+                md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")  # Two newlines after the text
             if paragraph["image"]["filename"]:
                 # Copy the image to the docs/assets/images folder
                 copy_image_to_docs(paragraph["image"]["filename"])
