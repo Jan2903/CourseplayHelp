@@ -8,8 +8,10 @@ Se você deixar o Courseplay dirigir diretamente para o heap, ele se desdobrará
 Caso esta posição não seja adequada ao seu ambiente, você pode parar o motorista, alterar a posição do braço normalmente e ligar o motorista novamente.  
 Lembre-se que a descarga automática com CP ocorre no mesmo sentido do carregador. Mantenha algum espaço para o descarregador contornar o carregador lateral.  
 
+
   
 Para iniciar, o marcador de carregamento no menu AI precisa ser definido.  
 O marcador detecta montes ou silos e os destaca no mapa.  
 Agora é possível iniciar o auxiliar.  
+
 

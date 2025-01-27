@@ -13,5 +13,6 @@ Some expert settings only work properly under some conditions.
 - Use base line edge: With this setting you can generate curved up/down rows, running parallel with the edge of the field near the field marker. This makes sense when the field edge is not straight, the up/down rows will follow the curve of the edge.  
 IMPORTANT NOTE: This is an experimental setting which may not work for all field shapes. If it doesn't work, try another setting.  
 
+
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
 

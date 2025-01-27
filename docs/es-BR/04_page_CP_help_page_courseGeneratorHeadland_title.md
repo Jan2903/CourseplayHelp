@@ -5,6 +5,7 @@ La configuración de cabeceras solo aparecerá cuando haya establecido al menos 
 Obtiene opciones sobre dónde comenzar, configuración de esquinas, dirección y superposición.  
 Las cabeceras son muy recomendables para evitar que las herramientas salgan del campo al girar.  
 
+
   
 - Afilar las esquinas de las cabeceras: afila las esquinas de las cabeceras que no están redondeadas. Obligará al vehículo a hacer un  
 giro en la cabecera siempre que la curvatura de la cabecera sea menor que el radio de giro del vehículo.  
@@ -14,6 +15,7 @@ giro en la cabecera siempre que la curvatura de la cabecera sea menor que el rad
 - Superposición de cabeceras: cuánto se superpone un cabecera con el siguiente. Esto es para evitar perder fruta en algunos casos.  
 - Margen del campo: los valores positivos reducen el tamaño del campo para agregar un margen alrededor del área trabajada en caso de que haya obstáculos cerca del borde del campo.  
 Los valores negativos amplían el área trabajada más allá del límite del campo para cubrir los bordes del campo que no se detectan perfectamente.  
+
 
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)
 

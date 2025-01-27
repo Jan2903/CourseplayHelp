@@ -9,6 +9,7 @@ Temel git-gel modeli, neredeyse her zaman herhangi bir araç için iş görür. 
 Kıyıcılar için, boşaltıcının işini kolaylaştırmak amacıyla daha geniş dönüşler sağlayan 'yarış pisti' modeli daha iyi bir seçim olabilir.  
 'Sarmal' modeli ise çekmeli hasat makinelerinin ofset oluşturarak traktörü ekinin dış kısmında bıraktığı durumlar için en iyisidir.  
 
+
   
 - Tarla Merkezi: Tarla merkezi için farklı modeller bulunmaktadır. En klasik ve en yaygın kullanılanı 'git/gel' modelidir.   
 'Sarmal', 'yarış pisti' ve 'parçalı' modellerinin kendine özgü avantajları vardır. Örneğin, 'parçalı' modeli, biçerdöverin borusunun ekinin dışında kalmasını sağlayarak boşaltmayı kolaylaştırır.  
@@ -22,6 +23,7 @@ Bu ayarlar, daha önce yaptığınız belirli seçimlere bağlı olarak görün�
 - Parça Başına Satır Sayısı: Tarla merkezi 'parçalı' olarak ayarlandığında görünür. Bu ayar, her bir parçanın kaç satır içereceğini belirler. Daha fazla satır, daha az parça oluşturur.  
 - İçten Sarmal: Tarla merkezi 'sarmal' olarak ayarlandığında görünür.  
 - Halka Sayısı: Tarla merkezi 'yarış pisti' olarak ayarlandığında görünür.  
+
 
 ## 
 git/gel

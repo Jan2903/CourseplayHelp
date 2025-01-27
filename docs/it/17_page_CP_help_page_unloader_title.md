@@ -15,6 +15,7 @@ Questo per evitare di aspettare che una mietitrebbia chiami con un rimorchio qua
 - Puoi usare gli offset nell'HUD per regolare la posizione dello scaricatore sotto il tubo della mietitrice.  
   
 
+
 ## Usando i rimorchi
   
 Se utilizzi un rimorchio per scaricare, ci sono due modi per trasportare il raccolto in un silo o in un punto vendita: l'aiutante dei giganti  
@@ -25,6 +26,7 @@ In quest'ultimo caso, devi scegliere la stazione di scarico dopo che l'icona del
   
 Svuotare un rimorchio con AutoDrive funziona come usare un carro di carico, dai un'occhiata ai tutorial di AutoDrive su Internet.  
 
+
 ## Utilizzo di carri a coclea
   
 I carri a coclea sono molto semplici da usare.  
@@ -33,6 +35,7 @@ Per avviare lo scaricatore, posizionarlo nuovamente sul campo o entro 20 metri d
 Se il carro a coclea è pieno, cerca automaticamente un rimorchio sopra o vicino al campo per sovraccaricarlo.  
 Nel caso in cui il rimorchio sia pieno e il carro a coclea non sia ancora vuoto, cercherà un altro rimorchio su cui scaricare.  
 Se non è disponibile un rimorchio, continuerà a scaricare la mietitrebbia.  
+
 
 ## Scarica sul campo
   
@@ -43,4 +46,5 @@ Se il marcatore punta a un cumulo già esistente,
 allora questo cumulo viene utilizzato per lo scarico.  
 La direzione del marcatore viene utilizzata per la direzione di scarico.  
 Con alcuni rimorchi il lato ribaltabile può essere commutato tra la parte posteriore e quella del grano.  
+
 

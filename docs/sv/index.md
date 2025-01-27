@@ -19,3 +19,4 @@ När expertläget är avaktiverat har du bara tillgång till vissa inställninga
 De andra inställningarna är dolda och inställda till standardvärden, som fungerar i de flesta situationer.  
 På det sättet försöker vi hjälpa användarna att bli lättare i kursplay utan att bli överväldigad från alla inställningar.  
 
+

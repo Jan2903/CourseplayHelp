@@ -19,3 +19,4 @@ When the expert Mode is deactivated, you have only access to some settings.
 The other settings are hidden and set to default values, which works in most situations.  
 That way, we try to help Users to get easier into Courseplay without being overwhelmed from all the settings.  
 
+

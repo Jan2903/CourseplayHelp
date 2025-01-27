@@ -12,6 +12,7 @@ E: Tato ikona cíle má různé možnosti v závislosti na zvoleném režimu, ot
 F: Kliknutím na text přepnete dostupné režimy pro aktuální nástroje.  
 G: Nastavení zobrazená pod tímto řádkem závisí na aktuální úloze. Budou vysvětlena na následujících obrázcích.  
 
+
 ## Polní práce
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
@@ -21,6 +22,7 @@ B: Zobrazí název načtené trasy. Pokud jste trasu právě vygenerovali, zobra
 C: Kliknutím na text se přepočítá pracovní šířka, nebo ji můžete nastavit ručně vpravo kliknutím na +/- nebo kolečkem myši nad číslem.  
 D: Některé nástroje potřebují odsazení do strany. Courseplay jej vypočítá automaticky při kliknutí na text nebo jej můžete změnit ručně stejně jako pracovní šířku.  
 E: Symbol na pravé straně slouží ke zkopírování aktuální trasy do schránky. Název zkopírované trasy se pak zobrazí vlevo. Zkopírovanou trasu můžete načíst do jiného vozidla, které zatím žádnou trasu nemá. Chcete-li trasu ze schránky odstranit, klikněte na symbol pro odstranění.  
+
 
 ## Vykládka kombajnu
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
@@ -32,6 +34,7 @@ C: Někdy není poloha odvozce pod rourou ideální. To může být způsobeno p
 D: Stejné jako výše, ale zde můžete nastavit polohu vykládacího zařízení vzhledem k rouře dopředu nebo dozadu.  
 E: Podobně jako při kopírování trasy můžete i zde zkopírovat načtenou trasu do jiného vozidla.  
 
+
 ## Sběr/ovíjení balíků
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
@@ -39,6 +42,7 @@ E: Podobně jako při kopírování trasy můžete i zde zkopírovat načtenou t
 A: Zbývající balíky na poli.  
 B: Typ balíků ke sběru/ovíjení.  
 C: Posun mezi osou traktoru a osou ramene nakladače. U větších traktorů (např. se širšími pneumatikami) může být nutné tento parametr upravit.  
+
 
 ## Plnění silážní jámy
 ![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
@@ -49,6 +53,7 @@ B: Pracovní šířka, stejná jako u práce v terénu.
 C: Pro Courseplay je třeba správně nastavit přesnou výšku lžíce nad zemí. Protože tato výška může být pro každý nástroj jiná, můžete ji zkontrolovat a upravit pomocí tohoto nastavení.  
 D: Stejně jako u vykládacího zařízení můžete i zde zkopírovat načtenou trasu do jiného vozidla.  
 
+
 ## Práce v silážní jámě
 ![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
@@ -57,4 +62,5 @@ A: Podobně jako u Plnění silážní jámy je rozhodující výška nahrnovač
 B: Zobrazuje průběh zhutňování. Kliknutím na něj se přepne možnost zastavení pracovníka po dosažení úplného zhutnění.  
 C: Zde můžete v případě potřeby změnit pracovní šířku.  
 D: Toto nastavení říká pracovníkovi, že má čekat v sile nebo na zvoleném parkovacím místě, když se k silu blíží vykladač.  
+
 

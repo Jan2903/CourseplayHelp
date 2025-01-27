@@ -20,3 +20,4 @@ Quando o modo especialista está desativado, você tem acesso apenas a algumas c
 As outras configurações estão ocultas e definidas com valores padrão, o que funciona na maioria das situações.  
 Dessa forma, tentamos ajudar os usuários a entrar mais facilmente no Courseplay sem ficar sobrecarregado com todas as configurações.  
 
+

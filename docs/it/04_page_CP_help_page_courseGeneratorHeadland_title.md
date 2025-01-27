@@ -5,6 +5,7 @@ Le impostazioni di fine campo verranno visualizzate solo quando avrai impostato 
 Avrai opzioni per decidere da dove iniziare, impostazioni degli angoli, direzione e sovrapposizione.  
 Le fine campo sono altamente consigliate per evitare che gli attrezzi lascino il campo quando si svolta.  
 
+
   
 - Angoli di testata: affila gli angoli delle testate che non sono arrotondati. Costringerà il veicolo a effettuare una svolta a testata ogni volta che la curvatura della testata è inferiore al raggio di sterzata del veicolo.  
 - Numero di angoli arrotondati: numero di testate, a partire da quella più esterna, che avranno angoli arrotondati.   
@@ -16,6 +17,7 @@ Questo può essere importante per mietitrebbie e mietitrici, a seconda del lato 
 - Sovrapposizione della testata: quanto una testata si sovrappone alla successiva. Questo per evitare di perdere frutta in alcuni casi.   
 - Margine campo: i valori positivi riducono la dimensione del campo per aggiungere un buffer attorno all'area lavorata nel caso in cui ci siano ostacoli vicino al bordo del campo.   
 I valori negativi ingrandiscono l'area lavorata oltre il bordo del campo per coprire i bordi del campo che non sono perfettamente rilevati.  
+
 
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)
 

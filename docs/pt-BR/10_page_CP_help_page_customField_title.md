@@ -6,11 +6,13 @@ A primeira é usar a função de gravar do HUD.
 Inicie a gravação na borda do campo.  
 Uma vez feito, pressione o botão novamente e você será perguntado se deseja salvá-lo.  
 
+
 ![Image](../assets/images/recordcustomhelp_0_0_765_510.png)
 
   
 No Menu AI, você verá sua borda de campo gravada.  
 Ao clicar no nome, você terá a opção de excluí-lo ou renomeá-lo.  
+
 
 ![Image](../assets/images/donecustomhelp_0_0_765_510.png)
 
@@ -21,6 +23,7 @@ Depois disso, um texto aparece na parte superior da tela.
 Comece clicando com o botão direito do mouse para definir a posição inicial.  
 Os próximos cliques criarão linhas para o clique anterior.  
 Clique no botão salvar na parte inferior para terminar de desenhar o campo   
+
 
 ![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
 

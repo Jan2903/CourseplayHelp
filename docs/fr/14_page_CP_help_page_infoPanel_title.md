@@ -8,6 +8,7 @@ En plus de l'affichage du mod et de sa version, elle donne des informations sur 
 En laissant le curseur au-dessous du message, vous verrez apparaître le nom du véhicule concerné.  
 En cliquant dessus, vous arrivez directement dans le véhicule.  
 
+
   
 Les informations concernant l'ouvrier peuvent être les suivantes:  
 - Est bloqué  
@@ -27,4 +28,5 @@ Les informations concernant l'ouvrier peuvent être les suivantes:
 - Basculement au sol impossible   
 - Tête de coupe non prise en charge   
 - Attelage de la tête de coupe désactivé  
+
 

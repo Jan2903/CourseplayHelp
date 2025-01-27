@@ -8,6 +8,7 @@ Oprócz nazwy i wersji naszego modu, pokazuje również informacje o statusie ki
 Podczas najeżdżania na komunikat o stanie zostanie wyświetlona nazwa pojazdu.  
 Klikając na nią, możesz wskoczyć bezpośrednio do pojazdu.  
 
+
   
 Informacje są następujące:  
 - Utknął  
@@ -20,4 +21,5 @@ Informacje są następujące:
 - Zakończył pracę  
 - Brak pieniędzy  
 - Oczekuje na koniec opadów  
+
 

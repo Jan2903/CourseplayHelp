@@ -5,6 +5,7 @@ Headland settings will only show up when you have set at least one headland.
 You'll have options for where to start on, corner settings, direction and overlap.  
 Headlands are highly recommended to prevent tools leaving the field when turning.  
 
+
   
 - Sharpen headland corners: Sharpen the corners of the headlands which are not rounded. Will force the vehicle to make a headland turn whenever the headland's curvature is less than the turning radius of the vehicle.  
 - Number of round corners: Number of headlands, counting from the outermost one, that will have rounded corners. Rounded corners are based on the vehicle's turning radius, so for these headlands, the vehicle won't perform a turn maneuver in the corners.  
@@ -13,6 +14,7 @@ Headlands are highly recommended to prevent tools leaving the field when turning
 - Headland overlap: How much one headland overlaps with the next. This is to avoid missing fruit in some cases.  
 - Field Margin: Positive values reduce field size to add a buffer around the worked area in case you have obstacles near the field border.  
 Negative values enlarge worked area beyond the field boundary to cover up field borders that are not perfectly detected.  
+
 
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)
 

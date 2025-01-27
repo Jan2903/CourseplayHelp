@@ -8,6 +8,7 @@ Besides the name and the version of our mod, it also shows status information ab
 While hovering the status message, the name of the vehicle will be displayed.  
 By clicking on it, you can jump directly into the vehicle.  
 
+
   
 The status messages are:  
   
@@ -35,4 +36,5 @@ The status messages are:
 - Wrong fruit for mission selected  
 - Pallets are full  
 - No pallets  
+
 

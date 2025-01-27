@@ -12,5 +12,6 @@ Bevor ihr euch mit den Einstellmöglichkeiten beschäftigt, solltet ihr euch ers
 - Bahnenform anhand der Feldkante: Ein ganz neues Feature, welches nur auf bestimmten Feldern funktioniert. Hat man ein Feld mit einem langen Bogen als Feldgrenze und setzt den Feldmarker in die Nähe dieses Feldrands, so werden die Bahnen in der Mitte den Verlauf des Feldrands annehmen.  
 ANMERKUNG: Sollte ein Kurs nicht sauber generiert werden, funktioniert diese Funktion nicht auf dem Feld oder mit dem Feldrand. Es wird dafür auch kein Update geben!  
 
+
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
 

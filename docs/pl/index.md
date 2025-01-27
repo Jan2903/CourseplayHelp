@@ -19,3 +19,4 @@ Gdy tryb zaawansowany jest wyłączony, masz dostęp tylko do niektórych ustawi
 Pozostałe ustawienia są ukryte i ustawione na wartości domyślne, co działa w większości sytuacji.  
 W ten sposób staramy się pomóc nowym graczom w łatwiejszym użyciu Courseplay bez przytłaczania wszystkimi ustawieniami.  
 
+

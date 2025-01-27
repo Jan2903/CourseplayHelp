@@ -19,3 +19,4 @@ Quando o modo avançado é desactivo, só ficamos com acesso a algumas configura
 As outras configurações ficam omitidas e voltam aos valores predefinido, que funciona na maioria das situações.  
 Desta maneira, nós tentamos ajudar o utilizador para que o 'Courseplay' se torne mais fácil se ser deveras complicado com todas as configurações.  
 
+

@@ -13,5 +13,6 @@ Bazı uzman ayarları, yalnızca belirli koşullar altında düzgün çalışır
 - Kenar Çizgisini Temel Al: Bu ayar, tarla konum işaretinin yakınındaki tarla kenarına paralel şekilde kavisli git/gel satırları oluşturmanıza olanak tanır. Tarla kenarı düz olmadığında, git/gel satırlar kenarın eğrisini takip eder.  
 ÖNEMLİ NOT: Bu deneysel bir ayardır ve tüm tarla şekillerinde çalışmayabilir. Çalışmazsa, başka bir ayarı deneyin.  
 
+
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
 

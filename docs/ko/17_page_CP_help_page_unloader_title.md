@@ -16,6 +16,7 @@ is to avoid waiting for a combine to call with a trailer almost full.
 - You can use the offsets in the HUD to adjust the position of the unloader under the harvester's pipe.  
   
 
+
 ## Using trailers
   
 If you use a trailer to unload, there are two ways to transport your harvest to a silo or to a selling point: the Giants helper  
@@ -26,6 +27,7 @@ In the latter case, you have to choose the unload station after the wheel icon t
   
 Emptying a trailer with AutoDrive works the same as using a loading wagon, check out the AutoDrive Tutorials on the Internet.  
 
+
 ## Using auger wagons
   
 Auger wagons are very simple to use.  
@@ -35,6 +37,7 @@ If the auger wagon is full, it automatically looks for a trailer on or near the 
 In case the trailer is full and the auger wagon still not empty, it will look for another trailer to unload to.  
 Is no trailer available, it will continue to unload the combine.  
 
+
 ## Unload on the field
   
 The unloading position can be selected with the unload marker.  
@@ -43,4 +46,5 @@ If the marker points to an already existing heap,
 then this heap is used to unload to.  
 The direction of the marker is used for the unload direction.  
 Additionally for trailers a tipside needs to be selected.  
+
 

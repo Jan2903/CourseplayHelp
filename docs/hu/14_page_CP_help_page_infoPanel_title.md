@@ -8,6 +8,7 @@ A Mod neve és verziója mellett a Courseplay segítők állapotinformációit i
 Miközben az állapotüzenetet mutatja, a jármű neve jelenik meg.  
 Ha rákattintasz, közvetlenül a járműbe lehet ülni.  
 
+
   
 Az információk a következők:  
 - Valamiért elakadt  
@@ -34,4 +35,5 @@ Az információk a következők:
 - Helytelen vetőmag kiválasztva a megbízáshoz  
 - A raklapok tele vannak  
 - Nincs raklap  
+
 

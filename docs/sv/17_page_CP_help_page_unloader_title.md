@@ -16,6 +16,7 @@ Avlastare har bara ett fåtal inställningar som du kan justera:
 - Du kan använda förskjutningarna i HUD för att justera läget för avlastaren under skördarens rör.  
   
 
+
 ## Använder släp
   
 Om du använder en trailer för att lossa, finns det två sätt att transportera din skörd till en silo eller till ett försäljningsställe: Giants helper  
@@ -26,6 +27,7 @@ I det senare fallet måste du välja avlastningsstationen efter att hjulikonen b
   
 Att tömma en trailer med AutoDrive fungerar på samma sätt som att använda en lastvagn, kolla in AutoDrive-handledningarna på Internet.  
 
+
 ## Använda Fältvagn
   
 Fältvagnar är mycket enkla att använda.  
@@ -35,6 +37,7 @@ Om skruvvagnen är full, letar den automatiskt efter en släpvagn på eller när
 Om trailern är full och skruvvagnen fortfarande inte är tom, kommer den att leta efter en annan trailer att lossa till.  
 Finns ingen släpvagn tillgänglig fortsätter den att lasta av skördetröskan.  
 
+
 ## avlastning på fältet
   
 Avlastningspositionen kan väljas med avlastningsmarkören.  
@@ -43,4 +46,5 @@ Om markören pekar på en redan befintlig hög,
 sedan används denna hög för att lossa till.  
 Markörens riktning används för avlastningsriktningen.  
 Dessutom måste en tippsida väljas för släpvagnar.  
+
 

@@ -6,6 +6,7 @@ The simple up down strategie works almost every time for any tool. But it can be
 For Chopping, racetrack can be a better solution for less narrow turns to make the work for the unloader easier.  
 Spirale is a better solution for towed harvester with an offset, to keep the tool in the fruit and the tractor outside.  
 
+
   
 - Field center: There are different modes on how your field center pattern should look like. The classic and most used one is up/down.  
 Spiral, Racetrack and Lands have their own specific advantages over the others. Lands for example will have the combine's pipe point out of the fruit most of the time to easier unload them.  
@@ -19,6 +20,7 @@ These settings appear only for specific settings you have done before:
 - Rows per Land: Appears when field center is set to "lands". This has only impact when the field center is set to lands and will tell the generator how many rows each land should have. The more rows, the fewer lands will be generated.  
 - Spiral from inside: Appears when field center is set to "spiral".  
 - Number of circles: Appears when field center is set to "racetrack".  
+
 
 ## 
 up/down

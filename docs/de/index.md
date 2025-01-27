@@ -21,3 +21,4 @@ Wenn der Expertenmodus ausgeschaltet ist, sind weniger Einstellungen verfügbar.
 Die anderen Einstellungen sind versteckt und verwenden ihren Standardwert, welcher in den meisten Fällen optimal ist.  
 Mit dieser Funktion versuchen wir neuen Courseplay-Nutzern den Einstieg zu erleichtern, ohne diese durch die ganzen Einstellmöglichkeiten zu überfordern.  
 
+

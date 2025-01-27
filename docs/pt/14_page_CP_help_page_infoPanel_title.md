@@ -8,6 +8,7 @@ Além do nome e da versão do nosso Mod, também mostra informações de status 
 Ao passar o mouse sobre a mensagem de status, o nome do veículo será exibido.  
 Ao clicar nele, você pode pular diretamente para o veículo.  
 
+
   
 As Informações são as seguintes:  
 - O ajudante está preso  
@@ -20,4 +21,5 @@ As Informações são as seguintes:
 - Trabalho feito  
 - De dinheiro  
 - Esperando a chuva acabar  
+
 

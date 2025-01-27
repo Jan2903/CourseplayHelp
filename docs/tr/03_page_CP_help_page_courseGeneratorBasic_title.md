@@ -7,6 +7,7 @@ ayarlayarak başlamalı, ardından daha gelişmiş ayarlara geçmelisiniz.
 Bir ayarı değiştirdikten sonra, ayarın nasıl bir etkisi olduğunu görmek için 'Oluştur' tuşuna basın.  
 Rota oluşturucunun sunduğu tüm olanakları keşfetmenin en iyi yolu, sürekli denemeler yapmaktır.  
 
+
   
 Temel bilgiler:  
 Burada gördüğünüz ilk birkaç bilgi en temel bilgilerdir.  
@@ -17,4 +18,5 @@ Manevra koridorlarının sayısı ile çalışma genişliği çarpıldığında,
 - Başlama Noktası: Genişletilmiş YZ Menüsünde belirtildiği gibi, tarla konumu, tarla rotasının başlangıç veya bitiş konumunu belirlemek için kullanılır.   
 Hasat işine manevra koridorlarından başlamalı ve tarlanın ortasına doğru çalışmalısınız. Toprağı sürme, ekim ve kültivasyon işleri için ise tarlanın  
 ortasından başlamalı ve manevra koridorlarına doğru çalışılmalıdır.  
+
 

@@ -19,3 +19,4 @@ Lorsque le mode expert est désactivé, vous n'avez accès qu'à certains param�
 Les autres paramètres sont cachés et réglés sur les valeurs par défaut, ce qui fonctionnera dans la plupart des situations.  
 De cette façon, nous essayons d'aider les nouveaux utilisateurs à se familiariser avec Courseplay sans être submergés par tous les paramètres.  
 
+

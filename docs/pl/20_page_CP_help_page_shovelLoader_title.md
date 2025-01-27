@@ -19,6 +19,7 @@ Aby zresetować przesunięcie, kliknij tekst ustawień w HUD. Wartość można r
 Łyżki z chwytakiem do kiszonki otwierają się i zamykają automatycznie podczas załadunku i rozładunku.  
 Łyżka do rozdrabniania buraków cukrowych również jest w pełni obsługiwana.  
 
+
 Aby uruchomić kierowcę ładowarki kołowej, musisz ustawić pozycje załadunku i rozładunku, klikając ikonę celu na HUDzie.  
 Pozycja ładowania działa identycznie jak ta z trybu "Załadunek pryzmy". Wokół pryzmy zostanie utworzony niebieski kwadrat.  
   
@@ -27,12 +28,14 @@ W przypadku wybrania rozładunku do przyczepy należy w menu AI wybrać obszar, 
 Pomocnik podjedzie do dowolnej zaparkowanej przyczepy w okolicy. Kierunek znacznika nie ma w tym przypadku znaczenia.  
 Jeśli chcesz rozładować do punktu rozładunku, musisz przełączyć cel, a następnie oznaczyć trigger pozycją rozładunku.  
 
+
 Wybór triggeru na pierwszy rzut oka wydaje się nieco skomplikowany, ale w rzeczywistości jest naprawdę łatwy.  
 Każdy budynek może mieć więcej niż jeden trigger, więc musisz wybrać ten, do którego chcesz się rozładować.  
 Wszystkie dostępne triggery zostaną pokazane z pomarańczowym krzyżykiem na mapie AI.  
 Aby wybrać jedno, umieść środek okrągłego znacznika na środku krzyża.  
 Kierunek strzałki mówi pomocnikowi, z której strony podejdzie do triggera w celu rozładunku.  
 Twój wybór powinien wyglądać podobnie do tego zdjęcia.  
+
 
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)
 

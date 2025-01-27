@@ -4,6 +4,7 @@ Menadżer kursów umożliwia zapisywanie kursów i umożliwia późniejsze ponow
 Jest to bardzo ważne, gdy chcesz, aby wielu pomocników jeździło tym samym kursem dla konwoju (wiele maszyn).  
 Ta funkcja umożliwia również zbieranie pokosu pozostawionego przez kombajn lub zgrabiarkę z przyczepą samozbierającą lub prasą.  
 
+
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
 Lokalizacja zapisu plików kursu to: Dokumenty\My Games\FarmingSimulator2025\modSettings\FS25_Courseplay\Courses\Nazwa_mapy.SampleModMap (lub w przypadku map z gry, np. MapUS).  
@@ -18,11 +19,13 @@ Aby usunąć kurs z pojazdu, kliknij przycisk 'Wyczyść aktualny kurs'.
 Aby wczytać kurs, musisz najpierw wybrać folder, kliknąć przycisk wczytaj kurs, a następnie po prostu kliknąć kurs, który chcesz wczytać.  
 Kliknięcie w tryb zmiany aktywuje tryb edycji menedżera kursu.  
 
+
   
 Gdy tryb edycji jest aktywny, masz następujące opcje:  
 - Przenoszenie kursu do innego folderu.  
 - Usuwanie kursów lub folderu.  
 - Zmiana nazw kursów lub folderów.  
+
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
@@ -34,4 +37,5 @@ Aby przenieś kurs:
 Aby zmienić nazwę, wystarczy kliknąć przycisk zmiany nazwy, a następnie folder lub kurs. Następnie po prostu wpisz nową nazwę.  
 Aby usunąć kurs lub folder, kliknij przycisk Usuń, a następnie folder lub kurs, który chcesz usunąć.  
 Foldery muszą być puste, jeśli chcesz je usunąć.  
+
 

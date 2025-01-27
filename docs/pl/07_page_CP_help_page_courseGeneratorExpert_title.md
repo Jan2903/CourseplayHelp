@@ -13,5 +13,6 @@ Niektóre ustawienia zaawansowane działają poprawnie tylko w określonych waru
 - Użyj krzywizny krawędzi: Zupełnie nowa funkcja, która działa tylko na określonych polach. Jeśli masz pole z długą nieregularną krawędzią i umieścisz znacznik pola w jej pobliżu, linia ścieżki zostanie wygenerowana względem tej krzywizny.  
 WAŻNA UWAGA: Jeśli wygenerowany kurs nie będzie idealny lub nawet zły przez wybraną krawędź lub pole, nie będzie on działał z tą funkcją. Nie będzie również żadnej aktualizacji tego!  
 
+
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
 

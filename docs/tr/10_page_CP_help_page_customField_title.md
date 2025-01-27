@@ -7,11 +7,13 @@
 İşlemi tamamladıktan sonra düğmeye tekrar basın. Kaydetmek isteyip istemediğiniz sorulacaktır.  
 Başlangıç ve bitiş noktalarının üst üste binmemesi gerektiğini unutmayın!  
 
+
 ![Image](../assets/images/recordcustomhelp_0_0_765_510.png)
 
   
 Özel çalışma alanı sınırları YZ menüsünde görüntülenecektir.  
 İsmine tıkladığınızda silme, yeniden adlandırma veya düzenleyici ile düzenleme seçenekleri çıkacaktır.  
+
 
 ![Image](../assets/images/donecustomhelp_0_0_765_510.png)
 
@@ -22,6 +24,7 @@ Sonrasında ekranın üst kısmında bir metin görünecektir.
 Başlangıç noktasını belirlemek için sağ tıklayın.  
 Sonraki tıklamalar, bir önceki noktadan itibaren çizgiler oluşturacaktır.  
 Tarla çizmeyi bitirmek için alt kısımdaki Kaydet butonuna tıklayın..  
+
 
 ![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
 

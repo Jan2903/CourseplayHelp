@@ -19,6 +19,7 @@ To reset the offset you need to click on the settings text in the HUD. The value
 Shovels with a silage grab will open and close automatically for loading and unloading.  
 The shovel to shred sugar beets is completely functional as well.  
 
+
   
 To start a wheel loader helper, you need to set the load and unload positions by clicking the target icon on the HUD.  
 The loading position works the same like the one from the loader mode. A blue square will be created around the heap.  
@@ -28,6 +29,7 @@ If unloading into the trailer is selected, then the area where the trailer will 
 The helper will drive to any parked trailer in the area. The direction of the marker has no real meaning.  
 If you want to unload into an unloading station, you need to switch the target and then mark the trigger with the unloading position.  
 
+
   
 Selecting a trigger does look a bit complicated at first, but in reality it is really easy.  
 Every building can have more then one trigger so you have to choose the one you want to unload to.  
@@ -35,6 +37,7 @@ All available triggers will be shown with an orange cross on the AI Map.
 To select one place the middle of the round marker on the middle of the cross.  
 The driection of the arrow tells the helper from which direction he will approach the trigger for unloading.  
 Now your selection should look similar to the image.  
+
 
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)
 

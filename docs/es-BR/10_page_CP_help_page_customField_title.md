@@ -7,11 +7,13 @@ Inicie la grabación y grabe el borde de su campo.
 Una vez hecho esto, presione el botón nuevamente y se le preguntará si desea guardarlo.  
 ¡El inicio y el final no deben superponerse!  
 
+
 ![Image](../assets/images/recordcustomhelp_0_0_765_510.png)
 
   
 Los bordes de los campos personalizados se mostrarán en el menú de IA.  
 Al hacer clic en el nombre, tendrá la opción de eliminarlo, cambiarle el nombre o editarlo con el editor.  
+
 
 ![Image](../assets/images/donecustomhelp_0_0_765_510.png)
 
@@ -22,6 +24,7 @@ Después de eso, aparecerá un texto en la parte superior de la pantalla.
 Comience haciendo clic con el botón derecho del mouse para establecer la posición de inicio.  
 Los siguientes clics crearán líneas hasta el clic anterior.  
 Haga clic en el botón Guardar en la parte inferior para terminar de dibujar el campo.  
+
 
 ![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
 

@@ -13,5 +13,6 @@ Alcune impostazioni esperto funzionano correttamente solo in determinate condizi
 - Usa bordo linea di base: con questa impostazione puoi generare file curve verso l'alto/verso il basso, parallele al bordo del campo vicino al marcatore del campo. Questo ha senso quando il bordo del campo non è dritto, le righe su/giù seguiranno la curva del bordo.   
 NOTA IMPORTANTE: questa è un'impostazione sperimentale che potrebbe non funzionare per tutte le forme di campo. Se non funziona, prova un'altra impostazione.  
 
+
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
 

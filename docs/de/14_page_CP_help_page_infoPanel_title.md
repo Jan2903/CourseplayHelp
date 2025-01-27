@@ -8,6 +8,7 @@ Neben den Namen und der Version unserer Mod, zeigt es dir an, wenn ein Coursepla
 Fährst du mit der Maus über den Text, wird der Name des Fahrzeugs angezeigt.  
 Klickst du darauf, springst du direkt in das entsprechende Fahrzeug.  
 
+
   
 Die Informationen sind:  
   
@@ -35,4 +36,5 @@ Die Informationen sind:
 - Falsche Frucht für Mission ausgewählt  
 - Paletten sind voll  
 - Keine Paletten  
+
 

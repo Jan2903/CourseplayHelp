@@ -6,6 +6,7 @@ Pokud s tím začínáte, měli byste pravděpodobně začít pouze změnou nast
 Poté můžete vždy změnit ostatní hodnoty a kliknout na vygenerovat trasu a podívat se, jaký dopad mají určité hodnoty na trasu.  
 Nejlepším způsobem, jak si na to zvyknout, je experimentování a kontrola, jaký dopad má různá nastavení na různých polích.  
 
+
   
 Základy:  
 Prvních pár hodnot, které zde vidíte, jsou skutečné základy.  
@@ -20,4 +21,5 @@ Spirála, Kruh a Záhon mají oproti ostatním své specifické výhody. Režim 
 - Řádky k přeskočení: Toto je velmi užitečná možnost pro urychlení vaší práce, protože nástroje nebudou muset couvat, aby přešly na další řádek.  
 - Řádky v režim 'záhon': Toto má vliv pouze tehdy, když je střed pole nastaven na 'Záhon' a sdělí generátoru, kolik řádků by měl mít každý záhon. Čím více řádků, tím méně záhonů bude vygenerováno.  
 - Úhel řádku nahoru/dolů: Když je směr řádku nahoru/dolů nastaven na ruční, toto nastavení určí směr generování.  
+
 

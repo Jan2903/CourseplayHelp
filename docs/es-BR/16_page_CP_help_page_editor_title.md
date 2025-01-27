@@ -11,12 +11,14 @@ Los Cursos cargados serán guardados/sobreescritos automáticamente, al cerrar e
 La edición del Curso solo debe hacerse cuando el Generador de Cursos no puede generar un Curso lo suficientemente bueno.  
 Una edición incorrecta podría causar problemas para el Conductor CP, ya que los Puntos de Ruta tienen atributos ocultos.  
 
+
   
 En la categoría básica se encuentran:  
 1) El pincel de movimiento mueve un Punto de Ruta floante a la posición del pincel.  
 2) El pincel de inserción puede insertar Puntos de Ruta delante o detrás de un Punto de Ruta seleccionado.  
   
 La eliminación de Puntos de Ruta se puede hacer con el botón rojo de eliminación.  
+
 
   
 En la categoría avanzada se encuentran:  
@@ -30,4 +32,5 @@ Para desmarcar los puntos de referencia, haga clic con el botón derecho del rat
 3) Un pincel para insertar una curva de puntos de referencia entre dos puntos de referencia seleccionados.  
 Al igual que para mover más puntos de referencia, marque 2 puntos de referencia, mantenga pulsado el botón izquierdo del ratón y mueva el ratón.  
 Atención: En cuanto suelte el botón del ratón, se establecerán los puntos de referencia. ¡Esto no se puede deshacer! (por supuesto, puedes eliminar esos puntos de referencia).  
+
 

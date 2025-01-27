@@ -6,6 +6,7 @@ If you are new to this, you should probably start by only changing the headland 
 After that you can always change the other values and hit generate course and have a look, what impact certain values have on the course.  
 Experimenting with it and check what impact the different setting on different fields have is the best way to get used to it.  
 
+
   
 Basics:  
 The first few values you see here, are real basic stuff.  
@@ -20,4 +21,5 @@ Spiral, Racetrack and Lands have their own specific advantages over the others. 
 - Rows to skip: This is a very helpful option to accelerate your work, as tools won't have to back up to turn into the next row.  
 - Rows per Land: This has only impact when the field center is set to lands and will tell the generator how many rows each land should have. The more rows, the fewer lands will be generated.  
 - Up/down row angle: When the Up/Down row direction is set to manual, this setting will tell the generate the direction.  
+
 

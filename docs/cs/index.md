@@ -17,3 +17,4 @@ Když je expertní režim deaktivován, máte přístup pouze k některým nasta
 Ostatní nastavení jsou skrytá a nastavena na výchozí hodnoty, což funguje ve většině situací.  
 Tímto způsobem se snažíme uživatelům pomoci se snadněji dostat do Courseplay, aniž by byli zahlceni všemi nastaveními.  
 
+

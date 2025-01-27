@@ -11,6 +11,7 @@ Ruter gemmes i mapper, som vil blive vist til venstre. Det betyder, at du skal b
 Mapper kan simpelthen oprettes ved at trykke på knappen nederst på skærmen og indtaste et navn.  
 Ruter gemmes kun lokalt indtil videre.  
 
+
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
@@ -20,11 +21,13 @@ For at fjerne rute fra dit køretøj skal du klikke på knappen 'slet aktuel rut
 For at indlæse en rute skal du først vælge mappen, klikke på indlæs rute-knappen og derefter blot klikke på den rute, du vil indlæse.  
 Ved at klikke på ændringstilstand aktiveres rutegeneratorens redigeringstilstand.  
 
+
   
 Når redigeringstilstanden er aktiv, har du disse muligheder:  
 - Flytte en rute til en anden mappe.  
 - Sletning af rute eller mapper.  
 - Omdøbning af rute eller mapper.  
+
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
@@ -36,4 +39,5 @@ For at flytte en rute:
 For at omdøbe skal du blot klikke på omdøb-knappen og derefter mappen eller ruten. Så skal du bare indtaste det nye navn.  
 For at slette en rute eller mappe, klik på slet-knappen og derefter den mappe eller den rute, du ønsker at slette.  
 Mapper skal være tomme, hvis du vil slette dem.  
+
 

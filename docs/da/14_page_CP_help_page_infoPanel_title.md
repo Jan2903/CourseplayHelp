@@ -8,6 +8,7 @@ Udover navnet og versionen af ​​vores Mod, viser den også statusoplysninger
 Mens du holder over statusmeddelelsen, vil navnet på køretøjet blive vist.  
 Ved at klikke på den kan du hoppe direkte ind i køretøjet.  
 
+
   
 Informationerne er følgende:  
 - Hjælperen sidder fast  
@@ -20,4 +21,5 @@ Informationerne er følgende:
 - Arbejdet er udført  
 - Ikke nok penge  
 - Venter på at regnen stopper  
+
 
