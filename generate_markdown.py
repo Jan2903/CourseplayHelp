@@ -187,7 +187,7 @@ def post_process_markdown_files(output_dir):
         for file in files:
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
-                ensure_list_rendering(file_path
+                ensure_list_rendering(file_path)
 
 if __name__ == "__main__":
     generate_site()
