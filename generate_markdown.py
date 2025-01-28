@@ -172,7 +172,7 @@ def ensure_list_rendering(file_path):
             file.write(updated_content)
         print(f"File updated: {file_path}")
     else:
-        #print(f"No changes needed for: {file_path}")
+        print(f"No changes needed for: {file_path}")
 
 
 def post_process_markdown_files(output_dir):
