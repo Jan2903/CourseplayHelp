@@ -147,19 +147,24 @@ def generate_site():
     except Exception as e:
         print(f"Error: {e}")
         raise
+import os
+import re
+
 def ensure_list_rendering(file_path):
     """
-    Ensures proper list rendering by adding a newline before the first list item
-    in a sequence of two or more, only if missing.
+    Ensures proper list rendering in a Markdown file for MkDocs Material
+    by adding a newline before the very first list item if missing.
+    
+    Args:
+        file_path (str): Path to the Markdown file.
     """
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Regex explanation:
-    # - (?<=\S): Ensure the list is preceded by a non-blank line (no existing newline).
-    # - (\n- .*\n- .*): Match a sequence of two list items starting with "- ".
-    updated_content = re.sub(r"(?<=\S)(\n- .*\n- .*)", r"\n\1", content)
+    # Match the very first list item that starts with '- ' or '* ', and ensure a newline before it
+    updated_content = re.sub(r"(?<!\n)(?=-\s|\*\s)", r"\n", content, count=1)
 
+    # Write the updated content back to the file if changes were made
     if content != updated_content:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(updated_content)
