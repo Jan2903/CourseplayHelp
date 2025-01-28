@@ -16,6 +16,7 @@ Spiralförmig, kreisförmig und Beete haben jeweils ihre eigenen Vorteile gegen�
 - Richtungswinkel der Bahnen: Ist die Startrichtung auf Manuell gesetzt, erscheint diese Einstellung und bestimmt die Richtung der Bahnen.  
   
 Folgende Einstellungen erscheinen erst Anhand bestimmter vorheriger Einstellung:  
+  
 - Reihen überspringen: Erscheint bei Feldmitte "hoch/runter". Mit Reihen überspringen lässt sich die Arbeit beschleunigen, da die Arbeitsgeräte nicht rückwärtsfahren müssen, um in die nächste Reihe zu kommen.  
 - Reihen pro Beet: Erscheint bei Feldmitte "Beete". Diese Einstellung wirkt sich nur auf Beete aus. Je mehr Reihen pro Beete eingestellt werden, desto weniger Beete werden generiert.  
 - Spirale von Innen: Erscheint bei Feldmitte "spiralförmig".  

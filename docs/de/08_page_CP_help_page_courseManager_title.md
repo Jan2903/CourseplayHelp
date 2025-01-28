@@ -24,6 +24,7 @@ Durch Betätigen des "Modus wechseln"-Buttons, wird der Editiermodus des Kursman
 
   
 Mit dem Editiermodus erhältst du folgende Optionen:  
+  
 - Einen Kurs in einen anderen Ordner verschieben.  
 - Kurse oder Ordner löschen.  
 - Kurse oder Ordner umbenennen.  
