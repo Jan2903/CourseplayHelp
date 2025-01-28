@@ -147,13 +147,11 @@ def generate_site():
     except Exception as e:
         print(f"Error: {e}")
         raise
-import os
-import re
 
 def ensure_list_rendering(file_path):
     """
     Ensures proper list rendering in a Markdown file for MkDocs Material
-    by adding a newline before the very first list item if missing.
+    by adding a newline before the first list (two or more consecutive lines starting with '-').
     
     Args:
         file_path (str): Path to the Markdown file.
@@ -161,14 +159,17 @@ def ensure_list_rendering(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Match the very first list item that starts with '- ' or '* ', and ensure a newline before it
-    updated_content = re.sub(r"(?<!\n)(?=-\s|\*\s)", r"\n", content, count=1)
+    # Regex to find the very first list (two or more consecutive lines starting with '-')
+    match = re.search(r"(?<!\n)((?:- .*\n){2,})", content)
 
-    # Write the updated content back to the file if changes were made
-    if content != updated_content:
+    # If a match is found and no newline precedes it, insert a newline
+    if match and not content[match.start() - 1] == "\n":
+        updated_content = content[:match.start()] + "\n" + content[match.start():]
+
+        # Write the updated content back to the file
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(updated_content)
-            
+
 def post_process_markdown_files(output_dir):
     """
     Post-processes all Markdown files in the output directory
@@ -182,6 +183,7 @@ def post_process_markdown_files(output_dir):
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
                 ensure_list_rendering(file_path)
+
 
 if __name__ == "__main__":
     generate_site()
