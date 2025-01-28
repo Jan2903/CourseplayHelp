@@ -150,8 +150,8 @@ def generate_site():
 
 def ensure_list_rendering(file_path):
     """
-    Ensures proper list rendering in a Markdown file for MkDocs Material
-    by adding a newline before the first list (two or more consecutive lines starting with '-').
+    Ensures proper formatting in a Markdown file for MkDocs Material
+    by adding a newline after lines ending with ':' if the following line is not already a newline.
     
     Args:
         file_path (str): Path to the Markdown file.
@@ -159,14 +159,11 @@ def ensure_list_rendering(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Regex to find the very first list (two or more consecutive lines starting with '-')
-    match = re.search(r"(?<!\n)((?:- .*\n){2,})", content)
+    # Regex to find lines ending with ':' that are not followed by a newline
+    updated_content = re.sub(r"(:)\n(?!\n)", r"\1\n\n", content)
 
-    # If a match is found and no newline precedes it, insert a newline
-    if match and not content[match.start() - 1] == "\n":
-        updated_content = content[:match.start()] + "\n" + content[match.start():]
-
-        # Write the updated content back to the file
+    # Write the updated content back to the file if changes were made
+    if content != updated_content:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(updated_content)
 
@@ -183,7 +180,6 @@ def post_process_markdown_files(output_dir):
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
                 ensure_list_rendering(file_path)
-
 
 if __name__ == "__main__":
     generate_site()
