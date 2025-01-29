@@ -45,21 +45,21 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
     
     with open(file_path, "w", encoding="utf-8") as md_file:
         # Write the page title
-        md_file.write(f"# {page['title']}\n\n")
+        md_file.write(f"# {page['title']}\n")
         
         # Write paragraphs
         for paragraph in page.get("paragraphs", []):
             if paragraph["title"]:
-                md_file.write(f"# {paragraph['title']}")
+                md_file.write(f"## {paragraph['title']}\n\n")
             if paragraph["text"]:
-                # Write the text immediately after the title, with no extra newline
-                md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")  # Two newlines after the text
+                # Replace newlines with Markdown-compatible line breaks
+                md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
             if paragraph["image"]["filename"]:
                 # Copy the image to the docs/assets/images folder
                 copy_image_to_docs(paragraph["image"]["filename"])
                 # Adjust the image path for MkDocs
                 image_path = f"../assets/images/{paragraph['image']['filename']}"
-                md_file.write(f"![Image]({image_path})\n\n")  # Two newlines after the image
+                md_file.write(f"![Image]({image_path})\n\n")
 
 def delete_unused_images(used_images):
     """Delete all images in IMAGES_DIR that are not in the used_images set."""
