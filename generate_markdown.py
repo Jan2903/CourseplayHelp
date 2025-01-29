@@ -150,8 +150,9 @@ def generate_site():
 
 def ensure_list_rendering(file_path):
     """
-    Ensures Markdown-compatible formatting by adding an empty newline after lines
-    ending with ':' if the next line is not already an empty newline.
+    Ensures proper rendering in a Markdown file for MkDocs Material
+    by adding a Markdown-compatible newline between a line ending with ':'
+    and the following line if it contains text.
     
     Args:
         file_path (str): Path to the Markdown file.
@@ -159,21 +160,17 @@ def ensure_list_rendering(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Debug: Show file being processed
-    print(f"Processing file: {file_path}")
+    print(f"Processing file: {file_path}")  # Debugging log
 
-    # Ensure there is an empty newline after lines ending with ':'
-    # Matches lines ending with ':' followed by non-empty lines
-    updated_content = re.sub(r"(^.*:\n)([^\n])", r"\1\n\2", content, flags=re.MULTILINE)
+    # Regular expression to find lines ending with ':' followed by a non-empty line
+    updated_content = re.sub(r"(^.*:\n)(\S)", r"\1\n\2", content, flags=re.MULTILINE)
 
     if content != updated_content:
-        # Write changes to the file
+        print(f"Updating file: {file_path}")  # Debugging log
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(updated_content)
-        print(f"File updated: {file_path}")
     else:
         print(f"No changes needed for: {file_path}")
-
 
 def post_process_markdown_files(output_dir):
     """
@@ -188,7 +185,7 @@ def post_process_markdown_files(output_dir):
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
                 ensure_list_rendering(file_path)
-
+                
 if __name__ == "__main__":
     generate_site()
     post_process_markdown_files(OUTPUT_DIR)
