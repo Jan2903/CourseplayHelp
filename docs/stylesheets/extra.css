@@ -4,7 +4,10 @@
   --md-primary-fg-color--dark:  #85a425;
 }
 
-
+.md-typeset h1 {
+    margin-top: 0.5rem; /* Reduce top margin */
+    margin-bottom: 0.5rem; /* Adjust spacing below the title */
+}
 
 .md-nav__link {
     border-bottom: 1px solid var(--md-default-fg-color--light);
