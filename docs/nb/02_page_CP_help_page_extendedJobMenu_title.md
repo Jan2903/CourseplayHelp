@@ -1,5 +1,4 @@
-# Extended AI Menu
-  
+# Extended AI Menu  
 First you need to select a vehicle in the AI menu for generating a fieldwork course or gaining access to the vehicle settings and the course manager.  
 The currently loaded course will be displayed on the map.  
 The global settings are always visible.  

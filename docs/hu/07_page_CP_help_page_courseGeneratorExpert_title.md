@@ -1,5 +1,4 @@
-# Course generator expert
-  
+# Course generator expert  
 Some settings are only visible, if you set the expert mode to active on the global courseplay settings.  
 Before you play arround with those settings, you should make sure you know what the basic settings do.  
 Some expert settings only work properly under some conditions.  

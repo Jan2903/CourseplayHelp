@@ -1,5 +1,4 @@
-# Utökad AI -meny
-  
+# Utökad AI -meny  
 Först måste du välja ett fordon i AI-menyn för att generera en fältverkskurs eller få tillgång till fordonets inställningar och kurshanteraren.  
 Den för närvarande laddade kursen visas på kartan.  
 De globala inställningarna är alltid synliga.  

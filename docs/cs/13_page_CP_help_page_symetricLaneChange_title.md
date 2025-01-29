@@ -1,5 +1,4 @@
-# Symetrická změna jízdního pruhu
-  
+# Symetrická změna jízdního pruhu  
 Symetrická změna jízdního pruhu se používá v trasách s více stroji a říká řidiči, ve kterém pruhu má jet po odbočení.  
 To je trochu těžké pochopit, takže se podívejme na dva příklady.  
 

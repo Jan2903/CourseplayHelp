@@ -1,5 +1,4 @@
-# Gerador de rotas basico
-  
+# Gerador de rotas basico  
 Cada rota de trabalho de campo é criado pelo gerador de rotas. Esta é uma ferramenta poderosa, que permite personalizar a rota criada de acordo com suas necessidades.  
 Se você é novo nisso, provavelmente deve começar alterando apenas a configuração da quantidade de cabeceira.  
 Depois disso, você sempre pode alterar os outros valores e clicar em gerar rotas e dar uma olhada, que impacto certos valores têm na rota.  

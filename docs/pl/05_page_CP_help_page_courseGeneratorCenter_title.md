@@ -1,5 +1,4 @@
-# Generator kursu - środek pola
-  
+# Generator kursu - środek pola  
 Na środku pola dostępne są różne strategie wykonywania pracy. Przeważnie wybrane narzędzie jest powodem wyboru konkretnej strategii. Dostępne strategie zostały stworzone w oparciu o opinie i informacje od naszej społeczności.  
 Najprostsza strategia, 'tam i z powrotem', działa prawie za każdym razem dla każdego narzędzia, ale możesz wybrać inną lepszą, na przykład podczas zbiorów za pomocą kombajnu, 'wyspy' są lepszym sposobem na utrzymanie rury na skoszonej części pola w celu bardziej wydajnego rozładunku.  
 W przypadku sieczkarni, 'na około' może być lepszym rozwiązaniem dla mniejszej ilości ciasnych nawrotów, aby ułatwić pracę odwożących.  

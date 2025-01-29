@@ -1,5 +1,4 @@
-# Biçerdöver boşaltıcı
-  
+# Biçerdöver boşaltıcı  
 Courseplay'in boşaltma modu, Courseplay tarafından sürülen biçerdöverler, hasat makineleri, kıyıcılar ve çekilen hasat makineleri ile çalışır.  
 Bir biçerdöveri boşaltmak için normal bir römork veya burgu vagonu kullanabilirsiniz.  
 Römorkları boşaltmak için varsayılan GIANTS işçilerini veya AutoDrive'ı kullanabilirsiniz.  

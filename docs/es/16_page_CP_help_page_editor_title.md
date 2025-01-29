@@ -1,5 +1,4 @@
-# Editor de Cursos
-  
+# Editor de Cursos  
 El Editor de Cursos puede ser usado para editar Cursos y Campos Personalizados.  
 Los Cursos cargados serán guardados/sobreescritos automáticamente, al cerrar el Editor.  
   

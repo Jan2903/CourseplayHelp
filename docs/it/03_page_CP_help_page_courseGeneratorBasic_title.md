@@ -1,5 +1,4 @@
-# Nozioni di base sul generatore di corsi
-  
+# Nozioni di base sul generatore di corsi  
 Il generatore di percorsi di Courseplay è uno strumento sofisticato in grado di generare percorsi di lavoro sul campo personalizzati per ogni possibile lavoro.  
 Ha molte impostazioni e potrebbe volerci del tempo per familiarizzarci. Se sei nuovo di Courseplay, dovresti  
 probabilmente iniziare a giocare prima con il numero di promontori e poi avventurarti nelle impostazioni più avanzate.  

@@ -1,5 +1,4 @@
-# Harvester unloader
-  
+# Harvester unloader  
 The unloader mode of Courseplay works with combines, harvesters, choppers and towed harvesters driven by Courseplay.  
 You can either use a regular trailer or an auger wagon to unload a combine.  
 To empty trailers, you can use the Giants Helper or AutoDrive.  

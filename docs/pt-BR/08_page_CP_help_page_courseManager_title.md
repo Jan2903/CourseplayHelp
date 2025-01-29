@@ -1,5 +1,4 @@
-# Gerenciar rotas
-  
+# Gerenciar rotas  
 O gerenciador de rotas permite que você salve rotas e carregue a rota salvo novamente mais tarde.  
 Isso é realmente importante, quando você deseja ter vários trabalhadores dirigindo a mesma rota para comboio (multi implementos).  
 Este recurso também permite que você colete a fileira para trás por uma colheitadeira ou um ceifador com uma carreta de forragem ou uma enfardadeira.  

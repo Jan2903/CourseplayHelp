@@ -1,5 +1,4 @@
-# Generatore percorso: centrale
-  
+# Generatore percorso: centrale  
 Il generatore fornisce diversi schemi per generare il percorso per il centro del campo.   
 Lo schema migliore è solitamente determinato dal lavoro e dagli attrezzi selezionati.   
 Gli schemi sono stati creati in base al feedback e alle informazioni della nostra comunità.   

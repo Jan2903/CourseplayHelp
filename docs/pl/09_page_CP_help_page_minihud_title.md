@@ -1,5 +1,4 @@
-# Mini HUD
-## Informacje ogólne
+# Mini HUD## Informacje ogólne
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 

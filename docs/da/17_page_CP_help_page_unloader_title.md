@@ -1,5 +1,4 @@
-# Harvester unloader
-  
+# Harvester unloader  
 Aflæssertilstanden i Courseplay fungerer med mejetærskere, mejetærskere og bugserede mejetærskere som køres af Courseplay.  
 Det virker dog ikke med en snitter.  
 Du kan enten bruge en almindelig trailer eller en sneglevogn til at læsse en mejetærsker af.  

@@ -1,5 +1,4 @@
-# Nowe pola
-Są dwie możliwości stworzenia nowego pola.  
+# Nowe polaSą dwie możliwości stworzenia nowego pola.  
 Pierwsza to użycie nagrywania w HUDzie.  
 Rozpocznij nagrywanie i przejedź po krawędziach wokół nowego pola.  
 Gdy gotowe, wciśnij przycisk ponownie a zostaniesz zapytany czy zapisać to pole.  

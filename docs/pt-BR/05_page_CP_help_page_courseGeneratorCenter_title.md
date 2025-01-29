@@ -1,5 +1,4 @@
-# Gerador de rotas centro
-  
+# Gerador de rotas centro  
 Para o centro do campo, diferentes estratégias estão disponíveis para fazer o trabalho. Geralmente, a ferramenta selecionada é um motivo para escolher uma estratégia específica em vez da outra. As estratégias disponíveis foram criadas com base no feedback e nas informações da nossa comunidade.  
 A estratégia simples de cima para baixo funciona quase sempre para qualquer ferramenta. Mas pode ser melhor escolher outra, por exemplo, ao colher com uma colheitadeira, as terras são uma maneira melhor de manter o tubo fora da fruta para um descarregamento mais eficiente.  
 Para cortar, a pista de corrida pode ser uma solução melhor para curvas menos estreitas para facilitar o trabalho do descarregador.  

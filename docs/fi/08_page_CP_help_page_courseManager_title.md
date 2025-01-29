@@ -1,5 +1,4 @@
-# Course manager
-  
+# Course manager  
 The course manager allows you to save courses and enables you to load the saved course later again.  
 This is really important, when you want to have multiple workers driving the same course for convoy (multi tools).  
 This feature also allows you to pickup the swath left behind by a combine or a windrower with a forage wagon or a baler.  

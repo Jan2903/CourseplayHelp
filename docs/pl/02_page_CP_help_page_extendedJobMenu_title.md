@@ -1,5 +1,4 @@
-# Rozszerzone menu SI
-Najpierw musisz wybrać pojazd w menu SI, aby wygenerować kurs terenowy lub uzyskać dostęp do ustawień pojazdu i menedżera kursu.  
+# Rozszerzone menu SINajpierw musisz wybrać pojazd w menu SI, aby wygenerować kurs terenowy lub uzyskać dostęp do ustawień pojazdu i menedżera kursu.  
 Aktualnie wczytany kurs zostanie wyświetlony na mapie.  
 Ustawienia globalne są zawsze widoczne.  
 Aby wygenerować kurs i rozpocząć zadania związane z kursem, musisz utworzyć zadanie CP: Prace polowe lub CP: Zbieranie/Owijanie bel, podobnie jak w przypadku pomocnika Giantsa.  

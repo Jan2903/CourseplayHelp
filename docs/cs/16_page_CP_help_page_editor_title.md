@@ -1,5 +1,4 @@
-# Editor tras
-  
+# Editor tras  
 Editor tras lze použít k úpravě tras a vlastních polí.  
 Po zavření editoru budou načtené trasy automaticky uloženy/přepsány.  
 1) Úpravu vlastního pole lze provést pomocí vybraného pole na stránce nabídky ai.  

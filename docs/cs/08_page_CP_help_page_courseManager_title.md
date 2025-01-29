@@ -1,5 +1,4 @@
-# Správce tras
-  
+# Správce tras  
 Správce tras vám umožňuje ukládat trasy a umožňuje vám uloženou trasu později znovu načíst.  
 To je opravdu důležité, když chcete, aby více pracovníků použilo stejnou trasu (konvoj).  
 Tato funkce vám také umožňuje sebrat řádek, který za sebou zanechal kombajn nebo řádkovač se sběracím vozem nebo lisem.  

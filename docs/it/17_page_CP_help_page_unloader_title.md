@@ -1,5 +1,4 @@
-# Scaricatore della mietitrebbia
-  
+# Scaricatore della mietitrebbia  
 La modalità scaricatore di Courseplay funziona con mietitrebbie, mietitrici, trinciatrici e mietitrici trainate guidate da Courseplay.  
 Puoi usare un rimorchio normale o un carro a coclea per scaricare una mietitrebbia.  
 Per svuotare i rimorchi, puoi usare Giants Helper o AutoDrive.  

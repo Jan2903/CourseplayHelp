@@ -1,5 +1,4 @@
-# Course editor
-  
+# Course editor  
 The course editor can be used to edit courses and custom fields.  
 The loaded courses will be saved/overwritten automatically, when the editor is closed.  
   

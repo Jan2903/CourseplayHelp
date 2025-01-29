@@ -1,5 +1,4 @@
-# Vin arbejde
-  
+# Vin arbejde  
 At arbejde med vinstokke er lidt mere komplekst end at arbejde på en normal mark.  
 For at få det bedste resultat skal vinstokkene alle være ved siden af hinanden inden for standardgitteret.  
 Slutningen og starten af hver vinstok skal også have nogenlunde samme længde.  

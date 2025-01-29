@@ -1,5 +1,4 @@
-# Silo carregando
-  
+# Silo carregando  
 Você pode usar este trabalho com um Ropa Maus ou similar para coletar pilhas no campo ou próximo a ele e descarregar em um descarregador Courseplay.  
 Além disso, é possível carregar a partir de um silo de bunker.  
   

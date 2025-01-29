@@ -1,5 +1,4 @@
-# Kurseditor
-  
+# Kurseditor  
 Mit dem Kurseditor können Kurse und erstellte Feldränder bearbeitet werden.  
 Die geladenen Kurse werden automatisch gespeichert/überschrieben, wenn der Editor geschlossen wird.  
   

@@ -1,5 +1,4 @@
-# Symetrisk vognbaneskift
-  
+# Symetrisk vognbaneskift  
 Symmetrisk vognbaneskift bruges i konvojtilstand og fortæller chaufføren, i hvilken vognbane han skal køre efter svinget.  
 Dette er lidt svært at forstå, så lad os tage et kig på to eksempler.
 

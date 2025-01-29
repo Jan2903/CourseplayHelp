@@ -1,5 +1,4 @@
-# General Information
-  
+# General Information  
 Courseplay giver dig mulighed for at generere markbaner med yderligere funktioner, for eksempel: forager.  
 Det gør det også muligt at bruge ballepressere og fodervogne, der kan sendes på samme rute, som slåmaskine eller høstmaskine fra før.  
 En anden stor egenskab er indsamling eller indpakning af baller på marken.  

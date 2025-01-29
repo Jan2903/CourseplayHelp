@@ -1,5 +1,4 @@
-# Generátor tras středu pole
-  
+# Generátor tras středu pole  
 Pro střed pole jsou k dispozici různé strategie pro práci. Většinou je zvolený nástroj důvodem pro výběr konkrétní strategie před ostatními. Dostupné strategie byly vytvořeny na základě zpětné vazby a informací od naší komunity.  
 Jednoduchá strategie nahoru dolů funguje téměř vždy pro jakýkoli nástroj. Může však být lepší zvolit jinou, například při sklizni kombajnem, režim záhon je lepší způsob, jak udržet rouru mimo plodinu pro efektivnější vykládání.  
 U sekání může být lepší řešením režim kruh pro méně úzké zatáčky, aby se usnadnila práce vykladači.  

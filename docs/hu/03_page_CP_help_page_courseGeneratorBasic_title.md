@@ -1,5 +1,4 @@
-# Course generator basics
-  
+# Course generator basics  
 Minden táblamunka útvonalat az útvonal generátor hoz létre. Ez egy remek eszköz, ami megengedi a generált útvonalak igény szerinti testreszabását.  
 Ha még nem csináltál ilyet, kezdd azzal, hogy csak a fordulósávok számát módosítod.  
 Ezt követően mindig változtathatsz más értékekkel és generálhatsz útvonalat, hogy megnézd, egyes értékek milyen hatással vannak az útvonalra.  

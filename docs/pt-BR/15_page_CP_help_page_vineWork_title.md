@@ -1,5 +1,4 @@
-# Trabalho na videira
-  
+# Trabalho na videira  
 Trabalhar em videirashas é um pouco mais complexo do que trabalhar em um campo normal.  
 Para obter o melhor resultado, as videiras devem estar todas próximas umas das outras dentro da grade padrão.  
 O final e o início de cada videira também devem ter aproximadamente o mesmo comprimento.  

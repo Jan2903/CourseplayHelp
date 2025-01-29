@@ -1,5 +1,4 @@
-# Hat Değişimi
-  
+# Hat Değişimi  
 Hat değiştirme, çoklu araç rotalarında kullanılır ve yardımcının dönüş sonrası hangi hat üzerinde gitmesi gerektiğini belirtir.  
 Hat değiştirme aktifken, araç her dönüşten sonra taraf değiştirir.  
 Bu biraz kafa karıştırıcı olabilir, o yüzden aşağıdaki iki örneğe bakalım.  

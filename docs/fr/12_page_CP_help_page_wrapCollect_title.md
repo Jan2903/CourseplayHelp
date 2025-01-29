@@ -1,5 +1,4 @@
-# Ramassage et enrubannage des bottes
-  
+# Ramassage et enrubannage des bottes  
 Le ramassage et l'enrubannage des bottes peuvent se faire de deux manières différentes.  
 La première est de charger la même course utilisée par la presse et laisser le ramassage ou l'enrubannage utiliser cette même course.  
 Cette méthode est cependant risquée car certaines balles peuvent rouler ou venir bloquer votre tracteur.  

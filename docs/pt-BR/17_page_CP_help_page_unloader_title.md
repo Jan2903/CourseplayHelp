@@ -1,5 +1,4 @@
-# Colheitadeira descarrega
-  
+# Colheitadeira descarrega  
 O modo de descarregar do Courseplay funciona com praticamente todas as colheitadeiras e as com reboques.  
 Não funciona com choppers.  
 Você pode usar uma carreta comum ou uma bazuca (aquela com cano) para descarregar uma colheitadeira.  

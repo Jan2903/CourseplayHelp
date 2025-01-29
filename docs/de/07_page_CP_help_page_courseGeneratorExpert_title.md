@@ -1,5 +1,4 @@
-# Kursgenerator: Experteneinstellungen
-  
+# Kursgenerator: Experteneinstellungen  
 Einige Einstellungen sind erst dann sichtbar, wenn ihr in den globalen CP-Einstellungen den "Expertenmodus" einschaltet.  
 Bevor ihr euch mit den Einstellmöglichkeiten beschäftigt, solltet ihr euch erst mit den normalen Einstellungen vertraut machen, da nicht alle Experteneinstellungen ohne Einschränkung funktionieren werden.  
   

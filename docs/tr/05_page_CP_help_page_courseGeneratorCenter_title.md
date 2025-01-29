@@ -1,5 +1,4 @@
-# Rota Oluşturucu: merkez
-  
+# Rota Oluşturucu: merkez  
 Oluşturucu, tarlanın merkezi için rota oluşturmak üzere birkaç farklı model sunar. En uygun model genellikle seçilen iş ve ekipmanlara bağlı olarak belirlenir.   
 Modeller topluluğumuzdan gelen geri bildirimler ve bilgilendirmelere bağlı olarak oluşturulmuştur.  
   

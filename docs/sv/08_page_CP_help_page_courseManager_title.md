@@ -1,5 +1,4 @@
-# Course manager
-  
+# Course manager  
 Kurschefen låter dig spara kurser och låter dig ladda den sparade kursen senare igen.  
 Det här är verkligen viktigt, när du vill ha flera arbetare som kör samma kurs för Convoy (Multi Tools).  
 Med den här funktionen kan du också hämta swathen som lämnas av en kombination eller en windrower med en fodervagn eller en balpress.  

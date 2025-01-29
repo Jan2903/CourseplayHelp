@@ -1,5 +1,4 @@
-# Editeur de course
-  
+# Editeur de course  
 L'éditeur de course permet de modifier des courses et des champs personnalisés.  
 Les courses chargées seront automatiquement remplacées à la fermeture de l'éditeur.  
   

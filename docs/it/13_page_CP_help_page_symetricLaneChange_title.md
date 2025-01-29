@@ -1,5 +1,4 @@
-# Cambio corsia simmetrico
-  
+# Cambio corsia simmetrico  
 Il cambio di corsia viene utilizzato nei percorsi multi-strumento e indica all'aiutante in quale corsia deve guidare dopo la svolta.  
 Con il cambio di corsia attivo, il veicolo cambia lato dopo ogni svolta.  
 È un po' difficile da capire, quindi diamo un'occhiata a due esempi.  

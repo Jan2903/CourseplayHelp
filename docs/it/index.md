@@ -1,5 +1,4 @@
-# Informazioni Generali
-  
+# Informazioni Generali  
 Courseplay consente di generare percorsi di campo con funzionalità aggiuntive, ad esempio: capezzagne.  
 Consente inoltre l'utilizzo di presse e carri foraggio, che possono essere inviati sullo stesso percorso, come una falciatrice o una mietitrice di prima.  
 Un'altra grande funzionalità è la raccolta o l'avvolgimento di balle sul campo.  

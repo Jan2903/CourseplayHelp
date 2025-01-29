@@ -1,5 +1,4 @@
-# Ovíjení a sběr balíků
-  
+# Ovíjení a sběr balíků  
 Ovíjení a sběr balíků lze provádět dvěma různými způsoby.  
 Prvním z nich je načíst stejnou dráhu, kterou jste použili pro svůj lis a nechat ovíječku nebo sběrač jet v této dráze.  
 To však může být složité, protože některé balíky se rády kutálejí nebo sjedou z trasy.  

@@ -1,5 +1,4 @@
-# Générateur de courses ilôts
-  
+# Générateur de courses ilôts  
 Le contournement de l'îlot n'est plus possible qu'en faisant son tour complet. Même dans le nouveau générateur, les limites de l'îlot sont trop proches de la limite du champ.  
   
 La largeur de travail de l'outil est déterminante pour savoir si l'îlot est trop proche ou non, ainsi que le nombre de fourrières qui s'insèrent entre l'îlot et la limite du champ.  
