@@ -1,5 +1,4 @@
 # Course generator basics
-
   
 Cada curso de trabalho de campo é gerado pelo gerador de curso. Esta é uma ferramenta poderosa, que permite personalizar o curso gerado de acordo com suas necessidades.  
 Se você é novo nisso, provavelmente deve começar alterando apenas a configuração da quantidade de cabeceira.  

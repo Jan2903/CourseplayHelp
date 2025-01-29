@@ -1,5 +1,4 @@
 # Rota Oluşturucu: merkez
-
   
 Oluşturucu, tarlanın merkezi için rota oluşturmak üzere birkaç farklı model sunar. En uygun model genellikle seçilen iş ve ekipmanlara bağlı olarak belirlenir.   
 Modeller topluluğumuzdan gelen geri bildirimler ve bilgilendirmelere bağlı olarak oluşturulmuştur.  
@@ -25,19 +24,27 @@ Bu ayarlar, daha önce yaptığınız belirli seçimlere bağlı olarak görün�
 - Halka Sayısı: Tarla merkezi 'yarış pisti' olarak ayarlandığında görünür.  
 
 
-# 
+## 
 git/gel
+
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-# 
+## 
 parçalı
+
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-# 
+## 
 sarmal
+
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-# 
+## 
 yarış pisti
+
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

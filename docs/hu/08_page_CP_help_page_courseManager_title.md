@@ -1,5 +1,4 @@
 # Útvonal kezelő
-
   
 Az útvonal kezelő lehetővé teszi útvonalak mentését és későbbi újra betöltését.  
 Ez nagyon fontos amikor több munkást akarsz alkalmazni ugyanazon az útvonalon konvoj módban (több eszköz).  

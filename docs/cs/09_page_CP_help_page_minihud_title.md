@@ -1,6 +1,7 @@
 # Mini HUD
+## Obecné
 
-# Obecné![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
 A: Podržením levého tlačítka myši na titulku přetáhněte HUD do požadované polohy. Na pravé straně se zobrazí nainstalovaná verze a kliknutím myši se HUD zavře křížkem.  
@@ -12,7 +13,9 @@ F: Kliknutím na text přepnete dostupné režimy pro aktuální nástroje.
 G: Nastavení zobrazená pod tímto řádkem závisí na aktuální úloze. Budou vysvětlena na následujících obrázcích.  
 
 
-# Polní práce![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+## Polní práce
+
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
 A: Klepnutím na tlačítko vyberte místo, kde má být práce zahájena. Pokud je načtena trasa s více nástroji, můžete na pravé straně vybrat jízdní pruh.  
@@ -22,7 +25,9 @@ D: Některé nástroje potřebují odsazení do strany. Courseplay jej vypočít
 E: Symbol na pravé straně slouží ke zkopírování aktuální trasy do schránky. Název zkopírované trasy se pak zobrazí vlevo. Zkopírovanou trasu můžete načíst do jiného vozidla, které zatím žádnou trasu nemá. Chcete-li trasu ze schránky odstranit, klikněte na symbol pro odstranění.  
 
 
-# Vykládka kombajnu![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
+## Vykládka kombajnu
+
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
 A: Vyberte, jaký typ vozidla má pracovník vyložit. To je užitečné, pokud na stejném poli pracují různé typy, například kombajn a nakladač, jako je ROPA Maus.  
@@ -32,7 +37,9 @@ D: Stejné jako výše, ale zde můžete nastavit polohu vykládacího zařízen
 E: Podobně jako při kopírování trasy můžete i zde zkopírovat načtenou trasu do jiného vozidla.  
 
 
-# Sběr/ovíjení balíků![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
+## Sběr/ovíjení balíků
+
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
 A: Zbývající balíky na poli.  
@@ -40,7 +47,9 @@ B: Typ balíků ke sběru/ovíjení.
 C: Posun mezi osou traktoru a osou ramene nakladače. U větších traktorů (např. se širšími pneumatikami) může být nutné tento parametr upravit.  
 
 
-# Plnění silážní jámy![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
+## Plnění silážní jámy
+
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
 A: Zbývající objem hromady v litrech.  
@@ -49,7 +58,9 @@ C: Pro Courseplay je třeba správně nastavit přesnou výšku lžíce nad zem�
 D: Stejně jako u vykládacího zařízení můžete i zde zkopírovat načtenou trasu do jiného vozidla.  
 
 
-# Práce v silážní jámě![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
+## Práce v silážní jámě
+
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   
 A: Podobně jako u Plnění silážní jámy je rozhodující výška nahrnovače. Zde ji můžete nastavit.  

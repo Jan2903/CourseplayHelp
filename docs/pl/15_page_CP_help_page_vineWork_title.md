@@ -1,5 +1,4 @@
 # Praca na winorośli
-
 Praca na winorośli jest nieco bardziej skomplikowana niż praca na normalnym polu.  
 Aby uzyskać najlepszy wynik, wszystkie winorośle powinny znajdować się obok siebie w domyślnej siatce.  
 Koniec i początek każdej winorośli również powinny mieć w przybliżeniu taką samą długość.  

@@ -1,5 +1,4 @@
 # Générateur de courses expert
-
   
 Certains paramètres ne sont visibles que si vous avez activé le mode expert dans les paramètres globaux du courseplay. Avant de vous intéresser à ces paramètres, vous devez vous assurer que vous connaissez les paramètres de base. Certains paramètres experts ne fonctionnent correctement que dans certaines conditions.  
   

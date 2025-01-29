@@ -1,5 +1,4 @@
 # Generador de Cursos: Cabecera
-
   
 La configuración de cabeceras solo aparecerá cuando haya establecido al menos 1 en Número de cabeceras.  
 Obtiene opciones sobre dónde comenzar, configuración de esquinas, dirección y superposición.  

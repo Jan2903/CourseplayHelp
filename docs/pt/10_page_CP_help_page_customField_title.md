@@ -1,5 +1,4 @@
 # Os campos personalizados
-
   
 Há duas maneiras de criar um campo personalizado.  
 A primeira é usar a função de registro do HUD.  

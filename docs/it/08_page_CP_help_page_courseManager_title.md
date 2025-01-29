@@ -1,5 +1,4 @@
 # Gestione percorsi
-
   
 Il gestore del percorso consente di salvare il percorso e di caricare nuovamente il percorso salvato in un secondo momento.  
 Questo è davvero importante, quando vuoi avere più lavoratori che guidano lo stesso percorso per convoglio (multi strumenti).  

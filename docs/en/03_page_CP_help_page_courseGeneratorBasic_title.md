@@ -1,5 +1,4 @@
 # Course Generator Basics
-
   
 Courseplay's course generator is a sophisticated tool that can generate fieldwork courses customized for every possible job.  
 It has many settings and it may take some time to familiarize yourself with it.   

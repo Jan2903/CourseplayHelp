@@ -1,5 +1,4 @@
 # Générateur de courses centre
-
   
 Différentes stratégies sont disponibles pour effectuer le travail au centre du champ. La plupart du temps, l'outil sélectionné déterminera la meilleure stratégie à adopter. Les stratégies disponibles ont été créées sur la base des commentaires et des informations de notre communauté.   
 La stratégie simple d'allers-retours fonctionne presque toujours pour n'importe quel outil. Il peut cependant être préférable d'en choisir une autre, par exemple la gestion par blocs lors de la récolte avec une moissonneuse-batteuse permettra de garder la goulotte de sortie vers l'extérieur du champ pour déchargement plus efficace. Concernant l'ensilage, la stratégie circulaire peut être une meilleure solution pour des virages moins étroits afin de faciliter le travail de déchargement. Spirale est une meilleure solution pour les moissonneuses-batteuses tractées avec un déport, afin de garder l'outil dans la culture et le tracteur à l'extérieur.  
@@ -19,19 +18,27 @@ Ces réglages n'apparaissent que pour les réglages spécifiques que vous avez e
 - Quantité de cercles : Apparaît lorsque le centre du champ est réglé sur "circulaire".  
 
 
-# 
+## 
 aller-retour
+
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-# 
+## 
 blocs
+
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-# 
+## 
 spirale
+
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-# 
+## 
 circulaire
+
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

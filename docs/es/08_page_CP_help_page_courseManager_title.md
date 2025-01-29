@@ -1,5 +1,4 @@
 # Administrador de Cursos
-
   
 El administrador de cursos le permite guardar cursos y le permite cargar el curso guardado más tarde nuevamente.  
 Esto es realmente importante cuando desea que varios trabajadores conduzcan el mismo curso para convoy (herramientas múltiples).  

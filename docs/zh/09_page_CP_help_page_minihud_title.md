@@ -1,6 +1,7 @@
 # 迷你HUD
+## 完整的HUD
 
-# 完整的HUD![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
 A: 按住标题上的鼠标左键，将HUD拖动到您喜欢的位置。在右侧，显示已安装的版本，X将通过鼠标单击关闭HUD.  
@@ -13,7 +14,9 @@ F： 单击文本以切换当前工具的可用模式。
 G： 此行下显示的设置取决于当前作业。以下图片将对此进行解释。  
 
 
-# 田间工作![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+## 田间工作
+
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
 A： 单击以选择开始工作的位置。如果加载了多工具课程，则可以在右侧选择车道。  
@@ -23,7 +26,9 @@ D： 有些工具需要向侧面偏移。Courseplay会在点击文本时自动�
 E： 使用右侧的符号将当前课程复制到剪贴板。复制的课程名称将显示在左侧。您可以将复制的路线加载到另一辆还没有路线的车辆中。要从剪贴板中删除课程，请单击删除符号。  
 
 
-# 联合收割卸载工作![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
+## 联合收割卸载工作
+
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
 A： 选择工人应卸载的车辆类型。如果您有不同的类型，如联合收割机和装载机，如在同一场地上工作的ROPA-Maus，这将非常有用。  
@@ -33,7 +38,9 @@ D： 与上面相同，但在这里可以将卸粮器相对于管道的位置调
 E： 与复制路线类似，您可以在此处将标记位置复制到另一辆车上。  
 
 
-# 草捆的收集/打包![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
+## 草捆的收集/打包
+
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
 A： 田地上的剩余捆数。  
@@ -41,7 +48,9 @@ B： 要收集/包裹的捆的类型。
 C： 拖拉机中心线和装载机臂中心线之间的偏移。对于较大的拖拉机（例如，轮胎较宽的拖拉机），您可能需要对此进行调整。  
 
 
-# 青贮池装填![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
+## 青贮池装填
+
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
 A： 堆的剩余大小（以升为单位）。  
@@ -50,7 +59,9 @@ C： 课程播放需要正确设置铲斗离地的确切高度。由于每个工
 D： 就像卸载机一样，您可以将标记位置复制到另一辆车上。  
 
 
-# 青贮池工作![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
+## 青贮池工作
+
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   
 A： 与筒仓装载机类似，整平机的高度至关重要。你可以在这里调整。  

@@ -1,5 +1,4 @@
 # Általános információ
-
   
 A Courseplay segítségével termőföldi útvonalakat generálhatsz ráadás funkciókkal, például fordulósávokkal.  
 Szintén lehetővé teszi bálázók és rakodókocsik használatát, amiket a korábbi fűnyírókkal, vagy aratógépekkel azonos útvonalon küldhetsz végig.  

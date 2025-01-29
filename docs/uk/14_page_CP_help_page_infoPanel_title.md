@@ -1,5 +1,4 @@
 # Інфопанель
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   

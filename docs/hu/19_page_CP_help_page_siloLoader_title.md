@@ -1,5 +1,4 @@
 # Siló töltés
-
   
 Ezzel a munkával lehet rakodni a táblán vagy annak közelében lévő kupacokból.  
 Ezen kívül lehetőség van bunker silóból történő rakodásra.  

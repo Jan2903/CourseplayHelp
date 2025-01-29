@@ -1,5 +1,4 @@
 # Symetric lange change
-
   
 Symmetric lane change is used in multitool courses and tells the driver in which lane he has to drive after the turn.  
 This is a bit hard to understand so let's have a look at two examples.  

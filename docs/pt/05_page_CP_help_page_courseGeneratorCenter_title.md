@@ -1,5 +1,4 @@
 # Course generator center
-
   
 For the center of the field, different strategies are available to do the work. Mostly the selected tool is a reason to choose a specific strategie over the other. The available strategies where created based on feedback and informations from our community.  
 The simple up down strategie works almost every time for any tool. But it can be better to choose another, for example when harvesting with a combine, lands is a better way to keep the pipe outside of the fruit for a more efficient unloading.  
@@ -22,19 +21,27 @@ These settings appear only for specific settings you have done before:
 - Number of circles: Appears when field center is set to "racetrack".  
 
 
-# 
+## 
 up/down
+
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-# 
+## 
 lands
+
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-# 
+## 
 spiral
+
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-# 
+## 
 racetrack
+
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

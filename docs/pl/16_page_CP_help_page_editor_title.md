@@ -1,5 +1,4 @@
 # Edytor kursu
-
   
 Edytor kursów może służyć do edycji kursów i własnych pól.  
 Załadowane kursy zostaną automatycznie zapisane/nadpisane po zamknięciu edytora.  

@@ -1,5 +1,4 @@
 # Autista di pale gommate
-
   
 Questa modalità consente l'utilizzo di pale gommate e trattori con caricatore frontale.  
 Con una pala attaccata è possibile raccogliere un mucchio da terra o eseguire il caricamento da un silo bunker.  

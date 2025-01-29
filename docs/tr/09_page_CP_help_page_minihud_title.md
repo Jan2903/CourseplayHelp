@@ -1,6 +1,7 @@
 # Mini HUD
+## Genel işlevler
 
-# Genel işlevler![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
 A: HUD'u istediğiniz bir konuma sürüklemek için başlığa sol fare düğmesiyle basılı tutun. Sağ tarafta, yüklü versiyon gösterilir, X tıklayınca HUD kapanır.  
@@ -12,7 +13,9 @@ F: Metne tıklayınca mevcut araçlarınıza uygun modlar arasında geçiş yapa
 G: Bu çizginin altındaki ayarlar, mevcut işe bağlıdır. Bu ayarlar aşağıdaki resimlerde açıklanacaktır.  
 
 
-# Tarla çalışması![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+## Tarla çalışması
+
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
 A: Çalışmaya nereden başlanacağını seçmek için tıklayın. Eğer çoklu araç rotası yüklüyse, sağ taraftan hat seçebilirsiniz.  
@@ -22,7 +25,9 @@ D: Bazı araçlar yana doğru bir ofset ayarına ihtiyacı vardır. Metne tıkla
 E: Mevcut rotayı panoya kopyalamak için sağdaki simgeyi kullanın. Kopyalanan rotanın adı solda görünür. Henüz rotası olmayan başka bir araca bu rotayı yükleyebilirsiniz. Panodan rotayı kaldırmak için kaldırma simgesine tıklayın.  
 
 
-# Biçerdöver boşaltma![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
+## Biçerdöver boşaltma
+
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
 A: İşçinin hangi tip aracı boşaltacağını seçin. Aynı tarlada çalışan biçerdöver ve ROPA Maus gibi farklı tip araçlarınız varsa kullanışlıdır.  
@@ -32,7 +37,9 @@ D: Yukarıdaki ayar ile aynı şekilde, boşaltıcının boruya göre öne veya 
 E: Rota kopyalamaya benzer şekilde, işaretçi konumlarını başka bir araca kopyalayabilirsiniz..  
 
 
-# Balya toplama/sarma![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
+## Balya toplama/sarma
+
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
 A: Tarlada kalan balyaların sayısı.  
@@ -40,7 +47,9 @@ B: Toplanacak veya sarılacak balya türü.
 C: Traktörün orta noktası ile toplayıcı kolunun orta noktası arasındaki mesafe. Daha geniş lastikli büyük traktörler için bu mesafeyi ayarlamanız gerekebilir.  
 
 
-# Silo doldurucu![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
+## Silo doldurucu
+
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
 A: Litre cinsinden yığında kalan miktar.  
@@ -49,7 +58,9 @@ C: Courseplay'in kepçenin yerden yüksekliğini doğru şekilde ayarlaması ger
 D: Tıpkı boşaltıcıda olduğu gibi, işaretçi konumlarını başka bir araca kopyalayabilirsiniz.  
 
 
-# Silo çalışması![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
+## Silo çalışması
+
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   
 A: Silo doldurucuya benzer şekilde, düzleyicinin yüksekliği önemlidir. Buradan ayarlayabilirsiniz.  

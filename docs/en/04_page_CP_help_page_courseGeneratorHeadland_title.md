@@ -1,5 +1,4 @@
 # Course generator: headland
-
   
 Headland settings will only show up when you have set at least one headland.  
 You'll have options for where to start on, corner settings, direction and overlap.  

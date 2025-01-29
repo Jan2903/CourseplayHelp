@@ -1,5 +1,4 @@
 # Erweitertes Helfermenü
-
   
 Die Einstellungen für jeden Helfer finden jetzt im Menü "Helfereinstellungen" statt.  
 Das Menü funktioniert grundlegend wie das alte Helfermenü.  

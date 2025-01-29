@@ -1,5 +1,4 @@
 # Základy generování tras
-
   
 Každá trasa pro práce v terénu je generován generátorem tras. Jedná se o mocný nástroj, který vám umožní přizpůsobit vygenerovanou trasu vašim potřebám.  
 Pokud s tím začínáte, měli byste pravděpodobně začít pouze změnou nastavení velikosti souvratě.  

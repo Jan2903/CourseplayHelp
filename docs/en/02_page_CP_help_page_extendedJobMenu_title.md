@@ -1,5 +1,4 @@
 # Extended AI Menu
-
   
 Helper settings are now under our own new "Helper settings" menu.  
 It works much like the old AI Menu.  

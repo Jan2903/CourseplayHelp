@@ -1,5 +1,4 @@
 # Kerekes rakodó
-
   
 Ez az üzemmód lehetővé teszi a kerekes rakodót és a homlokrakodóval felszerelt traktorokat.  
 Egy ráerősített kanállal fel lehet emelni a földről egy kupacot, vagy megoldható a bunkersilóból történő rakodás.  

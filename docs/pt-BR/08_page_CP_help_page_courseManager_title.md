@@ -1,5 +1,4 @@
 # Gerenciar rotas
-
   
 O gerenciador de rotas permite que você salve rotas e carregue a rota salvo novamente mais tarde.  
 Isso é realmente importante, quando você deseja ter vários trabalhadores dirigindo a mesma rota para comboio (multi implementos).  

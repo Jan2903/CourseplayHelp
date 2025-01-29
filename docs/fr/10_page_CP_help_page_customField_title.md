@@ -1,5 +1,4 @@
 # Champs personnalisés
-
   
 Il y a deux méthodes pour créer des champs personnalisés.  
 La première méthode est d'utiliser l'enregistrement de course depuis le mini-ATH.  

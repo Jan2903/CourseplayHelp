@@ -1,5 +1,4 @@
 # Generátor tras středu pole
-
   
 Pro střed pole jsou k dispozici různé strategie pro práci. Většinou je zvolený nástroj důvodem pro výběr konkrétní strategie před ostatními. Dostupné strategie byly vytvořeny na základě zpětné vazby a informací od naší komunity.  
 Jednoduchá strategie nahoru dolů funguje téměř vždy pro jakýkoli nástroj. Může však být lepší zvolit jinou, například při sklizni kombajnem, režim záhon je lepší způsob, jak udržet rouru mimo plodinu pro efektivnější vykládání.  
@@ -22,19 +21,27 @@ Tato nastavení se zobrazují pouze pro konkrétní nastavení, která jste prov
 - Počet obkroužení: Zobrazí se, když je střed pole nastaven na "kruh".  
 
 
-# 
+## 
 nahoru/dolů
+
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-# 
+## 
 záhon
+
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-# 
+## 
 spirála
+
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-# 
+## 
 kruh
+
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

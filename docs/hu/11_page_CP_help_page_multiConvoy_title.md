@@ -1,5 +1,4 @@
 # Több eszköz és konvoj
-
   
 Akár 5 jármű is dolgozhat együtt ugyanazon a területen egy konvojban (más néven több eszköz útvonal).  
 

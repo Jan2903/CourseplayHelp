@@ -1,5 +1,4 @@
 # Çoklu araç ve Konvoy
-
   
 Aynı alanda 5 araca kadar birlikte çalışılması mümkündür ('çoklu araç rotası' olarak adlandırılır).  
 Grup içerisindeki aracın konumunu(hattını) HUD üzerinde (sol-orta-sağ) değiştirebilirsiniz.  

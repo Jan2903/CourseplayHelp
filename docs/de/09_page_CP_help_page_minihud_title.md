@@ -1,6 +1,7 @@
 # Mini-HUD
+## Grundfunktionen
 
-# Grundfunktionen![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
 A: Mit gedrückter linker Maustaste auf der Kopfzeile lässt sich das HUD auf eine beliebige Position verschieben. Auf der rechten Seite wird die Version angezeigt und ein X zum Schließen mit der Maustaste.  
@@ -12,7 +13,9 @@ F: Durch das Klicken auf diesen Text werden die erlaubten Modi je nach Fahrzeugg
 G: Unterhalb dieser Linie befinden sich modusabhängige Einstellungen, die in den nachfolgenden Bildern erklärt werden.  
 
 
-# Feldarbeit![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+## Feldarbeit
+
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
 A: Mit der Maus lässt sich hier der Startpunkt per Mausklick durchschalten. Ist ein Multitoolkurs geladen, kann auf der rechten Seite die Bahn gewählt werden.  
@@ -22,7 +25,9 @@ D: Hier kann ein Geräteversatz zur Mitte des Fahrzeugs eingestellt werden. Dies
 E: Mit einem Klick auf das Symbol auf der rechten Seite wird der Kurs des Fahrzeuges kopiert. Solange ein Kurs in der Zwischenablage ist wird auf der linken Seite der Name des Kurses angezeigt. Durch das neu erschiene Symbol kann der Kurs in ein anderes Fahrzeug geladen werden. Das Papierkorb Symbol löscht den aktuellen Kurs aus der Zwischenablage.  
 
 
-# Drescher Abfahrer![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
+## Drescher Abfahrer
+
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
 A: Da sowohl ein Drescher als auch ein Lader (z.B. ROPA Maus) gleichzeitig auf einem Feld arbeiten könnten, kann hier gewählt werden, welches Gerät abgetankt werden soll.  
@@ -32,7 +37,9 @@ D: Das Gleiche lässt sich auch für eine Korrektur nach vorne oder nach hinten 
 E: Ähnlich wie beim Kopieren eines Kurses, werden hier die Positionen der Marker für den Abfahrer kopiert und können dann auf weiteren Abfahrer übertragen werden.  
 
 
-# Ballen sammeln/wickeln![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
+## Ballen sammeln/wickeln
+
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
 A: Ballen die nach dem letzten automatischen Scan noch auf dem Feld liegen.  
@@ -40,7 +47,9 @@ B: Ballen die gesammelt oder bearbeitet werden sollen (z.B. nur gewickelte Balle
 C: Versatz zwischen Traktormitte und der Mitte der Ballenaufnahme. Es kann nötig sein, bei einem breiterem Traktor (z.B. Breitreifen) diesen Wert anzupassen.  
 
 
-# Silolader![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
+## Silolader
+
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
 A: Die aktuelle Füllmenge des gewählten Haufens.  
@@ -49,7 +58,9 @@ C: Versatz für die Ladehöhe einer Schaufel. Kann genutzt werden falls die Scha
 D: Wie schon beim Abfahrer, kannst du hier die benötigten Marker kopieren und auf ein weiteres Gerät einfügen.  
 
 
-# Siloarbeiter![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
+## Siloarbeiter
+
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   
 A: Wie auch beim Silolader, ist die Schildhöhe entscheidend. Die kannst du hier anpassen.  

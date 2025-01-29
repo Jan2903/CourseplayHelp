@@ -1,5 +1,4 @@
 # Course generator: center
-
   
 The generator provides several different patterns to generate the course for the center of the field. The best pattern is usually determined by the job and the implements selected. The patterns were created based on feedback and information from our community.  
 The simple up down pattern works almost every time for any tool.   
@@ -23,19 +22,27 @@ These settings appear only for specific settings you have done before:
 - Number of circles: Appears when field center is set to "racetrack".  
 
 
-# 
+## 
 up/down
+
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-# 
+## 
 lands
+
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-# 
+## 
 spiral
+
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-# 
+## 
 racetrack
+
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

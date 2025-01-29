@@ -1,6 +1,7 @@
 # Mini HUD
+## Informacje ogólne
 
-# Informacje ogólne![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
 A: Przytrzymaj lewy przycisk myszy na nagłówku, aby przeciągnąć HUD do wybranej pozycji. Po prawej stronie wyświetlana jest zainstalowana wersja, kliknięcie myszą na X zamknie HUD.  
@@ -12,7 +13,9 @@ F: Kliknij tekst, aby przełączyć dostępne tryby dla bieżących narzędzi.
 G: Ustawienia wyświetlane w tym wierszu zależą od bieżącej pracy. Zostaną one wyjaśnione na poniższych ilustracjach.  
 
 
-# Prace polowe![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+## Prace polowe
+
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
 A: Kliknij, aby wybrać miejsce rozpoczęcia pracy. Jeśli załadowany jest kurs z wieloma narzędziami, po prawej stronie można wybrać pas ruchu.  
@@ -22,7 +25,9 @@ D: Niektóre narzędzia wymagają przesunięcia w bok. Courseplay obliczy je aut
 E: Użyj symbolu po prawej stronie, aby skopiować bieżący kurs do schowka. Nazwa skopiowanego kursu zostanie wyświetlona po lewej stronie. Skopiowany kurs można załadować do innego pojazdu, który nie ma jeszcze kursu. Aby usunąć kurs ze schowka, kliknij symbol usuwania.  
 
 
-# Rozładunek kombajnu![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
+## Rozładunek kombajnu
+
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
 A: Wybierz typ pojazdu, który Pomocnik SI ma rozładować. Jest to przydatne, jeśli na tym samym polu pracują różne typy pojazdów, np. kombajn i oczyszczarka (jak ROPA Maus).  
@@ -32,7 +37,9 @@ D: To samo, co powyżej, ale tutaj można dostosować położenie rozładunku w 
 E: Podobnie jak w przypadku kopiowania kursu, w tym miejscu można skopiować pozycje znaczników do innego pojazdu.  
 
 
-# Zbieranie/Owijanie bel![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
+## Zbieranie/Owijanie bel
+
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
 A: Pozostałe bele na polu.  
@@ -40,7 +47,9 @@ B: Typ beli do zebrania/owinięcia.
 C: Przesunięcie między linią środkową ciągnika a linią środkową ramienia załadunkowego. Może być konieczne dostosowanie tej wartości w przypadku większych ciągników (np. z szerszymi oponami).  
 
 
-# Załadunek pryzmy![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
+## Załadunek pryzmy
+
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
 A: Pozostała wielkość pryzmy w litrach.  
@@ -49,7 +58,9 @@ C: Courseplay wymaga prawidłowego ustawienia dokładnej wysokości łyżki nad 
 D: Podobnie jak w przypadku rozładunku, można skopiować pozycje znaczników do innego pojazdu.  
 
 
-# Zagęszczanie i wyrównywanie![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
+## Zagęszczanie i wyrównywanie
+
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   
 A: Podobnie jak w przypadku załadunku pryzmy, wysokość lemiesza ma kluczowe znaczenie. Można ją wyregulować tutaj.  

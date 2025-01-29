@@ -1,5 +1,4 @@
 # Generador de Cursos: Isla
-
   
 Courseplay generará cabeceras alrededor de las islas cuando el desvío de islas esté habilitada, por lo que cuando el campo se encuentre por primera vez con una isla,  
 hará al menos un círculo completo alrededor de ella. Puede establecer la cantidad de cabeceras (y, por lo tanto, la cantidad de círculos) alrededor de la isla  

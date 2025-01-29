@@ -1,5 +1,4 @@
 # Kursgenerator: Feldmitte
-
   
 Für die Mitte gibt es die verschiedenste Strategien das Feld ab zu arbeiten. Oft spielt das gewählte Gerät eine Rolle. Die verfügbaren Strategien entstanden durch Feedback und Informationen aus unserer Community.  
 Das einfache hoch und runter fahren funktioniert an sich immer. Es kann aber besser sein, zum Dreschen z.B. Beete zu verwenden, damit das Rohr öfter außerhalb der Frucht liegt, was ein effizienteres Abtanken ermöglicht.  
@@ -23,19 +22,27 @@ Folgende Einstellungen erscheinen erst Anhand bestimmter vorheriger Einstellung:
 - Anzahl Runden: Erscheint bei Feldmitte "kreisförmig".  
 
 
-# 
+## 
 hoch/runter
+
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-# 
+## 
 Beete
+
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-# 
+## 
 spiralförmig
+
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-# 
+## 
 kreisförmig
+
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

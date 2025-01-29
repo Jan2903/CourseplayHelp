@@ -1,5 +1,4 @@
 # Campi personalizzati
-
   
 Ci sono due modi per creare campi personalizzati.  
 Il primo è usare la funzione di registrazione dell'HUD.  

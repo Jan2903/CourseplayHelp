@@ -1,5 +1,4 @@
 # Gerador de rotas centro
-
   
 Para o centro do campo, diferentes estratégias estão disponíveis para fazer o trabalho. Geralmente, a ferramenta selecionada é um motivo para escolher uma estratégia específica em vez da outra. As estratégias disponíveis foram criadas com base no feedback e nas informações da nossa comunidade.  
 A estratégia simples de cima para baixo funciona quase sempre para qualquer ferramenta. Mas pode ser melhor escolher outra, por exemplo, ao colher com uma colheitadeira, as terras são uma maneira melhor de manter o tubo fora da fruta para um descarregamento mais eficiente.  
@@ -24,19 +23,27 @@ Essas configurações aparecem apenas para configurações específicas que voc�
 - Número de círculos: aparece quando o centro do campo está definido como "racetrack".  
 
 
-# 
+## 
 cima/baixo
+
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-# 
+## 
 terras
+
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-# 
+## 
 espiral
+
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-# 
+## 
 racetrack
+
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

@@ -1,5 +1,4 @@
 # Multiveicoli e convoglio
-
   
 È possibile avere fino a 5 veicoli che lavorano insieme sullo stesso campo in un gruppo (chiamato anche percorso multi-utensile).  
 È possibile cambiare la posizione (corsia) del veicolo nel gruppo sull'HUD (sinistra-centro-destra).  

@@ -1,5 +1,4 @@
 # Informação Geral
-
   
 Courseplay permite-te gerar rotas nos campos com recursos adicionais, como por exemplo: nas cabececeiras.  
 Também permite que se use na mesma rotas, enfardadeiras e auto carregadoras de feno, assim como gadanhas ou ceifeiras.  

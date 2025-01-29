@@ -1,5 +1,4 @@
 # Générateur de courses
-
   
 Toutes les courses de travail dans un champ sont créées à partir du générateur de courses. Cet outil puissant vous permet de configurer précisément la course de l'ouvrier dans le champ.  
 Si vous découvrez le générateur, nous vous conseillons de laisser les paramètres par défaut et de ne changer que la quantité de fourrières.  

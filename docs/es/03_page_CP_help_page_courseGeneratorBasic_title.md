@@ -1,5 +1,4 @@
 # Conceptos básicos del generador de cursos
-
   
 El generador de cursos de Courseplay es una herramienta sofisticada que puede generar cursos de trabajo de campo personalizados para cada trabajo posible.  
 Tiene muchas configuraciones y puede llevar algún tiempo familiarizarse con él. Si es nuevo en Courseplay, probablemente debería comenzar a jugar con la cantidad de cabeceras primero y luego aventurarse en las configuraciones más avanzadas.  

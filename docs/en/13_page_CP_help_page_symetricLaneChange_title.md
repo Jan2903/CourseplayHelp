@@ -1,5 +1,4 @@
 # Lane switch
-
   
 Lane switching is used on multitool courses and tells the helper, in which lane he should drive after the turn.  
 With lane switch active, the vehicle changes the side after each turn.  

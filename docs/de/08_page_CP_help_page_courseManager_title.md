@@ -1,5 +1,4 @@
 # Kursmanager
-
   
 Der Kursmanager erlaubt es dir, Kurse zu speichern und später wieder zu laden.  
 Das ist z.B. wichtig, wenn mehrere Fahrzeuge auf einem Kurs arbeiten sollten (Multitool).  

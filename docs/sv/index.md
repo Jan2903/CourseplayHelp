@@ -1,5 +1,4 @@
 # General Information
-
   
 Courseplay gör att du kan generera fältkurser med ytterligare funktioner, till exempel: Headlands.  
 Det möjliggör också användningen av balsor och foragewagons, som kan skickas på samma kurs, som en gräsklippare eller skördare från tidigare.  

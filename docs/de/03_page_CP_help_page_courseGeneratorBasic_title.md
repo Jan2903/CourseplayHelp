@@ -1,5 +1,4 @@
 # Kursgenerator Basis
-
   
 Das mit Abstand mächtigste und wichtigste Tool für die Feldarbeit ist der Kursgenerator. Dieser erlaubt es dir, die Kurse für deine Feldarbeit zu generieren.  
 Mit der Version 2.0 des Generators lassen sich die Kurse noch mehr individualisieren.  

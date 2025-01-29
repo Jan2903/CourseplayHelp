@@ -1,5 +1,4 @@
 # Tekerlekli yükleyici/Ön yükleyici
-
   
 Bu mod tekerlekli yükleyiciler ve ön yükleyicili traktörlerin kullanılmasını sağlar.   
 Kepçe ile yerdeki bir yığından veya bunker silosundan ürün alınıp yükleme yapılabilir.  

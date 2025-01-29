@@ -1,6 +1,7 @@
 # Mini HUD
+## Funções Gerais
 
-# Funções Gerais![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
+![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
 R: Segure o botão esquerdo do mouse no título para arrastar o HUD para a posição desejada. No lado direito é mostrada a versão instalada e o X fechará o HUD com um clique do mouse.  
@@ -12,7 +13,9 @@ F: Clique no texto para alternar os modos disponíveis para suas ferramentas atu
 G: As configurações mostradas nesta linha dependem do trabalho atual. Isso será explicado com as fotos a seguir.  
 
 
-# Trabalho no campo![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+## Trabalho no campo
+
+![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
 R: Clique para selecionar onde iniciar o trabalho. Se um curso multiferramenta estiver carregado, no lado direito você pode selecionar a pista.  
@@ -22,7 +25,9 @@ D: Algumas ferramentas precisam de um deslocamento lateral. O Courseplay irá ca
 E: Use o símbolo do lado direito para copiar a rota atual para a área de transferência. O nome da rota copiado é mostrado à esquerda. Você pode carregar o percurso copiado em outro veículo que ainda não tenha percurso. Para remover a rota da área de transferência, clique no símbolo de remoção.  
 
 
-# Colheitadeira descarrega![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
+## Colheitadeira descarrega
+
+![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
 A: Selecione que tipo de veículo o trabalhador deve descarregar. Isto é útil se você tiver tipos diferentes, como uma colheitadeira e uma carregadeira como a ROPA Maus trabalhando no mesmo campo.  
@@ -32,14 +37,18 @@ D: O mesmo que acima, mas aqui você pode ajustar a posição do descarregador e
 E: Semelhante a copiar um percurso, aqui você pode copiar as posições dos marcadores para outro veículo.  
 
 
-# Fardos coletar/embalar![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
+## Fardos coletar/embalar
+
+![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
 A: Fardos restantes no campo.  
 B: Tipo de fardos a recolher/embalar.  
 C: Deslocamento entre a linha central do trator e a linha central do braço da carregadeira. Pode ser necessário ajustar isso para tratores maiores (por exemplo, com pneus mais largos).
 
-# Carregar silo![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
+## Carregar silo
+
+![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
 A: Tamanho restante da pilha em litros.  
@@ -48,7 +57,9 @@ C: O Courseplay precisa da altura exata acima do solo definida corretamente. Com
 D: Assim como no descarregador, você pode copiar as posições dos marcadores para outro veículo.  
 
 
-# Trabalho no silo![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
+## Trabalho no silo
+
+![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   
 R: Similar ao carregar de silo, a altura do nivelador é crítica. Você pode ajustá-lo aqui.  

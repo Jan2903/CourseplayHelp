@@ -1,5 +1,4 @@
 # Travail dans les vignes
-
   
 Le travail dans les vignes est un peu plus délicat que dans les champs.  
 Afin d'obtenir les meilleurs résultats, les vignes doivent être positionnées parallèlement les unes à côté des autres avec l'espacement par défaut de l'outil de plantation. Chaque rangée doit avoir approximativement la même longueur.  

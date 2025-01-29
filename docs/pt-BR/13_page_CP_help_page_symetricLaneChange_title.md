@@ -1,5 +1,4 @@
 # Mudança de faixa simétrica
-
   
 A mudança de faixa simétrica é usada em rotas multi implementos e informa ao motorista em qual faixa ele deve dirigir após a curva.  
 Isso é um pouco difícil de entender, então vamos dar uma olhada em dois exemplos.  

@@ -1,5 +1,4 @@
 # konvoj
-
   
 Det er muligt at have op til 5 køretøjer, der arbejder sammen på samme mark i en konvoj.  
   

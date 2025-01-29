@@ -1,5 +1,4 @@
 # Course generator headland
-
   
 Headland -inställningar kommer bara att dyka upp, när du har ställt in minst 1 vid antalet Headlands.  
 Du får alternativ för var du ska börja, hörninställningar, riktning och överlappning.  

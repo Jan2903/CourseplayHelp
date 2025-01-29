@@ -1,5 +1,4 @@
 # Szimetrikus sávváltás
-
   
 A szimmetrikus sávváltás a többjárműves útvonalakon használatos, és jelzi a vezetőnek, hogy a kanyar után melyik sávban kell haladnia.  
 Ezt egy kicsit nehéz megérteni, ezért lássunk két példát.  

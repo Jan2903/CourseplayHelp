@@ -1,5 +1,4 @@
 # Rota yöneticisi
-
   
 Rota Yöneticisi, rotaları kaydetmenize ve daha sonra bu kaydedilmiş rotaları tekrar yüklemenize olanak tanır.  
 Bu özellik birden fazla işçiyi konvoy (çoklu araç) şeklinde aynı rotada çalıştırmak istediğiniz durumlarda oldukça kullanışlıdır.  

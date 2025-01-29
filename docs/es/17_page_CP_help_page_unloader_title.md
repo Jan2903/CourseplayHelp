@@ -1,5 +1,4 @@
 # Descargador de Cosechadoras
-
   
 El modo de descarga de Courseplay funciona con Cosechadoras, Combinadas y Cosechadoras remolcadas conducidas por Courseplay.  
 Esto no funciona con Cosechadoras de Forraje.  
@@ -18,7 +17,9 @@ es evitar que una cosechadora llame a un descargador con un remolque casi lleno.
   
 
 
-# Uso de remolques  
+## Uso de remolques
+
+  
 Si utiliza un remolque para descargar, hay dos formas de transportar su cosecha a un silo o a un punto de venta: El Ayudante de Gigants  
 o AutoDrive.  
 Puede usar el menú AI y crear un trabajo, luego activando la función del Ayudante de Giants y descargando el objetivo en él  
@@ -28,7 +29,9 @@ En este último caso, debe elegir la estación de descarga después de que el í
 Vaciar un remolque con AutoDrive funciona igual que usar un vagón de carga, consulte los tutoriales de AutoDrive en Internet.  
 
 
-# Uso de remolques con sinfín  
+## Uso de remolques con sinfín
+
+  
 Los remolques con sinfín son muy fáciles de usar.  
 Al igual que con los remolques, utilice el icono de objetivo para elegir el campo donde desea descargar una Combinada o Cosechadora.  
 Para iniciar el Descargador,  colóquelo nuevamente en el campo o dentro de los 20 metros del borde fuera del campo.  
@@ -37,7 +40,9 @@ En caso de que el tráiler esté lleno y el vagón del sinfín aún no esté vac
 Si no hay un remolque disponible, continuará descargando la cosechadora.  
 
 
-# Descargar en el campo.  
+## Descargar en el campo.
+
+  
 La posición de descarga se puede seleccionar con el marcador de descarga.  
 La posición debe estar en el mismo campo o cerca del borde del campo.  
 Si el marcador apunta a un montón ya existente,  

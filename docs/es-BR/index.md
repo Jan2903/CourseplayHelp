@@ -1,5 +1,4 @@
 # Información General
-
   
 CoursePlay te permite generar cursos en los campos con características adicionales, por ejemplo: Cabeceras.  
 También habilita el uso de Empacadoras y remolques de forraje, que pueden ser enviados en el mismo curso, detrás de una Segadora o Cosechadora.  

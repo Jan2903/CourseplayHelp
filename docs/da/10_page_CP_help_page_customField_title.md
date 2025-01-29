@@ -1,5 +1,4 @@
 # Brugerdefineret marker
-
   
 Du kan oprette brugerdefineret mark på to måder.  
 Den første er ved at benytte markoptegnelse i HUD.  

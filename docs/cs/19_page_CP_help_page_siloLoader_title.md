@@ -1,5 +1,4 @@
 # Odvoz do/ze silážní jámy
-
   
 S touto funkcí je možné nabírat z hromady na poli nebo v jeho blízkosti.  
 Navíc je možné nabírat siláž z jámy.  

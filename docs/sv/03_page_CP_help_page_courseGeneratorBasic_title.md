@@ -1,5 +1,4 @@
 # Course generator basics
-
   
 Varje fältverkskurs genereras av kursgeneratorn. Detta är ett mäktigt verktyg, vilket gör att du kan anpassa den genererade kursen till dina behov.  
 Om du är ny för detta, bör du förmodligen börja med att bara ändra satsen på huvudet.  

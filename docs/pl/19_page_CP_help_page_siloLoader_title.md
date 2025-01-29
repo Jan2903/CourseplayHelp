@@ -1,5 +1,4 @@
 # Załadunek pryzmy
-
   
 W tym trybie możliwy jest załadunek pryzmy na polu lub w jego pobliżu.  
 Dodatkowo można załadować pryzmę z silosu bunkrowego.  

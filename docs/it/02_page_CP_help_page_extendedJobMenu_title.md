@@ -1,5 +1,4 @@
 # Menu IA esteso
-
   
 Le impostazioni dell'assistente sono ora sotto il nostro nuovo menu "Impostazioni dell'assistente".  
 Funziona in modo simile al vecchio menu IA.  

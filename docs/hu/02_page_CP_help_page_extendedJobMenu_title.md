@@ -1,5 +1,4 @@
 # Bővített AI menü
-
   
 Először ki kell választanod egy járművet az AI menüben, hogy termőföldi útvonalat generálhass, vagy hozzáférést nyerj a járműbeállításokhoz és az útvonal kezelőhöz.  
 A jelenleg betöltött útvonal meg fog jelenni a térképen.  

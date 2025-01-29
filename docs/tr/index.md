@@ -1,5 +1,4 @@
 # Genel Bilgilendirme
-
   
 Courseplay, tarla rotaları oluşturmak için çeşitli ek özellikler sunar; örneğin, manevra koridorları ekleme.  
 Ayrıca balya makineleri ve yem vagonlarının, daha önce çim biçme makinesi veya biçerdöver tarafından kullanılan aynı rotada çalıştırılmasına olanak tanır.   

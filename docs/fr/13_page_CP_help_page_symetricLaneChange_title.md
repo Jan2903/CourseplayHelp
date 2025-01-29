@@ -1,5 +1,4 @@
 # Changement symétrique de rangées
-
   
 Le changement symétrique de rangées est uniquement utilisé dans une course à outils multiples afin d'indiquer de quel côté le chauffeur se rendra (gauche ou droite) lors du travail dans la prochaine rangée.  
 Pour mieux comprendre, prenons deux exemples :  

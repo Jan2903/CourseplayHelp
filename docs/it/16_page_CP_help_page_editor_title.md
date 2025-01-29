@@ -1,5 +1,4 @@
 # Course editor
-
   
 L'editor del percorso può essere utilizzato per modificare percorsi e campi personalizzati.  
 I percorsi caricati verranno salvati/sovrascritti automaticamente, alla chiusura dell'editor.  

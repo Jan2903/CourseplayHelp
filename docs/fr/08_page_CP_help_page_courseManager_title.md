@@ -1,5 +1,4 @@
 # Gestionnaire des courses
-
   
 Le gestionnaire de courses vous permet de sauvegarder et de charger vos courses pour une utilisation ultérieure.  
 La sauvegarde de la course est également obligatoire lorsque vous utilisez les outils multiples afin de pouvoir affecter la même course à plusieurs ouvriers.  

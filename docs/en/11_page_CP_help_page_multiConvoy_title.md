@@ -1,5 +1,4 @@
 # Multitool and Convoy
-
   
 It is possible to have up to 5 vehicles working together on the same field in a group (also called multi tools course).  
 You can switch the position (lane) of the vehicle in the group on the HUD (left-center-right).  
