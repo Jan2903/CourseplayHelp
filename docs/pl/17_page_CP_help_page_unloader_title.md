@@ -15,8 +15,7 @@ Dostępnych jest tylko kilka ustawień, które możesz zmienić:
 - Możesz użyć przesunięć w HUD, aby dostosować pozycję pomocnika rozładowującego pod rurą kombajnu.  
 
 
-## Używanie przyczep
-  
+# Używanie przyczep  
 Jeśli używasz zwykłej przyczepy do rozładunku, istnieją dwa sposoby transportu zbiorów do silosu lub punktu sprzedaży: Pomocnik SI z gry lub AutoDrive.  
 Możesz użyć menu AI i utworzyć zadanie, a następnie aktywować funkcję Pomocnika SI i cel rozładunku na dole listy lub aktywując ikonę koła na HUD.  
 W tym drugim przypadku musisz wybrać punkt rozładunku po tym, jak ikona koła zmieni kolor na niebieski.  
@@ -24,8 +23,7 @@ W tym drugim przypadku musisz wybrać punkt rozładunku po tym, jak ikona koła 
 Opróżnianie przyczepy za pomocą AutoDrive działa tak samo, jak korzystanie z przyczepy samozbierającej, sprawdź samouczki AutoDrive w Internecie.  
 
 
-## Używanie wozów przeładunkowych
-  
+# Używanie wozów przeładunkowych  
 Wozy przeładunkowe są bardzo proste w użyciu.  
 Podobnie jak w przypadku przyczep, za pomocą ikony celu wybierasz pole, na którym chcesz rozładować kombajn.  
 Aby aktywować rozładunek, umieść zestaw ponownie na polu lub w odległości 20 metrów od pola.  
@@ -34,8 +32,7 @@ W przypadku, gdy przyczepa jest pełna, a wóz przeładunkowy nadal nie jest pus
 Jeśli nie ma w pobliżu żadnej wolnej przyczepy, będzie on nadal rozładowywał kombajn.  
 
 
-## Rozładunek na polu
-  
+# Rozładunek na polu  
 Pozycja rozładunku może zostać wybrana poprzez znacznik rozładunku.  
 Pozycja ta musi być na tym samym polu lub blisko jego krawędzi.  
 Jeżeli znacznik jest ustawiony na istniejącej pryzmie, wtedy zostanie ona użyta do rozładunku.  

@@ -17,8 +17,7 @@ Es gibt nur wenige Optionen zur Feineinstellung:
   
 
 
-## Anhänger benutzen
-  
+# Anhänger benutzen  
 Wird ein Anhänger zum Abfahren verwendet, gibt es 2 Möglichkeiten diesen zu entleeren:  
 - Giants Helfer:  
   1) Starten über das Helfermenü mit der aktiven Option "Giants Ablader benutzen"  
@@ -26,8 +25,7 @@ Wird ein Anhänger zum Abfahren verwendet, gibt es 2 Möglichkeiten diesen zu en
 - AutoDrive: Funktioniert wie mit einem Ladewagen. Schaue dir dazu AutoDrive-Tutorials an.  
 
 
-## Überladewagen benutzen
-  
+# Überladewagen benutzen  
 Überladewagen sind relativ einfach zu bedienen.  
 Auch hier wird das Feld mit dem Zielmarker gewählt, auf dem eure Drescher oder Ernter fahren.  
 Zum Starten stellt man den Abfahrer auf das Feld oder nahe der Feldgrenze.  
@@ -36,8 +34,7 @@ Wenn beim Überladen der Anhänger voll wird, wird für den Rest im Überladewag
 Ist kein Anhänger verfügbar, wird der Drescher weiter abgetankt bis der Überladewagen voll ist.  
 
 
-## Abladen auf dem Feld
-  
+# Abladen auf dem Feld  
 Über den Ablademarker kann eine Stelle zum Abladen ausgewählt werden.  
 Das Abladen auf dem Feld muss aktiviert werden.  
 Die Position muss auf dem gleichen Feld oder am Feldrand sein.  

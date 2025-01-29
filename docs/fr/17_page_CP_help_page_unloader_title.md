@@ -16,8 +16,7 @@ Vous pouvez adapter quelques paramètres concernant le processus de déchargemen
   
 
 
-## Utilisation des bennes
-  
+# Utilisation des bennes  
 Si vous utilisez une benne pour effectuer le déchargement, il existe deux possibilité de transporter la récolte vers un silo ou un point de vente : l'ouvrier Giants   
 ou l'AutoDrive.   
 Vous pouvez soit utiliser la création de tâche du menu des ouvriers pour créer une tâche de déchargement et choisir le point de livraison dans la liste, soit en cliquant sur l'icône de la roue visible sur l'ATH.  
@@ -26,8 +25,7 @@ Dans ce dernier cas, vous devrez choisir le point de livraison après que l'icô
 Pour utiliser AutoDrive, utilisez le mode charger puis livrer. Il existe des tutos sur Internet.  
 
 
-## Utilisation des transbordeurs
-  
+# Utilisation des transbordeurs  
 Les transbordeurs sont simples à utiliser.  
 Tout comme les bennes, utilisez la cible pour sélectionner le champ à surveiller dans lequel travaillent une ou des récolteuses.  
 Pour démarrer la course de déchargement, attendez d'être sur le champ ou à moins de 20 mètres de celui-ci.  
@@ -36,8 +34,7 @@ Dans le cas où la remorque ou benne serait pleine, le transbordeur en cherchera
 Si aucune benne ou remorque n'est disponible, le transbordeur continuera à décharger la récolteuse.  
 
 
-## Déchargement au champ
-  
+# Déchargement au champ  
 L'emplacement ainsi que la position du déchargement peut être choisi en placant le marqueur.  
 L'emplacement doit être sur le même champ ou tout près des bords.  
 Si les marqueurs pointent vers un tas,   

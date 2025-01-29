@@ -17,8 +17,7 @@ is to avoid waiting for a combine to call with a trailer almost full.
   
 
 
-## Using trailers
-  
+# Using trailers  
 If you use a trailer to unload, there are two ways to transport your harvest to a silo or to a selling point: the Giants helper  
 or AutoDrive.  
 You can either use the AI Menu and create a Job, then by activating the Giants helper function and unload target at the  
@@ -28,8 +27,7 @@ In the latter case, you have to choose the unload station after the wheel icon t
 Emptying a trailer with AutoDrive works the same as using a loading wagon, check out the AutoDrive Tutorials on the Internet.  
 
 
-## Using auger wagons
-  
+# Using auger wagons  
 Auger wagons are very simple to use.  
 Just like with trailers, you use the target icon to choose the field where you want to unload a combine or harvester.  
 To start the unloader, place it again on the field or within 20 meters of the field.  
@@ -38,8 +36,7 @@ In case the trailer is full and the auger wagon still not empty, it will look fo
 Is no trailer available, it will continue to unload the combine.  
 
 
-## Unload on the field
-  
+# Unload on the field  
 The unloading position can be selected with the unload marker.  
 The position needs to be on the same field or near the field edge.  
 If the marker points to an already existing heap,   

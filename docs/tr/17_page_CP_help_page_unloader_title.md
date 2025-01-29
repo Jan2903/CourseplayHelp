@@ -16,8 +16,7 @@ Böylece römork neredeyse dolu bir şekilde bir sonraki çağrıyı beklemek ye
   
 
 
-## Römork kullanma
-  
+# Römork kullanma  
 Bir römork kullanarak boşaltma yapıyorsanız, hasadınızı siloya veya satış noktasına taşımak için iki yöntem vardır:   
 Varsayılan GIANTS işçileri veya AutoDrive.  
 YZ Menüsü'nden hedef seçerek teslim etme işi oluşturabilir ya da HUD üzerindeki direksiyon simgesine basarak aktifleştirebilirsiniz.  
@@ -27,8 +26,7 @@ YZ Menüsü'nden hedef seçerek teslim etme işi oluşturabilir ya da HUD üzeri
 AutoDrive ile bir römorku boşaltmak, burgu vagonu kullanmayla benzer şekilde çalışır. AutoDrive ile ilgili eğitim videolarına internetten göz atabilirsiniz.  
 
 
-## Burgu vagonu kullanma
-  
+# Burgu vagonu kullanma  
 Burgu vagonlarının kullanımı çok basittir..  
 Tıpkı römorklarda olduğu gibi biçerdöveri veya hasat makinesini boşaltmak istediğiniz tarlayı seçmek için hedef simgesini kullanırsınız.  
 Boşaltıcıyı başlatmak için yine tarlada olmanız veya tarlanın 20 metre yakınında olmanız gerekir.  
@@ -37,8 +35,7 @@ Eğer römork doluysa ve burgu vagonu hâlâ boşalmamışsa yükü boşaltmak i
 Eğer hiç römork bulamazsa, biçerdöveri boşaltmaya devam eder.  
 
 
-## Tarlada boşaltma
-  
+# Tarlada boşaltma  
 Boşaltma konumu, boşaltma işaretleyicisi ile seçilebilir.  
 Tarlada boşaltma etkinleştirilmelidir.  
 Konumun tarlada veya tarla yakınında olması gerekir.  

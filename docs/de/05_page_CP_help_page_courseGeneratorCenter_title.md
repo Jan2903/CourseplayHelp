@@ -23,23 +23,19 @@ Folgende Einstellungen erscheinen erst Anhand bestimmter vorheriger Einstellung:
 - Anzahl Runden: Erscheint bei Feldmitte "kreisförmig".  
 
 
-## 
+# 
 hoch/runter
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-## 
+# 
 Beete
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-## 
+# 
 spiralförmig
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-## 
+# 
 kreisförmig
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

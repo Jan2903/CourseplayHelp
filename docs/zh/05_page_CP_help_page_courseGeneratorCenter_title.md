@@ -28,23 +28,19 @@ These settings appear only for specific settings you have done before:
 - 圆环数量: 当田地中心路线设置为"圆环（由外向内）"模式时才出现。  
 
 
-## 
+# 
 往返
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-## 
+# 
 区域（由内向外）
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-## 
+# 
 螺旋
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-## 
+# 
 圆环（由外向内）
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

@@ -17,8 +17,7 @@ Avlastare har bara ett fåtal inställningar som du kan justera:
   
 
 
-## Använder släp
-  
+# Använder släp  
 Om du använder en trailer för att lossa, finns det två sätt att transportera din skörd till en silo eller till ett försäljningsställe: Giants helper  
 eller AutoDrive.  
 Du kan antingen använda AI-menyn och skapa ett jobb, sedan genom att aktivera Giants-hjälpfunktionen och lasta av målet vid  
@@ -28,8 +27,7 @@ I det senare fallet måste du välja avlastningsstationen efter att hjulikonen b
 Att tömma en trailer med AutoDrive fungerar på samma sätt som att använda en lastvagn, kolla in AutoDrive-handledningarna på Internet.  
 
 
-## Använda Fältvagn
-  
+# Använda Fältvagn  
 Fältvagnar är mycket enkla att använda.  
 Precis som med släp, använder du målikonen för att välja fältet där du vill lossa en skördetröska eller skördare.  
 För att starta avlastaren, placera den igen på fältet eller inom 20 meter från fältet.  
@@ -38,8 +36,7 @@ Om trailern är full och skruvvagnen fortfarande inte är tom, kommer den att le
 Finns ingen släpvagn tillgänglig fortsätter den att lasta av skördetröskan.  
 
 
-## avlastning på fältet
-  
+# avlastning på fältet  
 Avlastningspositionen kan väljas med avlastningsmarkören.  
 Positionen måste vara på samma fält eller nära fältkanten.  
 Om markören pekar på en redan befintlig hög,  

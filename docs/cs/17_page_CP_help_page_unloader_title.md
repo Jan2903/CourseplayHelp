@@ -15,8 +15,7 @@ se vyhnete čekání na zavolání kombajnu s téměř plným vlekem.
 - Pomocí offsetů v HUD můžete upravit polohu vykladače pod výsypovou rourou sklízeče.  
 
 
-## Použití vleků
-  
+# Použití vleků  
 Pokud k vykládce používáte vlek, existují dva způsoby, jak dopravit sklizeň do sila nebo do prodejního místa: pomocník Giants  
 nebo AutoDrive.  
 Můžete buď použít nabídku AI a vytvořit úlohu, poté aktivací funkce Giants helper a uvolnit cíl na  
@@ -25,8 +24,7 @@ V druhém případě musíte vybrat vykládací stanici poté, co se ikona kole�
 Vyprázdnění vleku pomocí AutoDrive funguje stejně jako použití nakládacího vozu, podívejte se na AutoDrive návody na internetu.  
 
 
-## Použití překládacích vozů
-  
+# Použití překládacích vozů  
 Použití překládacích vozů je velmi jednoduché.  
 Stejně jako u vleků si pomocí ikony cíle vyberete pole, na kterém chcete vyložit kombajn nebo sklízeč.  
 Chcete-li spustit vykladač, umístěte jej znovu na pole nebo do 20 metrů od pole.  
@@ -35,8 +33,7 @@ V případě, že je vlek plný a překládací vůz stále není prázdný, bud
 Není-li k dispozici žádný vlek, bude pokračovat ve vykládání kombajnu.  
 
 
-## Vykládání na poli
-  
+# Vykládání na poli  
 Polohu vykládky lze zvolit pomocí značky vyložení.  
 Pozice musí být na stejném poli nebo blízko okraje pole.  
 Pokud značka ukazuje na již existující hromadu,  

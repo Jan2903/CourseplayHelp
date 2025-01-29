@@ -16,8 +16,7 @@ ne várjon egy kombájnra, ha a pótkocsi majdnem tele van.
 - A HUD-ban található eltolásokkal beállíthatja a kirakodó helyzetét a betakarítógép csöve alatt.  
 
 
-## Pótkocsik használata
-  
+# Pótkocsik használata  
 Ha egy pótkocsit használsz a termény szállításához, két lehetőséged van az aratott termény szállítására: beépített segítőt, vagy az AutoDrive-ot használhatod.  
 Az AI menü segítségével létrehozol egy feladatot, majd aktiválod a beépített segítőt funkcióját és a lerakási célt a lista alján, vagy a HUD-on található kerék  
 ikon aktiválásával kapcsolhatod be. Utóbbi esetben a kék színre váltott kerék ikon után kell kiválasztanod a lerakási állomást.  
@@ -25,8 +24,7 @@ ikon aktiválásával kapcsolhatod be. Utóbbi esetben a kék színre váltott k
 A pótkocsi ürítése az AutoDrive-val ugyanúgy működik, mint egy rakodókocsi használata, tekintsd meg az AutoDrive oktatóanyagát az interneten (AutoDrive Tutorials).  
 
 
-## Áttöltő kocsik használata
-  
+# Áttöltő kocsik használata  
 Az áttöltő kocsi használata nagyon egyszerű.  
 Csakúgy, mint a pótkocsik esetében, itt is a célkereszt ikon segítségével választhatod ki azt a táblát, ahol ki szeretnéd üríteni a kombájnt vagy betakarítógépet.  
 A kirakodó elindításához helyezd vissza a táblára vagy annak 20 méteres körzetébe.  
@@ -35,8 +33,7 @@ Abban az esetben, ha az pótkocsi megtelt, és az áttöltő kocsi még mindig n
 Ha nem áll rendelkezésre pótkocsi, folytatja a kombájn kiürítését.  
 
 
-## Kirakodás a földön
-  
+# Kirakodás a földön  
 A kirakodási pozíciót a kirakodásjelzővel lehet kiválasztani.  
 A pozíciónak ugyanazon a táblán vagy a tábla szélének közelében kell lennie.  
 Ha a jelölő egy már létező kupacra mutat,  

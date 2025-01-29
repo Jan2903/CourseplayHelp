@@ -25,23 +25,19 @@ Queste impostazioni vengono visualizzate solo per le impostazioni specifiche che
 - Numero di cerchi: appare quando il centro del campo è impostato su"cerchio".  
 
 
-## 
+# 
 su/giù
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-## 
+# 
 terreni
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-## 
+# 
 spirale
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-## 
+# 
 cerchio
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 

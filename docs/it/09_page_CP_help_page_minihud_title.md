@@ -1,7 +1,6 @@
 # Mini HUD
 
-## Generale
-![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
+# Generale![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
   
 A: Tieni premuto il pulsante sinistro del mouse sul titolo per trascinare l'HUD nella posizione che preferisci. Sul lato destro viene mostrata la versione installata e la X chiuderà l'HUD con un clic del mouse.  
@@ -13,8 +12,7 @@ F: Fai clic sul testo per attivare/disattivare le modalità disponibili per i tu
 G: Le impostazioni visualizzate sotto questa riga dipendono dal lavoro corrente. Questi verranno spiegati con le seguenti immagini.  
 
 
-## Lavoro sul campo
-![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
+# Lavoro sul campo![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
 
   
 A: Fare clic per selezionare dove iniziare il lavoro. Se è caricato un percorso multi attrezzo, sul lato destro è possibile selezionare la corsia.  
@@ -24,8 +22,7 @@ D: Alcuni atrezzi necessitano di un offset laterale. Courseplay lo calcolerà au
 E: Utilizzare il simbolo sul lato destro per copiare il percorso corrente negli appunti. Il nome del percorso copiato verrà quindi mostrato a sinistra. Puoi caricare il percorso copiato su un altro veicolo che non ha ancora un percorso. Per rimuovere il percorso dagli appunti, fare clic sul simbolo Rimuovi.  
 
 
-## Scaricatore per mietitrebbie
-![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
+# Scaricatore per mietitrebbie![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
 
   
 A: Seleziona il tipo di veicolo che il lavoratore dovrà scaricare. Ciò è utile se si utilizzano tipi diversi, come una mietitrebbia e un caricatore come il ROPA Maus, che lavorano sullo stesso campo.  
@@ -35,8 +32,7 @@ D: Come sopra, ma qui è possibile regolare la posizione dello scaricatore rispe
 E: Similmente alla copia di un percorso, qui puoi copiare le posizioni dei marker su un altro veicolo.  
 
 
-## Raccolta/avvolgimento delle balle
-![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
+# Raccolta/avvolgimento delle balle![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
 
   
 A: Balle rimanenti sul campo.  
@@ -44,8 +40,7 @@ B: Tipologia delle balle da raccogliere/avvolgere.
 C: Offset tra la linea centrale del trattore e la linea centrale del braccio caricatore. Potrebbe essere necessario regolarlo per trattori più grandi (ad esempio con pneumatici più larghi).  
 
 
-## Caricatore silos
-![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
+# Caricatore silos![Image](../assets/images/minihudhelp_siloloader_0_0_478_305.png)
 
   
 A: Dimensione rimanente del mucchio in litri.  
@@ -54,8 +49,7 @@ C: Courseplay richiede che l'altezza esatta della benna dal suolo sia impostata 
 D: Proprio come con lo scaricatore, puoi copiare le posizioni dei marker su un altro veicolo.  
 
 
-## Lavoratore del silos
-![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
+# Lavoratore del silos![Image](../assets/images/minihudhelp_siloworker_0_0_478_305.png)
 
   
 A: Similmente al caricatore del silo, l'altezza della livellatrice è fondamentale. Puoi regolarlo qui.  

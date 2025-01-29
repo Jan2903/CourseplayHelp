@@ -17,8 +17,7 @@ Aflæsere har kun nogle få indstillinger, du kan justere:
   
 
 
-## Using trailers
-  
+# Using trailers  
 Hvis du bruger en trailer til at aflæsse med, er der to måder at transportere din høst til en silo eller til et salgssted på: Giants hjælperen  
 eller AutoDrive.  
 Du kan enten bruge AI-menuen og oprette et job, derefter ved at aktivere Giants-hjælpefunktionen og aflæse ved målet  
@@ -28,8 +27,7 @@ I sidstnævnte tilfælde skal du vælge aflæsningsstationen, efter at hjulikone
 At tømme en trailer med AutoDrive fungerer på samme måde som at bruge en læssevogn, tjek AutoDrive Tutorials på internettet.  
 
 
-## Using auger wagons
-  
+# Using auger wagons  
 Sneglevogne er meget enkle at bruge.  
 Ligesom med trailere bruger du målikonet til at vælge den mark, hvor du vil aflæsse en mejetærsker eller mejetærsker.  
 For at starte aflæsseren skal du placere den igen på marken eller inden for 20 meter fra marken.  
@@ -38,8 +36,7 @@ Hvis traileren er fuld, og sneglevognen stadig ikke er tom, vil den lede efter e
 Er der ingen trailer tilgængelig, fortsætter den med at tømme mejetærskeren.  
 
 
-## Unload on the field
-  
+# Unload on the field  
 The unloading position can be selected with the unload marker.  
 The position needs to be on the same field or near the field edge.  
 If the marker points to an already existing heap,   

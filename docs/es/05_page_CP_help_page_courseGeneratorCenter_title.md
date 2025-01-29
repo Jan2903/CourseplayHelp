@@ -26,23 +26,19 @@ Espiral".
 - Número de círculos: aparece cuando el centro del campo está configurado en "Pista".  
 
 
-## 
+# 
 arriba/abajo
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
-## 
+# 
 campos
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-## 
+# 
 espiral
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
-## 
+# 
 pista
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
 
