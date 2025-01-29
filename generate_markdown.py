@@ -50,7 +50,7 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
         # Write paragraphs
         for paragraph in page.get("paragraphs", []):
             if paragraph["title"]:
-                md_file.write(f"## {paragraph['title']}\n")  # One newline after the title
+                md_file.write(f"# {paragraph['title']}"
             if paragraph["text"]:
                 # Write the text immediately after the title, with no extra newline
                 md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")  # Two newlines after the text
