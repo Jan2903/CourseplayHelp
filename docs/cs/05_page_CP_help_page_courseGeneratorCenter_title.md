@@ -20,13 +20,11 @@ Tato nastavení se zobrazují pouze pro konkrétní nastavení, která jste prov
 - Počet obkroužení: Zobrazí se, když je střed pole nastaven na "kruh".  
 
 
-
 ## 
 nahoru/dolů
 
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 
 ## 
 záhon
@@ -34,13 +32,11 @@ záhon
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-
 ## 
 spirála
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 
 ## 
 kruh

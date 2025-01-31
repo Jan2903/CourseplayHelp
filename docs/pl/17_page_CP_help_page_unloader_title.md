@@ -13,7 +13,6 @@ Dostępnych jest tylko kilka ustawień, które możesz zmienić:
 - Możesz użyć przesunięć w HUD, aby dostosować pozycję pomocnika rozładowującego pod rurą kombajnu.  
 
 
-
 ## Używanie przyczep
 
   
@@ -22,7 +21,6 @@ Możesz użyć menu AI i utworzyć zadanie, a następnie aktywować funkcję Pom
 W tym drugim przypadku musisz wybrać punkt rozładunku po tym, jak ikona koła zmieni kolor na niebieski.  
   
 Opróżnianie przyczepy za pomocą AutoDrive działa tak samo, jak korzystanie z przyczepy samozbierającej, sprawdź samouczki AutoDrive w Internecie.  
-
 
 
 ## Używanie wozów przeładunkowych
@@ -34,7 +32,6 @@ Aby aktywować rozładunek, umieść zestaw ponownie na polu lub w odległości 
 Jeśli wóz przeładunkowy jest pełen, automatycznie szuka przyczepy na polu lub w jego pobliżu, aby się do niego przeładować.  
 W przypadku, gdy przyczepa jest pełna, a wóz przeładunkowy nadal nie jest pusty, szuka innej przyczepy do rozładunku.  
 Jeśli nie ma w pobliżu żadnej wolnej przyczepy, będzie on nadal rozładowywał kombajn.  
-
 
 
 ## Rozładunek na polu

@@ -1,5 +1,4 @@
-# Mini HUD
-## Genel işlevler
+# Mini HUD## Genel işlevler
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
@@ -11,7 +10,6 @@ D: Bu sembollerin anlamları şunlardır: (1) ayarlı olan rotayı sil, (2a) rot
 E: Bu simge, seçilen moda bağlı olarak farklı seçenekler sunar. İş için işaretçiler yerleştirmenizi ve ek ayarlar yapmanızı sağlayan YZ Menüsü'nü açar. Simgenin sol tarafında, bir tarla çalışması devam ederken rotanın tahmini kalan süresi gösterilir.  
 F: Metne tıklayınca mevcut araçlarınıza uygun modlar arasında geçiş yapar.  
 G: Bu çizginin altındaki ayarlar, mevcut işe bağlıdır. Bu ayarlar aşağıdaki resimlerde açıklanacaktır.  
-
 
 
 ## Tarla çalışması
@@ -26,7 +24,6 @@ D: Bazı araçlar yana doğru bir ofset ayarına ihtiyacı vardır. Metne tıkla
 E: Mevcut rotayı panoya kopyalamak için sağdaki simgeyi kullanın. Kopyalanan rotanın adı solda görünür. Henüz rotası olmayan başka bir araca bu rotayı yükleyebilirsiniz. Panodan rotayı kaldırmak için kaldırma simgesine tıklayın.  
 
 
-
 ## Biçerdöver boşaltma
 
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
@@ -39,7 +36,6 @@ D: Yukarıdaki ayar ile aynı şekilde, boşaltıcının boruya göre öne veya 
 E: Rota kopyalamaya benzer şekilde, işaretçi konumlarını başka bir araca kopyalayabilirsiniz..  
 
 
-
 ## Balya toplama/sarma
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -48,7 +44,6 @@ E: Rota kopyalamaya benzer şekilde, işaretçi konumlarını başka bir araca k
 A: Tarlada kalan balyaların sayısı.  
 B: Toplanacak veya sarılacak balya türü.  
 C: Traktörün orta noktası ile toplayıcı kolunun orta noktası arasındaki mesafe. Daha geniş lastikli büyük traktörler için bu mesafeyi ayarlamanız gerekebilir.  
-
 
 
 ## Silo doldurucu
@@ -60,7 +55,6 @@ A: Litre cinsinden yığında kalan miktar.
 B: Çalışma genişliği, tarla çalışması ile benzer.  
 C: Courseplay'in kepçenin yerden yüksekliğini doğru şekilde ayarlaması gerekir. Bu yükseklik her araç için farklı olabileceğinden bu ayar ile kontrol edebilir ve ayarlayabilirsiniz.  
 D: Tıpkı boşaltıcıda olduğu gibi, işaretçi konumlarını başka bir araca kopyalayabilirsiniz.  
-
 
 
 ## Silo çalışması

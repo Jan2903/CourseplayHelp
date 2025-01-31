@@ -1,5 +1,4 @@
-# Mini HUD
-## Funções Gerais
+# Mini HUD## Funções Gerais
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
@@ -11,7 +10,6 @@ D: Esses símbolos servem para: (1) excluir o curso atualmente carregado, (2a) a
 E: Este ícone de alvo possui diferentes opções dependendo do modo selecionado, abre o Menu AI com o trabalho e pode colocar marcador e configurações adicionais para o trabalho. No lado esquerdo do ícone, com um trabalho de campo em execução, é mostrado o tempo restante do curso.  
 F: Clique no texto para alternar os modos disponíveis para suas ferramentas atuais.  
 G: As configurações mostradas nesta linha dependem do trabalho atual. Isso será explicado com as fotos a seguir.  
-
 
 
 ## Trabalho no campo
@@ -26,7 +24,6 @@ D: Algumas ferramentas precisam de um deslocamento lateral. O Courseplay irá ca
 E: Use o símbolo do lado direito para copiar a rota atual para a área de transferência. O nome da rota copiado é mostrado à esquerda. Você pode carregar o percurso copiado em outro veículo que ainda não tenha percurso. Para remover a rota da área de transferência, clique no símbolo de remoção.  
 
 
-
 ## Colheitadeira descarrega
 
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
@@ -39,7 +36,6 @@ D: O mesmo que acima, mas aqui você pode ajustar a posição do descarregador e
 E: Semelhante a copiar um percurso, aqui você pode copiar as posições dos marcadores para outro veículo.  
 
 
-
 ## Fardos coletar/embalar
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -48,7 +44,6 @@ E: Semelhante a copiar um percurso, aqui você pode copiar as posições dos mar
 A: Fardos restantes no campo.  
 B: Tipo de fardos a recolher/embalar.  
 C: Deslocamento entre a linha central do trator e a linha central do braço da carregadeira. Pode ser necessário ajustar isso para tratores maiores (por exemplo, com pneus mais largos).
-
 
 ## Carregar silo
 
@@ -59,7 +54,6 @@ A: Tamanho restante da pilha em litros.
 B: Largura de trabalho igual à do trabalho de campo.  
 C: O Courseplay precisa da altura exata acima do solo definida corretamente. Como esta altura pode ser diferente para cada ferramenta, você pode verificá-la e ajustá-la com esta configuração.  
 D: Assim como no descarregador, você pode copiar as posições dos marcadores para outro veículo.  
-
 
 
 ## Trabalho no silo

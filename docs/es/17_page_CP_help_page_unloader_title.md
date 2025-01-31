@@ -16,7 +16,6 @@ es evitar que una cosechadora llame a un descargador con un remolque casi lleno.
   
 
 
-
 ## Uso de remolques
 
   
@@ -29,7 +28,6 @@ En este último caso, debe elegir la estación de descarga después de que el í
 Vaciar un remolque con AutoDrive funciona igual que usar un vagón de carga, consulte los tutoriales de AutoDrive en Internet.  
 
 
-
 ## Uso de remolques con sinfín
 
   
@@ -39,7 +37,6 @@ Para iniciar el Descargador,  colóquelo nuevamente en el campo o dentro de los 
 Si el vagón con sinfín está lleno, automáticamente buscará un remolque en el campo o cerca de él para sobrecargarlo.  
 En caso de que el tráiler esté lleno y el vagón del sinfín aún no esté vacío, buscará otro remolque para descargarlo.  
 Si no hay un remolque disponible, continuará descargando la cosechadora.  
-
 
 
 ## Descargar en el campo.

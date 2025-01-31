@@ -23,13 +23,11 @@ Bu ayarlar, daha önce yaptığınız belirli seçimlere bağlı olarak görün�
 - Halka Sayısı: Tarla merkezi 'yarış pisti' olarak ayarlandığında görünür.  
 
 
-
 ## 
 git/gel
 
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 
 ## 
 parçalı
@@ -37,13 +35,11 @@ parçalı
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-
 ## 
 sarmal
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 
 ## 
 yarış pisti

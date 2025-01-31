@@ -15,7 +15,6 @@ Avlastare har bara ett fåtal inställningar som du kan justera:
   
 
 
-
 ## Använder släp
 
   
@@ -28,7 +27,6 @@ I det senare fallet måste du välja avlastningsstationen efter att hjulikonen b
 Att tömma en trailer med AutoDrive fungerar på samma sätt som att använda en lastvagn, kolla in AutoDrive-handledningarna på Internet.  
 
 
-
 ## Använda Fältvagn
 
   
@@ -38,7 +36,6 @@ För att starta avlastaren, placera den igen på fältet eller inom 20 meter fr�
 Om skruvvagnen är full, letar den automatiskt efter en släpvagn på eller nära fältet för att överlasta den.  
 Om trailern är full och skruvvagnen fortfarande inte är tom, kommer den att leta efter en annan trailer att lossa till.  
 Finns ingen släpvagn tillgänglig fortsätter den att lasta av skördetröskan.  
-
 
 
 ## avlastning på fältet

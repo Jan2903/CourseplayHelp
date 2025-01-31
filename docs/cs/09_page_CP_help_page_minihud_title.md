@@ -1,5 +1,4 @@
-# Mini HUD
-## Obecné
+# Mini HUD## Obecné
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
@@ -11,7 +10,6 @@ D: Tyto symboly slouží k: (1) odstranit aktuálně načtenou trasu, (2a) přep
 E: Tato ikona cíle má různé možnosti v závislosti na zvoleném režimu, otevírá nabídku AI s úlohou a umožňuje umístit značku a další nastavení úlohy. Na levé straně ikony se při spuštěné terénní práci zobrazuje zbývající čas trasy.  
 F: Kliknutím na text přepnete dostupné režimy pro aktuální nástroje.  
 G: Nastavení zobrazená pod tímto řádkem závisí na aktuální úloze. Budou vysvětlena na následujících obrázcích.  
-
 
 
 ## Polní práce
@@ -26,7 +24,6 @@ D: Některé nástroje potřebují odsazení do strany. Courseplay jej vypočít
 E: Symbol na pravé straně slouží ke zkopírování aktuální trasy do schránky. Název zkopírované trasy se pak zobrazí vlevo. Zkopírovanou trasu můžete načíst do jiného vozidla, které zatím žádnou trasu nemá. Chcete-li trasu ze schránky odstranit, klikněte na symbol pro odstranění.  
 
 
-
 ## Vykládka kombajnu
 
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
@@ -39,7 +36,6 @@ D: Stejné jako výše, ale zde můžete nastavit polohu vykládacího zařízen
 E: Podobně jako při kopírování trasy můžete i zde zkopírovat načtenou trasu do jiného vozidla.  
 
 
-
 ## Sběr/ovíjení balíků
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -48,7 +44,6 @@ E: Podobně jako při kopírování trasy můžete i zde zkopírovat načtenou t
 A: Zbývající balíky na poli.  
 B: Typ balíků ke sběru/ovíjení.  
 C: Posun mezi osou traktoru a osou ramene nakladače. U větších traktorů (např. se širšími pneumatikami) může být nutné tento parametr upravit.  
-
 
 
 ## Plnění silážní jámy
@@ -60,7 +55,6 @@ A: Zbývající objem hromady v litrech.
 B: Pracovní šířka, stejná jako u práce v terénu.  
 C: Pro Courseplay je třeba správně nastavit přesnou výšku lžíce nad zemí. Protože tato výška může být pro každý nástroj jiná, můžete ji zkontrolovat a upravit pomocí tohoto nastavení.  
 D: Stejně jako u vykládacího zařízení můžete i zde zkopírovat načtenou trasu do jiného vozidla.  
-
 
 
 ## Práce v silážní jámě

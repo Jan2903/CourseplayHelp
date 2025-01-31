@@ -21,13 +21,11 @@ These settings appear only for specific settings you have done before:
 - Number of circles: Appears when field center is set to "racetrack".  
 
 
-
 ## 
 up/down
 
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 
 ## 
 lands
@@ -35,13 +33,11 @@ lands
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-
 ## 
 spiral
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 
 ## 
 racetrack

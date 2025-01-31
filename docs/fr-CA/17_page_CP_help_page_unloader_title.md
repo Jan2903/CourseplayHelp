@@ -15,7 +15,6 @@ is to avoid waiting for a combine to call with a trailer almost full.
   
 
 
-
 ## Using trailers
 
   
@@ -28,7 +27,6 @@ In the latter case, you have to choose the unload station after the wheel icon t
 Emptying a trailer with AutoDrive works the same as using a loading wagon, check out the AutoDrive Tutorials on the Internet.  
 
 
-
 ## Using auger wagons
 
   
@@ -38,7 +36,6 @@ To start the unloader, place it again on the field or within 20 meters of the fi
 If the auger wagon is full, it automatically looks for a trailer on or near the field to overload into it.  
 In case the trailer is full and the auger wagon still not empty, it will look for another trailer to unload to.  
 Is no trailer available, it will continue to unload the combine.  
-
 
 
 ## Unload on the field

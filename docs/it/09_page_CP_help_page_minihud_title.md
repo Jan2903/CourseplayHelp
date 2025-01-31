@@ -1,5 +1,4 @@
-# Mini HUD
-## Generale
+# Mini HUD## Generale
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
@@ -11,7 +10,6 @@ D: Questi simboli servono a: (1) eliminare il percorso attualmente caricato, (2a
 E: Questa icona di destinazione ha diverse opzioni a seconda della modalità selezionata, apre il menu IA con il lavoro ed è in grado di posizionare marcatori e impostazioni aggiuntive per il lavoro. Sul lato sinistro dell'icona, con un lavoro sul campo in corso, viene mostrato il tempo rimanente del percorso.  
 F: Fai clic sul testo per attivare/disattivare le modalità disponibili per i tuoi atrezzi attuali.  
 G: Le impostazioni visualizzate sotto questa riga dipendono dal lavoro corrente. Questi verranno spiegati con le seguenti immagini.  
-
 
 
 ## Lavoro sul campo
@@ -26,7 +24,6 @@ D: Alcuni atrezzi necessitano di un offset laterale. Courseplay lo calcolerà au
 E: Utilizzare il simbolo sul lato destro per copiare il percorso corrente negli appunti. Il nome del percorso copiato verrà quindi mostrato a sinistra. Puoi caricare il percorso copiato su un altro veicolo che non ha ancora un percorso. Per rimuovere il percorso dagli appunti, fare clic sul simbolo Rimuovi.  
 
 
-
 ## Scaricatore per mietitrebbie
 
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
@@ -39,7 +36,6 @@ D: Come sopra, ma qui è possibile regolare la posizione dello scaricatore rispe
 E: Similmente alla copia di un percorso, qui puoi copiare le posizioni dei marker su un altro veicolo.  
 
 
-
 ## Raccolta/avvolgimento delle balle
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -48,7 +44,6 @@ E: Similmente alla copia di un percorso, qui puoi copiare le posizioni dei marke
 A: Balle rimanenti sul campo.  
 B: Tipologia delle balle da raccogliere/avvolgere.  
 C: Offset tra la linea centrale del trattore e la linea centrale del braccio caricatore. Potrebbe essere necessario regolarlo per trattori più grandi (ad esempio con pneumatici più larghi).  
-
 
 
 ## Caricatore silos
@@ -60,7 +55,6 @@ A: Dimensione rimanente del mucchio in litri.
 B: Larghezza di lavoro, identica a quella del lavoro sul campo.  
 C: Courseplay richiede che l'altezza esatta della benna dal suolo sia impostata correttamente. Poiché questa altezza può essere diversa per ogni strumento, puoi controllarla e regolarla con questa impostazione.  
 D: Proprio come con lo scaricatore, puoi copiare le posizioni dei marker su un altro veicolo.  
-
 
 
 ## Lavoratore del silos

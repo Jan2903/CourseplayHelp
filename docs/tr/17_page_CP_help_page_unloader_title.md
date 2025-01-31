@@ -14,7 +14,6 @@ Böylece römork neredeyse dolu bir şekilde bir sonraki çağrıyı beklemek ye
   
 
 
-
 ## Römork kullanma
 
   
@@ -27,7 +26,6 @@ YZ Menüsü'nden hedef seçerek teslim etme işi oluşturabilir ya da HUD üzeri
 AutoDrive ile bir römorku boşaltmak, burgu vagonu kullanmayla benzer şekilde çalışır. AutoDrive ile ilgili eğitim videolarına internetten göz atabilirsiniz.  
 
 
-
 ## Burgu vagonu kullanma
 
   
@@ -37,7 +35,6 @@ Boşaltıcıyı başlatmak için yine tarlada olmanız veya tarlanın 20 metre y
 Burgu vagonu doluysa, otomatik olarak tarlada veya tarlanın yakınında yükleme yapabileceği bir römork arar.  
 Eğer römork doluysa ve burgu vagonu hâlâ boşalmamışsa yükü boşaltmak için başka bir römork arar.  
 Eğer hiç römork bulamazsa, biçerdöveri boşaltmaya devam eder.  
-
 
 
 ## Tarlada boşaltma

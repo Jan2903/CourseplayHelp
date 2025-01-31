@@ -15,7 +15,6 @@ evitar esperar a chamada de uma colheitadeira com a carreta quase cheia.
   
 
 
-
 ## Usando Carretas
 
   
@@ -28,7 +27,6 @@ Neste último caso, você deve escolher a estação de descarga depois que o íc
 Esvaziar uma carreta com o AutoDrive funciona da mesma forma que usar uma carreta autocarregável, confira os Tutoriais do AutoDrive na Internet.  
 
 
-
 ## Usando Bazuca
 
   
@@ -38,7 +36,6 @@ Para iniciar a bazuca, coloque-o novamente no campo ou a 20 metros do campo.
 Se a bazuca estiver cheia, ela procurará automaticamente uma carreta comum no campo ou próximo a ele para descarregar.  
 Caso a carreta esteja cheia e a bazuca ainda não esteja vazia, ela irá procurar outra carreta para descarregar.  
 Se não houver carreta disponível, ela continuará a descarregar a colheitadeira até ficar cheia.  
-
 
 
 ## Decarregar no campo

@@ -15,7 +15,6 @@ Aflæsere har kun nogle få indstillinger, du kan justere:
   
 
 
-
 ## Using trailers
 
   
@@ -28,7 +27,6 @@ I sidstnævnte tilfælde skal du vælge aflæsningsstationen, efter at hjulikone
 At tømme en trailer med AutoDrive fungerer på samme måde som at bruge en læssevogn, tjek AutoDrive Tutorials på internettet.  
 
 
-
 ## Using auger wagons
 
   
@@ -38,7 +36,6 @@ For at starte aflæsseren skal du placere den igen på marken eller inden for 20
 Hvis sneglevognen er fyld, leder den automatisk efter en trailer på eller i nærheden af marken for at overlæsse ind i den.  
 Hvis traileren er fuld, og sneglevognen stadig ikke er tom, vil den lede efter en anden trailer at tømme af i.  
 Er der ingen trailer tilgængelig, fortsætter den med at tømme mejetærskeren.  
-
 
 
 ## Unload on the field

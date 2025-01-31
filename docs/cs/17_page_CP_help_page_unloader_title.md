@@ -13,7 +13,6 @@ se vyhnete čekání na zavolání kombajnu s téměř plným vlekem.
 - Pomocí offsetů v HUD můžete upravit polohu vykladače pod výsypovou rourou sklízeče.  
 
 
-
 ## Použití vleků
 
   
@@ -25,7 +24,6 @@ V druhém případě musíte vybrat vykládací stanici poté, co se ikona kole�
 Vyprázdnění vleku pomocí AutoDrive funguje stejně jako použití nakládacího vozu, podívejte se na AutoDrive návody na internetu.  
 
 
-
 ## Použití překládacích vozů
 
   
@@ -35,7 +33,6 @@ Chcete-li spustit vykladač, umístěte jej znovu na pole nebo do 20 metrů od p
 Pokud je překládací vůz plný, automaticky hledá vlek na poli nebo v jeho blízkosti, aby se do něj vyložil.  
 V případě, že je vlek plný a překládací vůz stále není prázdný, bude hledat jiný vlek k vyložení.  
 Není-li k dispozici žádný vlek, bude pokračovat ve vykládání kombajnu.  
-
 
 
 ## Vykládání na poli

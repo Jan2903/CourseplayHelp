@@ -1,5 +1,4 @@
-# Mini HUD
-## Informacje ogólne
+# Mini HUD## Informacje ogólne
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 
@@ -11,7 +10,6 @@ D: Symbole te służą do: (1) usunięcia aktualnie załadowanego kursu, (2a) pr
 E: Ta ikona celu ma różne opcje w zależności od wybranego trybu, otwiera menu AI z pracą i umożliwia umieszczenie znacznika i dodatkowych ustawień dla pracy. Po lewej stronie ikony, gdy trwa praca w terenie, wyświetlany jest pozostały czas kursu.  
 F: Kliknij tekst, aby przełączyć dostępne tryby dla bieżących narzędzi.  
 G: Ustawienia wyświetlane w tym wierszu zależą od bieżącej pracy. Zostaną one wyjaśnione na poniższych ilustracjach.  
-
 
 
 ## Prace polowe
@@ -26,7 +24,6 @@ D: Niektóre narzędzia wymagają przesunięcia w bok. Courseplay obliczy je aut
 E: Użyj symbolu po prawej stronie, aby skopiować bieżący kurs do schowka. Nazwa skopiowanego kursu zostanie wyświetlona po lewej stronie. Skopiowany kurs można załadować do innego pojazdu, który nie ma jeszcze kursu. Aby usunąć kurs ze schowka, kliknij symbol usuwania.  
 
 
-
 ## Rozładunek kombajnu
 
 ![Image](../assets/images/minihudhelp_combineunload_0_0_478_305.png)
@@ -39,7 +36,6 @@ D: To samo, co powyżej, ale tutaj można dostosować położenie rozładunku w 
 E: Podobnie jak w przypadku kopiowania kursu, w tym miejscu można skopiować pozycje znaczników do innego pojazdu.  
 
 
-
 ## Zbieranie/Owijanie bel
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -48,7 +44,6 @@ E: Podobnie jak w przypadku kopiowania kursu, w tym miejscu można skopiować po
 A: Pozostałe bele na polu.  
 B: Typ beli do zebrania/owinięcia.  
 C: Przesunięcie między linią środkową ciągnika a linią środkową ramienia załadunkowego. Może być konieczne dostosowanie tej wartości w przypadku większych ciągników (np. z szerszymi oponami).  
-
 
 
 ## Załadunek pryzmy
@@ -60,7 +55,6 @@ A: Pozostała wielkość pryzmy w litrach.
 B: Szerokość robocza, taka sama jak w przypadku prac polowych.  
 C: Courseplay wymaga prawidłowego ustawienia dokładnej wysokości łyżki nad ziemią. Ponieważ wysokość ta może być różna dla każdego narzędzia, można ją sprawdzić i dostosować za pomocą tego ustawienia.  
 D: Podobnie jak w przypadku rozładunku, można skopiować pozycje znaczników do innego pojazdu.  
-
 
 
 ## Zagęszczanie i wyrównywanie

@@ -14,7 +14,6 @@ Vous pouvez adapter quelques paramètres concernant le processus de déchargemen
   
 
 
-
 ## Utilisation des bennes
 
   
@@ -26,7 +25,6 @@ Dans ce dernier cas, vous devrez choisir le point de livraison après que l'icô
 Pour utiliser AutoDrive, utilisez le mode charger puis livrer. Il existe des tutos sur Internet.  
 
 
-
 ## Utilisation des transbordeurs
 
   
@@ -36,7 +34,6 @@ Pour démarrer la course de déchargement, attendez d'être sur le champ ou à m
 Lorsque le transbordeur sera plein, il cherchera automatiquement une benne ou remorque à proximité ou sur le champ pour s'y diriger et démarrer sa vidange.  
 Dans le cas où la remorque ou benne serait pleine, le transbordeur en cherchera une autre sur ou à proximité du champ.  
 Si aucune benne ou remorque n'est disponible, le transbordeur continuera à décharger la récolteuse.  
-
 
 
 ## Déchargement au champ

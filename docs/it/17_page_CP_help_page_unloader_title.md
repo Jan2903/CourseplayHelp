@@ -14,7 +14,6 @@ Questo per evitare di aspettare che una mietitrebbia chiami con un rimorchio qua
   
 
 
-
 ## Usando i rimorchi
 
   
@@ -27,7 +26,6 @@ In quest'ultimo caso, devi scegliere la stazione di scarico dopo che l'icona del
 Svuotare un rimorchio con AutoDrive funziona come usare un carro di carico, dai un'occhiata ai tutorial di AutoDrive su Internet.  
 
 
-
 ## Utilizzo di carri a coclea
 
   
@@ -37,7 +35,6 @@ Per avviare lo scaricatore, posizionarlo nuovamente sul campo o entro 20 metri d
 Se il carro a coclea è pieno, cerca automaticamente un rimorchio sopra o vicino al campo per sovraccaricarlo.  
 Nel caso in cui il rimorchio sia pieno e il carro a coclea non sia ancora vuoto, cercherà un altro rimorchio su cui scaricare.  
 Se non è disponibile un rimorchio, continuerà a scaricare la mietitrebbia.  
-
 
 
 ## Scarica sul campo

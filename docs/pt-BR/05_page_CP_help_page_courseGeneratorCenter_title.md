@@ -22,13 +22,11 @@ Essas configurações aparecem apenas para configurações específicas que voc�
 - Número de círculos: aparece quando o centro do campo está definido como "racetrack".  
 
 
-
 ## 
 cima/baixo
 
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 
 ## 
 terras
@@ -36,13 +34,11 @@ terras
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-
 ## 
 espiral
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 
 ## 
 racetrack

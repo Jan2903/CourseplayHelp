@@ -20,12 +20,10 @@ Te ustawienia są wyświetlane tylko dla określonych ustawień, które zostały
 - Liczba okręgów: Pojawia się, gdy środek pola jest ustawione na "na około".  
 
 
-
 ## 
 Tam i z powrotem
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 
 ## 
 Wyspy
@@ -33,13 +31,11 @@ Wyspy
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
-
 ## 
 Spirala
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 
 ## 
 Na około
