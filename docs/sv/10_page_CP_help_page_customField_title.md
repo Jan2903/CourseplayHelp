@@ -1,5 +1,4 @@
 # Anpassade fält
-
   
 Det finns två sätt att skapa ett anpassat fält.  
 Den första är att använda HUD: s rekordfunktion.  

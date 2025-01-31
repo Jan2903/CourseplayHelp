@@ -1,5 +1,4 @@
 # Cambio a carril simétrico
-
   
 El cambio de carril simétrico se utiliza en cursos multiherramienta y le dice al conductor en qué carril debe conducir después del giro.  
 Esto es un poco difícil de entender, así que echemos un vistazo a dos ejemplos:  
@@ -24,6 +23,7 @@ Para las cosechadoras, esta configuración es importante, ya que garantiza que l
 La desventaja es que los vehículos tienen la posibilidad de chocar entre sí cuando se dirigen uno hacia el otro en carriles cercanos.  
   
 Si observa el orden de los carriles, de izquierda a derecha, quedará claro:  
+
 Sin cambio simétrico: izquierda, derecha, izquierda, derecha; es casi como saltarse un carril.  
 Con cambio simétrico: izquierda, derecha, derecha, izquierda; de izquierda a derecha, un carril después del otro.  
 En el ejemplo con la cosechadora, significa que ninguna cosechadora tendrá fruta a la izquierda y a la derecha de su carril.  

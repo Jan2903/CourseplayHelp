@@ -14,6 +14,7 @@ A edição incorreta pode causar problemas para o motorita cp, pois os waypoints
 
   
 Na categoria básica estão:  
+
 1) O pincel de movimento move um waypoint pairado para a posição do pincel.  
 2) O pincel de inserção pode inserir waypoints à frente ou atrás de um waypoint selecionado.  
   
@@ -22,6 +23,7 @@ A exclusão de waypoints pode ser feita com o botão vermelho delete.
 
   
 Na categoria avançada estão:  
+
 1)Um pincel para definir o atributo de curva de um waypoint (somente com uma rota e não um campo customizado).  
 Clicar várias vezes no waypoint alternará entre "normal" (laranja), "início da curva" (verde) e "final da curva" (vermelho).  
   

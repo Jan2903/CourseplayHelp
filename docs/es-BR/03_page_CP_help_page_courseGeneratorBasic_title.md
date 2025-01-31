@@ -1,5 +1,4 @@
 # Conceptos básicos del generador de cursos
-
   
 El generador de cursos de Courseplay es una herramienta sofisticada que puede generar cursos de trabajo de campo personalizados para cada trabajo posible.  
 Tiene muchas configuraciones y puede llevar algún tiempo familiarizarse con él. Si es nuevo en Courseplay, probablemente debería comenzar a jugar con la cantidad de cabeceras primero y luego aventurarse en las configuraciones más avanzadas.  
@@ -8,6 +7,7 @@ Después de cambiar un parámetro, presione Generar para ver qué impacto tiene 
 
   
 Conceptos básicos:  
+
 Los primeros valores que verá aquí son datos muy básicos.  
 - Ancho de trabajo: Courseplay detecta automáticamente el ancho de trabajo para la mayoría de las herramientas, por lo que no tendrá que preocuparse por esto,  
 pero si la detección automática falla, puede configurarlo manualmente. Esta configuración tiene un impacto en el curso general.  

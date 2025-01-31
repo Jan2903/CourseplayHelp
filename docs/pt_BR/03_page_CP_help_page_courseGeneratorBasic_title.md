@@ -9,6 +9,7 @@ Experimentar e verificar o impacto que as diferentes configurações em diferent
 
   
 Fundamentos:  
+
 Os primeiros valores que você vê aqui são coisas realmente básicas.  
 
 - Largura de trabalho: a maioria das ferramentas detecta a largura de trabalho exata e você não precisa se preocupar com essa configuração. Ajustá-lo terá um impacto em seu curso geral.  

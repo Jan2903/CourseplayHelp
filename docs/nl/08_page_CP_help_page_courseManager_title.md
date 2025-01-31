@@ -1,5 +1,4 @@
 # Course manager
-
   
 The course manager allows you to save courses and enables you to load the saved course later again.  
 This is really important, when you want to have multiple workers driving the same course for convoy (multi tools).  
@@ -24,6 +23,7 @@ Clicking on change mode activates the edit mode of the course manager.
 
   
 With the edit mode is active you have these options:  
+
 - Moving a course into another directory.  
 - Deleting courses or directories.  
 - Renaming courses or directories.  
@@ -33,6 +33,7 @@ With the edit mode is active you have these options:
 
   
 For moving a course:   
+
   1) Click on the move button at the bottom of the screen.  
   2) Click on the course you want to move.  
   3) Click on the directory where you want the course moved to.  

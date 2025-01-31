@@ -1,5 +1,4 @@
 # Silo laden
-
   
 Durch diesen Helfer können Haufen auf oder am Feld aufgesammelt werden.  
 Ebenfalls ist es möglich damit Silos zu entleeren.  

@@ -1,5 +1,4 @@
 # Rota Oluşturucu: uzman ayarları
-
   
 Bazı ayarlar, yalnızca genel Courseplay ayarlarında uzman modu etkinleştirildiğinde görünür.  
 Bu ayarlarla oynamadan önce temel ayarların ne işe yaradığını bildiğinizden emin olun.  

@@ -1,5 +1,4 @@
 # Multiherramientas y Convoy
-
   
 Es posible tener hasta 5 vehículos trabajando juntos en el mismo campo en un grupo (también llamado curso de herramientas múltiples).  
 Puede cambiar la posición (carril) del vehículo en el grupo en el HUD (izquierda-centro-derecha).  
@@ -8,6 +7,7 @@ Puede cambiar la posición (carril) del vehículo en el grupo en el HUD (izquier
   
 Una vez que se carga un recorrido de múltiples herramientas, deberá seleccionar la posición (carril) para el conductor.  
 Esos carriles siempre tienen el mismo nombre:  
+
 izquierda(2), izquierda(1), centro, derecha(1), derecha(2).  
 2 vehículos tienen izquierda(1) y derecha(1), 4 tienen izquierda(2) y derecha(2) también.  
 Con 3 o 5 vehículos, también hay una opción central.  

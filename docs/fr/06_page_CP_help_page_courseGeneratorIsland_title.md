@@ -1,5 +1,4 @@
 # Générateur de courses ilôts
-
   
 Le contournement de l'îlot n'est plus possible qu'en faisant son tour complet. Même dans le nouveau générateur, les limites de l'îlot sont trop proches de la limite du champ.  
   

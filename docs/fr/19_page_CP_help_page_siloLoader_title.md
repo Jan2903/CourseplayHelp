@@ -1,5 +1,4 @@
 # Chargeuse de tas/silo
-
   
 Vous pouvez utiliser ce travail avec une Ropa Maus ou similaire pour ramasser des tas sur ou près du champ et les décharger dans un déchargeur Courseplay. De plus, il est possible de charger à partir d'un silo bunker.  
   

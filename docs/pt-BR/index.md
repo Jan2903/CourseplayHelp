@@ -1,5 +1,4 @@
 # Informação Geral
-
   
 Courseplay permite gerar rotas no campo com recursos adicionais, por exemplo: cabeceiras.  
 Também possibilita o uso de enfardadeiras e forrageiras, que podem ser enviadas na mesma rota, como colheitadeira de grama.  
@@ -16,6 +15,7 @@ Lá você pode obter ajuda ou relatar qualquer problema que tenha enfrentado.
 Por fim, agradecemos a todos os tradutores e nossa comunidade por relatar bugs, fornecer feedback de uso e novas ideias.  
   
 O que é o modo especialista:  
+
 Quando o modo especialista está desativado, você tem acesso apenas a algumas configurações.  
 As outras configurações estão ocultas e definidas com valores padrão, o que funciona na maioria das situações.  
 Dessa forma, tentamos ajudar os usuários a entrar mais facilmente no Courseplay sem ficar sobrecarregado com todas as configurações.  

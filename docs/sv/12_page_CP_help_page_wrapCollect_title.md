@@ -1,5 +1,4 @@
 # Bale plastning och insamling
-
   
 Plastning och uppsamlingsbalar kan göras på två olika sätt.  
 Den första är att ladda samma kurs som du använde för din balpress och låt plastaren eller samlaren köra den kursen.  

@@ -1,5 +1,4 @@
 # Bunker silo worker
-
   
 Courseplay is able to compact or distribute chaff in a bunker silo or push chaff in a wedge silo.  
 Compacting is possible without any special tool, with a roller, weight or just the vehicle.  

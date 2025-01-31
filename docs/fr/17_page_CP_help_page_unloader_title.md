@@ -1,16 +1,17 @@
 # Déchargement d'une récolteuse
-
   
 Le mode déchargement du Courseplay fonctionne avec les moissonneuses, les récolteuses ainsi que les récolteuses tractées qui sont conduites par un ouvrier Courseplay.  
 Cela ne fonctionne pas avec les ensileuses.  
 Vous pouvez soit utiliser une benne classique ou un transbordeur pour aller vider une moissonneuse.  
 Pour ensuite aller vider les bennes, vous pouvez utiliser soit les ouvriers Giants ou l'AutoDrive.  
 Pour démarrer le processus de déchargement, il a quelques conditions :  
+
 - Vous devez avoir attelé une seule remorque ou transbordeur. L'ouvrier CP ne gère pas plusieurs remorques attachées à la suite.  
 - Utilisez l'icone de la cible depuis l'ATH pour sélectionner le champ à surveiller et qui est en cours de récolte. L'ouvrier CP ira s'occuper de décharger toutes les récolteuses conduites par le CP travaillant dans ce champ.  
 - Vous devez être sur le champ ou à moins de 20 mètres de distance pour démarrer la course de déchargement.  
   
 Vous pouvez adapter quelques paramètres concernant le processus de déchargement :  
+
 - Fixer le seuil de remplissage au-delà duquel la benne ou le transbordeur sera considéré comme plein. Très pratique pour éviter qu'une moissonneuse appelle une benne qui serait déjà presque pleine.  
 - Utiliser l'ATH pour faire varier le décalage du placement de la benne ou du transbordeur sous la goulotte de la moissonneuse.  
   

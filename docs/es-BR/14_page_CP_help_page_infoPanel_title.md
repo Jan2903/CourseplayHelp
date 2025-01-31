@@ -1,5 +1,4 @@
 # Panel de Información
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
@@ -11,6 +10,7 @@ Al hacer clic en él, puede saltar directamente al vehículo.
 
   
 Los mensajes de estado son:  
+
 - El ayudante está atascado  
 - Bloqueado por un objeto  
 - Debe repostarse  

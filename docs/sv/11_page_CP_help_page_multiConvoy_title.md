@@ -1,5 +1,4 @@
 # Multiredskap and Convoy
-
   
 Det är möjligt att ha upp till 5 fordon som arbetar tillsammans på samma fält i en konvoj (även kallad Multi Tools Course).  
 
@@ -7,6 +6,7 @@ Det är möjligt att ha upp till 5 fordon som arbetar tillsammans på samma fäl
   
 När en multi-verktygskurs är laddad måste du välja körfältet för föraren.  
 Dessa körfält heter alltid samma:  
+
 Vänster (2), vänster (1), mitt, höger (1), höger (2).  
 2 fordon kommer att ha lämnat (1) och höger (1), 4 kommer att ha lämnat (2) och höger (2).  
 Med 3 eller 5 fordon får du också centrumalternativet.  

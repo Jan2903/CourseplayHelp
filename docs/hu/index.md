@@ -1,5 +1,4 @@
 # Általános információ
-
   
 A Courseplay segítségével termőföldi útvonalakat generálhatsz ráadás funkciókkal, például fordulósávokkal.  
 Szintén lehetővé teszi bálázók és rakodókocsik használatát, amiket a korábbi fűnyírókkal, vagy aratógépekkel azonos útvonalon küldhetsz végig.  
@@ -15,6 +14,7 @@ Ott segítséget kaphatsz, vagy jelenthetsz bármilyen hibát, amit tapasztaltá
 Végül köszönjük minden fordítónak és a közösségünknek a hibák jelentését, hogy visszajelzést és új ötleteket adnak.  
   
 Mi az a haladó mód:  
+
 Ha a haladó mód nincs aktiválva, csak néhány beállításhoz férsz hozzá.  
 A többi beállítás rejtve marad és alapértelmezett értékekre lesz állítva, amik a legtöbb helyzetben működnek.  
 Így próbálunk segíteni a felhasználóknak, hogy megismerjék a Courseplay-t anélkül, hogy túlterhelné őket az összes beállítás.  

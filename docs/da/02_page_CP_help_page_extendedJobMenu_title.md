@@ -1,5 +1,4 @@
 # Udvidet AI-menu
-
   
 Først skal du vælge et køretøj i AI-menuen for at generere en rute eller få adgang til køretøjsindstillingerne og rute generatoren.  
 Den aktuelt indlæste rute vil blive vist på kortet.  

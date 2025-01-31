@@ -1,16 +1,17 @@
 # Skördare avlastare
-
   
 Avlastningsläget för Courseplay fungerar med skördetröskor, skördare och bogserade skördare som drivs av Courseplay.  
 Det fungerar inte med choppers.  
 Du kan antingen använda en vanlig släpvagn eller en skruvvagn för att lossa en skördetröska.  
 För att tömma trailers kan du använda Giants Helper eller AutoDrive.  
 Att starta avlastaren kräver några saker:  
+
 – Du behöver ha en enkel släpvagn eller skruvvagn kopplad. Flera trailers stöds inte.  
 - Använd målikonen på HUD för att välja fältet som ska skördas. Avlastaren kommer att lossa alla Courseplay-drivna skördare som arbetar på det fältet.  
 – Du måste vara på fältet eller inom 20 meter från fältet för att starta avlastaren.  
   
 Avlastare har bara ett fåtal inställningar som du kan justera:  
+
 - Du kan ställa in den fyllnadsnivå vid vilken avlastaren ska anses vara full. Detta  
 är att slippa vänta på att en skördetröska ska ringa med nästan full släp.  
 - Du kan använda förskjutningarna i HUD för att justera läget för avlastaren under skördarens rör.  

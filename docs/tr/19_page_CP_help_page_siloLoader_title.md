@@ -1,5 +1,4 @@
 # Silo loading
-
   
 Bu modu Ropa Maus ya da benzeri bir araç ile tarladaki ya da tarla yakınında yığınları toplamak ve bir Courseplay boşaltıcısına boşaltmak için kullanabilirsiniz.  
 Ayrıca bunker silosundan yükleme yapmak da mümkündür.  

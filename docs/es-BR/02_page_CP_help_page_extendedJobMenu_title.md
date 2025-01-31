@@ -1,5 +1,4 @@
 # Menú IA Extendido
-
   
 Los ajustes de ayuda ahora se encuentran en nuestro nuevo menú "Ajustes de Ayudante".  
 Funciona de forma muy similar al antiguo menú de IA.  

@@ -1,5 +1,4 @@
 # Informacje ogólne
-
   
 Courseplay pozwala na generowanie kursów prac polowych z dodatkowymi funkcjami jak np. uwrociami.  
 Umożliwia również korzystanie z pras i przyczep samozbierających, które mogą być wysyłane tym samym kursem, co wcześniej kosiarka lub kombajn.  
@@ -15,6 +14,7 @@ Tam możesz uzyskać pomoc lub zgłosić napotkany problem.
 Na koniec dziękujemy każdemu tłumaczowi i naszej społeczności za zgłaszanie błędów, przekazywanie opinii dotyczących użytkowania i nowych pomysłów.  
   
 Co to jest tryb zaawansowany:  
+
 Gdy tryb zaawansowany jest wyłączony, masz dostęp tylko do niektórych ustawień.  
 Pozostałe ustawienia są ukryte i ustawione na wartości domyślne, co działa w większości sytuacji.  
 W ten sposób staramy się pomóc nowym graczom w łatwiejszym użyciu Courseplay bez przytłaczania wszystkimi ustawieniami.  

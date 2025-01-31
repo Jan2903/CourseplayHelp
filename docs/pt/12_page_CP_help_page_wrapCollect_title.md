@@ -1,5 +1,4 @@
 # Envolvimento e recolha de fardos
-
   
 O embrulho e a coleta dos fardos podem ser feitos de duas maneiras diferentes.  
 A primeira é carregar o mesmo curso que você usou para sua enfardadeira e deixar o empacotador ou coletor executar esse curso.  

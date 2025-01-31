@@ -1,5 +1,4 @@
 # Bahnen tauschen
-
   
 Das Tauschen der Bahnen wird in Multitoolkursen benutzt und sagt dem Helfer, in welche Bahn er nach dem Wendemanöver fahren soll.  
 Beim aktiven Tauschen wechseln die Fahrer die Seite.  
@@ -23,6 +22,7 @@ Für Ernter ist das relativ wichtig, da so das Rohr immer frei zugängig ist.
 Nachteil ist, dass sich die Fahrzeug so begegnen können.  
   
 Schaut man sich die Reihenfolge der Bahnen an, die von links nach rechts bearbeitet werden, wird es klar:  
+
 Ohne Bahnen tauschen: links, rechts, links, rechts - fast wie eine Bahn überspringen.  
 Mit Bahnen tauschen: links, rechts, rechts, links - von links nach rechts, also eine Bahn nach der anderen.  
 In dem Beispiel mit den Dreschern sorgt das dafür, dass kein Drescher links und rechts eine Bahn mit Frucht neben sich hat.  

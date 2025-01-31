@@ -1,5 +1,4 @@
 # Ładowarka
-
   
 W tym trybie można pracować ładowarką kołową oraz ciągnikami z ładowaczem czołowym.  
 Za pomocą podczepionej łyżki można zebrać ładunek z ziemi lub silosu bunkrowego.  

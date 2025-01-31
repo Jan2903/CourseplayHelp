@@ -1,5 +1,4 @@
 # Course editor
-
   
 The course editor can be used to edit courses and custom fields.  
 The loaded courses will be saved/overwritten automatically, when the editor is closed.  
@@ -14,6 +13,7 @@ Incorrect editing might cause problems for the driver, as the waypoints have hid
 
   
 Under the basic category are:  
+
 1) Moving of a grabbed waypoint.  
 2) Inserting waypoints ahead or behind of the waypoint that you click on.  
   
@@ -22,6 +22,7 @@ Deleting of waypoints can be done with the red delete button.
 
   
 Under the advanced category are:  
+
 1) A brush to set the turn attribute of a waypoint (only with a course and not a custom field).  
 Clicking multiple times on the waypoint will toggle between "normal" (orange), "turn start" (green) and "turn end" (red).  
   

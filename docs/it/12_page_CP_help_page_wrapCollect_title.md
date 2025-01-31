@@ -1,5 +1,4 @@
 # Avvolgimento e raccolta balle
-
   
 L'avvolgimento e la raccolta delle balle possono essere eseguiti in due modi diversi.  
 Il primo consiste nel caricare lo stesso percorso utilizzato per la pressa per balle e lasciare che l'avvolgitore o il raccoglitore eseguano quel percorso.  

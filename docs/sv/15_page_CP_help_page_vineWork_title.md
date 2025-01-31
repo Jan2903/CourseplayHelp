@@ -1,5 +1,4 @@
 # Vinodling
-
   
 Att arbeta med vinrankor är lite mer komplicerat och arbetar sedan på ett normalt fält.  
 För att ha det bästa resultatet ska vinrankorna alla vara bredvid varandra inom standardnätet.  

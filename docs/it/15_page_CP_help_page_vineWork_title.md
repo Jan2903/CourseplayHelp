@@ -1,5 +1,4 @@
 # Lavoro vigna
-
   
 Lavorare sulla vigna è un po' più complesso che lavorare su un campo normale.  
 Per ottenere il miglior risultato, le viti dovrebbero essere tutte una accanto all'altra all'interno della griglia predefinita.  

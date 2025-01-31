@@ -36,6 +36,7 @@ Com o modo de edição ativo você tem estas opções:
 
   
 Para mover uma rota:  
+
    1) Clique no botão mover na parte inferior da tela.  
    2) Clique na rota que deseja mover.  
    3) Clique na pasta para onde deseja mover a rota.  

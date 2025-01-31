@@ -1,5 +1,4 @@
 # Custom Fields
-
   
 There are two ways to create custom fields.  
 The first one is to use the record function of the HUD.  

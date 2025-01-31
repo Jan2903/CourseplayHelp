@@ -1,5 +1,4 @@
 # Course editor
-
   
 L'editor del percorso può essere utilizzato per modificare percorsi e campi personalizzati.  
 I percorsi caricati verranno salvati/sovrascritti automaticamente, alla chiusura dell'editor.  
@@ -14,6 +13,7 @@ Una modifica errata potrebbe causare problemi al driver Cp, poiché i punti hann
 
   
 Sotto la categoria base ci sono:  
+
 1) Spostamento di un punto di passaggio selezionato.  
 2) Inserimento di punto avanti o indietro rispetto al punto su cui si fa clic.  
   
@@ -22,6 +22,7 @@ L'eliminazione dei punti di passaggio può essere eseguita con il pulsante rosso
 
   
 Nella categoria avanzata ci sono:  
+
 1) Un metodo per impostare l'attributo di svolta di un punto (solo con una rotta e non un campo personalizzato).  
 Facendo clic più volte sul punto si passerà da "normale" (arancione), "inizio svolta" (verde) e "fine svolta" (rosso).  
   

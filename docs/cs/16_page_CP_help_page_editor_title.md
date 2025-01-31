@@ -1,5 +1,4 @@
 # Editor tras
-
   
 Editor tras lze použít k úpravě tras a vlastních polí.  
 Po zavření editoru budou načtené trasy automaticky uloženy/přepsány.  
@@ -12,6 +11,7 @@ Nesprávná úprava může způsobit problémy ovladači cp, protože trasové b
 
   
 V základní kategorii jsou:  
+
 1) Pohyblivý štětec přesune visící navigační bod do polohy štětce.  
 2) Vkládací štětec může vkládat trasové body před nebo za vybraný trasový bod.  
 Mazání trasových bodů lze provést červeným tlačítkem mazání.  
@@ -19,6 +19,7 @@ Mazání trasových bodů lze provést červeným tlačítkem mazání.
 
   
 Pod pokročilou kategorií jsou:  
+
 1) Štětec pro přesun více trasových bodů mezi vybrané trasové body.  
 2) Štětec pro vložení křivky trasových bodů mezi vybrané trasové body.  
 3) Štětec pro nastavení atributu otočení trasového bodu (pouze s trasou a ne vlastním polem).  

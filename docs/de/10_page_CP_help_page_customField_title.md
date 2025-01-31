@@ -1,5 +1,4 @@
 # Selbst erstellte Felder
-
   
 Es gibt zwei Möglichkeiten, ein eigenes Feld zu erstellen.  
 Die erste Option ist mit dem "Aufzeichnen"-Button im HUD.  

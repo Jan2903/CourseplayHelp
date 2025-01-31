@@ -1,5 +1,4 @@
 # Rute manager
-
   
 Rutegeneratoren giver dig mulighed for at gemme ruter og giver dig mulighed for at indlæse den gemte rute senere igen.  
 Dette er virkelig vigtigt, når du vil have flere arbejdere, der kører den samme rute for konvoj.  
@@ -24,6 +23,7 @@ Ved at klikke på ændringstilstand aktiveres rutegeneratorens redigeringstilsta
 
   
 Når redigeringstilstanden er aktiv, har du disse muligheder:  
+
 - Flytte en rute til en anden mappe.  
 - Sletning af rute eller mapper.  
 - Omdøbning af rute eller mapper.  
@@ -33,6 +33,7 @@ Når redigeringstilstanden er aktiv, har du disse muligheder:
 
   
 For at flytte en rute:  
+
   1) Klik på flytteknappen nederst på skærmen.  
   2) Klik på den ruten, du vil flytte.  
   3) Klik på det bibliotek, hvor du ønsker ruten flyttet til.  

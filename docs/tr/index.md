@@ -1,5 +1,4 @@
 # Genel Bilgilendirme
-
   
 Courseplay, tarla rotaları oluşturmak için çeşitli ek özellikler sunar; örneğin, manevra koridorları ekleme.  
 Ayrıca balya makineleri ve yem vagonlarının, daha önce çim biçme makinesi veya biçerdöver tarafından kullanılan aynı rotada çalıştırılmasına olanak tanır.   
@@ -17,6 +16,7 @@ Burada yardım alabilir veya yaşadığınız herhangi bir sorunu bildirebilirsi
 Son olarak, hataları bildirdiği, geri bildirim ve yeni fikirler verdiği için her bir çevirmenimize ve topluluğumuza teşekkür ederiz.  
   
 Uzman Modu nedir:  
+
 Uzman Modu devre dışı bırakıldığında, yalnızca bazı ayarlara erişiminiz olur.  
 Diğer ayarlar gizlidir ve çoğu durumda düzgün çalışan varsayılan değerlere ayarlanır.  
 Bu şekilde, son kullanıcıları bütün bu ayarlarla bunaltmadan Courseplay'e daha kolay alışmalarına yardımcı olmaya çalışıyoruz.  

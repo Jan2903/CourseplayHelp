@@ -1,5 +1,4 @@
 # Vine work
-
   
 Working on vines is a bit more complex then working on a normal field.  
 To have the best result, the vines should all be next to each other within the default grid.  

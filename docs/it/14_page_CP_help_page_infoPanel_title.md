@@ -1,5 +1,4 @@
 # Pannello Informazioni
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
@@ -11,6 +10,7 @@ Cliccandoci sopra, puoi saltare direttamente nel veicolo.
 
   
 I messaggi di stato sono:  
+
 - L'aiutante è bloccato  
 - Bloccato da un oggetto  
 - Dovrebbe essere rifornito  

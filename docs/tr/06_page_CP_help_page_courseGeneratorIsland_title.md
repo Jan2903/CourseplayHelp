@@ -1,5 +1,4 @@
 # Rota Oluşturucu: ada
-
   
 Ada çevreleme etkinleştirildiğinde adaların etrafında koridorlar oluşturulur. Yani rota bir adaya denk geldiğinde  
 adanın etrafında en az bir tam tur atar.Araçların ada çevresinde dönüş yapması için daha fazla alana ihtiyaç  

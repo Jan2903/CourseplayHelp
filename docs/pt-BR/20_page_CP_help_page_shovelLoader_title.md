@@ -1,5 +1,4 @@
 # Wheelloader Driver
-
   
 Este modo habilita carregadeiras de rodas e tratores com carregador frontal.  
 Com uma pá acoplada, uma pilha pode ser retirada do solo ou o carregamento de um silo pode ser realizado.  

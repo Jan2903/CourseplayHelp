@@ -1,5 +1,4 @@
 # Özel Çalışma Alanları
-
   
 Özel çalışma alanı oluşturmanın iki yöntemi vardır.  
 İlk yöntem, HUD'un kayıt fonksiyonunu kullanmaktır.  

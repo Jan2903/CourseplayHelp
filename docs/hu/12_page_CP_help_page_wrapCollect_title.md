@@ -1,5 +1,4 @@
 # Bálázás és összegyűjtés
-
   
 A bálák becsomagolása és összegyűjtése kétféle módon történhet.  
 Az első az, hogy ugyanazt az útvonalat tölts be, amelyet a bálázóhoz használtál, és hagyd, hogy a csomagoló vagy a bálagyűjtő haladjon ezen az útvonalon.  

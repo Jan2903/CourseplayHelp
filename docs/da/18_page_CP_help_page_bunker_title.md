@@ -1,5 +1,4 @@
 # Bunker silo worker
-
   
 Courseplay er i stand til at komprimere eller fordele det snittede i en bunkersilo eller skubbe det snittede i en køresilo.  
 Komprimering er mulig uden specialværktøj, med rulle, vægt eller kun køretøjet.  

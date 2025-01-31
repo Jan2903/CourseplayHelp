@@ -1,5 +1,4 @@
 # Generatore percorso: impostazione esperto
-
   
 Alcune impostazioni sono visibili solo se imposti la modalità esperto su attiva nelle impostazioni globali del gioco.  
 Prima di giocare con queste impostazioni, dovresti assicurarti di sapere cosa fanno le impostazioni di base.  

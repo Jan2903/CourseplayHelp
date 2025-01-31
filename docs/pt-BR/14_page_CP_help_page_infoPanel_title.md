@@ -1,5 +1,4 @@
 # Painel Info
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
@@ -11,6 +10,7 @@ Ao clicar nele, você pode pular diretamente para o veículo.
 
   
 As Informações são as seguintes:  
+
 - Ajudante está preso  
 - Bloqueado por um objeto  
 - Deve ser reabastecido  

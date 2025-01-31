@@ -1,5 +1,4 @@
 # Info panel
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
@@ -11,6 +10,7 @@ By clicking on it, you can jump directly into the vehicle.
 
   
 The Informations are the following:  
+
 - Helper is stuck  
 - Blocked by an object  
 - Should be refueled  

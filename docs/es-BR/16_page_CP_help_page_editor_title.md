@@ -1,5 +1,4 @@
 # Editor de Cursos
-
   
 El Editor de Cursos puede ser usado para editar Cursos y Campos Personalizados.  
 Los Cursos cargados serán guardados/sobreescritos automáticamente, al cerrar el Editor.  
@@ -14,6 +13,7 @@ Una edición incorrecta podría causar problemas para el Conductor CP, ya que lo
 
   
 En la categoría básica se encuentran:  
+
 1) El pincel de movimiento mueve un Punto de Ruta floante a la posición del pincel.  
 2) El pincel de inserción puede insertar Puntos de Ruta delante o detrás de un Punto de Ruta seleccionado.  
   
@@ -22,6 +22,7 @@ La eliminación de Puntos de Ruta se puede hacer con el botón rojo de eliminaci
 
   
 En la categoría avanzada se encuentran:  
+
 1) Un pincel para establecer el atributo de giro de un punto de referencia (solo con un curso y no con un campo personalizado).  
 Al hacer clic varias veces en el punto de referencia, se alternará entre "normal" (naranja), "inicio del giro" (verde) y "fin del giro" (rojo).  
   

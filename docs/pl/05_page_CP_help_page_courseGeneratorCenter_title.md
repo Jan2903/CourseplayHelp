@@ -1,5 +1,4 @@
 # Generator kursu - środek pola
-
   
 Na środku pola dostępne są różne strategie wykonywania pracy. Przeważnie wybrane narzędzie jest powodem wyboru konkretnej strategii. Dostępne strategie zostały stworzone w oparciu o opinie i informacje od naszej społeczności.  
 Najprostsza strategia, 'tam i z powrotem', działa prawie za każdym razem dla każdego narzędzia, ale możesz wybrać inną lepszą, na przykład podczas zbiorów za pomocą kombajnu, 'wyspy' są lepszym sposobem na utrzymanie rury na skoszonej części pola w celu bardziej wydajnego rozładunku.  
@@ -16,6 +15,7 @@ Spirale są lepszym rozwiązaniem dla półzawieszanych kombajnów bocznych, aby
 - Kąt rzędu: Gdy kierunek rzędów jest ustawiony na ręczny, pojawia się to ustawienie i informuje generator o kierunku rzędów.  
   
 Te ustawienia są wyświetlane tylko dla określonych ustawień, które zostały wprowadzone wcześniej:  
+
 - Rzędy do pominięcia: Pojawia się, gdy środek pola jest ustawiony na "tam i z powrotem". Jest to bardzo pomocna opcja przyspieszająca pracę, ponieważ pojazd nie będą musiał się cofać, aby trafić do następnego rzędu.  
 - Rzędy na wysepkę: Pojawia się, gdy środek pola jest ustawiony na "wyspy". Określa generatorowi, ile rzędów powinna mieć każda z nich. Im więcej rzędów, tym mniej wysepek zostanie wygenerowanych.  
 - Spirala od środka: Pojawia się, gdy środek pola jest ustawione na "spirala".  

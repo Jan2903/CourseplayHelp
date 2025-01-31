@@ -1,5 +1,4 @@
 # Szöllő munkálatok
-
   
 A szőlővel való munka egy kicsit bonyolultabb, mint a normál táblán.  
 A legjobb eredmény elérése érdekében a szőlőnek egymás mellett kell lennie az alapértelmezett rácson belül.  

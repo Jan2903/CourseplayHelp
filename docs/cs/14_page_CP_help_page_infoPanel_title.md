@@ -1,5 +1,4 @@
 # Informační panel
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
@@ -11,6 +10,7 @@ Kliknutím na něj můžete skočit přímo do vozidla.
 
   
 Informace jsou následující:  
+
 - Pomocník se zasekl  
 - Je blokován objektem  
 - Měl by se natankovat  

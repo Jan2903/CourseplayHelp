@@ -1,5 +1,4 @@
 # Course editor
-
   
 The course editor can be used to edit courses and custom fields.  
 The loaded courses will be saved/overritten automatically, when the editor is closed.  
@@ -14,6 +13,7 @@ Incorrect editing might couse problems for the cp driver, as the waypoints have 
 
   
 Under the basic category are:  
+
 1) The move brush moves a hovered waypoint to the brush position.  
 2) The insert brush can insert waypoints ahead or behind of a selected waypoint.  
   
@@ -22,6 +22,7 @@ Deleting of waypoints can be done with the red delete button.
 
   
 Under the advanced category are:  
+
 1) A brush to move multiple waypoints in between to selected waypoints.  
 2) A brush to insert a curve of waypoints between to selected waypoints.  
 3) A brush to set the turn attribute of a waypoint(only with a course and not a custom field).  

@@ -21,6 +21,7 @@ Se a mudança de faixa simétrica estiver ativada, a esquerda e a direita serão
 Os veículos podem entrar em conflito uns com os outros, quando se dirigem um para o outro.  
 Qual é a vantagem da mudança de faixa simétrica então?  
 Se você der uma olhada na ordem das faixas, da esquerda para a direita, ficará claro:  
+
 Sem mudança simétrica: esquerda, direita, esquerda, direita - é quase como pular uma faixa.  
 Com mudança simétrica: esquerda, direita, direita, esquerda - da esquerda para a direita, uma faixa após a outra.  
 No exemplo com a colheitadeira, significa que nenhuma colheitadeira terá frutas à esquerda e à direita de sua faixa  

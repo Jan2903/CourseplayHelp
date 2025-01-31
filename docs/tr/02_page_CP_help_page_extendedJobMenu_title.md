@@ -1,5 +1,4 @@
 # Genişletilmiş YZ Menüsü
-
   
 Yardımcı ayarları artık yeni 'Yardımcı Ayarları' menüsünde bulunuyor.  
 Bu menü, eski YZ Menüsü gibi çalışıyor.  

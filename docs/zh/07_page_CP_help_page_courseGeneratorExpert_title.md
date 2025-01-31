@@ -1,5 +1,4 @@
 # 任务生成器专家
-
   
 Some settings are only visible, if you set the expert mode to active on the global courseplay settings.  
 Before you play arround with those settings, you should make sure you know what the basic settings do.  

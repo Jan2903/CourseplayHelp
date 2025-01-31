@@ -1,5 +1,4 @@
 # Course generator headland
-
   
 Foragerindstillinger vises kun, når du har indstillet mindst 1 ved Antal forager.  
 Du får muligheder for, hvor du skal starte, hjørneindstillinger, retning og overlapning.  

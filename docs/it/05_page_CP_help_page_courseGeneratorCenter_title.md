@@ -1,5 +1,4 @@
 # Generatore percorso: centrale
-
   
 Il generatore fornisce diversi schemi per generare il percorso per il centro del campo.   
 Lo schema migliore è solitamente determinato dal lavoro e dagli attrezzi selezionati.   
@@ -19,6 +18,7 @@ Spirale, Pista e Terreni hanno i loro vantaggi specifici rispetto agli altri. Ad
 - Angolo fila: quando la direzione fila è impostata su manuale, questa impostazione appare e indicherà al generatore la direzione delle file.  
   
 Queste impostazioni vengono visualizzate solo per le impostazioni specifiche che hai eseguito in precedenza:  
+
 - Righe da saltare: appare quando il centro del campo è impostato su "su/giù". Questa è un'opzione molto utile per accelerare il lavoro, poiché gli utensili non dovranno arretrare per passare alla riga successiva.  
 - Righe per terreno: appare quando il centro del campo è impostato su "terreno". Questo ha impatto solo quando il centro del campo è impostato su terreno e indicherà al generatore quante righe dovrebbe avere ogni terreno. Più righe ci sono, meno terreni verranno generati.  
 - Spirale dall'interno: appare quando il centro del campo è impostato su "Spirale".  

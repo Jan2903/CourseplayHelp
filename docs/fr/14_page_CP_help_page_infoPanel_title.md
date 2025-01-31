@@ -1,5 +1,4 @@
 # Fenêtre d'informations
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
@@ -11,6 +10,7 @@ En cliquant dessus, vous arrivez directement dans le véhicule.
 
   
 Les informations concernant l'ouvrier peuvent être les suivantes:  
+
 - Est bloqué  
 - Bloqué par un objet  
 - Devrait bientôt refaire le plein de carburant  

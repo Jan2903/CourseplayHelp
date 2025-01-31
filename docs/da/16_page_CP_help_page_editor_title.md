@@ -1,5 +1,4 @@
 # Rute editor
-
   
 Rute-editoren kan bruges til at redigere ruter og brugerdefinerede marker.  
 De indlæste ruter gemmes/overskrives automatisk, når editoren lukkes.  
@@ -14,6 +13,7 @@ Forkert redigering kan give problemer for cp chaufføren, da vejpunkterne har sk
 
   
 Under den grundlæggende kategori er:  
+
 1) Hold og flyt et vejpunkt med musen.  
 2) Indsæt vejpunkt før eller efter et markeret vejpunkt..  
   
@@ -22,6 +22,7 @@ Sletning af vejpunkter kan gøres med den røde slet-knap.
 
   
 Under den avancerede kategori er:  
+
 1) En pensel til at justere vendepunktsegenskaben for et vejpunkt (kun for ruter og ikke markgrænser).  
 Ved at klikke på det flere gange, skifter vejpunktet farve mellem  "vejpunkt normal " (orange),  "vendepunkt begynder" (grøn) og  "vendepunkt slut" (rød)..  
   

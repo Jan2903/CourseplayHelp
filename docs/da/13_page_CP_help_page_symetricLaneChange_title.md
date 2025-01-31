@@ -1,5 +1,4 @@
 # Symetrisk vognbaneskift
-
   
 Symmetrisk vognbaneskift bruges i konvojtilstand og fortæller chaufføren, i hvilken vognbane han skal køre efter svinget.  
 Dette er lidt svært at forstå, så lad os tage et kig på to eksempler.
@@ -20,6 +19,7 @@ Hvis symmetrisk vognbaneskift er slået til, vil venstre og højre blive udskift
 Køretøjer kan komme i konflikt med hinanden, når de kører mod hinanden.  
 Hvad er fordelen ved symmetrisk langeskift så?  
 Hvis du ser på rækkefølgen af ​​banerne, fra venstre mod højre, vil det være tydeligt:  
+
 Uden symetrisk ændring: venstre, højre, venstre, højre - det er næsten som at springe en bane over.  
 Med symetrisk ændring: venstre, højre, højre, venstre - fra venstre mod højre, den ene bane efter den anden.  
 I eksemplet med en mejetærsker betyder det, at ingen mejetærsker vil have afgrøder til venstre og højre for sin bane.

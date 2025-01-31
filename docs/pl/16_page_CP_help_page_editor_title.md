@@ -1,5 +1,4 @@
 # Edytor kursu
-
   
 Edytor kursów może służyć do edycji kursów i własnych pól.  
 Załadowane kursy zostaną automatycznie zapisane/nadpisane po zamknięciu edytora.  
@@ -14,6 +13,7 @@ Nieprawidłowa edycja może powodować problemy dla kierowcy CP, ponieważ punkt
 
   
 W ramach kategorii podstawowej znajdują się:  
+
 1) Pędzel ruchu przesuwa uniesiony punkt trasy do pozycji pędzla.  
 2) Pędzel umieszczania może wstawiać punkty trasy przed lub za wybranym punktem trasy.  
   
@@ -22,6 +22,7 @@ Usuwanie punktów trasy można wykonać za pomocą czerwonego przycisku usuwania
 
   
 W kategorii zaawansowanej znajdują się:  
+
 1) Pędzel do przenoszenia wielu punktów pomiędzy wybranymi punktami trasy.  
 2) Pędzel do wstawiania krzywej punktów trasy pomiędzy wybranymi punktami trasy.  
 3) Pędzel do ustawienia atrybutu zawracania dla punktu trasy (tylko dla kurs, a nie własnych pól).  

@@ -1,5 +1,4 @@
 # Info panel
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
@@ -11,6 +10,7 @@ Ved at klikke på den kan du hoppe direkte ind i køretøjet.
 
   
 Informationerne er følgende:  
+
 - Hjælperen sidder fast  
 - Blokeret af et objekt  
 - Skal tankes op  

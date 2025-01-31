@@ -1,5 +1,4 @@
 # Egyéni Mezők
-
   
 Kétféleképpen hozhatsz létre egyéni mezőt.  
 Az első a HUD rögzítési funkciójának használata.  

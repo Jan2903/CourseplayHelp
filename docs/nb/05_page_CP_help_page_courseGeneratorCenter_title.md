@@ -1,5 +1,4 @@
 # Course generator center
-
   
 For the center of the field, different strategies are available to do the work. Mostly the selected tool is a reason to choose a specific strategie over the other. The available strategies where created based on feedback and informations from our community.  
 The simple up down strategie works almost every time for any tool. But it can be better to choose another, for example when harvesting with a combine, lands is a better way to keep the pipe outside of the fruit for a more efficient unloading.  
@@ -16,6 +15,7 @@ Spiral, Racetrack and Lands have their own specific advantages over the others. 
 - Row angle: When the row direction is set to manual, this setting appears and will tell the generator the direction of the rows.  
   
 These settings appear only for specific settings you have done before:  
+
 - Rows to skip: Appears when field center is set to "up/down". This is a very helpful option to accelerate your work, as tools won't have to back up to turn into the next row.  
 - Rows per Land: Appears when field center is set to "lands". This has only impact when the field center is set to lands and will tell the generator how many rows each land should have. The more rows, the fewer lands will be generated.  
 - Spiral from inside: Appears when field center is set to "spiral".  

@@ -1,5 +1,4 @@
 # Správce tras
-
   
 Správce tras vám umožňuje ukládat trasy a umožňuje vám uloženou trasu později znovu načíst.  
 To je opravdu důležité, když chcete, aby více pracovníků použilo stejnou trasu (konvoj).  
@@ -23,6 +22,7 @@ Kliknutím na režim Upravit aktivujete režim úprav správce tras.
 
   
 Když je režim úprav aktivní, máte tyto možnosti:  
+
 - Přesunutí trasy do jiného adresáře.  
 - Mazání tras nebo adresářů.  
 - Přejmenování tras nebo adresářů.  
@@ -32,6 +32,7 @@ Když je režim úprav aktivní, máte tyto možnosti:
 
   
 Pro přesun trasy:  
+
    1) Klikněte na tlačítko pro přesun ve spodní části obrazovky.  
    2) Klikněte na trasu, kterou chcete přesunout.  
    3) Klikněte na adresář, kam chcete trasu přesunout.  

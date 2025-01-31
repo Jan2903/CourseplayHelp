@@ -1,5 +1,4 @@
 # Carga de silos
-
   
 Con este trabajo es posible cargar montones en o cerca del campo.  
 Además, es posible cargar desde un silo de búnker..  

@@ -1,5 +1,4 @@
 # Course manager
-
   
 Kurschefen låter dig spara kurser och låter dig ladda den sparade kursen senare igen.  
 Det här är verkligen viktigt, när du vill ha flera arbetare som kör samma kurs för Convoy (Multi Tools).  
@@ -24,6 +23,7 @@ Om du klickar på ändringsläge aktiverar du redigeringsläget för kurshantera
 
   
 Med redigeringsläget är aktivt har du dessa alternativ:  
+
 - Flytta en kurs i en annan katalog.  
 - Radera kurser eller kataloger.  
 - Byta namn på kurser eller kataloger.  
@@ -33,6 +33,7 @@ Med redigeringsläget är aktivt har du dessa alternativ:
 
   
 För att flytta en kurs:  
+
    1) Klicka på knappen Flytta längst ner på skärmen.  
    2) Klicka på den kurs du vill flytta.  
    3) Klicka på katalogen där du vill att kursen flyttas till.  

@@ -1,5 +1,4 @@
 # Pracovník kolového nakladače
-
   
 Tento režim umožňuje použití kolových nakladačů a traktorů s čelním nakladačem.   
 S připojenou lžící lze vybírat hromadu ze země nebo nakládat ze silážní jámy.  

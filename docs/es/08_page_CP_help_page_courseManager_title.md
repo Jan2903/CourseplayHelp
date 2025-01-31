@@ -1,5 +1,4 @@
 # Administrador de Cursos
-
   
 El administrador de cursos le permite guardar cursos y le permite cargar el curso guardado más tarde nuevamente.  
 Esto es realmente importante cuando desea que varios trabajadores conduzcan el mismo curso para convoy (herramientas múltiples).  
@@ -24,6 +23,7 @@ Al hacer clic en el modo de cambio, se activa el modo de edición del administra
 
   
 Con el modo de edición activo, tiene estas opciones:  
+
 - Mover un curso a otro directorio.  
 - Eliminación de cursos o directorios.  
 - Renombrar cursos o directorios.  
@@ -33,6 +33,7 @@ Con el modo de edición activo, tiene estas opciones:
 
   
 Para mover un curso:  
+
    1) Haga clic en el botón mover en la parte inferior de la pantalla.  
    2) Haga clic en el curso que desea mover.  
    3) Haga clic en el directorio al que desea mover el curso.  
