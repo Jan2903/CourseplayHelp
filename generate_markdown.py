@@ -50,7 +50,7 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
         # Write paragraphs
         for paragraph in page.get("paragraphs", []):
             if paragraph["title"]:
-                md_file.write(f"\n## {paragraph['title']}\n\n")
+                md_file.write(f"## {paragraph['title']}\n\n")
             if paragraph["text"]:
                 # Replace newlines with Markdown-compatible line breaks
                 md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
