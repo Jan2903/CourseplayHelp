@@ -45,12 +45,12 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
     
     with open(file_path, "w", encoding="utf-8") as md_file:
         # Write the page title
-        md_file.write(f"# {page['title']}\n")
+        md_file.write(f"# {page['title']}")
         
         # Write paragraphs
         for paragraph in page.get("paragraphs", []):
             if paragraph["title"]:
-                md_file.write(f"## {paragraph['title']}\n\n")
+                md_file.write(f"\n## {paragraph['title']}\n\n")
             if paragraph["text"]:
                 # Replace newlines with Markdown-compatible line breaks
                 md_file.write(f"{paragraph['text'].replace('\n', '  \n')}\n\n")
@@ -200,4 +200,4 @@ def post_process_markdown_files(output_dir):
 
 if __name__ == "__main__":
     generate_site()
-    post_process_markdown_files(OUTPUT_DIR)
+    # post_process_markdown_files(OUTPUT_DIR)
