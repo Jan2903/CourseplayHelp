@@ -1,5 +1,4 @@
-# Gerador de rotas na cabeceira
-  
+# Gerador de rotas na cabeceira  
 As configurações de cabeceira só serão exibidas quando você definir pelo menos 1 em Número de cabeceiras.  
 Você ganha opções de por onde começar, configurações de canto, direção e sobreposição.  
 As cabeceiras são altamente recomendadas para evitar que os implementos saiam do campo ao virar.  

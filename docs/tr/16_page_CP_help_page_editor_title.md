@@ -1,5 +1,4 @@
-# Rota düzenleyici
-  
+# Rota düzenleyici  
 Rota düzenleyici, rotaları ve özel çalışma alanlarını düzenlemek için kullanılabilir.  
 Yüklü rotalar, editör kapatıldığında otomatik olarak kaydedilecek ve üzerine yazılacaktır.  
   
@@ -13,7 +12,6 @@ Yanlış düzenlemeler yol noktalarının gizli özelliklere sahip olması neden
 
   
 Temel kategorisi altında şunlar bulunmaktadır:  
-
 1) Seçilen bir yol noktasının taşınması.  
 2) Seçili yol noktasının önüne veya arkasına yol noktası eklenmesi.  
   
@@ -22,7 +20,6 @@ Yol noktalarını silmek için kırmızı silme düğmesini kullanabilirsiniz.
 
   
 Gelişmiş kategori altında şunlar bulunmaktadır:  
-
 1) Yol noktasının dönüş özelliğini ayarlamak için bir fırça (sadece rota için ve özel çalışma alanı için değil).  
 Yol noktasına tıklamak, 'normal' (turuncu), 'dönüş başı' (yeşil) ve 'dönüş sonu' (kırmızı) arasında geçiş yapar.  
   

@@ -1,5 +1,4 @@
-# Útvonal tervező
-  
+# Útvonal tervező  
 Az útvonalszerkesztővel utakat és egyéni mezőket lehet szerkeszteni.  
 A betöltött utak a szerkesztő bezárásakor automatikusan mentésre/felülírásra kerülnek.  
   
@@ -13,7 +12,6 @@ A helytelen szerkesztés megzavarhatja a Courseplay segítőt, mivel az útponto
 
   
 Az alapkategória alatt találhatók:  
-
 1) A mozgató ecset, egy lebegtetett útpontot az ecset pozíciójába mozgat.  
 2) A beszúró ecset, útpontokat tud beszúrni a kiválasztott útpont elé vagy mögé.  
   
@@ -22,7 +20,6 @@ Az útpontok törlése a piros törlés gombbal történhet.
 
   
 A haladó kategóriában a következők találhatók:  
-
 1) Ecset több útpont mozgatásához a kiválasztott útpontok között.  
 2) Egy ecset az útpontok görbéjének beszúrásához a kiválasztott útpontok közé.  
 3) Egy ecset egy fordulópont turn (fordulási) attribútumának beállításához (csak útvonallal és nem egyéni mezővel).  

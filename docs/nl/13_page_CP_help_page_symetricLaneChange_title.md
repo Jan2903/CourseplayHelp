@@ -1,5 +1,4 @@
-# Symetric lange change
-  
+# Symetric lange change  
 Symmetric lane change is used in multitool courses and tells the driver in which lane he has to drive after the turn.  
 This is a bit hard to understand so let's have a look at two examples.  
 
@@ -20,7 +19,6 @@ If symmetric lane change is turned on, left and right will be exchanged (but not
 Vehicles can conflict with each other, when they drive towards each other.  
 What is the advantage of symmetric lange change then ?  
 If you have a look at the order of the lanes, from left to right, it will be clear:  
-
 Without symetric change: left, right, left, right - it is almost like skipping a lane.  
 With symetric change: left, right, right, left - from left to right, one lane after the other.  
 In the example with the Combine it means, no Combine will have fruit left and right of its lane.  

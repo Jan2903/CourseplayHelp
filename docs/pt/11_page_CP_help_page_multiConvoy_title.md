@@ -1,12 +1,10 @@
-# Multiferramenta e Comboio
-  
+# Multiferramenta e Comboio  
 É possível ter até 5 veículos trabalhando juntos no mesmo campo em um comboio (também chamado de curso multiferramentas).  
 
 
   
 Uma vez que um curso multiferramentas é carregado, você precisará selecionar a pista para o motorista.  
 Essas pistas são sempre nomeadas da mesma forma:  
-
 esquerda(2), esquerda(1), centro, direita(1), direita(2).  
 2 veículos terão esquerda(1) e direita(1), 4 terão esquerda(2) e direita(2).  
 Com 3 ou 5 veículos você também ganhará a opção central.  

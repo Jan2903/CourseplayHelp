@@ -13,6 +13,7 @@ F: Fai clic sul testo per attivare/disattivare le modalità disponibili per i tu
 G: Le impostazioni visualizzate sotto questa riga dipendono dal lavoro corrente. Questi verranno spiegati con le seguenti immagini.  
 
 
+
 ## Lavoro sul campo
 
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
@@ -23,6 +24,7 @@ B: Visualizza il nome del percorso caricato. Se hai appena generato un percorso,
 C: Cliccando sul testo verrà ricalcolata la larghezza di lavoro, oppure è possibile impostarla manualmente sulla destra cliccando +/-, oppure con la rotellina del mouse sopra il numero.  
 D: Alcuni atrezzi necessitano di un offset laterale. Courseplay lo calcolerà automaticamente quando si fa clic sul testo, oppure puoi modificarlo manualmente proprio come la larghezza di lavoro.  
 E: Utilizzare il simbolo sul lato destro per copiare il percorso corrente negli appunti. Il nome del percorso copiato verrà quindi mostrato a sinistra. Puoi caricare il percorso copiato su un altro veicolo che non ha ancora un percorso. Per rimuovere il percorso dagli appunti, fare clic sul simbolo Rimuovi.  
+
 
 
 ## Scaricatore per mietitrebbie
@@ -37,6 +39,7 @@ D: Come sopra, ma qui è possibile regolare la posizione dello scaricatore rispe
 E: Similmente alla copia di un percorso, qui puoi copiare le posizioni dei marker su un altro veicolo.  
 
 
+
 ## Raccolta/avvolgimento delle balle
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -45,6 +48,7 @@ E: Similmente alla copia di un percorso, qui puoi copiare le posizioni dei marke
 A: Balle rimanenti sul campo.  
 B: Tipologia delle balle da raccogliere/avvolgere.  
 C: Offset tra la linea centrale del trattore e la linea centrale del braccio caricatore. Potrebbe essere necessario regolarlo per trattori più grandi (ad esempio con pneumatici più larghi).  
+
 
 
 ## Caricatore silos
@@ -56,6 +60,7 @@ A: Dimensione rimanente del mucchio in litri.
 B: Larghezza di lavoro, identica a quella del lavoro sul campo.  
 C: Courseplay richiede che l'altezza esatta della benna dal suolo sia impostata correttamente. Poiché questa altezza può essere diversa per ogni strumento, puoi controllarla e regolarla con questa impostazione.  
 D: Proprio come con lo scaricatore, puoi copiare le posizioni dei marker su un altro veicolo.  
+
 
 
 ## Lavoratore del silos

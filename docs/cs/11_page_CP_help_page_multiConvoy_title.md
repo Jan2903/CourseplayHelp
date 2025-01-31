@@ -1,12 +1,10 @@
-# Více strojů a konvoj
-  
+# Více strojů a konvoj  
 Je možné mít až 5 vozidel spolupracujících na stejném poli (také nazývané jako konvoj).  
 
 
   
 Po načtení trasy s více stroji budete muset vybrat dráhu pro řidiče.  
 Tyto pruhy se vždy jmenují stejně:  
-
 vlevo (2), vlevo (1), uprostřed, vpravo (1), vpravo (2).  
 2 vozidla budou mít levou (1) a pravou (1), 4 budou mít levou (2) a pravou (2).  
 Se 3 nebo 5 vozidly získáte také středovou variantu.  

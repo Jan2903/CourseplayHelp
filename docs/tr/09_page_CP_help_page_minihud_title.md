@@ -13,6 +13,7 @@ F: Metne tıklayınca mevcut araçlarınıza uygun modlar arasında geçiş yapa
 G: Bu çizginin altındaki ayarlar, mevcut işe bağlıdır. Bu ayarlar aşağıdaki resimlerde açıklanacaktır.  
 
 
+
 ## Tarla çalışması
 
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
@@ -23,6 +24,7 @@ B: Ayarlı rotanın adını gösterir. Yeni bir rota oluşturduysanız, 'geçici
 C: Metne tıklayarak çalışma genişliğini yeniden hesaplayabilir veya sağ taraftaki +/- düğmeleriyle ya da değer üzerinde fare tekerleğini kullanarak manuel olarak ayarlayabilirsiniz.  
 D: Bazı araçlar yana doğru bir ofset ayarına ihtiyacı vardır. Metne tıklandığında Courseplay bunu otomatik olarak hesaplar veya çalışma genişliğinde olduğu gibi manuel olarak değiştirebilirsiniz.  
 E: Mevcut rotayı panoya kopyalamak için sağdaki simgeyi kullanın. Kopyalanan rotanın adı solda görünür. Henüz rotası olmayan başka bir araca bu rotayı yükleyebilirsiniz. Panodan rotayı kaldırmak için kaldırma simgesine tıklayın.  
+
 
 
 ## Biçerdöver boşaltma
@@ -37,6 +39,7 @@ D: Yukarıdaki ayar ile aynı şekilde, boşaltıcının boruya göre öne veya 
 E: Rota kopyalamaya benzer şekilde, işaretçi konumlarını başka bir araca kopyalayabilirsiniz..  
 
 
+
 ## Balya toplama/sarma
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -45,6 +48,7 @@ E: Rota kopyalamaya benzer şekilde, işaretçi konumlarını başka bir araca k
 A: Tarlada kalan balyaların sayısı.  
 B: Toplanacak veya sarılacak balya türü.  
 C: Traktörün orta noktası ile toplayıcı kolunun orta noktası arasındaki mesafe. Daha geniş lastikli büyük traktörler için bu mesafeyi ayarlamanız gerekebilir.  
+
 
 
 ## Silo doldurucu
@@ -56,6 +60,7 @@ A: Litre cinsinden yığında kalan miktar.
 B: Çalışma genişliği, tarla çalışması ile benzer.  
 C: Courseplay'in kepçenin yerden yüksekliğini doğru şekilde ayarlaması gerekir. Bu yükseklik her araç için farklı olabileceğinden bu ayar ile kontrol edebilir ve ayarlayabilirsiniz.  
 D: Tıpkı boşaltıcıda olduğu gibi, işaretçi konumlarını başka bir araca kopyalayabilirsiniz.  
+
 
 
 ## Silo çalışması

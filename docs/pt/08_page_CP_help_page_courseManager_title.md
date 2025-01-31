@@ -1,5 +1,4 @@
-# Gerente de curso
-  
+# Gerente de curso  
 O gerenciador de cursos permite que você salve cursos e carregue o curso salvo novamente mais tarde.  
 Isso é realmente importante, quando você deseja ter vários trabalhadores dirigindo o mesmo curso para comboio (multiferramentas).  
 Esse recurso também permite que você colete a faixa deixada para trás por uma colheitadeira ou um enleirador com um vagão de forragem ou uma enfardadeira.  
@@ -23,7 +22,6 @@ Clicar no modo de alteração ativa o modo de edição do gerenciador de curso.
 
   
 Com o modo de edição ativo você tem estas opções:  
-
 - Mover um curso para outro diretório.  
 - Exclusão de cursos ou diretórios.  
 - Renomear cursos ou diretórios.  
@@ -33,7 +31,6 @@ Com o modo de edição ativo você tem estas opções:
 
   
 Para mover um curso:  
-
    1) Clique no botão mover na parte inferior da tela.  
    2) Clique no curso que deseja mover.  
    3) Clique no diretório para onde deseja mover o curso.  

@@ -1,5 +1,4 @@
-# Wiele maszyn i konwój
-  
+# Wiele maszyn i konwój  
 Możliwe jest posiadanie do 5 pojazdów pracujących razem na tym samym polu w konwoju (tzw. kurs wielu maszyn).  
 Wszystkie kursy dla pojazdu są generowane razem i mogą być przełączane na HUD.  
 
@@ -7,7 +6,6 @@ Wszystkie kursy dla pojazdu są generowane razem i mogą być przełączane na H
   
 Po załadowaniu kursu wielu maszyn należy wybrać pas dla kierowcy.  
 Te pasy mają zawsze takie same nazwy:  
-
 lewo(2), lewo(1), środek, prawo(1), prawo(2).  
 2 pojazdy będą miały lewy(1) i prawy(1), 4 - lewy(2) i prawy(2).  
 Przy 3 lub 5 pojazdach zyskasz również opcję środkową.  

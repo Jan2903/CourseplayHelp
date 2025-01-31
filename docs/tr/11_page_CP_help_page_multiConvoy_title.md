@@ -1,5 +1,4 @@
-# Çoklu araç ve Konvoy
-  
+# Çoklu araç ve Konvoy  
 Aynı alanda 5 araca kadar birlikte çalışılması mümkündür ('çoklu araç rotası' olarak adlandırılır).  
 Grup içerisindeki aracın konumunu(hattını) HUD üzerinde (sol-orta-sağ) değiştirebilirsiniz.  
 
@@ -7,7 +6,6 @@ Grup içerisindeki aracın konumunu(hattını) HUD üzerinde (sol-orta-sağ) de�
   
 Çoklu araç rotası yüklendikten sonra, şoför için konum(hat) seçmeniz gerekecek.  
 Bu hatlar her zaman şu şekilde adlandırılır:  
-
 sol(2), sol(1), orta, sağ(1), sağ(2).  
 2 araçlı rotada sol(1) ve sağ(1), 4 araçlı rotada ekstra sol(2) and sağ(2) seçenekleri vardır.  
 3 veya 5 araçlı rotada ise orta seçeneği de bulunur.  

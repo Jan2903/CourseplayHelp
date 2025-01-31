@@ -1,5 +1,4 @@
-# Vlastní pole
-  
+# Vlastní pole  
 Vlastní pole lze vytvořit dvěma způsoby.  
 Prvním z nich je použití funkce záznamu HUD.  
 Spusťte záznam a zaznamenejte hranici pole.  

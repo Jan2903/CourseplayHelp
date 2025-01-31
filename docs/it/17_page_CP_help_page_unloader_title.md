@@ -1,20 +1,18 @@
-# Scaricatore della mietitrebbia
-  
+# Scaricatore della mietitrebbia  
 La modalità scaricatore di Courseplay funziona con mietitrebbie, mietitrici, trinciatrici e mietitrici trainate guidate da Courseplay.  
 Puoi usare un rimorchio normale o un carro a coclea per scaricare una mietitrebbia.  
 Per svuotare i rimorchi, puoi usare Giants Helper o AutoDrive.  
 Per avviare lo scaricatore sono necessarie alcune cose:  
-
 - Devi avere un singolo rimorchio o carro a coclea collegato. Non sono supportati più rimorchi.  
 - Usa l'icona Target sull'HUD per selezionare il campo da raccogliere. Lo scaricatore scaricherà tutte le mietitrici guidate da Courseplay che lavorano su quel campo.  
 - Devi essere sul campo o entro 20 metri dal campo per avviare lo scaricatore.  
   
 Gli scaricatori hanno solo poche impostazioni che puoi modificare:  
-
 - Puoi impostare il livello di riempimento a cui lo scaricatore si considererà pieno.   
 Questo per evitare di aspettare che una mietitrebbia chiami con un rimorchio quasi pieno.  
 - Puoi usare gli offset nell'HUD per regolare la posizione dello scaricatore sotto il tubo della mietitrice.  
   
+
 
 
 ## Usando i rimorchi
@@ -29,6 +27,7 @@ In quest'ultimo caso, devi scegliere la stazione di scarico dopo che l'icona del
 Svuotare un rimorchio con AutoDrive funziona come usare un carro di carico, dai un'occhiata ai tutorial di AutoDrive su Internet.  
 
 
+
 ## Utilizzo di carri a coclea
 
   
@@ -38,6 +37,7 @@ Per avviare lo scaricatore, posizionarlo nuovamente sul campo o entro 20 metri d
 Se il carro a coclea è pieno, cerca automaticamente un rimorchio sopra o vicino al campo per sovraccaricarlo.  
 Nel caso in cui il rimorchio sia pieno e il carro a coclea non sia ancora vuoto, cercherà un altro rimorchio su cui scaricare.  
 Se non è disponibile un rimorchio, continuerà a scaricare la mietitrebbia.  
+
 
 
 ## Scarica sul campo

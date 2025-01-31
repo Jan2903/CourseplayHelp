@@ -1,5 +1,4 @@
-# Generatore percorso: promontorio
-  
+# Generatore percorso: promontorio  
 Le impostazioni di fine campo verranno visualizzate solo quando avrai impostato almeno una fine campo.  
 Avrai opzioni per decidere da dove iniziare, impostazioni degli angoli, direzione e sovrapposizione.  
 Le fine campo sono altamente consigliate per evitare che gli attrezzi lascino il campo quando si svolta.  

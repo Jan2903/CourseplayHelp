@@ -1,5 +1,4 @@
-# Informační panel
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# Informační panel![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 Toto je náš informační panel, lze s ním pohybovat pomocí kurzoru myši, stejně jako náš Mini HUD.  
@@ -10,7 +9,6 @@ Kliknutím na něj můžete skočit přímo do vozidla.
 
   
 Informace jsou následující:  
-
 - Pomocník se zasekl  
 - Je blokován objektem  
 - Měl by se natankovat  

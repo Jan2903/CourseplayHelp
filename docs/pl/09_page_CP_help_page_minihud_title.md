@@ -13,6 +13,7 @@ F: Kliknij tekst, aby przełączyć dostępne tryby dla bieżących narzędzi.
 G: Ustawienia wyświetlane w tym wierszu zależą od bieżącej pracy. Zostaną one wyjaśnione na poniższych ilustracjach.  
 
 
+
 ## Prace polowe
 
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
@@ -23,6 +24,7 @@ B: Wyświetla nazwę załadowanego kursu. Jeśli kurs został właśnie wygenero
 C: Kliknięcie tekstu spowoduje ponowne obliczenie szerokości roboczej lub można ją ustawić ręcznie po prawej stronie, klikając +/- lub za pomocą kółka myszy nad liczbą.  
 D: Niektóre narzędzia wymagają przesunięcia w bok. Courseplay obliczy je automatycznie po kliknięciu tekstu lub można je zmienić ręcznie, podobnie jak szerokość roboczą.  
 E: Użyj symbolu po prawej stronie, aby skopiować bieżący kurs do schowka. Nazwa skopiowanego kursu zostanie wyświetlona po lewej stronie. Skopiowany kurs można załadować do innego pojazdu, który nie ma jeszcze kursu. Aby usunąć kurs ze schowka, kliknij symbol usuwania.  
+
 
 
 ## Rozładunek kombajnu
@@ -37,6 +39,7 @@ D: To samo, co powyżej, ale tutaj można dostosować położenie rozładunku w 
 E: Podobnie jak w przypadku kopiowania kursu, w tym miejscu można skopiować pozycje znaczników do innego pojazdu.  
 
 
+
 ## Zbieranie/Owijanie bel
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -45,6 +48,7 @@ E: Podobnie jak w przypadku kopiowania kursu, w tym miejscu można skopiować po
 A: Pozostałe bele na polu.  
 B: Typ beli do zebrania/owinięcia.  
 C: Przesunięcie między linią środkową ciągnika a linią środkową ramienia załadunkowego. Może być konieczne dostosowanie tej wartości w przypadku większych ciągników (np. z szerszymi oponami).  
+
 
 
 ## Załadunek pryzmy
@@ -56,6 +60,7 @@ A: Pozostała wielkość pryzmy w litrach.
 B: Szerokość robocza, taka sama jak w przypadku prac polowych.  
 C: Courseplay wymaga prawidłowego ustawienia dokładnej wysokości łyżki nad ziemią. Ponieważ wysokość ta może być różna dla każdego narzędzia, można ją sprawdzić i dostosować za pomocą tego ustawienia.  
 D: Podobnie jak w przypadku rozładunku, można skopiować pozycje znaczników do innego pojazdu.  
+
 
 
 ## Zagęszczanie i wyrównywanie

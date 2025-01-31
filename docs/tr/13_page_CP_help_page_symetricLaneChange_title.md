@@ -1,5 +1,4 @@
-# Hat Değişimi
-  
+# Hat Değişimi  
 Hat değiştirme, çoklu araç rotalarında kullanılır ve yardımcının dönüş sonrası hangi hat üzerinde gitmesi gerektiğini belirtir.  
 Hat değiştirme aktifken, araç her dönüşten sonra taraf değiştirir.  
 Bu biraz kafa karıştırıcı olabilir, o yüzden aşağıdaki iki örneğe bakalım.  
@@ -24,7 +23,6 @@ Biçerdöverler için bu ayar önemlidir, boşaltma borusunun ekinin dışında 
 Dezavantajı ise, yan yana hatlardaki araçların dönüşlerde birbirlerini geçerken çarpışma ihtimalinin olmasıdır.  
   
 Hatların sırasını soldan sağa doğru incelerseniz, biraz daha netleşir:  
-
 Simetrik değişim olmadan: sol, sağ, sol, sağ — sanki bir satır atlanıyor gibi görünüyor.  
 Simetrik değişimle: sol, sağ, sağ, sol — soldan sağa, bir satırdan diğer satıra.  
 Biçerdöver örneğinde şu anlama gelir: hiçbir biçerdöverin hattının solunda ve sağında ekin bulunmaz.  

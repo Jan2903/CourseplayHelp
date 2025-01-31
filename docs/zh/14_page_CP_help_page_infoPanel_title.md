@@ -1,5 +1,4 @@
-# 信息面板
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# 信息面板![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 这是我们的信息面板，它可以通过鼠标移动，就像我们的迷你HUD一样。  
@@ -10,7 +9,6 @@
 
   
 信息如下:  
-
 - 助手卡住了  
 - 被物体挡住  
 - 应该加油  

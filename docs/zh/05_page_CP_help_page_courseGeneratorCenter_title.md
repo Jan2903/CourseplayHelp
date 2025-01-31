@@ -1,5 +1,4 @@
-# Course generator center
-  
+# Course generator center  
 针对于田地的路径规划，可以采取不同的模式来完成工作。  
 大多数情况下，所使用工具是选择何种模式的原因所在。  
 这些模式是根据我们社区的反馈和信息制定的。  
@@ -21,11 +20,11 @@
 - 方向角度：当往返方向设置为手动时，会出现此设置，手动设置往返方向角度。  
   
 These settings appear only for specific settings you have done before:  
-
 - 需要跳过的路径: 当田地中心路线设置为"往返"模式时才出现。可以加快您的工作，使车辆不会在地头的转向、倒车时花费太多的时间。  
 - 每块区域的行数: 当田地中心路线设置为"区域（由内向外）"模式时才出现。将告诉任务生成器每块区域应该有多少行。行越多，产生的区域就越少。  
 - 从内部螺旋: 当田地中心路线设置为"螺旋"模式时才出现。  
 - 圆环数量: 当田地中心路线设置为"圆环（由外向内）"模式时才出现。  
+
 
 
 ## 
@@ -34,17 +33,20 @@ These settings appear only for specific settings you have done before:
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
+
 ## 
 区域（由内向外）
 
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
+
 ## 
 螺旋
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
+
 
 ## 
 圆环（由外向内）

@@ -1,5 +1,4 @@
-# Course generator headland
-  
+# Course generator headland  
 A fordulósáv beállítások csak akkor jelennek meg, ha a fordulósávok számát legalább 1-re állítod.  
 Ezzel olyan lehetőségeket nyersz, mint a kezdés helye, sarok beállítások, irány és átfedés.  
 A fordulósávok használata erősen ajánlott a fordulás közbeni tábla elhagyás megelőzése érdekében.  

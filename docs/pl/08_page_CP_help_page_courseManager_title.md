@@ -1,5 +1,4 @@
-# Menadżer kursu
-Menadżer kursów umożliwia zapisywanie kursów i umożliwia późniejsze ponowne wczytanie zapisanego kursu.  
+# Menadżer kursuMenadżer kursów umożliwia zapisywanie kursów i umożliwia późniejsze ponowne wczytanie zapisanego kursu.  
 Jest to bardzo ważne, gdy chcesz, aby wielu pomocników jeździło tym samym kursem dla konwoju (wiele maszyn).  
 Ta funkcja umożliwia również zbieranie pokosu pozostawionego przez kombajn lub zgrabiarkę z przyczepą samozbierającą lub prasą.  
 
@@ -21,7 +20,6 @@ Kliknięcie w tryb zmiany aktywuje tryb edycji menedżera kursu.
 
   
 Gdy tryb edycji jest aktywny, masz następujące opcje:  
-
 - Przenoszenie kursu do innego folderu.  
 - Usuwanie kursów lub folderu.  
 - Zmiana nazw kursów lub folderów.  
@@ -31,7 +29,6 @@ Gdy tryb edycji jest aktywny, masz następujące opcje:
 
   
 Aby przenieś kurs:  
-
    1) Kliknij przycisk przenoszenia na dole ekranu.  
    2) Kliknij kurs, który chcesz przenieść.  
    3) Kliknij folder, do którego chcesz przenieść kurs.  

@@ -13,6 +13,7 @@ F : Cliquez sur le texte pour basculer entre les modes disponibles pour vos outi
 G : Les paramètres affichés sous cette ligne dépendent du travail en cours. Ils sont expliqués dans les images suivantes.  
 
 
+
 ## Travaux
 
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
@@ -23,6 +24,7 @@ B : Affiche le nom du parcours chargé. Si vous venez de générer une course, i
 C : En cliquant sur le texte, vous recalculerez la largeur de travail, ou vous pouvez la régler manuellement sur la droite en cliquant sur +/-, ou avec la molette de la souris sur le nombre.   
 D : Certains outils ont besoin d'un décalage sur le côté. Courseplay le calcule automatiquement en cliquant sur le texte, ou vous pouvez le modifier manuellement comme la largeur de travail.   
 E : Utilisez le symbole à droite pour copier la course actuelle dans le presse-papiers. Le nom de la course copiée est alors affichée à gauche. Vous pouvez charger le parcours copié dans un autre véhicule qui n'a pas encore de parcours. Pour supprimer le parcours du presse-papiers, cliquez sur le symbole de suppression.  
+
 
 
 ## Déchargement de récolteuse
@@ -37,6 +39,7 @@ D : Comme ci-dessus, mais vous pouvez ici ajuster la position du déchargeur par
 E : Comme pour la copie d'un parcours, vous pouvez ici copier les positions des marqueurs sur un autre véhicule.  
 
 
+
 ## Ramassage/enrub des bottes
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -45,6 +48,7 @@ E : Comme pour la copie d'un parcours, vous pouvez ici copier les positions des 
 A : Balles restantes sur le champ.   
 B : Type de balles à collecter/enrubanner.   
 C : Décalage entre l'axe du tracteur et l'axe du bras chargeur. Il peut être nécessaire d'ajuster cette valeur pour des tracteurs plus grands (par exemple avec des pneus plus larges).  
+
 
 
 ## Chargeur silo
@@ -56,6 +60,7 @@ A : Taille restante du tas en litres.
 B : Largeur de travail, identique à celle du travail sur le terrain.   
 C : Courseplay a besoin que la hauteur exacte du godet au-dessus du sol soit correctement réglée. Comme cette hauteur peut être différente pour chaque outil, vous pouvez la vérifier et l'ajuster avec ce paramètre.  
 D : Comme pour le déchargeur, vous pouvez copier les positions des marqueurs sur un autre véhicule.  
+
 
 
 ## Tassage silo

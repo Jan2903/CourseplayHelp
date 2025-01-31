@@ -13,6 +13,7 @@ F: Haga clic en el texto para alternar los modos disponibles para sus herramient
 G: Las configuraciones que se muestran debajo de esta línea dependen del trabajo actual.  Estos se explicarán con las siguientes imágenes.  
 
 
+
 ## Trabajo de campo
 
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
@@ -23,6 +24,7 @@ B: Muestra el nombre del curso cargado.  Si acaba de generar un curso, muestra '
 C: Al hacer clic en el texto se volverá a calcular el ancho de trabajo, o puede configurarlo manualmente a la derecha haciendo clic en +/-, o con la rueda del mouse sobre el número.  
 D: Algunas herramientas necesitan un desplazamiento lateral.  Courseplay lo calculará automáticamente al hacer clic en el texto, o puedes cambiarlo manualmente al igual que el ancho de trabajo.  
 E: Utilice el símbolo del lado derecho para copiar el curso actual al portapapeles.  El nombre del curso copiado se muestra a la izquierda.  Puede cargar el curso copiado en otro vehículo que aún no tiene.  Para eliminar el curso del portapapeles, haga clic en el símbolo de eliminación.  
+
 
 
 ## Descargador de combinada
@@ -37,6 +39,7 @@ D: Igual que arriba, pero aquí puede ajustar la posición del descargador con r
 E: De manera similar a copiar un recorrido, aquí puede copiar las posiciones de los marcadores a otro vehículo.  
 
 
+
 ## Recoger/Envolver pacas
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -45,6 +48,7 @@ E: De manera similar a copiar un recorrido, aquí puede copiar las posiciones de
 A: Pacas restantes en el campo.  
 B: Tipo de Pacas a recoger/envolver.  
 C: Desplazamiento entre la línea central del tractor y la línea central del brazo del cargador.  Es posible que necesite ajustar esto para tractores más grandes (por ejemplo, con neumáticos más anchos).  
+
 
 
 ## Cargador de silos
@@ -56,6 +60,7 @@ A: Tamaño restante del montón en litros.
 B: Ancho de trabajo, igual que en el trabajo de campo.  
 C: Courseplay necesita que la altura exacta del cucharón sobre el suelo esté configurada correctamente.  Dado que esta altura puede ser diferente para cada herramienta, puede verificarla y ajustarla con esta configuración.  
 D: Al igual que con el descargador, puedes copiar las posiciones de los marcadores a otro vehículo.  
+
 
 
 ## Trabajador de silo

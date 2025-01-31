@@ -1,5 +1,4 @@
-# Kursmanager
-  
+# Kursmanager  
 Der Kursmanager erlaubt es dir, Kurse zu speichern und später wieder zu laden.  
 Das ist z.B. wichtig, wenn mehrere Fahrzeuge auf einem Kurs arbeiten sollten (Multitool).  
 Außerdem kannst du so z.B. die Kurse von einem Drescher später für eine Ballenpresse oder einen Sammelwagen zum Stroh aufsammeln verwenden.  
@@ -33,7 +32,6 @@ Mit dem Editiermodus erhältst du folgende Optionen:
 
   
 Einen Kurs verschieben:  
-
   1) Klicke auf den "Verschieben"-Button am unteren Bildschirmrand.  
   2) Klicke auf den Kurs, der verschoben werden soll.  
   3) Klicke auf den Ordner, wo der Kurs hin verschoben werden soll.  

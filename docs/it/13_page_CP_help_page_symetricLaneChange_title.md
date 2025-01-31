@@ -1,5 +1,4 @@
-# Cambio corsia simmetrico
-  
+# Cambio corsia simmetrico  
 Il cambio di corsia viene utilizzato nei percorsi multi-strumento e indica all'aiutante in quale corsia deve guidare dopo la svolta.  
 Con il cambio di corsia attivo, il veicolo cambia lato dopo ogni svolta.  
 È un po' difficile da capire, quindi diamo un'occhiata a due esempi.  
@@ -24,7 +23,6 @@ Per le mietitrebbie questa impostazione è importante, poiché assicura che il t
 Lo svantaggio è che i veicoli hanno la possibilità di scontrarsi tra loro quando guidano l'uno verso l'altro su corsie vicine.  
   
 Se dai un'occhiata all'ordine delle corsie, da sinistra a destra, sarà chiaro:  
-
 Senza cambio simmetrico: sinistra, destra, sinistra, destra - è quasi come saltare una corsia.  
 Con cambio simmetrico: sinistra, destra, destra, sinistra - da sinistra a destra, una corsia dopo l'altra.  
 Nell'esempio con la mietitrebbia significa che nessuna mietitrebbia avrà frutti a sinistra e a destra della sua corsia.  

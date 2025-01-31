@@ -1,5 +1,4 @@
-# Info panel
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# Info panel![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 Dette er vores infopanel, det kan flyttes rundt med musen, ligesom vores Mini HUD.  
@@ -10,7 +9,6 @@ Ved at klikke på den kan du hoppe direkte ind i køretøjet.
 
   
 Informationerne er følgende:  
-
 - Hjælperen sidder fast  
 - Blokeret af et objekt  
 - Skal tankes op  

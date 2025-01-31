@@ -1,5 +1,4 @@
-# Tekerlekli yükleyici/Ön yükleyici
-  
+# Tekerlekli yükleyici/Ön yükleyici  
 Bu mod tekerlekli yükleyiciler ve ön yükleyicili traktörlerin kullanılmasını sağlar.   
 Kepçe ile yerdeki bir yığından veya bunker silosundan ürün alınıp yükleme yapılabilir.  
 Alınan ürün yakındaki bir römorka veya BGA gibi seçili bir boşaltma istasyonuna otomatik olarak boşaltılabilir.   
@@ -24,7 +23,6 @@ Tekerlekli yükleyici işçisini başlatmak için HUD üzerindeki hedef simgesin
 Yükleme konumu, yükleyici modundaki ile aynı şekilde çalışır. Yığın etrafında mavi bir kare oluşacaktır.  
   
 Boşaltma konumu, malzemenin bir römorka mı yoksa bir boşaltma istasyonuna mı aktarılacağına bağlıdır:  
-
 Römorka boşaltma işlemi için önce YZ menüsünden römorkun park edileceği alanı seçmelisiniz.  
 İşçi bu alan içinde park edilmiş herhangi bir römorka gidip boşaltma işlemini gerçekleştirir. İşaretleyicinin yönü önemli değildir.  
 Boşaltma istasyonuna boşaltmak için hedefi değiştirmeniz ve boşaltma konumu işareti ile istasyonun tetik noktasını işaretlemeniz gerekir.  

@@ -1,5 +1,4 @@
-# Rota Oluşturucu: manevra koridoru
-  
+# Rota Oluşturucu: manevra koridoru  
 Manevra koridoru ayarları, yalnızca manevra koridoru sayısını en az 1 olarak belirlediğinizde görüntülenir.  
 Bu ayarlarda, nereden başlanacağı, köşe ayarları, yön ve örtüşme gibi seçenekler bulunur.  
 Manevra koridorları, araçların dönüş yaparken tarladan taşmalarını engellemek için kullanılır, şiddetle tavsiye edilir.  

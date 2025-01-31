@@ -1,5 +1,4 @@
-# Praca na winorośli
-Praca na winorośli jest nieco bardziej skomplikowana niż praca na normalnym polu.  
+# Praca na winorośliPraca na winorośli jest nieco bardziej skomplikowana niż praca na normalnym polu.  
 Aby uzyskać najlepszy wynik, wszystkie winorośle powinny znajdować się obok siebie w domyślnej siatce.  
 Koniec i początek każdej winorośli również powinny mieć w przybliżeniu taką samą długość.  
 Jeśli pnącza znajdują się na istniejącym polu, możesz otworzyć generator w bezpośredni sposób, jak zwykle.  

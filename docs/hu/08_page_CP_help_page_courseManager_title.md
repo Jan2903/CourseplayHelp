@@ -1,5 +1,4 @@
-# Útvonal kezelő
-  
+# Útvonal kezelő  
 Az útvonal kezelő lehetővé teszi útvonalak mentését és későbbi újra betöltését.  
 Ez nagyon fontos amikor több munkást akarsz alkalmazni ugyanazon az útvonalon konvoj módban (több eszköz).  
 Ez a funkció lehetővé teszi továbbá a hátrahagyott rend felszedését egy kombájn vagy rendsodró után, felszedőkocsi vagy bálázó használatával.  
@@ -23,7 +22,6 @@ A 'Módváltás' gombra kattintva aktiválhatod az útvonalkezelő szerkesztő m
 
   
 A szerkesztő mód aktiválása a következő opciókat teszi elérhetővé:  
-
 - Útvonal mozgatása másik mappába.  
 - Útvonalak vagy mappák törlése.  
 - Útvonalak vagy mappák átnevezése.  
@@ -33,7 +31,6 @@ A szerkesztő mód aktiválása a következő opciókat teszi elérhetővé:
 
   
 Útvonal áthelyezése:   
-
   1) Kattints az áthelyezés gombra a képernyő alján.  
   2) Kattints az áthelyezni kívánt útvonalra.  
   3) Kattints arra a könyvtárra, ahová az útvonalat át szeretné helyezni.  

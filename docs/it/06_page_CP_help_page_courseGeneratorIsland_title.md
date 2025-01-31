@@ -1,5 +1,4 @@
-# Generatore percorso: isole
-  
+# Generatore percorso: isole  
 Courseplay genererà promontori attorno alle isole quando è abilitato il bypass dell'isola, quindi quando il percorso incontra per la prima volta un'isola,  
 farà almeno un giro completo attorno ad essa. Puoi impostare il numero di promontori (quindi il numero di cerchi) attorno all'isola  
 se hai bisogno di più spazio per i veicoli che svoltano sull'isola.   

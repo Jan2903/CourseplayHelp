@@ -1,5 +1,4 @@
-# Vinice
-  
+# Vinice  
 Práce na vinici je o něco složitější než práce na normálním poli.  
 Chcete-li dosáhnout nejlepšího výsledku, měly by být všechny řádky vinice vedle sebe ve výchozí mřížce.  
 Konec a začátek každé révy by měly být také přibližně stejně dlouhé.  

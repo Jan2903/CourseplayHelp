@@ -1,5 +1,4 @@
-# Trabajo en Vides
-  
+# Trabajo en Vides  
 Trabajar en vides es un poco más complejo que trabajar en un campo normal.  
 Para obtener el mejor resultado, las enredaderas deben estar una al lado de la otra dentro de la cuadrícula predeterminada.  
 El final y el comienzo de cada vid también deben tener aproximadamente la misma longitud.  

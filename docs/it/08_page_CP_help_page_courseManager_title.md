@@ -1,5 +1,4 @@
-# Gestione percorsi
-  
+# Gestione percorsi  
 Il gestore del percorso consente di salvare il percorso e di caricare nuovamente il percorso salvato in un secondo momento.  
 Questo è davvero importante, quando vuoi avere più lavoratori che guidano lo stesso percorso per convoglio (multi strumenti).  
 Questa funzione consente inoltre di raccogliere l'andana lasciata da una mietitrebbia o da un andanatore con un carro per il foraggio o una pressa per balle.  
@@ -23,7 +22,6 @@ Cliccando su cambia modalità si attiva la modalità di modifica del gestore del
 
   
 Con la modalità di modifica attiva hai queste opzioni:  
-
 - Spostamento di un percorso in un'altra cartella.  
 - Eliminazione percorsi o cartella.  
 - Rinominare percorsi o cartella.  
@@ -33,7 +31,6 @@ Con la modalità di modifica attiva hai queste opzioni:
 
   
 Per spostare un percorso:  
-
    1) Fare clic sul pulsante di spostamento nella parte inferiore dello schermo.  
    2) Fare clic sul percorso che si desidera spostare.  
    3) Fare clic sulla cartella in cui si desidera spostare il percorso.  

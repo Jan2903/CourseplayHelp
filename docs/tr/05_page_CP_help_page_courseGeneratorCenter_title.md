@@ -1,5 +1,4 @@
-# Rota Oluşturucu: merkez
-  
+# Rota Oluşturucu: merkez  
 Oluşturucu, tarlanın merkezi için rota oluşturmak üzere birkaç farklı model sunar. En uygun model genellikle seçilen iş ve ekipmanlara bağlı olarak belirlenir.   
 Modeller topluluğumuzdan gelen geri bildirimler ve bilgilendirmelere bağlı olarak oluşturulmuştur.  
   
@@ -18,11 +17,11 @@ Kıyıcılar için, boşaltıcının işini kolaylaştırmak amacıyla daha geni
 - Satır Açısı: Satır yönü manuel olarak ayarlandığında bu seçenek görünür ve oluşturucuya satırların açısını belirtir.  
   
 Bu ayarlar, daha önce yaptığınız belirli seçimlere bağlı olarak görünür:  
-
 - Atlanacak Satırlar: Tarla merkezi 'git/gel' olarak ayarlandığında görünür. Bu seçenek, araçların daha geniş dönüşler yapmasını sağlar ve bir sonraki satıra geçerken geri manevra yapmalarına gerek kalmadan işi hızlandırır.  
 - Parça Başına Satır Sayısı: Tarla merkezi 'parçalı' olarak ayarlandığında görünür. Bu ayar, her bir parçanın kaç satır içereceğini belirler. Daha fazla satır, daha az parça oluşturur.  
 - İçten Sarmal: Tarla merkezi 'sarmal' olarak ayarlandığında görünür.  
 - Halka Sayısı: Tarla merkezi 'yarış pisti' olarak ayarlandığında görünür.  
+
 
 
 ## 
@@ -31,17 +30,20 @@ git/gel
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
+
 ## 
 parçalı
 
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
+
 ## 
 sarmal
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
+
 
 ## 
 yarış pisti

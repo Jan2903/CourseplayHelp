@@ -13,6 +13,7 @@ F: Durch das Klicken auf diesen Text werden die erlaubten Modi je nach Fahrzeugg
 G: Unterhalb dieser Linie befinden sich modusabhängige Einstellungen, die in den nachfolgenden Bildern erklärt werden.  
 
 
+
 ## Feldarbeit
 
 ![Image](../assets/images/minihudhelp_fieldwork_0_0_478_305.png)
@@ -23,6 +24,7 @@ B: Hier wird der aktuelle Name des geladenen Kurses angezeigt. Ein neu generiert
 C: Die Arbeitsbreite kann hier mit einem Mausklick neu berechnet werden, auf der rechten Seite kannst du mit klick auf + und - oder mit dem Mausrad auf der Zahl die Arbeitsbreite verstellen.  
 D: Hier kann ein Geräteversatz zur Mitte des Fahrzeugs eingestellt werden. Dies wird bei manchen Anbaugeräten benötigt. Das Einstellen läuft genauso wie bei der Arbeitsbreite.  
 E: Mit einem Klick auf das Symbol auf der rechten Seite wird der Kurs des Fahrzeuges kopiert. Solange ein Kurs in der Zwischenablage ist wird auf der linken Seite der Name des Kurses angezeigt. Durch das neu erschiene Symbol kann der Kurs in ein anderes Fahrzeug geladen werden. Das Papierkorb Symbol löscht den aktuellen Kurs aus der Zwischenablage.  
+
 
 
 ## Drescher Abfahrer
@@ -37,6 +39,7 @@ D: Das Gleiche lässt sich auch für eine Korrektur nach vorne oder nach hinten 
 E: Ähnlich wie beim Kopieren eines Kurses, werden hier die Positionen der Marker für den Abfahrer kopiert und können dann auf weiteren Abfahrer übertragen werden.  
 
 
+
 ## Ballen sammeln/wickeln
 
 ![Image](../assets/images/minihudhelp_balecollect_0_0_478_305.png)
@@ -45,6 +48,7 @@ E: Ähnlich wie beim Kopieren eines Kurses, werden hier die Positionen der Marke
 A: Ballen die nach dem letzten automatischen Scan noch auf dem Feld liegen.  
 B: Ballen die gesammelt oder bearbeitet werden sollen (z.B. nur gewickelte Ballen sammeln).  
 C: Versatz zwischen Traktormitte und der Mitte der Ballenaufnahme. Es kann nötig sein, bei einem breiterem Traktor (z.B. Breitreifen) diesen Wert anzupassen.  
+
 
 
 ## Silolader
@@ -56,6 +60,7 @@ A: Die aktuelle Füllmenge des gewählten Haufens.
 B: Arbeitsbreite des Laders oder der Schaufel, genauso wie bei der Feldarbeit.  
 C: Versatz für die Ladehöhe einer Schaufel. Kann genutzt werden falls die Schaufel nicht tief genug oder zu tief gesenkt wird.  
 D: Wie schon beim Abfahrer, kannst du hier die benötigten Marker kopieren und auf ein weiteres Gerät einfügen.  
+
 
 
 ## Siloarbeiter

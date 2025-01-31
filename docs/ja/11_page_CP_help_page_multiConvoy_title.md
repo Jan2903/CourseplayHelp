@@ -1,12 +1,10 @@
-# Multitool and Convoy
-  
+# Multitool and Convoy  
 It is possible to have up to 5 vehicles working together on the same field in a convoy (also called multi tools course).  
 
 
   
 Once a multi tool course is loaded you will need to select the lane for the driver.  
 Those lanes are always named the same:  
-
 left(2), left(1), center, right(1), right(2).  
 2 vehicles will have left(1) and right(1), 4 will have left(2) and right(2).  
 With 3 or 5 vehicles you will also gain the center option.  

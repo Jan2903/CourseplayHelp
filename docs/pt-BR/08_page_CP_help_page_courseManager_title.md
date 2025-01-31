@@ -1,5 +1,4 @@
-# Gerenciar rotas
-  
+# Gerenciar rotas  
 O gerenciador de rotas permite que você salve rotas e carregue a rota salvo novamente mais tarde.  
 Isso é realmente importante, quando você deseja ter vários trabalhadores dirigindo a mesma rota para comboio (multi implementos).  
 Este recurso também permite que você colete a fileira para trás por uma colheitadeira ou um ceifador com uma carreta de forragem ou uma enfardadeira.  
@@ -23,7 +22,6 @@ Clicar no modo de alteração ativa o modo de edição do gerenciador de rotas.
 
   
 Com o modo de edição ativo você tem estas opções:  
-
 - Mover uma rota para outra pasta.  
 - Excluir uma rota ou pasta.  
 - Renomear rota ou pasta.  
@@ -33,7 +31,6 @@ Com o modo de edição ativo você tem estas opções:
 
   
 Para mover uma rota:  
-
    1) Clique no botão mover na parte inferior da tela.  
    2) Clique na rota que deseja mover.  
    3) Clique na pasta para onde deseja mover a rota.  

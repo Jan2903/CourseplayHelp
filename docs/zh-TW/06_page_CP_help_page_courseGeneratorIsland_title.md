@@ -1,5 +1,4 @@
-# Course generator island
-  
+# Course generator island  
 Driving arround the island is now only possible with a complete round arround it.  
 Even in the new generator, limits for island too close to the field border.  
 The work width of the tool is decisive if the island is too close or not.  

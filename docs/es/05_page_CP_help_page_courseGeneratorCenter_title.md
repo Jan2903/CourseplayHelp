@@ -1,5 +1,4 @@
-# Generador de Cursos: Centro
-  
+# Generador de Cursos: Centro  
 El generador proporciona varios patrones diferentes para generar el recorrido del centro del campo. El mejor patrón  
 generalmente se determina según el trabajo y los implementos seleccionados. Los patrones se crearon en función de los comentarios y la información de  
 nuestra comunidad.  
@@ -18,12 +17,12 @@ Los modos Espiral, Pista y Tierras tienen sus propias ventajas específicas sobr
 - Ángulo de la fila: cuando la dirección de la fila se configura en manual, aparece esta configuración y le indicará al generador la dirección de las filas.  
   
 Estas configuraciones aparecen solo para configuraciones específicas que haya realizado anteriormente:  
-
 - Filas para omitir: aparece cuando el centro del campo está configurado en "arriba/abajo". Esta es una opción muy útil para acelerar su trabajo, ya que las herramientas no tendrán que retroceder para pasar a la siguiente fila.  
 - Filas por terreno: aparece cuando el centro del campo está configurado en "Tierras". Esto solo tiene impacto cuando el centro del campo está configurado en Tierras y le indicará al generador cuántas filas debe tener cada terreno. Cuantas más filas, menos terrenos se generarán.  
 - Espiral desde el interior: aparece cuando el centro del campo está configurado en "  
 Espiral".  
 - Número de círculos: aparece cuando el centro del campo está configurado en "Pista".  
+
 
 
 ## 
@@ -32,17 +31,20 @@ arriba/abajo
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
+
 ## 
 campos
 
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
+
 ## 
 espiral
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
+
 
 ## 
 pista

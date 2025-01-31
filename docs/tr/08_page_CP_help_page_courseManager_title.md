@@ -1,5 +1,4 @@
-# Rota yöneticisi
-  
+# Rota yöneticisi  
 Rota Yöneticisi, rotaları kaydetmenize ve daha sonra bu kaydedilmiş rotaları tekrar yüklemenize olanak tanır.  
 Bu özellik birden fazla işçiyi konvoy (çoklu araç) şeklinde aynı rotada çalıştırmak istediğiniz durumlarda oldukça kullanışlıdır.  
 Ayrıca bir biçerdöver veya namlı oluşturucu tarafından bırakılan ürünleri yem vagonu veya balya makinesi ile toplamanıza da imkan tanır.  
@@ -23,7 +22,6 @@ Bir rota yüklemek için önce klasörü seçmeli ardından rotayı seçip 'Rota
 
   
 Düzenleme modu aktif olduğunda şu seçenekler mevcut olur:  
-
 - Rotayı başka bir dizine taşıma.  
 - Rota ya da dizin silme.  
 - Rota ya da dizinleri yeniden adlandırma.  
@@ -33,7 +31,6 @@ Düzenleme modu aktif olduğunda şu seçenekler mevcut olur:
 
   
 Bir rotayı taşımak için:   
-
   1) Ekranın alt kısmındaki 'Taşı' butonuna tıklayın.  
   2) Taşımak istediğiniz rotaya tıklayın..  
   3) Rotanın taşınmasını istediğiniz dizine tıklayın.  

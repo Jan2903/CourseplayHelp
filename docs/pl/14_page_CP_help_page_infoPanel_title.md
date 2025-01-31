@@ -1,5 +1,4 @@
-# Panel informacyjny
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# Panel informacyjny![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 To jest nasz panel informacyjny, można go przesuwać za pomocą myszki, podobnie jak nasz mini HUD.  
@@ -10,7 +9,6 @@ Klikając na nią, możesz wskoczyć bezpośrednio do pojazdu.
 
   
 Informacje są następujące:  
-
 - Utknął  
 - Zablokowany przez obiekt  
 - Powinien zostać zatankowany  

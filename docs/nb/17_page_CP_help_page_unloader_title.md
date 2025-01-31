@@ -1,21 +1,19 @@
-# Harvester unloader
-  
+# Harvester unloader  
 The unloader mode of Courseplay works with combines, harvesters and towed harvesters driven by Courseplay.  
 It does not work with choppers.  
 You can either use a regular trailer or an auger wagon to unload a combine.  
 To empty trailers, you can use the Giants Helper or AutoDrive.  
 Starting the unloader requires a few things:  
-
 - You need to have a single trailer or auger wagon attached. Multiple trailers are not supported.  
 - Use the Target Icon on the HUD to select the field being harvested. The unloader will unload all Courseplay driven harvesters working on that field.  
 - You must be on the field or within 20 meters of the field to start the unloader.  
   
 Unloaders have only a few settings you can tweak:  
-
 - You can set the fill level at which the unloader will consider itself full. This  
 is to avoid waiting for a combine to call with a trailer almost full.  
 - You can use the offsets in the HUD to adjust the position of the unloader under the harvester's pipe.  
   
+
 
 
 ## Using trailers
@@ -30,6 +28,7 @@ In the latter case, you have to choose the unload station after the wheel icon t
 Emptying a trailer with AutoDrive works the same as using a loading wagon, check out the AutoDrive Tutorials on the Internet.  
 
 
+
 ## Using auger wagons
 
   
@@ -39,6 +38,7 @@ To start the unloader, place it again on the field or within 20 meters of the fi
 If the auger wagon is full, it automatically looks for a trailer on or near the field to overload into it.  
 In case the trailer is full and the auger wagon still not empty, it will look for another trailer to unload to.  
 Is no trailer available, it will continue to unload the combine.  
+
 
 
 ## Unload on the field

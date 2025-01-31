@@ -1,5 +1,4 @@
-# Bale wrapping and collecting
-  
+# Bale wrapping and collecting  
 Wrapping and collecting bales can be done in two different ways.  
 The first one is to load the same course you used for your baler and let the wrapper or collector run that course.  
 However, this can be tricky, as some bales love to roll or fly off the path.  

@@ -1,5 +1,4 @@
-# Encintado y Recogida de Pacas
-  
+# Encintado y Recogida de Pacas  
 El encintado y la recolección de pacas se pueden realizar de dos formas diferentes.  
 La primera es cargar el mismo recorrido que utilizó para su empacadora y dejar que la encintadora o el recolector ejecuten ese recorrido.  
 Sin embargo, esto puede ser complicado, ya que a algunas pacas les encanta rodar o salirse del camino.  

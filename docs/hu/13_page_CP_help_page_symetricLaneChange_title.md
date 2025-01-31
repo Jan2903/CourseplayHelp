@@ -1,5 +1,4 @@
-# Szimetrikus sávváltás
-  
+# Szimetrikus sávváltás  
 A szimmetrikus sávváltás a többjárműves útvonalakon használatos, és jelzi a vezetőnek, hogy a kanyar után melyik sávban kell haladnia.  
 Ezt egy kicsit nehéz megérteni, ezért lássunk két példát.  
 
@@ -20,7 +19,6 @@ Ha a szimmetrikus sávváltás be van kapcsolva, a bal és a jobb oldal felcser�
 A járművek ütközhetnek egymással, amikor egymás felé hajtanak.  
 Mi az előnye a szimmetrikus lange változásnak?  
 Ha megnézed a sávok sorrendjét balról jobbra, egyértelmű lesz:  
-
 Szimmetrikus váltás nélkül: balra, jobbra, balra, jobbra. Ez majdnem olyan, mint egy sáv átugrása.  
 Szimmetrikus változtatással: bal, jobb, jobb, bal. Balról jobbra, egyik sáv a másik után.  
 

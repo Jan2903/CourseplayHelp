@@ -1,5 +1,4 @@
-# Bilgilendirme Paneli
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# Bilgilendirme Paneli![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 Bu bizim bilgilendirme panelimizdir. Tıpkı mini HUD gibi fare yardımıyla sürüklenebilir.  
@@ -10,7 +9,6 @@ Mesaja tıklayarak, doğrudan ilgili araca geçiş yapabilirsiniz.
 
   
 Durum bilgi mesajları şunlardır:  
-
 - İşçi takıldı  
 - Bir nesne tarafından engellendi  
 - Yakıt ikmali yapılmalı  

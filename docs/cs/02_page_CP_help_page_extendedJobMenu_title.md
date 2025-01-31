@@ -1,5 +1,4 @@
-# Rozšířené menu AI
-  
+# Rozšířené menu AI  
 Nejprve musíte v nabídce AI vybrat vozidlo pro generování trasy práce v terénu nebo získání přístupu k nastavení vozidla a správci tras.  
 Aktuálně načtená trasa se zobrazí na mapě.  
 Globální nastavení jsou vždy viditelná.  

@@ -1,5 +1,4 @@
-# Multitool and Convoy
-  
+# Multitool and Convoy  
 It is possible to have up to 5 vehicles working together on the same field in a group (also called multi tools course).  
 You can switch the position (lane) of the vehicle in the group on the HUD (left-center-right).  
 
@@ -7,7 +6,6 @@ You can switch the position (lane) of the vehicle in the group on the HUD (left-
   
 Once a multi tool course is loaded you will need to select the position (lane) for the driver.  
 Those lanes are always named the same:  
-
 left(2), left(1), center, right(1), right(2).  
 2 vehicles have left(1) and right(1), 4 have left(2) and right(2) as well.  
 With 3 or 5 vehicles there is a center option as well.  

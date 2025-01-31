@@ -1,5 +1,4 @@
-# Lane switch
-  
+# Lane switch  
 Lane switching is used on multitool courses and tells the helper, in which lane he should drive after the turn.  
 With lane switch active, the vehicle changes the side after each turn.  
 This is a bit hard to understand so let's have a look at two examples.  
@@ -24,7 +23,6 @@ For combines this setting is important, as it makes sure the pipe stays out of t
 Disadvantage is that vehicles have a chance to collide with each other when they drive towards each other on nearby lanes.  
   
 If you have a look at the order of the lanes, from left to right, it will be clear:  
-
 Without symmetric change: left, right, left, right - it is almost like skipping a lane.  
 With symmetric change: left, right, right, left - from left to right, one lane after the other.  
 In the example with the Combine it means, no Combine will have fruit left and right of its lane.  

@@ -1,5 +1,4 @@
-# Bunker silo işçisi
-  
+# Bunker silo işçisi  
 Courseplay, bir bunker siloda mısır koçanı sıkıştırma veya düzleştirme işi ya da siperli silo içinde itme işlemini yapabilir.  
 Sıkıştırma işlemi, özel bir ekipmana ihtiyaç duymadan da bir silindirle, ağırlıkla veya sadece araç ağırlığıyla da yapılabilir.  
 Düzleştirme işi için özel araçlar (örneğin, Fliegl DUO) kullanılır.  

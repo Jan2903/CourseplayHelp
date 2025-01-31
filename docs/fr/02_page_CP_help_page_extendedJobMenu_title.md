@@ -1,5 +1,4 @@
-# Nouveau menu des ouvriers
-  
+# Nouveau menu des ouvriers  
 Vous devez d'abord sélectionner un véhicule depuis le menu des ouvriers afin de pouvoir générer une course CP ou configurer les paramètres de la course actuelle.   
 La course active s'affichera sur la carte.  
 Les paramètres globaux sont toujours accessibles.  

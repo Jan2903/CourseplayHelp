@@ -1,5 +1,4 @@
-# Info panel
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# Info panel![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 This is our Info Panel, it can be moved arround with the mouse courser, just like our Mini HUD.  
@@ -10,7 +9,6 @@ By clicking on it, you can jump directly into the vehicle.
 
   
 The Informations are the following:  
-
 - Helper is stuck  
 - Blocked by an object  
 - Should be refueled  

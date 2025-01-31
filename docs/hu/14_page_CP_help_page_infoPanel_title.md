@@ -1,5 +1,4 @@
-# Infó panel
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# Infó panel![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 Ez az információs panel, az egérkurzorral mozgatható, akárcsak a Mini HUD.  
@@ -10,7 +9,6 @@ Ha rákattintasz, közvetlenül a járműbe lehet ülni.
 
   
 Az információk a következők:  
-
 - Valamiért elakadt  
 - Valamiben elakadt  
 - Hamarosan tankolni kell!  

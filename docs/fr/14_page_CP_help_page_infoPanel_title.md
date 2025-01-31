@@ -1,5 +1,4 @@
-# Fenêtre d'informations
-![Image](../assets/images/infopanel_0_0_480_130.png)
+# Fenêtre d'informations![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 Cette fenêtre d'informations peut être déplacée en maintenant le curseur, tout comme l'ATH.  
@@ -10,7 +9,6 @@ En cliquant dessus, vous arrivez directement dans le véhicule.
 
   
 Les informations concernant l'ouvrier peuvent être les suivantes:  
-
 - Est bloqué  
 - Bloqué par un objet  
 - Devrait bientôt refaire le plein de carburant  

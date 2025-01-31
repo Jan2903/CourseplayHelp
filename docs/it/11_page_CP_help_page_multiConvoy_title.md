@@ -1,5 +1,4 @@
-# Multiveicoli e convoglio
-  
+# Multiveicoli e convoglio  
 È possibile avere fino a 5 veicoli che lavorano insieme sullo stesso campo in un gruppo (chiamato anche percorso multi-utensile).  
 È possibile cambiare la posizione (corsia) del veicolo nel gruppo sull'HUD (sinistra-centro-destra).  
 
@@ -7,7 +6,6 @@
   
 Una volta caricato un percorso multi-strumento, dovrai selezionare la posizione (corsia) per il conducente.  
 Queste corsie hanno sempre lo stesso nome:  
-
 sinistra(2), sinistra(1), centro, destra(1), destra(2).  
 2 veicoli hanno sinistra(1) e destra(1), 4 hanno sinistra(2) e destra(2).  
 Con 3 o 5 veicoli c'è anche un'opzione centro.  

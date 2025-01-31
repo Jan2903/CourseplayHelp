@@ -1,12 +1,10 @@
-# Outils multiples et convoi
-  
+# Outils multiples et convoi  
 Avec une course à outils multiples, vous pouvez avoir jusqu'à 5 véhicules en convoi travaillant dans le même champ avec la même course.  
 
 
   
 Lorsque vous chargez une course à outils multiples, vous devez spécifier la position du véhicule dans la rangée.  
 Ces positions sont nommées :  
-
 gauche(2), gauche(1), centre, droite(1), droite(2).  
 2 véhicules pourront occuper les positions gauche(1) and droite(1), 4 pourront en plus occuper gauche(2) et droite(2).  
 Avec 3 ou 5 véhicules, vous pourrez également affecter un véhicule au centre.  

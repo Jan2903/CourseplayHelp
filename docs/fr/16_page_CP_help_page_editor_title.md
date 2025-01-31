@@ -1,5 +1,4 @@
-# Editeur de course
-  
+# Editeur de course  
 L'éditeur de course permet de modifier des courses et des champs personnalisés.  
 Les courses chargées seront automatiquement remplacées à la fermeture de l'éditeur.  
   
@@ -13,7 +12,6 @@ Une mauvaise édition peut bloquer vos ouvriers car les points de navigation ont
 
   
 Dans la catégorie simple :  
-
 1) Le curseur de déplacement permet de bouger le point sélectionné vers la nouvelle destination pointée par le curseur.  
 2) Le curseur d'insertion permet l'insertion de point avant ou après le point sélectionné.  
   
@@ -22,7 +20,6 @@ La suppression des points s'effectue avec le bouton rouge de suppression.
 
   
 Dans la catégorie avancée :  
-
 1) Un pinceau pour définir l'attribut de virage d'un point de passage (uniquement avec un parcours et non un champ personnalisé). En cliquant plusieurs fois sur le oint de passage, on alterne entre "normal" (orange), "début du retournement" (vert) et "fin du retournement" (rouge).  
   
 2) Un pinceau pour déplacer plusieurs points de passage entre les points de passage sélectionnés. Pour ce faire, vous marquez 2 points de passage avec le bouton gauche de la souris, puis en maintenant le bouton gauche de la souris enfoncé, vous pouvez déplacer tous les points de passage entre les deux, y compris ceux qui ont été marqués. Pour annuler les points de passage, cliquez sur le bouton droit de la souris.  

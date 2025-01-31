@@ -1,5 +1,4 @@
-# Gestionnaire des courses
-  
+# Gestionnaire des courses  
 Le gestionnaire de courses vous permet de sauvegarder et de charger vos courses pour une utilisation ultérieure.  
 La sauvegarde de la course est également obligatoire lorsque vous utilisez les outils multiples afin de pouvoir affecter la même course à plusieurs ouvriers.  
 Cela vous permet également de pouvoir affecter la course d'une moissonneuse ou d'une faucheuse à une presse ou un véhicule avec une autochargeuse pour venir récupérer les andains.  
@@ -23,7 +22,6 @@ Un clic sur le bouton de changement de mode permet de basculer entre le mode éd
 
   
 Lorsque vous êtes en mode édition vous pouvez :  
-
 - Déplacer une course dans un autre dossier.  
 - Supprimer des courses ou des dossiers.  
 - Renommer des courses ou des dossiers.  
@@ -33,7 +31,6 @@ Lorsque vous êtes en mode édition vous pouvez :
 
   
 Pour déplacer une course :   
-
   1) Cliquez sur le bouton déplacer en bas de l'écran.  
   2) Cliquez sur la course à déplacer.  
   3) Cliquez sur le dossier de destination.  
