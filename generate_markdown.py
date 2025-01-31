@@ -152,25 +152,37 @@ def ensure_list_rendering(file_path):
     """
     Ensures proper rendering in a Markdown file for MkDocs Material
     by adding a Markdown-compatible newline between a line ending with ':'
-    and the following line if it contains text.
+    and the following line if the following line contains text.
     
     Args:
         file_path (str): Path to the Markdown file.
     """
     with open(file_path, "r", encoding="utf-8") as file:
-        content = file.read()
-
-    print(f"Processing file: {file_path}")  # Debugging log
-
-    # Regular expression to find lines ending with ':' followed by a non-empty line
-    updated_content = re.sub(r"(^.*:\n)(\S)", r"\1\n\2", content, flags=re.MULTILINE)
-
-    if content != updated_content:
-        print(f"Updating file: {file_path}")  # Debugging log
+        content = file.readlines()
+    
+    updated_content = []
+    
+    for i in range(len(content) - 1):
+        updated_content.append(content[i])
+        # If a line ends with ':' and the next line contains text, insert a blank line
+        if content[i].strip().endswith(":") and content[i + 1].strip():
+            updated_content.append("\n")
+    
+    # Append the last line
+    updated_content.append(content[-1])
+    
+    new_content = "".join(updated_content)
+    
+    with open(file_path, "r", encoding="utf-8") as file:
+        original_content = file.read()
+    
+    if original_content != new_content:
+        print(f"Updating file: {file_path}")
         with open(file_path, "w", encoding="utf-8") as file:
-            file.write(updated_content)
+            file.write(new_content)
     else:
         print(f"No changes needed for: {file_path}")
+
 
 def post_process_markdown_files(output_dir):
     """
@@ -185,7 +197,7 @@ def post_process_markdown_files(output_dir):
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
                 ensure_list_rendering(file_path)
-                
+
 if __name__ == "__main__":
     generate_site()
     post_process_markdown_files(OUTPUT_DIR)
