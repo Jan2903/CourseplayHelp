@@ -1,4 +1,6 @@
-# Descargador de Cosechadoras  
+# Descargador de Cosechadoras
+
+  
 El modo de descarga de Courseplay funciona con Cosechadoras, Combinadas y Cosechadoras remolcadas conducidas por Courseplay.  
 Esto no funciona con Cosechadoras de Forraje.  
 Puedes usar un remolque normal o un vagón con sinfín para descargar una cosechadora.  

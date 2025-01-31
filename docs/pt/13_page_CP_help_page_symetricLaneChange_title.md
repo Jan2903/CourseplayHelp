@@ -1,4 +1,6 @@
-# Mudança simétrica de idioma  
+# Mudança simétrica de idioma
+
+  
 A mudança de faixa simétrica é usada em cursos multiferramentas e informa ao motorista em qual faixa ele deve dirigir após a curva.  
 Isso é um pouco difícil de entender, então vamos dar uma olhada em dois exemplos.  
 

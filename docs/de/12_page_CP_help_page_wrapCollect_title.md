@@ -1,4 +1,6 @@
-# Ballen wickeln und sammeln  
+# Ballen wickeln und sammeln
+
+  
 Das Wickeln und Sammeln von Ballen kann auf 2 verschiedene Arten erledigt werden.  
 Die erste Möglichkeit wäre, den gleichen Kurs wie den von der Ballenpresse zu laden und der Helfer fährt den Kurs ab.  
 Das kann allerdings etwas problematisch sein, da besonders Rundballen gerne mal davonrollen.  

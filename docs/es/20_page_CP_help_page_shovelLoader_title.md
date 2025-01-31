@@ -1,4 +1,6 @@
-# Conductor de Cargador con Pala  
+# Conductor de Cargador con Pala
+
+  
 Este modo habilita cargadores y tractores con cargador frontal.   
 Con una pala adjunta se puede recoger un montón del suelo o se puede realizar la carga desde un silo de búnker.  
 El material recogido se puede descargar automáticamente en un remolque cercano o en una estación de descarga seleccionada como un BGA.  

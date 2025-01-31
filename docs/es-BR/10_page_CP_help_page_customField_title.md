@@ -1,4 +1,6 @@
-# Campos Personalizados  
+# Campos Personalizados
+
+  
 Existen dos maneras de crear un campo personalizado.  
 Primera: Usar la función de grabación del HUD.  
 Inicie la grabación y grabe el borde de su campo.  

@@ -1,4 +1,6 @@
-# Mini HUD## Загальне
+# Mini HUD
+
+## Загальне
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 

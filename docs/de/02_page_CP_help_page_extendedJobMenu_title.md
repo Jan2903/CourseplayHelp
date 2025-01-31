@@ -1,4 +1,6 @@
-# Erweitertes Helfermenü  
+# Erweitertes Helfermenü
+
+  
 Die Einstellungen für jeden Helfer finden jetzt im Menü "Helfereinstellungen" statt.  
 Das Menü funktioniert grundlegend wie das alte Helfermenü.  
 Wird ein Fahrzeug auf der Map ausgewählt, könnt ihr einen Job erstellen, in Abhängigkeit der angeschlossenen Geräte und des Fahrzeugstyps.  

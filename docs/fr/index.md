@@ -1,4 +1,6 @@
-# Informations générales  
+# Informations générales
+
+  
 Courseplay vous permet de générer des courses (des parcours de travaux dans les champs) avec des caractéristiques améliorées par rapport aux ouvriers classiques, par exemple : les fourrières.  
 Il permet également d'utiliser des presses et des autochargeuses en utilisant le même parcours qu'une faucheuse ou une moissonneuse. Il peut également automatiquement détecter les bottes dans un champ pour les ramasser et/ou les enrubanner.  
 Nouveauté pour cette édition FS22, le Courseplay vous permettra également de générer des courses dans les vignes.  

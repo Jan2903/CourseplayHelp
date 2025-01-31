@@ -1,4 +1,6 @@
-# Kursgenerator: Feldinseln  
+# Kursgenerator: Feldinseln
+
+  
 Das Umfahren von Inseln ist nur noch komplett möglich. Das heißt es wird immer einmal komplett rum gefahren.  
 Es gibt auch im neuen Generator Limitierungen, wenn die Insel zu dicht am Feldrand liegt.  
 Es spielt natürlich eine Rolle, wie breit das Arbeitsgerät ist, ob die Runden um die Insel zu dicht zum Rand des Feldes kommt.  

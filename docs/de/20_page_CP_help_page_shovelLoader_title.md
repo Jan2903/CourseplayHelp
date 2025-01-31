@@ -1,4 +1,6 @@
-# Radlader/Frontlader  
+# Radlader/Frontlader
+
+  
 Mit einem Radlader oder Traktor mit Frontlader und Schaufel lassen sich Haufen vom Boden oder aus einem Bunkersilo automatisch aufnehmen und in einen Anhänger oder Lager abladen.  
 Die Schaufel wird dabei automatisch an die richtigen Positionen gefahren.  
 Ist der Modus im HUD nicht direkt zu sehen, schalte die CP-Jobs durch bis der Modus erscheint.  

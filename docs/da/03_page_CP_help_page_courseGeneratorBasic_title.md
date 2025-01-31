@@ -1,4 +1,6 @@
-# Course generator basics  
+# Course generator basics
+
+  
 Hvert rute genereres af rutegeneratoren. Dette er et mægtigt værktøj, som giver dig mulighed for at tilpasse den genererede rute efter dine behov.  
 Hvis du er ny til dette, bør du nok starte med kun at ændre indstillingen for foragermængde.  
 Derefter kan du altid ændre de andre værdier og trykke generer rute og se, hvilken indflydelse visse værdier har for ruten .  

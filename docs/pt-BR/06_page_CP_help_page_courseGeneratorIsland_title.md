@@ -1,4 +1,6 @@
-# Gerador de ilhas na rota  
+# Gerador de ilhas na rota
+
+  
 Dirigir ao redor da ilha agora só é possível com uma volta completa ao redor dela.  
 Mesmo no novo gerador, os limites para a ilha estão muito próximos da borda do campo.  
 A largura de trabalho da ferramenta é decisiva se a ilha está muito próxima ou não.  

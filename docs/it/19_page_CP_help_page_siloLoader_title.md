@@ -1,4 +1,6 @@
-# Caricamento del silos  
+# Caricamento del silos
+
+  
 Puoi usare questo lavoro con un Ropa Maus o simile per raccogliere cumuli sul campo o nelle vicinanze e scaricarli in uno scaricatore Courseplay.  
 Inoltre, è possibile caricare da un silo bunker.  
   

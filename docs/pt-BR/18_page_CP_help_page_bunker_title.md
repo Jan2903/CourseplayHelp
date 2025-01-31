@@ -1,4 +1,6 @@
-# Trabalhar no silo bunker  
+# Trabalhar no silo bunker
+
+  
 Courseplay é capaz de compactar ou distribuir palha em um silo ou silo bunker e empurrar a palha.  
 A compactação é possível sem qualquer ferramenta especial, com rolo, peso ou apenas o veículo.  
 Para distribuição ou nivelar, existem ferramentas especiais. (por exemplo, Fliegel DUO).  

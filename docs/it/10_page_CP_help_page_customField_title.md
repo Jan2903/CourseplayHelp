@@ -1,4 +1,6 @@
-# Campi personalizzati  
+# Campi personalizzati
+
+  
 Ci sono due modi per creare campi personalizzati.  
 Il primo è usare la funzione di registrazione dell'HUD.  
 Per prima cosa premi il pulsante di registrazione del percorso e poi guida il bordo del campo che vuoi registrare.  

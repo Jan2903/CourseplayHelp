@@ -1,4 +1,6 @@
-# Générateur de courses fourrières  
+# Générateur de courses fourrières
+
+  
 Le paramétrage des fourrières n'apparait que lorsque vous en souhaitez au moins une.  
 Vous pouvez spécifier si la course doit démarrer par elles, comment sont appréhendés leurs coins, leur sens (horaire ou anti-horaire) et leur chevauchement.  
 Les fourrières sont fortement recommandées pour aider les véhicules à rester dans le champ lorsqu'ils manoeuvrent en bout de rang.  

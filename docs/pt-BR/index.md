@@ -1,4 +1,6 @@
-# Informação Geral  
+# Informação Geral
+
+  
 Courseplay permite gerar rotas no campo com recursos adicionais, por exemplo: cabeceiras.  
 Também possibilita o uso de enfardadeiras e forrageiras, que podem ser enviadas na mesma rota, como colheitadeira de grama.  
 Outra grande característica é a coleta ou embalagem de fardos no campo.  

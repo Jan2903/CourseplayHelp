@@ -1,4 +1,6 @@
-# Course generator headland  
+# Course generator headland
+
+  
 Foragerindstillinger vises kun, når du har indstillet mindst 1 ved Antal forager.  
 Du får muligheder for, hvor du skal starte, hjørneindstillinger, retning og overlapning.  
 Forager anbefales for at forhindre køretøjet i at forlade marken, når de drejer.  

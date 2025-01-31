@@ -1,4 +1,6 @@
-# Generátor tras souvratí  
+# Generátor tras souvratí
+
+  
 Nastavení souvrati se zobrazí pouze tehdy, když nastavíte alespoň 1 v poli 'Počet souvratí'.  
 Získáte možnosti, kde začít, nastavení rohů, směr a překrytí.  
 Velmi se doporučují souvratě, aby se zabránilo tomu, že nástroje opustí pole při otáčení.  

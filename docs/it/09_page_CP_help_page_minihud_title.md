@@ -1,4 +1,6 @@
-# Mini HUD## Generale
+# Mini HUD
+
+## Generale
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 

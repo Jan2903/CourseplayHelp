@@ -1,4 +1,6 @@
-# Rota düzenleyici  
+# Rota düzenleyici
+
+  
 Rota düzenleyici, rotaları ve özel çalışma alanlarını düzenlemek için kullanılabilir.  
 Yüklü rotalar, editör kapatıldığında otomatik olarak kaydedilecek ve üzerine yazılacaktır.  
   

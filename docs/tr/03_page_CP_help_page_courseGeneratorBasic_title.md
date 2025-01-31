@@ -1,4 +1,6 @@
-# Rota Oluşturucu Temelleri  
+# Rota Oluşturucu Temelleri
+
+  
 Courseplay'in rota oluşturucu aracı, her türlü iş için özelleştirilmiş tarla rotaları oluşturabilen gelişmiş bir araçtır.  
 Birçok ayara sahiptir ve buna alışmak biraz zaman alabilir.Eğer Courseplay'de yeniyseniz, önce manevra koridorlarının sayısını   
 ayarlayarak başlamalı, ardından daha gelişmiş ayarlara geçmelisiniz.  

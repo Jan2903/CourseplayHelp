@@ -1,4 +1,6 @@
-# Course generator: islands  
+# Course generator: islands
+
+  
 Courseplay will generate headlands around islands when island bypass is enabled, so when the course first encounters an island, it will make at least one full circle around it.  
 You can set the number of headlands (thus the number of circles) around the island if you need more room for vehicles turning at the island.  
 Keep in mind that the generator may decide to generate fewer headlands if the island is too close to the field boundary.  

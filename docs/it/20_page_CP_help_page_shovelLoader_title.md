@@ -1,4 +1,6 @@
-# Autista di pale gommate  
+# Autista di pale gommate
+
+  
 Questa modalità consente l'utilizzo di pale gommate e trattori con caricatore frontale.  
 Con una pala attaccata è possibile raccogliere un mucchio da terra o eseguire il caricamento da un silo bunker.  
 Il livello di riempimento prelevato può essere scaricato automaticamente in un rimorchio vicino o in una stazione di scarico selezionata come un BGA.  

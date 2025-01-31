@@ -1,4 +1,6 @@
-# Mini-HUD## Grundfunktionen
+# Mini-HUD
+
+## Grundfunktionen
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 

@@ -1,4 +1,6 @@
-# Chargeuse sur roue  
+# Chargeuse sur roue
+
+  
 Ce mode permet l'utilisation de chargeurs sur roues et de tracteurs équipés d'un chargeur frontal.   
 Avec une pelle attachée, un tas peut être ramassé sur le sol ou depuis un silo bunker.  
 Le contenu de la pelle peut être déchargé automatiquement dans une remorque proche ou dans une station de déchargement sélectionnée comme par exemple un BGA.  

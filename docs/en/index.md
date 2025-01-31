@@ -1,4 +1,6 @@
-# General Information  
+# General Information
+
+  
 Courseplay allows you to generate field courses with additional features, for example: headlands.  
 It also enables the usage of balers and forage wagons, that can be send on the same course, as a mower or harvester from before.  
 Another big feature is the collecting or wrapping of bales on the field.  

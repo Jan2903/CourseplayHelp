@@ -1,4 +1,6 @@
-# Arató kirakodó  
+# Arató kirakodó
+
+  
 A Courseplay kirakodó módja a Courseplay által hajtott kombájnokkal, aratógépekkel, szecskázókkal és vontatott betakarítógépekkel működik.  
 A kombájn kirakásához használhat normál pótkocsit vagy áttöltő kocsit.  
 Az pótkocsi ürítéséhez használd a beépített segítőt, vagy az AutoDrive-ot.  

@@ -1,4 +1,6 @@
-# Ładowarka  
+# Ładowarka
+
+  
 W tym trybie można pracować ładowarką kołową oraz ciągnikami z ładowaczem czołowym.  
 Za pomocą podczepionej łyżki można zebrać ładunek z ziemi lub silosu bunkrowego.  
 Zebrany ładunek może zostać automatycznie wyładowany na pobliską przyczepę lub wybrany punkt rozładunku, np. BGA.  

@@ -1,4 +1,6 @@
-# Kursredaktör  
+# Kursredaktör
+
+  
 Kursredigeraren kan användas för att redigera kurser och anpassade fält.  
 De inlästa banorna sparas/skrivs över automatiskt när editorn stängs.  
   

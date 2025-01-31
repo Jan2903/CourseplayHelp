@@ -1,4 +1,6 @@
-# Déchargement d'une récolteuse  
+# Déchargement d'une récolteuse
+
+  
 Le mode déchargement du Courseplay fonctionne avec les moissonneuses, les récolteuses ainsi que les récolteuses tractées qui sont conduites par un ouvrier Courseplay.  
 Cela ne fonctionne pas avec les ensileuses.  
 Vous pouvez soit utiliser une benne classique ou un transbordeur pour aller vider une moissonneuse.  

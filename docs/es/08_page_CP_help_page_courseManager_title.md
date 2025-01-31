@@ -1,4 +1,6 @@
-# Administrador de Cursos  
+# Administrador de Cursos
+
+  
 El administrador de cursos le permite guardar cursos y le permite cargar el curso guardado más tarde nuevamente.  
 Esto es realmente importante cuando desea que varios trabajadores conduzcan el mismo curso para convoy (herramientas múltiples).  
 Esta función también le permite recoger la hilera dejada por una cosechadora o una hileradora con un remolque de forraje o una empacadora.  

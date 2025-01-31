@@ -1,4 +1,6 @@
-# Course generator: center  
+# Course generator: center
+
+  
 The generator provides several different patterns to generate the course for the center of the field. The best pattern is usually determined by the job and the implements selected. The patterns were created based on feedback and information from our community.  
 The simple up down pattern works almost every time for any tool.   
 Other patterns may improve efficiency, such as using the Lands pattern when harvesting with a combine will keep the pipe out of the fruit for a more faster unloading.  

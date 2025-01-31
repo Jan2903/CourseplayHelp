@@ -1,4 +1,6 @@
-# Generator kursu - uwrocia  
+# Generator kursu - uwrocia
+
+  
 Ustawienia uwroci pojawią się tylko wtedy, gdy ustawisz co najmniej 1 w liczbie uwroci.  
 Zyskujesz opcje takie jak: od czego zacząć, ustawienia narożników, kierunek i nakładanie się.  
 Zdecydowanie zalecane są uwrocia, aby zapobiec opuszczaniu pola przez pojazd podczas zawracania.  

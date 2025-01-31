@@ -1,4 +1,6 @@
-# Mini HUD## General functions
+# Mini HUD
+
+## General functions
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 

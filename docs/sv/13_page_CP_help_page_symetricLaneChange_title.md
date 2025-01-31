@@ -1,4 +1,6 @@
-# Symetrisk Lange -förändring  
+# Symetrisk Lange -förändring
+
+  
 Symmetrisk körfältbyte används i multitool kurser och berättar föraren i vilken körfält han måste köra efter svängen.  
 Det här är lite svårt att förstå så låt oss ta en titt på två exempel.  
 

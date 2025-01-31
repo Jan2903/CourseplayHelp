@@ -1,4 +1,6 @@
-# Genişletilmiş YZ Menüsü  
+# Genişletilmiş YZ Menüsü
+
+  
 Yardımcı ayarları artık yeni 'Yardımcı Ayarları' menüsünde bulunuyor.  
 Bu menü, eski YZ Menüsü gibi çalışıyor.  
 YZ Menüsü'nden araç seçip, araca bağlı ekipmana veya seçili araca göre bir iş oluşturabilirsiniz.  

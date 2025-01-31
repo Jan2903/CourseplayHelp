@@ -1,4 +1,6 @@
-# Menadżer kursuMenadżer kursów umożliwia zapisywanie kursów i umożliwia późniejsze ponowne wczytanie zapisanego kursu.  
+# Menadżer kursu
+
+Menadżer kursów umożliwia zapisywanie kursów i umożliwia późniejsze ponowne wczytanie zapisanego kursu.  
 Jest to bardzo ważne, gdy chcesz, aby wielu pomocników jeździło tym samym kursem dla konwoju (wiele maszyn).  
 Ta funkcja umożliwia również zbieranie pokosu pozostawionego przez kombajn lub zgrabiarkę z przyczepą samozbierającą lub prasą.  
 

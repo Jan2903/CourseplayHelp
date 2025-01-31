@@ -1,4 +1,6 @@
-# Všeobecné informace  
+# Všeobecné informace
+
+  
 Courseplay vám umožňuje generovat polní práce s dalšími funkcemi, například: souvratě.  
 Umožňuje také použití lisů a sběracích vozů, které lze poslat na stejnou trať jako sekačku nebo kombajn z dřívějška.  
 Další funkcí je sbírání nebo balení balíků na poli.  

@@ -1,4 +1,6 @@
-# Pracownik silosu bunkrowego  
+# Pracownik silosu bunkrowego
+
+  
 Courseplay jest w stanie zagęszczać lub wyrównywać sieczkę w silosie bunkrowym lub wpychać ją do silosu klinowego.  
 Zagęszczanie jest możliwe bez specjalnego narzędzia, za pomocą walca, obciążnika lub samego pojazdu.  
 Do wyrównywania służą specjalne narzędzia (np. Fliegl Duo).  

@@ -1,4 +1,6 @@
-# Bunker siló munkás  
+# Bunker siló munkás
+
+  
 A Courseplay képes szecskát tömöríteni vagy szétosztani bunkersilóban, vagy szecskát éksilóba tolni.  
 A tömörítés speciális szerszám nélkül, hengerrel, súllyal vagy csak a járművel lehetséges.  
 A terjesztéshez speciális eszközök állnak rendelkezésre. (pl. der Fliegel DUO).  

@@ -1,4 +1,6 @@
-# Gestionnaire des courses  
+# Gestionnaire des courses
+
+  
 Le gestionnaire de courses vous permet de sauvegarder et de charger vos courses pour une utilisation ultérieure.  
 La sauvegarde de la course est également obligatoire lorsque vous utilisez les outils multiples afin de pouvoir affecter la même course à plusieurs ouvriers.  
 Cela vous permet également de pouvoir affecter la course d'une moissonneuse ou d'une faucheuse à une presse ou un véhicule avec une autochargeuse pour venir récupérer les andains.  

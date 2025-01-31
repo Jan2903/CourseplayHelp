@@ -1,4 +1,6 @@
-# Rozładunek kombajnu  
+# Rozładunek kombajnu
+
+  
 Tryb rozładunku w Courseplay działa z kombajnami i kombajnami półzawieszanymi sterowanymi przez pomocnika Courseplay.  
 !! Nie działa z sieczkarniami !!  
 Możesz użyć pojedynczej przyczepy lub wozu przeładunkowego, aby rozładować kombajn.  

@@ -1,4 +1,6 @@
-# Generador de Cursos: Centro  
+# Generador de Cursos: Centro
+
+  
 El generador proporciona varios patrones diferentes para generar el recorrido del centro del campo. El mejor patrón  
 generalmente se determina según el trabajo y los implementos seleccionados. Los patrones se crearon en función de los comentarios y la información de  
 nuestra comunidad.  
