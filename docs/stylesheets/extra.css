@@ -4,8 +4,9 @@
   --md-primary-fg-color--dark:  #85a425;
 }
 
-.md-content {
-    padding-top: 1rem !important; /* Reduce padding above content */
+.md-typeset h1 {
+    margin-top: 0.5rem; /* Reduce top margin */
+    margin-bottom: 0.5rem; /* Adjust spacing below the title */
 }
 
 .md-nav__link {
