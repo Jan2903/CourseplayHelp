@@ -1,4 +1,6 @@
-# Gerente de curso  
+# Gerente de curso
+
+  
 O gerenciador de cursos permite que você salve cursos e carregue o curso salvo novamente mais tarde.  
 Isso é realmente importante, quando você deseja ter vários trabalhadores dirigindo o mesmo curso para comboio (multiferramentas).  
 Esse recurso também permite que você colete a faixa deixada para trás por uma colheitadeira ou um enleirador com um vagão de forragem ou uma enfardadeira.  

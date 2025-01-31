@@ -1,4 +1,6 @@
-# Balya Toplama ve Sarma  
+# Balya Toplama ve Sarma
+
+  
 Balya sarmak ve toplamak iki farklı şekilde yapılabilir.  
 İlk yöntem, balya makineniz için kullandığınız aynı rotayı sarıcı veya toplayıcıya yükleyip aynı rotayı takip etmesini sağlamaktır.  
 Ancak bazı balyalar yuvarlanmayı veya yoldan çıkmayı sevdiğinden biraz zorlayıcı olabilir.  

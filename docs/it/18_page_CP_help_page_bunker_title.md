@@ -1,4 +1,6 @@
-# Lavoratore del silos bunker  
+# Lavoratore del silos bunker
+
+  
 Courseplay è in grado di compattare o distribuire la pula in un silos bunker o spingere la pula in un silos a cuneo.  
 La compattazione è possibile senza alcun attrezzo speciale, con un rullo, un peso o solo il veicolo.  
 Per la distribuzione, ci sono strumenti speciali. (ad es. der Fliegel DUO).  

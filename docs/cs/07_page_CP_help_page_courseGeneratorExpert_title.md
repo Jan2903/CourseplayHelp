@@ -1,4 +1,6 @@
-# Expertní generátor tras  
+# Expertní generátor tras
+
+  
 Některá nastavení jsou viditelná pouze v případě, že v globálním nastavení courseplay nastavíte expertní režim na aktivní.  
 Než si začnete hrát s těmito nastaveními, měli byste se ujistit, že víte, co základní nastavení dělají.  
 Některá expertní nastavení fungují správně pouze za určitých podmínek.  

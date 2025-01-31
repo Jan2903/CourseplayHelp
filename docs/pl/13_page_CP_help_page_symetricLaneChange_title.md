@@ -1,4 +1,6 @@
-# Zmiana pasa  
+# Zmiana pasa
+
+  
 Zmiana pasa jest stosowana w kursach z wieloma maszynami i informuje kierowcę, którym pasem ma jechać po nawróceniu.  
 Z aktywną funkcją zmiany pasa, pojazd zmienia stronę.  
 Jest to trochę trudne do zrozumienia, więc spójrzmy na dwa przykłady.  

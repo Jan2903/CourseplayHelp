@@ -1,4 +1,6 @@
-# Bunkersilo-Arbeiter  
+# Bunkersilo-Arbeiter
+
+  
 Courseplay ist in der Lage, Häckselgut in einem Bunker zu verdichten, zu verteilen oder in einem Keilsilo bis zum Ende zu schieben.  
 Verdichten ist mit Walzen, Gewichten oder nur dem Fahrzeug ohne ein spezielles Gerät möglich.  
 Zum Verteilen gibt es spezielle Geräte, wie z.B. den Fliegl DUO aus dem Modhub.  

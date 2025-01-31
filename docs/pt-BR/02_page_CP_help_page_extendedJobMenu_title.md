@@ -1,4 +1,6 @@
-# Estender menu AI  
+# Estender menu AI
+
+  
 Primeiro você precisa selecionar um veículo no menu AI para criar uma rota de trabalho no campo ou obter acesso às configurações do veículo e ao gerenciador de rotas.  
 A rota carregada atualmente será exibido no mapa.  
 As configurações globais estão sempre visíveis.  

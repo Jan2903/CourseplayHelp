@@ -1,4 +1,6 @@
-# Informacje ogólne  
+# Informacje ogólne
+
+  
 Courseplay pozwala na generowanie kursów prac polowych z dodatkowymi funkcjami jak np. uwrociami.  
 Umożliwia również korzystanie z pras i przyczep samozbierających, które mogą być wysyłane tym samym kursem, co wcześniej kosiarka lub kombajn.  
 Kolejną dużą funkcją jest zbieranie lub owijanie bel na polu.  

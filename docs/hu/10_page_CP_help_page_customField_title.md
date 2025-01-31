@@ -1,4 +1,6 @@
-# Egyéni Mezők  
+# Egyéni Mezők
+
+  
 Kétféleképpen hozhatsz létre egyéni mezőt.  
 Az első a HUD rögzítési funkciójának használata.  
 Indítsd el a felvételt, és vedd fel a mező szélét.  

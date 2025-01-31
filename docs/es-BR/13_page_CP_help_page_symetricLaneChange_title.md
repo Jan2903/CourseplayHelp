@@ -1,4 +1,6 @@
-# Cambio a carril simétrico  
+# Cambio a carril simétrico
+
+  
 El cambio de carril simétrico se utiliza en cursos multiherramienta y le dice al conductor en qué carril debe conducir después del giro.  
 Esto es un poco difícil de entender, así que echemos un vistazo a dos ejemplos:  
 

@@ -1,4 +1,6 @@
-# Plansiloarbetare  
+# Plansiloarbetare
+
+  
 Courseplay kan komprimera eller fördela silage i en plansilo eller trycka silage i en U-silo.  
 Komprimering är möjlig utan specialverktyg, med vält, vikt eller bara fordonet.  
 För distribution finns specialverktyg. (t.ex. der Fliegel DUO).  

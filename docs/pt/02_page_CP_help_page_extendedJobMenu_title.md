@@ -1,4 +1,6 @@
-# Menu Avançado  
+# Menu Avançado
+
+  
 Primeiro precisamos de selectionar um veículo no menu para gerar uma rota para um serviço num campo ou para aceder ás configurações do veículo ou o gestor de rotas.  
 A rota presente irá estar demonstrada no mapa.  
 As configurações globais estão sempre visiveis.  

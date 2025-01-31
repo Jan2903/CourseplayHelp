@@ -1,4 +1,6 @@
-# Pracovník v silážní jámě  
+# Pracovník v silážní jámě
+
+  
 Courseplay je schopen dusat nebo nahrnovat řezanku v silážní jámě.  
 Zhutňování je možné bez speciálního nářadí, s válcem, závažím nebo jen vozidlem.  
 Pro tyto práce existují speciální nástroje. (např. der Fliegl DUO).  

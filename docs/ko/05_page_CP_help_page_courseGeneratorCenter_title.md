@@ -1,4 +1,6 @@
-# Course generator center  
+# Course generator center
+
+  
 For the center of the field, different strategies are available to do the work. Mostly the selected tool is a reason to choose a specific strategie over the other. The available strategies where created based on feedback and informations from our community.  
 The simple up down strategie works almost every time for any tool. But it can be better to choose another, for example when harvesting with a combine, lands is a better way to keep the pipe outside of the fruit for a more efficient unloading.  
 For Chopping, racetrack can be a better solution for less narrow turns to make the work for the unloader easier.  

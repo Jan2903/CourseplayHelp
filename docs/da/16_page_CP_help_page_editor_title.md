@@ -1,4 +1,6 @@
-# Rute editor  
+# Rute editor
+
+  
 Rute-editoren kan bruges til at redigere ruter og brugerdefinerede marker.  
 De indlæste ruter gemmes/overskrives automatisk, når editoren lukkes.  
   

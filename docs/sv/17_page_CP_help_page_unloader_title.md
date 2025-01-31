@@ -1,4 +1,6 @@
-# Skördare avlastare  
+# Skördare avlastare
+
+  
 Avlastningsläget för Courseplay fungerar med skördetröskor, skördare och bogserade skördare som drivs av Courseplay.  
 Det fungerar inte med choppers.  
 Du kan antingen använda en vanlig släpvagn eller en skruvvagn för att lossa en skördetröska.  

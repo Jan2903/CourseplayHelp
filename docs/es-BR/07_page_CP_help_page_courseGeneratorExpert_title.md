@@ -1,4 +1,6 @@
-# Generador de Cursos: Experto  
+# Generador de Cursos: Experto
+
+  
 Algunas configuraciones solo son visibles si activas el modo experto en la configuración global del curso.  
 Antes de probar esas configuraciones, debes asegurarte de saber qué hacen las configuraciones básicas.  
 Algunas configuraciones expertas solo funcionan correctamente en determinadas condiciones.  

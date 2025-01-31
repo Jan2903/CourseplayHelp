@@ -1,4 +1,6 @@
-# Gestione percorsi  
+# Gestione percorsi
+
+  
 Il gestore del percorso consente di salvare il percorso e di caricare nuovamente il percorso salvato in un secondo momento.  
 Questo è davvero importante, quando vuoi avere più lavoratori che guidano lo stesso percorso per convoglio (multi strumenti).  
 Questa funzione consente inoltre di raccogliere l'andana lasciata da una mietitrebbia o da un andanatore con un carro per il foraggio o una pressa per balle.  

@@ -1,4 +1,6 @@
-# Mini HUD## Genel işlevler
+# Mini HUD
+
+## Genel işlevler
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 

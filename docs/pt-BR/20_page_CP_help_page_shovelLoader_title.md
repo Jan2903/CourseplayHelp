@@ -1,4 +1,6 @@
-# Wheelloader Driver  
+# Wheelloader Driver
+
+  
 Este modo habilita carregadeiras de rodas e tratores com carregador frontal.  
 Com uma pá acoplada, uma pilha pode ser retirada do solo ou o carregamento de um silo pode ser realizado.  
 O nível de enchimento recolhido pode ser descarregado automaticamente em uma carreta próximo ou em uma estação de descarga selecionada, como um BGA.  

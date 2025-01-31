@@ -1,4 +1,6 @@
-# Trabajador de Silos Búnker  
+# Trabajador de Silos Búnker
+
+  
 Courseplay puede compactar o distribuir material picado en un silo tipo búnker o empujarlo en un silo de cuña.  
 La compactación es posible sin ninguna herramienta especial, con rodillo, peso, o solo el vehículo.  
 Para la distribución, hay herramientas especiales. (por ejemplo, el Fliegel DUO).  

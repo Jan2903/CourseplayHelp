@@ -1,4 +1,6 @@
-# Generator kursu - zaawansowane  
+# Generator kursu - zaawansowane
+
+  
 Niektóre ustawienia są widoczne tylko po włączeniu trybu zaawansowanego w globalnych ustawieniach.  
 Zanim zaczniesz bawić się tymi ustawieniami, upewnij się, że wiesz, co robią ustawienia podstawowe.  
 Niektóre ustawienia zaawansowane działają poprawnie tylko w określonych warunkach.  

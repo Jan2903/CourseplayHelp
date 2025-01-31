@@ -1,4 +1,6 @@
-# Pannello Informazioni![Image](../assets/images/infopanel_0_0_480_130.png)
+# Pannello Informazioni
+
+![Image](../assets/images/infopanel_0_0_480_130.png)
 
   
 Questo è il nostro pannello informativo, può essere spostato con il cursore del mouse, proprio come la nostra Mini HUD.  

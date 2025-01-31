@@ -1,4 +1,6 @@
-# Gerador de rotas especialista  
+# Gerador de rotas especialista
+
+  
 Algumas configurações só são visíveis se você definir o modo especialista como ativo nas configurações globais do courseplay.  
 Antes de brincar com essas configurações, você deve ter certeza de que sabe o que as configurações básicas fazem.  
 Algumas configurações de especialista só funcionam corretamente sob algumas condições.  

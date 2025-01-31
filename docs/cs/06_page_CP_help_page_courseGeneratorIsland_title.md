@@ -1,4 +1,6 @@
-# Generátor tras ostrova  
+# Generátor tras ostrova
+
+  
 Objíždění ostrova je nyní možné pouze při jeho úplném objíždění.  
 I v novém generátoru jsou limity pro ostrov příliš blízko hranice pole.  
 O tom, zda je ostrov příliš blízko, nebo ne, rozhoduje pracovní šířka nástroje.  

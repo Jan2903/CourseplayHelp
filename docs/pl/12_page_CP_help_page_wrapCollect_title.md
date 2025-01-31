@@ -1,4 +1,6 @@
-# Zbieranie i owijanie bel  
+# Zbieranie i owijanie bel
+
+  
 Zbieranie i owijanie bel można wykonać na dwa różne sposoby.  
 Pierwszym z nich jest załadowanie tego samego kursu, który był używany w prasie i umożliwienie przyczepie zbierającej lub owijarce przejechanie tego kursu.  
 Jednak może to być trudne, ponieważ niektóre bele uwielbiają toczyć się lub znikać ze ścieżki.  

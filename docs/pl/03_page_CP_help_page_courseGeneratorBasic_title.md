@@ -1,4 +1,6 @@
-# Generator kursu - podstawa  
+# Generator kursu - podstawa
+
+  
 Każdy kurs prac polowych jest generowany przez generator kursów. To potężne narzędzie, które pozwala dostosować wygenerowany kurs do własnych potrzeb.  
 Jeśli jesteś w tym nowy, prawdopodobnie powinieneś zacząć od zmiany tylko ustawienia ilości uwroci.  
 Później zawsze możesz zmienić inne wartości, nacisnąć generowanie kursu i zobaczyć, jaki wpływ na kurs mają poszczególne wartości.  

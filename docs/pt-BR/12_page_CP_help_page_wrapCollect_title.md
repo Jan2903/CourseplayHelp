@@ -1,4 +1,6 @@
-# Fardos coletar e embalar  
+# Fardos coletar e embalar
+
+  
 O embalar e a coleta dos fardos podem ser feitos de duas maneiras diferentes.  
 A primeira é carregar o mesmo percurso que você usou para sua enfardadeira e deixar a embaladora ou coletor executar esse percurso.  
 No entanto, isso pode ser complicado, pois alguns fardos adoram rolar ou sair do caminho.  

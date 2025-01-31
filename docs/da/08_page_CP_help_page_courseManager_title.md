@@ -1,4 +1,6 @@
-# Rute manager  
+# Rute manager
+
+  
 Rutegeneratoren giver dig mulighed for at gemme ruter og giver dig mulighed for at indlæse den gemte rute senere igen.  
 Dette er virkelig vigtigt, når du vil have flere arbejdere, der kører den samme rute for konvoj.  
 Denne funktion giver dig også mulighed for at hente skåret efterladt af en mejetærsker eller en skårlægger med en fodervogn eller en ballepresser.  

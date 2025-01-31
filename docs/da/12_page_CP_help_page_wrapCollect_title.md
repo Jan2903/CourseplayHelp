@@ -1,4 +1,6 @@
-# Indpakning og opsamling af baller  
+# Indpakning og opsamling af baller
+
+  
 Indpakning og opsamling af baller kan foregå på to forskellige måder.  
 Den første er at indlæse den samme rute, som du brugte til din ballepresser, og lade indpakkeren eller opsamleren køre denne rute.  
 Dette kan dog være vanskeligt, da nogle baller elsker at rulle væk fra ruten.  

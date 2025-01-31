@@ -1,4 +1,6 @@
-# Kursgenerator: Feldmitte  
+# Kursgenerator: Feldmitte
+
+  
 Für die Mitte gibt es die verschiedenste Strategien das Feld ab zu arbeiten. Oft spielt das gewählte Gerät eine Rolle. Die verfügbaren Strategien entstanden durch Feedback und Informationen aus unserer Community.  
 Das einfache hoch und runter fahren funktioniert an sich immer. Es kann aber besser sein, zum Dreschen z.B. Beete zu verwenden, damit das Rohr öfter außerhalb der Frucht liegt, was ein effizienteres Abtanken ermöglicht.  
 Beim Häckseln möchte man möglichst wenig enge Wendemanöver haben, damit der Abfahrer einfacher hinterher fahren kann. Dafür ist Kreisförmig eine gute Wahl.  

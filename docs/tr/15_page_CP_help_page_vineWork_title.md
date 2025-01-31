@@ -1,4 +1,6 @@
-# Bağ çalışması  
+# Bağ çalışması
+
+  
 Bağlarda çalışmak, normal bir tarlada çalışmaktan biraz daha karmaşıktır.  
 En iyi sonucu almak için, asmalar varsayılan ızgara düzeninde birbirine bitişik olmalıdır.  
 Her asmanın başlangıç ve bitişi yaklaşık olarak aynı uzunlukta olmalıdır.  

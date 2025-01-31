@@ -1,4 +1,6 @@
-# Generator kursu - przeszkody  
+# Generator kursu - przeszkody
+
+  
 Jazda wokół przeszkody jest teraz możliwa tylko jeśli jest możliwość jej całkowitego okrążenia.  
 Nawet w nowym generatorze są limity dla przeszkody będącej zbyt blisko granicy pola.  
 Szerokość robocza narzędzia decyduje o tym, czy przeszkoda jest zbyt blisko, czy nie.  

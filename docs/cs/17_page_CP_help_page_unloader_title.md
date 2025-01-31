@@ -1,4 +1,6 @@
-# Odvoz od kombajnu  
+# Odvoz od kombajnu
+
+  
 Režim vykládky Courseplay funguje s kombajny a taženými kombajny řízenými Courseplay.  
 Nefunguje se řezačkami.  
 K vyložení kombajnu můžete použít buď běžný vlek, nebo překládací vůz.  

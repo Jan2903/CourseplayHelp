@@ -1,4 +1,6 @@
-# Nivelage et tassage de silos  
+# Nivelage et tassage de silos
+
+  
 Courseplay est capable de compacter et niveler de l'ensilage dans les silos bunker et couloir.  
 La compaction peut s'effectuer sans outil dédié, avec un rouleau, une masse ou tout simplement le véhicule lui-même.  
 Pour le nivelage, il convient d'utiliser des lames ou des répartisseurs(comme par exemple les Fliegel DUO).  

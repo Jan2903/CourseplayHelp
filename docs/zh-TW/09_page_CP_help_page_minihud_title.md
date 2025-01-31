@@ -1,4 +1,6 @@
-# 迷你HUD## General
+# 迷你HUD
+
+## General
 
 ![Image](../assets/images/minihudhelp_general_0_0_478_305.png)
 

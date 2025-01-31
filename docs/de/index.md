@@ -1,4 +1,6 @@
-# Generelle Informationen  
+# Generelle Informationen
+
+  
 Mit Courseplay ist es möglich, Feldkurse mit zusätzlichen Funktionen zu generieren, beispielsweise Vorgewende.  
 Ebenso ermöglicht es die Nutzung von Ballenpressen und Sammelwagen mit dem Helfer auf dem selben Kurs, welcher zuvor von einem Mähwerk oder Drescher bearbeitet wurde.  
 Eine weitere Funktion ist das Ballenwickeln oder -sammeln auf einem Feld.  

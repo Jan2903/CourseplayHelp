@@ -1,4 +1,6 @@
-# Pracovník kolového nakladače  
+# Pracovník kolového nakladače
+
+  
 Tento režim umožňuje použití kolových nakladačů a traktorů s čelním nakladačem.   
 S připojenou lžící lze vybírat hromadu ze země nebo nakládat ze silážní jámy.  
 Náplň lze automaticky vyložit do blízkého přívěsu nebo na vybranou vykládací stanici, jako je BGA.  
