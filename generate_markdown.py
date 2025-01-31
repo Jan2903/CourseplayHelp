@@ -45,7 +45,7 @@ def create_markdown_file(language_code, page, output_dir, file_index, is_index=F
     
     with open(file_path, "w", encoding="utf-8") as md_file:
         # Write the page title
-        md_file.write(f"# {page['title']}")
+        md_file.write(f"# {page['title']}\n\n")
         
         # Write paragraphs
         for paragraph in page.get("paragraphs", []):
