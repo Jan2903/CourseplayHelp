@@ -1,8 +1,6 @@
-# markdown_site_gen.py
+# generate_markdown.py
 # Author: Jan2903
-# Date: 14/01/2025
-# Description: Script to generate multilingual Markdown files from JSON configurations and translations. 
-#              Handles images and cleans up unused assets.
+# Date: 08/01/2025
 
 import os
 import re
