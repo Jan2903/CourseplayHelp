@@ -74,6 +74,9 @@ plugins:
         - locale: "hu"
           name: "Magyar"
           build: true
+        - locale: "id"
+          name: "Indonesia"
+          build: true
         - locale: "it"
           name: "Italiano"
           build: true
@@ -112,6 +115,9 @@ plugins:
           build: true
         - locale: "uk"
           name: "Українська"
+          build: true
+        - locale: "vi"
+          name: "Tiếng Việt"
           build: true
         - locale: "zh"
           name: "简体中文"
