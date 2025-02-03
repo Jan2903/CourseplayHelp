@@ -1,5 +1,4 @@
 # Harvester unloader
-
   
 Aflæssertilstanden i Courseplay fungerer med mejetærskere, mejetærskere og bugserede mejetærskere som køres af Courseplay.  
 Det virker dog ikke med en snitter.  
@@ -16,9 +15,7 @@ Aflæsere har kun nogle få indstillinger, du kan justere:
   
   
 
-
 ## Using trailers
-
   
 Hvis du bruger en trailer til at aflæsse med, er der to måder at transportere din høst til en silo eller til et salgssted på: Giants hjælperen  
 eller AutoDrive.  
@@ -28,9 +25,7 @@ I sidstnævnte tilfælde skal du vælge aflæsningsstationen, efter at hjulikone
   
 At tømme en trailer med AutoDrive fungerer på samme måde som at bruge en læssevogn, tjek AutoDrive Tutorials på internettet.  
 
-
 ## Using auger wagons
-
   
 Sneglevogne er meget enkle at bruge.  
 Ligesom med trailere bruger du målikonet til at vælge den mark, hvor du vil aflæsse en mejetærsker eller mejetærsker.  
@@ -39,9 +34,7 @@ Hvis sneglevognen er fyld, leder den automatisk efter en trailer på eller i næ
 Hvis traileren er fuld, og sneglevognen stadig ikke er tom, vil den lede efter en anden trailer at tømme af i.  
 Er der ingen trailer tilgængelig, fortsætter den med at tømme mejetærskeren.  
 
-
 ## Unload on the field
-
   
 The unloading position can be selected with the unload marker.  
 The position needs to be on the same field or near the field edge.  
@@ -49,5 +42,3 @@ If the marker points to an already existing heap,
 then this heap is used to unload to.  
 The direction of the marker is used for the unload direction.  
 Additionally for trailers a tipside needs to be selected.  
-
-

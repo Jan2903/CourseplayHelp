@@ -1,5 +1,4 @@
 # Tekerlekli yükleyici/Ön yükleyici
-
   
 Bu mod tekerlekli yükleyiciler ve ön yükleyicili traktörlerin kullanılmasını sağlar.   
 Kepçe ile yerdeki bir yığından veya bunker silosundan ürün alınıp yükleme yapılabilir.  
@@ -19,7 +18,6 @@ Ofseti sıfırlamak için HUD üzerindeki ayarlar metnine tıklamanız gerekir. 
 Silaj kavrayıcı kepçeler, yükleme ve boşaltma işleminde otomatik olarak açılıp kapanır.   
 Şeker pancarlarını parçalamak için kullanılan kepçe de işlevsel bir alettir.  
 
-
   
 Tekerlekli yükleyici işçisini başlatmak için HUD üzerindeki hedef simgesine tıklayarak yükleme ve boşaltma konumlarını ayarlamanız gerekir.  
 Yükleme konumu, yükleyici modundaki ile aynı şekilde çalışır. Yığın etrafında mavi bir kare oluşacaktır.  
@@ -29,7 +27,6 @@ Römorka boşaltma işlemi için önce YZ menüsünden römorkun park edileceği
 İşçi bu alan içinde park edilmiş herhangi bir römorka gidip boşaltma işlemini gerçekleştirir. İşaretleyicinin yönü önemli değildir.  
 Boşaltma istasyonuna boşaltmak için hedefi değiştirmeniz ve boşaltma konumu işareti ile istasyonun tetik noktasını işaretlemeniz gerekir.  
 
-
   
 En başlarda bir tetik noktası seçmek biraz karmaşık gelebilir, aslında oldukça basit bir işlemdir.  
 Bir bina birden fazla tetik noktasına sahip olabilir, bu yüzden boşaltma yapmak istediğiniz noktayı seçmeniz gerekir.  
@@ -38,6 +35,4 @@ Bir tetik noktası seçmek için, yuvarlak işaretleyicinin ortasını turuncu �
 Okun yönü, işçinin boşaltma yapmak için tetik noktasına hangi yönden yaklaşacağını gösterir.  
 Seçimler tamamlandığında örnek görsele benzer bir görüntü olması gerekir.  
 
-
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)
-

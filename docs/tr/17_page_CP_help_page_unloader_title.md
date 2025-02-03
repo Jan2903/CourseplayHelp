@@ -1,5 +1,4 @@
 # Biçerdöver boşaltıcı
-
   
 Courseplay'in boşaltma modu, Courseplay tarafından sürülen biçerdöverler, hasat makineleri, kıyıcılar ve çekilen hasat makineleri ile çalışır.  
 Bir biçerdöveri boşaltmak için normal bir römork veya burgu vagonu kullanabilirsiniz.  
@@ -15,9 +14,7 @@ Böylece römork neredeyse dolu bir şekilde bir sonraki çağrıyı beklemek ye
 - HUD üzerindeki ofset ayarını kullanarak boşaltıcıyı biçerdöverin borusu altında doğru şekilde konumlandırabilirsiniz..  
   
 
-
 ## Römork kullanma
-
   
 Bir römork kullanarak boşaltma yapıyorsanız, hasadınızı siloya veya satış noktasına taşımak için iki yöntem vardır:   
 Varsayılan GIANTS işçileri veya AutoDrive.  
@@ -27,9 +24,7 @@ YZ Menüsü'nden hedef seçerek teslim etme işi oluşturabilir ya da HUD üzeri
   
 AutoDrive ile bir römorku boşaltmak, burgu vagonu kullanmayla benzer şekilde çalışır. AutoDrive ile ilgili eğitim videolarına internetten göz atabilirsiniz.  
 
-
 ## Burgu vagonu kullanma
-
   
 Burgu vagonlarının kullanımı çok basittir..  
 Tıpkı römorklarda olduğu gibi biçerdöveri veya hasat makinesini boşaltmak istediğiniz tarlayı seçmek için hedef simgesini kullanırsınız.  
@@ -38,9 +33,7 @@ Burgu vagonu doluysa, otomatik olarak tarlada veya tarlanın yakınında yüklem
 Eğer römork doluysa ve burgu vagonu hâlâ boşalmamışsa yükü boşaltmak için başka bir römork arar.  
 Eğer hiç römork bulamazsa, biçerdöveri boşaltmaya devam eder.  
 
-
 ## Tarlada boşaltma
-
   
 Boşaltma konumu, boşaltma işaretleyicisi ile seçilebilir.  
 Tarlada boşaltma etkinleştirilmelidir.  
@@ -49,5 +42,3 @@ Konumun tarlada veya tarla yakınında olması gerekir.
 üzerine boşaltma yapılır.  
 Boşaltma yönünü işaretin yönü belirler.  
 Bazı römorklarda, boşaltma yönü geri ve tahıl kapısı arasında değiştirilebilir.  
-
-

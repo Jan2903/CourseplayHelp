@@ -1,11 +1,9 @@
 # Generator kursu - podstawa
-
   
 Każdy kurs prac polowych jest generowany przez generator kursów. To potężne narzędzie, które pozwala dostosować wygenerowany kurs do własnych potrzeb.  
 Jeśli jesteś w tym nowy, prawdopodobnie powinieneś zacząć od zmiany tylko ustawienia ilości uwroci.  
 Później zawsze możesz zmienić inne wartości, nacisnąć generowanie kursu i zobaczyć, jaki wpływ na kurs mają poszczególne wartości.  
 Eksperymentowanie z nim i sprawdzanie, jaki wpływ mają różne ustawienia na różnych polach, jest najlepszym sposobem, aby się do tego przyzwyczaić.  
-
 
   
 Podstawowe:  
@@ -21,5 +19,3 @@ Spirala, na około i spirala od środka mają swoje specyficzne zalety nad innym
 - Rzędy do pominięcia: Jest to bardzo pomocna opcja przyspieszająca pracę, ponieważ pojazd nie będzie musiał cofać, aby trafić do następnego rzędu.  
 - Rzędy wysp: Ma to wpływ tylko wtedy, gdy środek pola jest ustawiony na wyspy i informuje generator, ile rzędów powinna mieć każda wyspa. Im więcej rzędów, tym mniej wysp zostanie wygenerowanych.  
 - Kąt rzędów tam i z powrotem: Gdy kierunek rzędu tam i z powrotem jest ustawiony na ręczny, to ustawienie wskaże kierunek generowania.  
-
-

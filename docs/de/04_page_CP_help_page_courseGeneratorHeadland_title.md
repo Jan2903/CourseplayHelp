@@ -1,10 +1,8 @@
 # Kursgenerator: Vorgewende
-
   
 Vorgewende-Einstellungen werden erst sichtbar, wenn die Anzahl der Vorgewende mindestens auf 1 gesetzt ist.  
 Du erhältst Zugang zu Einstellungen, wie z.B. dem Wendemanöver für die Ecken, die Richtung, wo gestartet werden soll, oder wie viel Überlappung die Bahnen haben sollen.  
 Vorgewende sind empfohlen, damit die Arbeitsgeräte beim Wenden von einer Feldbahn zur nächsten auf dem Feld bleiben.  
-
 
   
 - Scharfe Ecken: Erzwingt die Ecken scharf zu fahren, sodass ein Wendemanöver durchgeführt wird.  
@@ -15,6 +13,4 @@ Vorgewende sind empfohlen, damit die Arbeitsgeräte beim Wenden von einer Feldba
 - Feldgrenze: Positive Werte reduzieren den Arbeitsbereich, um einen Puffer zum Feldrand zu generieren. Das ist nützlich, sollten sich einige Objekte zu dicht an der Feldkante befinden.  
 Negative Werte vergrößern den Arbeitsbereich über das Feld hinaus, um eine größere Abdeckung zu bekommen, z.B. wenn der Feldrand nicht genau genug erkannt wurde.  
 
-
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)
-

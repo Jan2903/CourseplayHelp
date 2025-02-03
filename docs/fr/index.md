@@ -1,5 +1,4 @@
 # Informations générales
-
   
 Courseplay vous permet de générer des courses (des parcours de travaux dans les champs) avec des caractéristiques améliorées par rapport aux ouvriers classiques, par exemple : les fourrières.  
 Il permet également d'utiliser des presses et des autochargeuses en utilisant le même parcours qu'une faucheuse ou une moissonneuse. Il peut également automatiquement détecter les bottes dans un champ pour les ramasser et/ou les enrubanner.  
@@ -18,5 +17,3 @@ Qu'est-ce que le mode expert ?
 Lorsque le mode expert est désactivé, vous n'avez accès qu'à certains paramètres.  
 Les autres paramètres sont cachés et réglés sur les valeurs par défaut, ce qui fonctionnera dans la plupart des situations.  
 De cette façon, nous essayons d'aider les nouveaux utilisateurs à se familiariser avec Courseplay sans être submergés par tous les paramètres.  
-
-

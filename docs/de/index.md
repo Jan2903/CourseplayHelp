@@ -1,5 +1,4 @@
 # Generelle Informationen
-
   
 Mit Courseplay ist es möglich, Feldkurse mit zusätzlichen Funktionen zu generieren, beispielsweise Vorgewende.  
 Ebenso ermöglicht es die Nutzung von Ballenpressen und Sammelwagen mit dem Helfer auf dem selben Kurs, welcher zuvor von einem Mähwerk oder Drescher bearbeitet wurde.  
@@ -20,5 +19,3 @@ Was ist der Expertenmodus:
 Wenn der Expertenmodus ausgeschaltet ist, sind weniger Einstellungen verfügbar.  
 Die anderen Einstellungen sind versteckt und verwenden ihren Standardwert, welcher in den meisten Fällen optimal ist.  
 Mit dieser Funktion versuchen wir neuen Courseplay-Nutzern den Einstieg zu erleichtern, ohne diese durch die ganzen Einstellmöglichkeiten zu überfordern.  
-
-

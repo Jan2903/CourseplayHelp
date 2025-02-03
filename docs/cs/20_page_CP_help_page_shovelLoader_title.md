@@ -1,5 +1,4 @@
 # Pracovník kolového nakladače
-
   
 Tento režim umožňuje použití kolových nakladačů a traktorů s čelním nakladačem.   
 S připojenou lžící lze vybírat hromadu ze země nebo nakládat ze silážní jámy.  
@@ -19,7 +18,6 @@ Chcete-li posun vynulovat, musíte kliknout na text nastavení v hud. Hodnotu lz
 Lžíce s drapákem na siláž se při nakládání a vykládání automaticky otevírají a zavírají.  
 Lžíce na drcení cukrové řepy je také zcela funkční.  
 
-
   
 Chcete-li spustit pomocný kolový nakladač, musíte nastavit pozice pro nakládání a vykládání kliknutím na ikonu cíle v hud.  
 Pozice nakládání funguje stejně jako pozice z režimu nakladače. Kolem haldy se vytvoří modrý čtverec.  
@@ -29,7 +27,6 @@ Pokud je vybrána vykládka do přívěsu, je třeba v nabídce AI vybrat oblast
 Pomocník zajede k jakémukoli zaparkovanému přívěsu v této oblasti. Směr značky nemá žádný skutečný význam.  
 Pokud chcete vykládat do vykládacího stanoviště, musíte přepnout cíl a poté označit triger s polohou vykládky.  
 
-
   
 Výběr trigeru vypadá na první pohled trochu složitě, ale ve skutečnosti je to opravdu snadné.  
 Každá budova může mít více než jeden triger, takže si musíte vybrat ten, na který chcete vykládat.  
@@ -38,6 +35,4 @@ Chcete-li některý z nich vybrat, umístěte střed kulaté značky na střed k
 Směr šipky udává pomocníkovi, ze kterého směru se má přiblížit k trigeru pro vyložení.  
 Nyní by váš výběr měl vypadat podobně jako na obrázku.  
 
-
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)
-

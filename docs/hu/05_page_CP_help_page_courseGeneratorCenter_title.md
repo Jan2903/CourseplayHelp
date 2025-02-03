@@ -1,11 +1,9 @@
 # Course generator center
-
   
 For the center of the field, different strategies are available to do the work. Mostly the selected tool is a reason to choose a specific strategie over the other. The available strategies where created based on feedback and informations from our community.  
 The simple up down strategie works almost every time for any tool. But it can be better to choose another, for example when harvesting with a combine, lands is a better way to keep the pipe outside of the fruit for a more efficient unloading.  
 For Chopping, racetrack can be a better solution for less narrow turns to make the work for the unloader easier.  
 Spirale is a better solution for towed harvester with an offset, to keep the tool in the fruit and the tractor outside.  
-
 
   
 - Field center: There are different modes on how your field center pattern should look like. The classic and most used one is up/down.  
@@ -21,28 +19,19 @@ These settings appear only for specific settings you have done before:
 - Spiral from inside: Appears when field center is set to "spiral".  
 - Number of circles: Appears when field center is set to "racetrack".  
 
-
 ## 
 up/down
 
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 ## 
 lands
 
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
-
 ## 
 spiral
 
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 ## 
 racetrack
 
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
-

@@ -1,5 +1,4 @@
 # Gerador de rotas especialista
-
   
 Algumas configurações só são visíveis se você definir o modo especialista como ativo nas configurações globais do courseplay.  
 Antes de brincar com essas configurações, você deve ter certeza de que sabe o que as configurações básicas fazem.  
@@ -12,6 +11,4 @@ Algumas configurações de especialista só funcionam corretamente sob algumas c
 - Usar borda da faixa de base: um recurso completamente novo, que só funciona em campos específicos. Se você tiver um campo com uma borda radial longa e colocar o marcador de campo próximo a ele, a faixa central seguirá essa borda.  
 NOTA IMPORTANTE: se a rota geradaa não for perfeito ou mesmo ruim, a borda selecionada ou o campo não funcionarão com este recurso. Também não haverá uma atualização para isso!  
 
-
 ![Image](../assets/images/baseedge_0_0_1020_545.png)
-

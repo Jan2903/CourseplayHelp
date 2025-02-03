@@ -1,5 +1,4 @@
 # Campos Personalizados
-
   
 Existen dos maneras de crear un campo personalizado.  
 Primera: Usar la función de grabación del HUD.  
@@ -7,16 +6,12 @@ Inicie la grabación y grabe el borde de su campo.
 Una vez hecho esto, presione el botón nuevamente y se le preguntará si desea guardarlo.  
 ¡El inicio y el final no deben superponerse!  
 
-
 ![Image](../assets/images/recordcustomhelp_0_0_765_510.png)
-
   
 Los bordes de los campos personalizados se mostrarán en el menú de IA.  
 Al hacer clic en el nombre, tendrá la opción de eliminarlo, cambiarle el nombre o editarlo con el editor.  
 
-
 ![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
 La segunda opción es dibujar el campo personalizado en el mapa del menú AI.  
 Si no se selecciona ningún punto de acceso, puede presionar el botón Dibujar campo personalizado que se encuentra a continuación.  
@@ -25,6 +20,4 @@ Comience haciendo clic con el botón derecho del mouse para establecer la posici
 Los siguientes clics crearán líneas hasta el clic anterior.  
 Haga clic en el botón Guardar en la parte inferior para terminar de dibujar el campo.  
 
-
 ![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
-

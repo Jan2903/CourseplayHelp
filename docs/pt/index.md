@@ -1,5 +1,4 @@
 # Informação Geral
-
   
 Courseplay permite-te gerar rotas nos campos com recursos adicionais, como por exemplo: nas cabececeiras.  
 Também permite que se use na mesma rotas, enfardadeiras e auto carregadoras de feno, assim como gadanhas ou ceifeiras.  
@@ -18,5 +17,3 @@ O que é o modo avançado:
 Quando o modo avançado é desactivo, só ficamos com acesso a algumas configurações.  
 As outras configurações ficam omitidas e voltam aos valores predefinido, que funciona na maioria das situações.  
 Desta maneira, nós tentamos ajudar o utilizador para que o 'Courseplay' se torne mais fácil se ser deveras complicado com todas as configurações.  
-
-

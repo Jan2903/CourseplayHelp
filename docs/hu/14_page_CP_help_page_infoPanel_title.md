@@ -1,13 +1,10 @@
 # Infó panel
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
-
   
 Ez az információs panel, az egérkurzorral mozgatható, akárcsak a Mini HUD.  
 A Mod neve és verziója mellett a Courseplay segítők állapotinformációit is megjeleníti.  
 Miközben az állapotüzenetet mutatja, a jármű neve jelenik meg.  
 Ha rákattintasz, közvetlenül a járműbe lehet ülni.  
-
 
   
 Az információk a következők:  
@@ -35,5 +32,3 @@ Az információk a következők:
 - Helytelen vetőmag kiválasztva a megbízáshoz  
 - A raklapok tele vannak  
 - Nincs raklap  
-
-

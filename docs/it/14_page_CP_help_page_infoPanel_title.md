@@ -1,13 +1,10 @@
 # Pannello Informazioni
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
-
   
 Questo è il nostro pannello informativo, può essere spostato con il cursore del mouse, proprio come la nostra Mini HUD.  
 Oltre al nome e alla versione della nostra Mod, mostra anche informazioni sullo stato dei lavoratore cp.  
 Mentre si passa con il mouse sul messaggio di stato, verrà visualizzato il nome del veicolo.  
 Cliccandoci sopra, puoi saltare direttamente nel veicolo.  
-
 
   
 I messaggi di stato sono:  
@@ -35,5 +32,3 @@ I messaggi di stato sono:
 - Prodotto sbagliato per la missione selezionata  
 - I pallet sono pieni  
 - Nessun pallet  
-
-

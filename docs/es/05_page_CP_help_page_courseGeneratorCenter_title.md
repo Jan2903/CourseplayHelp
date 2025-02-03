@@ -1,5 +1,4 @@
 # Generador de Cursos: Centro
-
   
 El generador proporciona varios patrones diferentes para generar el recorrido del centro del campo. El mejor patrón  
 generalmente se determina según el trabajo y los implementos seleccionados. Los patrones se crearon en función de los comentarios y la información de  
@@ -8,7 +7,6 @@ El patrón simple de arriba hacia abajo funciona casi siempre para cualquier her
 Tierras cuando se cosecha con una cosechadora, que mantendrá la tubería fuera de la fruta para una descarga más rápida.  
 Para las picadoras, la pista de carreras puede ser una mejor opción para giros más amplios que faciliten el trabajo del descargador.  
 El espiral es la mejor opción para las cosechadoras remolcadas con un desplazamiento para mantener la herramienta en la fruta y el tractor afuera.  
-
 
   
 - Centro del campo: existen diferentes modos para determinar cómo debe verse el patrón del centro del campo. El clásico y más utilizado es arriba/abajo.  
@@ -25,28 +23,19 @@ Estas configuraciones aparecen solo para configuraciones específicas que haya r
 Espiral".  
 - Número de círculos: aparece cuando el centro del campo está configurado en "Pista".  
 
-
 ## 
 arriba/abajo
 
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 ## 
 campos
 
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
-
 ## 
 espiral
 
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 ## 
 pista
 
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
-

@@ -1,5 +1,4 @@
 # Informazioni Generali
-
   
 Courseplay consente di generare percorsi di campo con funzionalità aggiuntive, ad esempio: capezzagne.  
 Consente inoltre l'utilizzo di presse e carri foraggio, che possono essere inviati sullo stesso percorso, come una falciatrice o una mietitrice di prima.  
@@ -20,5 +19,3 @@ Qual è la modalità esperto:
 Quando la Modalità Esperto è disattivata, hai accesso solo ad alcune impostazioni.  
 Le altre impostazioni sono nascoste e impostate sui valori predefiniti, il che funziona nella maggior parte delle situazioni.  
 In questo modo, cerchiamo di aiutare gli utenti a entrare più facilmente in Courseplay senza essere sopraffatti da tutte le impostazioni.  
-
-

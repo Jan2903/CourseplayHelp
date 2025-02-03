@@ -1,5 +1,4 @@
 # General Information
-
   
 Courseplay giver dig mulighed for at generere markbaner med yderligere funktioner, for eksempel: forager.  
 Det gør det også muligt at bruge ballepressere og fodervogne, der kan sendes på samme rute, som slåmaskine eller høstmaskine fra før.  
@@ -17,5 +16,3 @@ Hvad er eksperttilstanden:
 Når eksperttilstanden er deaktiveret, har du kun adgang til nogle indstillinger.  
 De andre indstillinger er skjulte og indstillet til standardværdier, hvilket virker i de fleste situationer.  
 På den måde forsøger vi at hjælpe brugerne med at komme lettere ind i Courseplay uden at blive overvældet af alle indstillingerne.  
-
-

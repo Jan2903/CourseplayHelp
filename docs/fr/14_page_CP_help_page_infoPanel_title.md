@@ -1,13 +1,10 @@
 # Fenêtre d'informations
-
 ![Image](../assets/images/infopanel_0_0_480_130.png)
-
   
 Cette fenêtre d'informations peut être déplacée en maintenant le curseur, tout comme l'ATH.  
 En plus de l'affichage du mod et de sa version, elle donne des informations sur les ouvriers CP actuellement actifs.  
 En laissant le curseur au-dessous du message, vous verrez apparaître le nom du véhicule concerné.  
 En cliquant dessus, vous arrivez directement dans le véhicule.  
-
 
   
 Les informations concernant l'ouvrier peuvent être les suivantes:  
@@ -28,5 +25,3 @@ Les informations concernant l'ouvrier peuvent être les suivantes:
 - Basculement au sol impossible   
 - Tête de coupe non prise en charge   
 - Attelage de la tête de coupe désactivé  
-
-

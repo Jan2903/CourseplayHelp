@@ -1,11 +1,9 @@
 # Course generator basics
-
   
 Hvert rute genereres af rutegeneratoren. Dette er et mægtigt værktøj, som giver dig mulighed for at tilpasse den genererede rute efter dine behov.  
 Hvis du er ny til dette, bør du nok starte med kun at ændre indstillingen for foragermængde.  
 Derefter kan du altid ændre de andre værdier og trykke generer rute og se, hvilken indflydelse visse værdier har for ruten .  
 At eksperimentere med det og tjekke, hvilken indflydelse de forskellige indstillinger på forskellige marker har, er den bedste måde at vænne sig til det.  
-
 
   
 Grundlæggende:  
@@ -21,5 +19,3 @@ Spiral, cirkelformede og bede har deres egne specifikke fordele i forhold til de
 - Rækker, der skal springes over: Dette er en meget nyttig mulighed for at fremskynde dit arbejde, da køretøjet behøver ikke at bakke frem og tilbage komme til den næste række.  
 - Rækker pr. Bede: Dette har kun indflydelse, når markcentret er indstillet til Bede og vil fortælle generatoren, hvor mange rækker hvert bede skal have. Jo flere rækker, jo færre bede vil blive genereret.  
 - Op/ned rækkevinkel: Når op/ned rækkeretningen er indstillet til manuel, vil denne indstilling fortælle genereringsretningen.  
-
-

@@ -1,12 +1,10 @@
 # Course generator: center
-
   
 The generator provides several different patterns to generate the course for the center of the field. The best pattern is usually determined by the job and the implements selected. The patterns were created based on feedback and information from our community.  
 The simple up down pattern works almost every time for any tool.   
 Other patterns may improve efficiency, such as using the Lands pattern when harvesting with a combine will keep the pipe out of the fruit for a more faster unloading.  
 For choppers, racetrack can be a better choice for wider turns to make the work of the unloader easier.  
 Spiral is a best for towed harvesters with an offset to keep the tool in the fruit and the tractor outside.  
-
 
   
 - Field center: There are different modes on how your field center pattern should look like. The classic and most used one is up/down.  
@@ -22,28 +20,19 @@ These settings appear only for specific settings you have done before:
 - Spiral from inside: Appears when field center is set to "spiral".  
 - Number of circles: Appears when field center is set to "racetrack".  
 
-
 ## 
 up/down
 
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 ## 
 lands
 
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
-
 ## 
 spiral
 
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 ## 
 racetrack
 
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
-

@@ -1,11 +1,9 @@
 # Kursgenerator: Feldmitte
-
   
 Für die Mitte gibt es die verschiedenste Strategien das Feld ab zu arbeiten. Oft spielt das gewählte Gerät eine Rolle. Die verfügbaren Strategien entstanden durch Feedback und Informationen aus unserer Community.  
 Das einfache hoch und runter fahren funktioniert an sich immer. Es kann aber besser sein, zum Dreschen z.B. Beete zu verwenden, damit das Rohr öfter außerhalb der Frucht liegt, was ein effizienteres Abtanken ermöglicht.  
 Beim Häckseln möchte man möglichst wenig enge Wendemanöver haben, damit der Abfahrer einfacher hinterher fahren kann. Dafür ist Kreisförmig eine gute Wahl.  
 Spiralförmig hingegen kann man gut für schmale gezogene Ernter verwenden, so dass man durch dessen Offset das Arbeitsgerät immer zur Frucht stellt, den Traktor aber außerhalb dieser fährt.  
-
 
   
 - Feldmitte: Es gibt verschiedene Arbeitsweisen, um die Feldmitte zu bearbeiten. Der klassische Weg ist hoch/runter.  
@@ -22,28 +20,19 @@ Folgende Einstellungen erscheinen erst Anhand bestimmter vorheriger Einstellung:
 - Spirale von Innen: Erscheint bei Feldmitte "spiralförmig".  
 - Anzahl Runden: Erscheint bei Feldmitte "kreisförmig".  
 
-
 ## 
 hoch/runter
 
-
 ![Image](../assets/images/updown_0_0_1024_591.png)
-
 ## 
 Beete
 
-
 ![Image](../assets/images/lands_0_0_1024_599.png)
-
 ## 
 spiralförmig
 
-
 ![Image](../assets/images/spiral_0_0_1024_590.png)
-
 ## 
 kreisförmig
 
-
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
-

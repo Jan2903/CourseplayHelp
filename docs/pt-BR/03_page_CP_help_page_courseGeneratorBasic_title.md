@@ -1,11 +1,9 @@
 # Gerador de rotas basico
-
   
 Cada rota de trabalho de campo é criado pelo gerador de rotas. Esta é uma ferramenta poderosa, que permite personalizar a rota criada de acordo com suas necessidades.  
 Se você é novo nisso, provavelmente deve começar alterando apenas a configuração da quantidade de cabeceira.  
 Depois disso, você sempre pode alterar os outros valores e clicar em gerar rotas e dar uma olhada, que impacto certos valores têm na rota.  
 Experimentar e verificar o impacto que as diferentes configurações em diferentes campos têm é a melhor maneira de se acostumar com isso.  
-
 
   
 Fundamentos:  
@@ -21,5 +19,3 @@ Espiral, Pista e Terrenos têm suas próprias vantagens específicas sobre os ou
 - Fileiras para pular: Esta é uma opção muito útil para acelerar seu trabalho, pois as ferramentas não terão que fazer backup para passar para a próxima fileira.  
 - Fileiras por Terreno: Isso só tem impacto quando o centro do campo está definido para terrenos e informará ao gerador quantas fileiras cada terreno deve ter. Quanto mais fileiras, menos terrenos serão gerados.  
 - Ângulo da fileira para cima/para baixo: Quando a direção da fileira para cima/para baixo é definida como manual, esta configuração informará a direção da geração.  
-
-
