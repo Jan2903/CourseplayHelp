@@ -1,4 +1,5 @@
 # Información General
+
   
 CoursePlay te permite generar cursos en los campos con características adicionales, por ejemplo: Cabeceras.  
 También habilita el uso de Empacadoras y remolques de Forraje, que pueden ser enviados en el mismo curso, detrás de una Segadora o Cosechadora.  
@@ -19,3 +20,5 @@ Qué es el Modo Experto:
 Cuando el Modo Experto es desactivado, solo tienes acceso a algunas configuraciones.  
 Las otras configuraciones están ocultas y configuradas en valores predeterminados, lo que funciona en la mayoría de las situaciones.  
 De esa forma, tratamos de ayudar a los usuarios a que se familiaricen más fácilmente con Courseplay sin sentirse abrumados por todas las configuraciones.  
+
+

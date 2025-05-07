@@ -1,4 +1,5 @@
 # General Information
+
   
 Courseplay allows you to generate field courses with additional features, for example: headlands.  
 It also enables the usage of balers and foragewagons, that can be send on the same course, as a mower or harvester from before.  
@@ -17,3 +18,5 @@ What is the expert Mode:
 When the expert Mode is deactivated, you have only access to some settings.  
 The other settings are hidden and set to default values, which works in most situations.  
 That way, we try to help Users to get easier into Courseplay without being overwhelmed from all the settings.  
+
+

@@ -1,8 +1,10 @@
 # Course generator headland
+
   
 Foragerindstillinger vises kun, når du har indstillet mindst 1 ved Antal forager.  
 Du får muligheder for, hvor du skal starte, hjørneindstillinger, retning og overlapning.  
 Forager anbefales for at forhindre køretøjet i at forlade marken, når de drejer.  
+
 
   
 - Start arbejde på: Som nævnt i den udvidede AI-menu, bruges markpositionen til at indstille start- eller slutpositionen for markarbejdet.  
@@ -13,4 +15,6 @@ Runde vil tage højde for de aktuelle valgte køretøjers drejeradius for at få
 - Foragerretning: med eller mod uret. Dette kan være vigtigt for mejetærskere og mejetærskere, afhængig af hvilken side sneglen eller transportbåndet er.  
 - Forageroverlap: Hvor meget % overlap skal alle forager have. Den første vil ikke have noget overlap med markgrænsen, men de indre vil overlappe hinanden.  
 
+
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)
+

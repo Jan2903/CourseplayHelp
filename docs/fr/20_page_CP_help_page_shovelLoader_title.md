@@ -1,4 +1,5 @@
 # Chargeuse sur roue
+
   
 Ce mode permet l'utilisation de chargeurs sur roues et de tracteurs équipés d'un chargeur frontal.   
 Avec une pelle attachée, un tas peut être ramassé sur le sol ou depuis un silo bunker.  
@@ -18,6 +19,7 @@ Pour réinitialiser le décalage, vous devez cliquer sur le texte des paramètre
 Les pelles équipées d'une pince à ensilage s'ouvrent et se ferment automatiquement pour le chargement et le déchargement.  
 La pelle pour déchiqueter les betteraves sucrières est également entièrement fonctionnelle.  
 
+
   
 Pour démarrer un travail de chargement, vous devez définir les positions de chargement et de déchargement en cliquant sur l'icône de la cible dans le hud.  
 La position de chargement fonctionne de la même manière que celle du mode tassage de silo. Un carré bleu sera créé autour du tas.  
@@ -27,6 +29,7 @@ Si le déchargement dans la remorque est sélectionné, la zone où la remorque 
 L'ouvrier se rendra à n'importe quelle remorque stationnée dans la zone. La direction du marqueur n'a pas de signification réelle.  
 Si vous souhaitez décharger dans une station de déchargement, vous devez sélectionner la zone interactive de déchargement de l'emplacement.  
 
+
   
 La sélection d'une zone interactive (ZI) peut sembler un peu compliquée à première vue, mais en réalité, c'est très simple.  
 Chaque bâtiment peut avoir plus d'une ZI, vous devez donc choisir celle vers laquelle vous voulez décharger.  
@@ -35,4 +38,6 @@ Pour en sélectionner une, placez le milieu du marqueur rond sur le milieu de la
 La direction de la flèche indique à l'ouvrier dans quelle direction il doit s'approcher de la ZI pour le déchargement.  
 Votre sélection devrait ressembler à l'illustration ci-contre.  
 
+
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)
+

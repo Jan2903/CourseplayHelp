@@ -1,4 +1,5 @@
 # Gestionnaire des courses
+
   
 Le gestionnaire de courses vous permet de sauvegarder et de charger vos courses pour une utilisation ultérieure.  
 La sauvegarde de la course est également obligatoire lorsque vous utilisez les outils multiples afin de pouvoir affecter la même course à plusieurs ouvriers.  
@@ -10,7 +11,9 @@ Les courses sont sauvegardées dans des dossiers affichés sur le côté gauche.
 Les dossiers peuvent être créés en utilisant le bouton correspondant en bas de l'écran et en spécifiant un nom.  
 Les courses sont uniquement sauvegardées en local (et non sur le serveur) pour l'instant.  
 
+
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
+
   
 Lorsque vous avez une course active, vous pouvez la sauvegarder en cliquant sur le bouton de sauvegarde puis le dossier de destination.  Une fenêtre s'ouvrira alors pour donner un nom à la course.  
 Son nom et son emplacement peuvent être modifiés ultérieurement.  
@@ -18,13 +21,16 @@ Pour enlever la course active de votre véhicule, cliquez sur le bouton réiniti
 Pour charger une course, vous devez d'abord sélectionner un dossier puis cliquer sur charger une course et cliquer sur la course à charger.  
 Un clic sur le bouton de changement de mode permet de basculer entre le mode édition ou affichage du gestionnaire.  
   
+
   
 Lorsque vous êtes en mode édition vous pouvez :  
 - Déplacer une course dans un autre dossier.  
 - Supprimer des courses ou des dossiers.  
 - Renommer des courses ou des dossiers.  
 
+
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
+
   
 Pour déplacer une course :   
   1) Cliquez sur le bouton déplacer en bas de l'écran.  
@@ -33,3 +39,5 @@ Pour déplacer une course :
 Pour le renommage d'une course ou d'un dossier, cliquez simplement sur le bouton de renommage puis la course ou le dossier désiré. Tapez ensuite le nouveau nom choisi.  
 Pour la suppression d'une course ou d'un dossier, cliquez simplement sur le bouton de suppression puis la course ou le dossier désiré.  
 Les dossiers doivent être vides avant de pouvoir être supprimés.  
+
+

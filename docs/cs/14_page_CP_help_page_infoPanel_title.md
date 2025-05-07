@@ -1,10 +1,13 @@
 # Informační panel
+
 ![Image](../assets/images/infopanel_0_0_480_130.png)
+
   
 Toto je náš informační panel, lze s ním pohybovat pomocí kurzoru myši, stejně jako náš Mini HUD.  
 Kromě názvu a verze našeho Modu také zobrazuje stavové informace o ovladačích CP.  
 Při najetí na stavovou zprávu se zobrazí název vozidla.  
 Kliknutím na něj můžete skočit přímo do vozidla.  
+
 
   
 Informace jsou následující:  
@@ -18,3 +21,5 @@ Informace jsou následující:
 - Práce dokončena  
 - Nedostatek peněz  
 - Čeká, až skončí déšť  
+
+

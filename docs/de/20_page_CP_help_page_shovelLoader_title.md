@@ -1,4 +1,5 @@
 # Radlader/Frontlader
+
   
 Mit einem Radlader oder Traktor mit Frontlader und Schaufel lassen sich Haufen vom Boden oder aus einem Bunkersilo automatisch aufnehmen und in einen Anhänger oder Lager abladen.  
 Die Schaufel wird dabei automatisch an die richtigen Positionen gefahren.  
@@ -15,6 +16,7 @@ Ein Klick auf den Text setzt den Wert auf 0 zurück. Der Wert lässt sich zwisch
 Schaufeln mit Gebiss öffnen dieses automatisch beim Laden und Abladen und schließen es zum Transport.  
 Die Schaufel zum Zerkleinern von Zuckerrüben wird mit allen Funktionen unterstützt.  
 
+
   
 Um einen Radladerfahrer zu starten, müssen zunächst über das Ziel-Icon im HUD die Lade- und Entladepositionen gewählt werden.  
 Die Ladeposition wird wie auch bereits beim Lader gewählt. Ein blauer Rahmen entsteht um den gefundenen Haufen.  
@@ -24,6 +26,7 @@ Falls Abladen in einen Anhänger aktiviert ist, muss der Bereich, wo der Anhäng
 Der Helfer fährt automatisch zu stehenden Anhängern in diesem Bereich. Die Richtung des Pfeils auf der Helferkarte spielt hier keine Rolle.  
 Möchtest du in eine Abladestation entladen, muss zunächst das Ziel umgestellt werden und anschließend der Marker auf den Trigger gesetzt werden.  
 
+
   
 Die Auswahl eines Triggers wirkt zunächst kompliziert, ist aber im Prinzip recht einfach.  
 Da Gebäude mehrere Trigger haben können, muss dieser selbst gewählt werden.  
@@ -32,4 +35,6 @@ Um einen Trigger zu wählen, setzt du den Punkt in der Mitte des runden Icons ei
 Die Richtung des Pfeils entspricht hierbei der Anfahrtsrichtung vom Helfer.  
 Das Kreuz sollte jetzt, wie im Bild dargestellt, gelb sein.  
 
+
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)
+

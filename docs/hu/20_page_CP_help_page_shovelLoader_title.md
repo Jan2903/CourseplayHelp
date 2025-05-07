@@ -1,4 +1,5 @@
 # Kerekes rakodó
+
   
 Ez az üzemmód lehetővé teszi a kerekes rakodót és a homlokrakodóval felszerelt traktorokat.  
 Egy ráerősített kanállal fel lehet emelni a földről egy kupacot, vagy megoldható a bunkersilóból történő rakodás.  
@@ -18,6 +19,7 @@ Az eltolás visszaállításához kattints a beállítások szövegére a hud-ba
 A szilázs markolóval ellátott lapátok automatikusan nyílnak és záródnak be- és kirakodáskor.  
 A cukorrépa aprítására szolgáló lapát is működőképes.  
 
+
   
 A kerekes rakodó segítő elindításához be kell állítani a be- és kirakodási pozíciókat a hud-on található célkereszt ikonra kattintva.  
 A betöltési pozíció ugyanúgy működik, mint a rakodó módban. A kupac körül kék négyzet jön létre.  
@@ -27,6 +29,7 @@ Ha a pótkocsiba történő kirakodás van kiválasztva, akkor az AI menüben ki
 A segítő a kijelölt pozición a pótkocsihoz hajt. A jelző irányának nincs valódi jelentése.  
 Ha kirakodóállomásra szeretnéd kirakodni, akkor váltani kell a célpontot, majd meg kell jelölnö a kirakodás helyét a kirakodási pozícióval.  
 
+
   
 A kirakodási hely kiválasztása elsőre kissé bonyolultnak tűnik, de a valóságban nagyon egyszerű.  
 Minden épületnek egynél több ki- /berakodása is lehet, így neked ki kell választanod azt, amelyikre ki szeretnél rakodni.  
@@ -35,4 +38,6 @@ Az egyik kiválasztásához helyezd a kerek jelölő közepét a kereszt közep�
 A nyíl iránya jelzi a segítőnek, hogy melyik irányból közelítse meg a kirakodást.  
 A kijelölésnek hasonlónak kell lennie, mint a képen.  
 
+
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)
+

@@ -1,4 +1,5 @@
 # General Information
+
   
 Courseplay gör att du kan generera fältkurser med ytterligare funktioner, till exempel: Headlands.  
 Det möjliggör också användningen av balsor och foragewagons, som kan skickas på samma kurs, som en gräsklippare eller skördare från tidigare.  
@@ -17,3 +18,5 @@ Vad är expertläget:
 När expertläget är avaktiverat har du bara tillgång till vissa inställningar.  
 De andra inställningarna är dolda och inställda till standardvärden, som fungerar i de flesta situationer.  
 På det sättet försöker vi hjälpa användarna att bli lättare i kursplay utan att bli överväldigad från alla inställningar.  
+
+

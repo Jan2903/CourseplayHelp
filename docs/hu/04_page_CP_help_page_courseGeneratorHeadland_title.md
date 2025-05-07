@@ -1,8 +1,10 @@
 # Course generator headland
+
   
 A fordulósáv beállítások csak akkor jelennek meg, ha a fordulósávok számát legalább 1-re állítod.  
 Ezzel olyan lehetőségeket nyersz, mint a kezdés helye, sarok beállítások, irány és átfedés.  
 A fordulósávok használata erősen ajánlott a fordulás közbeni tábla elhagyás megelőzése érdekében.  
+
 
   
 - Munkakezdés helye: Ahogy a bővített AI menüben is látható, a tábla pozíciója arra szolgál, hogy a táblamunka útvonal kezdetét vagy végét megadjuk.  
@@ -13,4 +15,6 @@ A kerek opció figyelembe veszi a kiválasztott jármű fordulási sugarát, hog
 - Fordulósáv iránya: Órairányú vagy órával ellentétes. Ez fontos lehet betakarító gépeknél attól függően, hogy melyik oldalon van a cső, vagy kirakodó szalag.  
 - Fordulósáv átfedés: Fordulósávok átfedése százalékban megadva. Az első nem lesz fedésben a tábla határával, de a belső sávok átfedésben lesznek egymással.  
 
+
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)
+

@@ -1,4 +1,5 @@
 # Colheitadeira descarrega
+
   
 O modo de descarregar do Courseplay funciona com praticamente todas as colheitadeiras e as com reboques.  
 Não funciona com choppers.  
@@ -15,7 +16,9 @@ evitar esperar a chamada de uma colheitadeira com a carreta quase cheia.
 - Você pode usar os deslocamentos no HUD para ajustar a posição da carreta sob o tubo da colheitadeira.  
   
 
+
 ## Usando Carretas
+
   
 Se você usar uma carreta para descarregar, existem duas maneiras de transportar sua colheita para um silo ou para um ponto de venda: o ajudante da Giants  
 ou AutoDrive.  
@@ -25,7 +28,9 @@ Neste último caso, você deve escolher a estação de descarga depois que o íc
   
 Esvaziar uma carreta com o AutoDrive funciona da mesma forma que usar uma carreta autocarregável, confira os Tutoriais do AutoDrive na Internet.  
 
+
 ## Usando Bazuca
+
   
 Bazuca (carreta com cano para descarregar numa carreta comun) é muito simples de usar.  
 Assim como nas carretas, você usa o ícone de alvo para escolher o campo onde deseja descarregar uma colheitadeira.  
@@ -34,7 +39,9 @@ Se a bazuca estiver cheia, ela procurará automaticamente uma carreta comum no c
 Caso a carreta esteja cheia e a bazuca ainda não esteja vazia, ela irá procurar outra carreta para descarregar.  
 Se não houver carreta disponível, ela continuará a descarregar a colheitadeira até ficar cheia.  
 
+
 ## Decarregar no campo
+
   
 A posição de descarrgar pode ser selecionada com o marcador de descarregar.  
 A posição precisa estar no mesmo campo ou perto da borda do campo.  
@@ -42,3 +49,5 @@ Se o marcador apontar para um monte já existente,
 então este monte é usado para descarregar.  
 A direção do marcador é usada para a direção de descarregar.  
 Além disso, para carretas, um lado de tombamento precisa ser selecionado.  
+
+

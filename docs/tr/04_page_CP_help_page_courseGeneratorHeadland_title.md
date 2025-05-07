@@ -1,8 +1,10 @@
 # Rota Oluşturucu: manevra koridoru
+
   
 Manevra koridoru ayarları, yalnızca manevra koridoru sayısını en az 1 olarak belirlediğinizde görüntülenir.  
 Bu ayarlarda, nereden başlanacağı, köşe ayarları, yön ve örtüşme gibi seçenekler bulunur.  
 Manevra koridorları, araçların dönüş yaparken tarladan taşmalarını engellemek için kullanılır, şiddetle tavsiye edilir.  
+
 
   
 -Manevra Koridoru Köşelerini Keskinleştirme: Kavisli olmayan manevra koridoru köşelerini keskinleştirir.   
@@ -16,4 +18,6 @@ hangi tarafta olduğuna bağlı olarak önem taşır.
 Tarla Payı: Pozitif değerler, tarlanın etrafında engeller varsa bir tampon bölge oluşturup işlenecek alanı küçültür. Negatif değerler ise   
 tarla sınırlarını düzgün algılanamadığı bölgeleri kapatmak için işlenecek alanı tarlanın sınırları dışına genişletir.  
 
+
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)
+

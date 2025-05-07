@@ -1,4 +1,5 @@
 # Rota Oluşturucu: merkez
+
   
 Oluşturucu, tarlanın merkezi için rota oluşturmak üzere birkaç farklı model sunar. En uygun model genellikle seçilen iş ve ekipmanlara bağlı olarak belirlenir.   
 Modeller topluluğumuzdan gelen geri bildirimler ve bilgilendirmelere bağlı olarak oluşturulmuştur.  
@@ -7,6 +8,7 @@ Temel git-gel modeli, neredeyse her zaman herhangi bir araç için iş görür. 
 Örneğin, biçerdöverle hasat yaparken 'parçalı' modelini kullanmak, borunun ekin üzerine denk gelmesini engelleyerek boşaltma işlemini daha hızlı hale getirebilir.  
 Kıyıcılar için, boşaltıcının işini kolaylaştırmak amacıyla daha geniş dönüşler sağlayan 'yarış pisti' modeli daha iyi bir seçim olabilir.  
 'Sarmal' modeli ise çekmeli hasat makinelerinin ofset oluşturarak traktörü ekinin dış kısmında bıraktığı durumlar için en iyisidir.  
+
 
   
 - Tarla Merkezi: Tarla merkezi için farklı modeller bulunmaktadır. En klasik ve en yaygın kullanılanı 'git/gel' modelidir.   
@@ -22,19 +24,28 @@ Bu ayarlar, daha önce yaptığınız belirli seçimlere bağlı olarak görün�
 - İçten Sarmal: Tarla merkezi 'sarmal' olarak ayarlandığında görünür.  
 - Halka Sayısı: Tarla merkezi 'yarış pisti' olarak ayarlandığında görünür.  
 
+
 ## 
 git/gel
 
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
+
 ## 
 parçalı
 
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
+
 ## 
 sarmal
 
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
+
 ## 
 yarış pisti
 
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
+

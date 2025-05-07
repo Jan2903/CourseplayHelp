@@ -1,4 +1,5 @@
 # Všeobecné informace
+
   
 Courseplay vám umožňuje generovat polní práce s dalšími funkcemi, například: souvratě.  
 Umožňuje také použití lisů a sběracích vozů, které lze poslat na stejnou trať jako sekačku nebo kombajn z dřívějška.  
@@ -15,3 +16,5 @@ Co je expertní režim:
 Když je expertní režim deaktivován, máte přístup pouze k některým nastavením.  
 Ostatní nastavení jsou skrytá a nastavena na výchozí hodnoty, což funguje ve většině situací.  
 Tímto způsobem se snažíme uživatelům pomoci se snadněji dostat do Courseplay, aniž by byli zahlceni všemi nastaveními.  
+
+

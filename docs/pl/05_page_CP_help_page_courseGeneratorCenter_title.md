@@ -1,9 +1,11 @@
 # Generator kursu - środek pola
+
   
 Na środku pola dostępne są różne strategie wykonywania pracy. Przeważnie wybrane narzędzie jest powodem wyboru konkretnej strategii. Dostępne strategie zostały stworzone w oparciu o opinie i informacje od naszej społeczności.  
 Najprostsza strategia, 'tam i z powrotem', działa prawie za każdym razem dla każdego narzędzia, ale możesz wybrać inną lepszą, na przykład podczas zbiorów za pomocą kombajnu, 'wyspy' są lepszym sposobem na utrzymanie rury na skoszonej części pola w celu bardziej wydajnego rozładunku.  
 W przypadku sieczkarni, 'na około' może być lepszym rozwiązaniem dla mniejszej ilości ciasnych nawrotów, aby ułatwić pracę odwożących.  
 Spirale są lepszym rozwiązaniem dla półzawieszanych kombajnów bocznych, aby utrzymać maszynę w rzędzie, a ciągnik na poza nimi.  
+
 
   
 - Środek pola: Istnieją różne tryby tego, jak powinien wyglądać wzór środka pola. Klasyczny i najczęściej używany to 'tam i z powrotem'.  
@@ -19,18 +21,27 @@ Te ustawienia są wyświetlane tylko dla określonych ustawień, które zostały
 - Spirala od środka: Pojawia się, gdy środek pola jest ustawione na "spirala".  
 - Liczba okręgów: Pojawia się, gdy środek pola jest ustawione na "na około".  
 
+
 ## 
 Tam i z powrotem
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
+
 ## 
 Wyspy
 
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
+
 ## 
 Spirala
 
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
+
 ## 
 Na około
 
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
+

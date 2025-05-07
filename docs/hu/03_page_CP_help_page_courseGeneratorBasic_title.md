@@ -1,9 +1,11 @@
 # Course generator basics
+
   
 Minden táblamunka útvonalat az útvonal generátor hoz létre. Ez egy remek eszköz, ami megengedi a generált útvonalak igény szerinti testreszabását.  
 Ha még nem csináltál ilyet, kezdd azzal, hogy csak a fordulósávok számát módosítod.  
 Ezt követően mindig változtathatsz más értékekkel és generálhatsz útvonalat, hogy megnézd, egyes értékek milyen hatással vannak az útvonalra.  
 A kísérletezés és különböző beállítások hatásainak megfigyelése különböző táblákon a legjobb módja, hogy hozzászokj ehhez.  
+
 
   
 Alapok:  
@@ -19,3 +21,5 @@ Spirális, Versenypálya és Blokk mind saját előnyökkel rendelkezik a többi
 - Kihagyandó sorok: Ez egy nagyon hasznos lehetőség a munkád felgyorsításához, mivel a gépeknek nem kell tolatniuk a következő sorra való forduláshoz.  
 - Sorok blokkonként: Ennek csak akkor van hatása, ha a tábla közepe blokkokra van állítva és megmondja a generátornak, hogy hány sor legyen egy blokkban. Ha több a sor, kevesebb blokk lesz generálva.  
 - Fel/le sorok szöge: Amikor a fel/le irány mellett a kézi módot választod, ez a beállítás megmondja a generátornak a sorok irányszögét. 0° jelenti az Észak-Dél irányt.  
+
+

@@ -1,9 +1,11 @@
 # Course generator basics
+
   
 Cada curso de trabalho de campo é gerado pelo gerador de curso. Esta é uma ferramenta poderosa, que permite personalizar o curso gerado de acordo com suas necessidades.  
 Se você é novo nisso, provavelmente deve começar alterando apenas a configuração da quantidade de cabeceira.  
 Depois disso, você sempre pode alterar os outros valores e clicar em gerar curso e dar uma olhada, que impacto certos valores têm no curso.  
 Experimentar e verificar o impacto que as diferentes configurações em diferentes campos têm é a melhor maneira de se acostumar com isso.  
+
 
   
 Fundamentos:  
@@ -19,3 +21,5 @@ Espiral, Pista e Terrenos têm suas próprias vantagens específicas sobre os ou
 - Filas para pular: Esta é uma opção muito útil para acelerar seu trabalho, pois as ferramentas não terão que fazer backup para passar para a próxima fileira.  
 - Linhas por Terreno: Isso só tem impacto quando o centro do campo está definido para terrenos e informará ao gerador quantas linhas cada terreno deve ter. Quanto mais linhas, menos terrenos serão gerados.  
 - Ângulo da linha para cima/para baixo: Quando a direção da linha para cima/para baixo é definida como manual, esta configuração informará a direção da geração.  
+
+

@@ -1,4 +1,5 @@
 # Generatore percorso: centrale
+
   
 Il generatore fornisce diversi schemi per generare il percorso per il centro del campo.   
 Lo schema migliore è solitamente determinato dal lavoro e dagli attrezzi selezionati.   
@@ -7,6 +8,7 @@ Il semplice schema up down funziona quasi sempre per qualsiasi strumento.
 Altri schemi possono migliorare l'efficienza, come l'utilizzo dello schema Lands durante la raccolta con una mietitrebbia che manterrà il tubo fuori dalla frutta per uno scarico più rapido.   
 Per le trinciatrici, la pista può essere una scelta migliore per curve più ampie per semplificare il lavoro dello scaricatore.   
 La spirale è la scelta migliore per le mietitrici trainate con un offset per mantenere l'utensile nella frutta e il trattore all'esterno.  
+
 
   
 - Centro campo: ci sono diverse modalità su come dovrebbe apparire il modello del centro campo. Quello classico e più utilizzato è su/giù.  
@@ -22,19 +24,28 @@ Queste impostazioni vengono visualizzate solo per le impostazioni specifiche che
 - Spirale dall'interno: appare quando il centro del campo è impostato su "Spirale".  
 - Numero di cerchi: appare quando il centro del campo è impostato su"cerchio".  
 
+
 ## 
 su/giù
 
+
 ![Image](../assets/images/updown_0_0_1024_591.png)
+
 ## 
 terreni
 
+
 ![Image](../assets/images/lands_0_0_1024_599.png)
+
 ## 
 spirale
 
+
 ![Image](../assets/images/spiral_0_0_1024_590.png)
+
 ## 
 cerchio
 
+
 ![Image](../assets/images/racetrack_0_0_1024_589.png)
+

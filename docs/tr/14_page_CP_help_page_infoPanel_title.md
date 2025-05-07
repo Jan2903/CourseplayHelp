@@ -1,10 +1,13 @@
 # Bilgilendirme Paneli
+
 ![Image](../assets/images/infopanel_0_0_480_130.png)
+
   
 Bu bizim bilgilendirme panelimizdir. Tıpkı mini HUD gibi fare yardımıyla sürüklenebilir.  
 Modumuzun adı ve sürümünün yanı sıra, Courseplay işçilerine ait durum bilgilerini de gösterir.  
 Durum mesajının üzerine geldiğinizde, aracın adı görüntülenir.  
 Mesaja tıklayarak, doğrudan ilgili araca geçiş yapabilirsiniz.  
+
 
   
 Durum bilgi mesajları şunlardır:  
@@ -32,3 +35,5 @@ Durum bilgi mesajları şunlardır:
 - Seçilen görev için yanlış ürün  
 - Paletler dolu  
 - Palet yok  
+
+
