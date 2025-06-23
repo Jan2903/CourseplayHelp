@@ -1,4 +1,3 @@
-/* Set primary colors */
 :root {
   --md-primary-fg-color:        #85a425;
   --md-primary-fg-color--light: #85a425;
@@ -15,17 +14,16 @@
 .md-nav__link {
   padding-bottom: 8px;
   margin-bottom: 8px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* fallback for no scheme (lightish line) */
 }
 
-/* Light mode: subtle separator */
+/* Light mode: darker, visible separator */
 [data-md-color-scheme="default"] .md-nav__link {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);  /* Stronger than 0.1 */
 }
 
 /* Dark mode: light separator for contrast */
 [data-md-color-scheme="slate"] .md-nav__link {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Slightly stronger */
 }
 
 /* Remove border for last nav item */
