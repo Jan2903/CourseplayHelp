@@ -4,29 +4,29 @@
   --md-primary-fg-color--dark:  #85a425;
 }
 
-/* Tighter spacing for H1 */
+/* Tight h1 spacing */
 .md-typeset h1 {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
 
-/* Base nav link spacing */
-.md-nav__link {
+/* Only apply spacing + border to top-level visible nav links */
+.md-nav__item > .md-nav__link {
   padding-bottom: 8px;
   margin-bottom: 8px;
 }
 
-/* Light mode: darker, visible separator */
-[data-md-color-scheme="default"] .md-nav__link {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);  /* Stronger than 0.1 */
+/* Light mode border for top-level items */
+[data-md-color-scheme="default"] .md-nav__item > .md-nav__link {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 
-/* Dark mode: light separator for contrast */
-[data-md-color-scheme="slate"] .md-nav__link {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Slightly stronger */
+/* Dark mode border for top-level items */
+[data-md-color-scheme="slate"] .md-nav__item > .md-nav__link {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-/* Remove border for last nav item */
-.md-nav__item:last-child .md-nav__link {
+/* Remove border for the last visible top-level item */
+.md-nav__item:last-child > .md-nav__link {
   border-bottom: none;
 }
