@@ -14,15 +14,16 @@ Having a look on the AI Menu, you will see your recorded field border.
 By clicking on the Name, you will get the option to either delete it or rename it.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-The second option is to draw it on the AI Menu Map.  
-Have no tractor or other vehicle selected (left click somewhere on the map), you get the option to draw a custom field.  
-When started, the text draw custom field lines with right click will be displayed.  
-Use the right mouse button to click on a position on where you want to start.  
-The next right click will draw a line from your startpoint to your second position, wich will be the start point for the next line.  
+The second option is to draw the custom field on the map of the CP AI menu.  
+To start the drawing, hit they button on the bottom left corner or hit corresponding key.  
+After that a text appears on the top of your screen.  
+Start by clicking the right mouse button for setting the start position.  
+By holding the shift key, the line will be set straight in 90° angles.  
+The next clicks will create lines to the previous click.  
+Once you draw a second line, the course will be automatically closed. You can still draw more lines to define the field even further.  
+You don't need to draw the last line to the start, as it gets generated automatically straight to the start.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

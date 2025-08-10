@@ -1,25 +1,31 @@
-# Multitool and Convoy
+# 다중 작업 및 대열 주행
 
   
-It is possible to have up to 5 vehicles working together on the same field in a convoy (also called multi tools course).  
-
-
-  
-Once a multi tool course is loaded you will need to select the lane for the driver.  
-Those lanes are always named the same:  
-left(2), left(1), center, right(1), right(2).  
-2 vehicles will have left(1) and right(1), 4 will have left(2) and right(2).  
-With 3 or 5 vehicles you will also gain the center option.  
+최대 5대의 차량이 동일한 필드에서 대열을 이루며 함께 작업할 수 있습니다.    
+(이를 다중 작업 경로라고도 합니다.)  
 
 
   
-The convoy only works if the vehicles have the same multi tool course with the same name loaded.  
-They will automatically keep a small distance towards the vehicle in front of.  
-Additionally the convoy feature also gets applied when for example a baler is driving behind a combine on the same course.  
+다중 작업 경로가 로드되면, 운전자를 위한 차선을 선택해야 합니다.    
+차선 이름은 항상 동일하게 설정됩니다:    
+왼쪽(2), 왼쪽(1), 가운데, 오른쪽(1), 오른쪽(2).    
+  
+- 2대의 차량이 작업할 경우, 왼쪽(1)과 오른쪽(1)이 할당됩니다.    
+- 4대의 차량이 작업할 경우, 왼쪽(2)와 오른쪽(2)도 추가로 할당됩니다.    
+- 3대 또는 5대의 차량이 작업할 경우, 가운데(center) 차선 옵션이 추가로 제공됩니다.    
 
 
   
-The convoy distance vehicle setting changes the distance between the vehicles.  
-The distance of all vehicles with the same course name will be automatically set to the highest value of all vehicles in the convoy.  
+대열 주행은 모든 차량이 동일한 이름의 다중 작업 경로를 불러온 경우에만 작동합니다.    
+차량들은 자동으로 앞 차량과 일정 거리를 유지합니다.    
+  
+또한, 이 기능은 콤바인의 뒤를 따라가는 베일러와 같이    
+동일한 경로에서 작업하는 차량에도 적용됩니다.    
+
+
+  
+대열 주행 거리 설정을 변경하면 차량 간 거리가 조정됩니다.    
+동일한 다중 작업 경로를 로드한 모든 차량의 거리는    
+대열 내에서 가장 높은 거리 값으로 자동 설정됩니다.    
 
 

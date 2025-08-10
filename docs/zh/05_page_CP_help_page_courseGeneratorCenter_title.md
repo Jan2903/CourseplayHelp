@@ -1,4 +1,4 @@
-# Course generator center
+# 作业中心点
 
   
 针对于田地的路径规划，可以采取不同的模式来完成工作。  

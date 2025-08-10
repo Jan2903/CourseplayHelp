@@ -14,15 +14,16 @@ Les contours du champ personnalisé apparaissent dans l'onglet des ouvriers.
 Cliquez sur son nom pour le supprimer ou le renommer.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-La deuxième option est de placer les contours du champ depuis la carte dans l'onglet des ouvriers.  
-Clic gauche n'importe où sur la carte (afin de ne pas sélectionner de véhicules) puis choisissez l'option tracer un champ personnalisé.  
-Vous serez invité à tracer des lignes correspondantes au contour du champ à l'aide du clic droit.  
-Le premier clic droit détermine le point de départ du contour.  
-Les prochains clics droits formeront des lignes correspondantes au contour du champ personnalisé. Procédez ainsi jusqu'à clôturer intégralement le champ personnalisé.  
+The second option is to draw the custom field on the map of the CP AI menu.  
+To start the drawing, hit they button on the bottom left corner or hit corresponding key.  
+After that a text appears on the top of your screen.  
+Start by clicking the right mouse button for setting the start position.  
+By holding the shift key, the line will be set straight in 90° angles.  
+The next clicks will create lines to the previous click.  
+Once you draw a second line, the course will be automatically closed. You can still draw more lines to define the field even further.  
+You don't need to draw the last line to the start, as it gets generated automatically straight to the start.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

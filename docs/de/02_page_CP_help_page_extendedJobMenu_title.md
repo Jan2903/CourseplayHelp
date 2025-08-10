@@ -1,7 +1,7 @@
 # Erweitertes Helfermenü
 
   
-Die Einstellungen für jeden Helfer finden jetzt im Menü "Helfereinstellungen" statt.  
+Die Einstellungen für jeden Helfer finden jetzt im Menü "Helfer Einstellungen" statt.  
 Das Menü funktioniert grundlegend wie das alte Helfermenü.  
 Wird ein Fahrzeug auf der Map ausgewählt, könnt ihr einen Job erstellen, in Abhängigkeit der angeschlossenen Geräte und des Fahrzeugstyps.  
 Neben der Karte und den Job-Einstellungen findet ihr oben im Menü noch die Kursgenerator-Einstellungen für Feldarbeit und Reben. Diese sind nur verfügbar, wenn ihr ein gültiges Fahrzeug ausgewählt habt und einen Job erstellt habt.  
@@ -13,7 +13,7 @@ Tipp: Um etwas schneller zu sein, könnt ihr das Menü über den Text im HUD "Ke
 
   
 Um deinen ersten Job zu starten, musst du ein Fahrzeug mit einem für die Arbeit gültigen Arbeitsgerät auswählen.  
-Klicke dann auf "Job erstellen" und wähle dann einen der verfügbaren CP-Jobs für dein gewähltes Fahrzeug oder Gerät aus.  
+Klicke dann auf "Job erstellen" und wähle dann einen der verfügbaren CP Job für dein gewähltes Fahrzeug oder Gerät aus.  
 
 
   
@@ -21,7 +21,7 @@ Hast du einen CP-Job ausgewählt, musst du mit der Feldposition dein Feld auswä
 Die Position bestimmt ungefähr die Startposition deines Kurses.  
 Wenn du möchtest, dass der Giants-Helfer dein Fahrzeug zum Feld bringt, dann muss zusätzlich noch die Zielposition nahe des Startpunktes gesetzt werden.  
 Die Einstellung für die Bahn wird nur benutzt, wenn du mehrere Fahrzeuge auf einem Kurs fahren lassen möchtest. Mehr dazu unter Multitool.  
-Tipp: Stehst du bereits auf einem Feld, wenn du über "Kein Kurs" in dieses Menü gelangst, sind die Marker bereits auf dem Feld platziert.  
+Tip: Stehst du bereits auf einem Feld, wenn du über "kein Kurs" in dieses Menü gelangst, sind die Marker bereits auf dem Feld platziert.  
 
 
 ![Image](../assets/images/readyjobmenuhelp_0_0_765_510.png)

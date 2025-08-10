@@ -7,13 +7,14 @@ As cabeceiras são altamente recomendadas para evitar que os implementos saiam d
 
 
   
-- Iniciar trabalho em: Conforme mencionado no menu AI estendido, a posição de campo é usada para definir a posição inicial ou final para a rota de trabalho de campo.  
-Quando definido para iniciar na cabeceira, informa onde deve ser a largada. Quando alterado para iniciar em fileiras, ele informará onde terminar o trabalho.  
-- Cantos de cabeceira: Liso terá uma suavização simples sobre os cantos, isso funciona para todas as ferramentas, mas levará a pequenas manchas não trabalhadas nos cantos.  
-Eles podem ser reduzidos com sobreposição, mas nunca desaparecem. Sharp gerará uma curva com base no ângulo da borda do campo.  
-Round levará em consideração o raio de giro dos veículos selecionados atualmente para ter o melhor canto arredondado para esse implemento.  
-- Direção da cabeceira: no sentido horário ou anti-horário. Isso pode ser importante para colheitadeiras e colheitadeiras, dependendo de qual lado está o tubo ou a correia transportadora.  
-- Sobreposição de cabeceira: Qual a % de sobreposição que todas as cabeceiras devem ter. O primeiro não terá sobreposição com a borda do campo, mas os internos se sobreporão ao vizinho.  
+- Afiar cantos de cabeceiras: Afie os cantos das cabeceiras que não são arredondados. Forçará o veículo a fazer uma  
+curva de cabeceira sempre que a curvatura da cabeceira for menor que o raio de giro do veículo.  
+- Número de cantos arredondados: Número de cabeceiras, contando a partir da mais externa, que terão cantos arredondados.  
+Cantos arredondados são baseados no raio de giro do veículo, então para essas cabeceiras, o veículo não executará uma manobra de giro nos cantos.  
+- Raio do canto: Define o raio para os cantos arredondados. Se você sabe que uma ferramenta de trabalho a seguir tem um raio mínimo de 10, você pode definir esse valor como 10 para o curso.  
+- Direção da cabeceira: sentido horário ou anti-horário. Isso pode ser importante para colheitadeiras e colheitadeiras, dependendo de  
+qual lado o tubo ou correia transportadora está.  
+- Sobreposição de cabeceiras: O quanto uma cabeceira se sobrepõe à próxima. Isso é para evitar perder frutas em alguns casos.  
 
 
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)

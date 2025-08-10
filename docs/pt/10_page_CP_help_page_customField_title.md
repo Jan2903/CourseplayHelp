@@ -14,15 +14,16 @@ Dando uma olhada no Menu AI, você verá sua borda de campo gravada.
 Ao clicar no nome, você terá a opção de excluí-lo ou renomeá-lo.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-A segunda opção é desenhá-lo no Mapa do Menu AI.  
-Não tenha nenhum trator ou outro veículo selecionado (clique com o botão esquerdo em algum lugar no mapa), você tem a opção de desenhar um campo personalizado.  
-Quando iniciado, o texto desenha linhas de campo personalizadas com o botão direito do mouse será exibido.  
-Use o botão direito do mouse para clicar em uma posição em que você deseja começar.  
-O próximo clique direito desenhará uma linha do seu ponto inicial até a sua segunda posição, que será o ponto inicial da próxima linha.  
+The second option is to draw the custom field on the map of the CP AI menu.  
+To start the drawing, hit they button on the bottom left corner or hit corresponding key.  
+After that a text appears on the top of your screen.  
+Start by clicking the right mouse button for setting the start position.  
+By holding the shift key, the line will be set straight in 90° angles.  
+The next clicks will create lines to the previous click.  
+Once you draw a second line, the course will be automatically closed. You can still draw more lines to define the field even further.  
+You don't need to draw the last line to the start, as it gets generated automatically straight to the start.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

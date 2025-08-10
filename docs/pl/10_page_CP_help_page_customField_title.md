@@ -12,14 +12,14 @@ Zaglądając do menu pomocników SI, zobaczysz nagrany obrys pola.
 Klikając na NAZWĘ, dostaniesz opcję usunięcia go lub zmiany nazwy.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
 Druga opcja to narysowanie go na mapie w menu pomocników SI.  
-Nie miej wybranego żadnego ciągnika czy innego pojazdu (kliknij lewym przyciskiem gdzieś na mapie), pojawi się wtedy opcja narysowania nowego pola.  
-Po rozpoczęciu zostanie wyświetlony tekst rysujący linie nowego pola za pomocą prawego przycisku myszy.  
-Użyj prawego przycisku myszy, aby kliknąć na pozycję, gdzie chcesz zacząć.  
-Następne prawe kliknięcie narysuje linię od punktu początkowego do obecnej pozycji kursora, będzie to punk początku nowej linii.  
+Aby rozpocząć rysowanie, naciśnij przycisk w lewym dolnym rogu lub naciśnij odpowiedni klawisz.  
+Następnie na górze ekranu pojawi się tekst.  
+Zacznij od kliknięcia PPM, aby ustawić pozycję początkową.  
+Przytrzymując klawisz Shift, linia zostanie ustawiona prosto pod kątem 90°.  
+Po narysowaniu drugiej linii kurs zostanie automatycznie zamknięty. Nadal możesz narysować więcej linii, aby jeszcze bardziej zdefiniować pole.  
+Nie musisz rysować ostatniej linii do startu, ponieważ zostanie ona wygenerowana automatycznie prosto do startu.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

@@ -15,16 +15,16 @@ Dando un'occhiata al menu IA, vedrai il bordo del tuo campo registrato.
 Facendo clic sul Nome, avrai la possibilità di eliminarlo o rinominarlo.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-La seconda opzione è disegnare il campo personalizzato sulla mappa del menu IA.  
-Se non è selezionato alcun hotspot, puoi premere il pulsante disegna campo personalizzato qui sotto.  
-Dopodiché, nella parte superiore dello schermo appare un testo.  
-Inizia cliccando con il tasto destro del mouse per impostare la posizione di partenza.  
-I clic successivi creeranno linee per il clic precedente.  
-Fai clic sul pulsante salva in basso per terminare di disegnare il campo.  
+La seconda opzione consiste nel disegnare il campo personalizzato sulla mappa del menu CP AI.  
+Per iniziare a disegnare, premere il pulsante nell'angolo in basso a sinistra o il tasto corrispondente.  
+Dopodiché, apparirà un testo nella parte superiore dello schermo.  
+Iniziare facendo clic con il tasto destro del mouse per impostare la posizione di partenza.  
+Tenendo premuto il tasto Maiusc, la linea verrà tracciata dritta con angoli di 90°.  
+I clic successivi creeranno linee che si collegano al clic precedente.  
+Una volta disegnata una seconda linea, il percorso verrà automaticamente chiuso. È possibile disegnare altre linee per definire ulteriormente il campo.  
+Non è necessario disegnare l'ultima linea fino alla partenza, poiché verrà generata automaticamente direttamente dalla partenza.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

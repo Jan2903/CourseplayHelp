@@ -6,7 +6,7 @@ Puoi usare un rimorchio normale o un carro a coclea per scaricare una mietitrebb
 Per svuotare i rimorchi, puoi usare Giants Helper o AutoDrive.  
 Per avviare lo scaricatore sono necessarie alcune cose:  
 - Devi avere un singolo rimorchio o carro a coclea collegato. Non sono supportati più rimorchi.  
-- Usa l'icona Target sull'HUD per selezionare il campo da raccogliere. Lo scaricatore scaricherà tutte le mietitrici guidate da Courseplay che lavorano su quel campo.  
+- Usa l'icona Obiettivo sull'HUD per selezionare il campo da raccogliere. Lo scaricatore scaricherà tutte le mietitrici guidate da Courseplay che lavorano su quel campo.  
 - Devi essere sul campo o entro 20 metri dal campo per avviare lo scaricatore.  
   
 Gli scaricatori hanno solo poche impostazioni che puoi modificare:  

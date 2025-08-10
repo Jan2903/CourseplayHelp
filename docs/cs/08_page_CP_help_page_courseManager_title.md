@@ -4,7 +4,7 @@
 Správce tras vám umožňuje ukládat trasy a umožňuje vám uloženou trasu později znovu načíst.  
 To je opravdu důležité, když chcete, aby více pracovníků použilo stejnou trasu (konvoj).  
 Tato funkce vám také umožňuje sebrat řádek, který za sebou zanechal kombajn nebo řádkovač se sběracím vozem nebo lisem.  
-Umístění pro uložení souborů tras je: ..\My Games\FarmingSimulator2022\modSettings\FS22_Courseplay\Courses\Mapname.SampleModMap (nebo např. MapUS).  
+Umístění pro uložení souborů tras je: ..\My Games\FarmingSimulator2025\modSettings\FS25_Courseplay\Courses\Mapname.SampleModMap (nebo např. MapUS).  
 Správce tras funguje jinak, než na co jste zvyklí ve FS19.  
 Trasy se ukládají do složek, které se zobrazí vlevo. To znamená, že k ukládání tras budete potřebovat alespoň jednu složku.  
 Složky lze jednoduše vytvořit tlačítkem v dolní části obrazovky a zadáním názvu.  

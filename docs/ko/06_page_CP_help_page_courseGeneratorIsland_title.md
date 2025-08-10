@@ -1,15 +1,16 @@
-# Course generator island
+# 섬 구역 경로 생성기
 
   
-Driving arround the island is now only possible with a complete round arround it.  
-Even in the new generator, limits for island too close to the field border.  
-The work width of the tool is decisive if the island is too close or not.  
-Like how many headlands do fit between the island and the field border.  
+이제 섬 구역 주위로 완전히 한 바퀴 돌아야만 주행이 가능합니다.  
+새로운 경로 생성기에서도 필드 경계와 너무 가까운 섬 구역에는 제한이 있습니다.  
+도구의 작업 폭에 따라 섬 구획이 너무 가까운지 여부가 결정됩니다.  
+즉, 섬 구역과 필드 경계 사이에 몇 개의 헤드랜드가 들어갈 수 있는지가 중요한 요소입니다.  
 
 
   
-- Island bypass: Turns on or off the bypass of the island, if an island is found. This does not work for custom fields!  
-- Island headlands: The amount of rounds arround the island can now be set indipendantly from the headland setting.  
-- Island headland direction: In which direction the driver drives arround the island, to not have strange direction changes. This can be tricky to set up as it depends on the field and the rest of the course.  
+- 섬 우회(Island bypass): 섬 구역이 감지되었을 경우, 이를 우회할지 여부를 설정합니다. 사용자 지정 필드에서는 작동하지 않습니다!  
+- 섬 헤드랜드(Island headlands): 헤드랜드 설정과 별개로 섬 구역 주위를 도는 횟수를 개별적으로 설정할 수 있습니다.  
+- 섬 헤드랜드 방향(Island headland direction): 운전자가 섬 구역 주위를 도는 방향을 설정합니다.   
+  경로가 부자연스럽게 변경되지 않도록 조정해야 하며, 필드와 전체 경로에 따라 설정이 까다로울 수 있습니다.  
 
 

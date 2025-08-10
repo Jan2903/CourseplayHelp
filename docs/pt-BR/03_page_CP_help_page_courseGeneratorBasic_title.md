@@ -1,25 +1,24 @@
 # Gerador de rotas basico
 
   
-Cada rota de trabalho de campo é criado pelo gerador de rotas. Esta é uma ferramenta poderosa, que permite personalizar a rota criada de acordo com suas necessidades.  
-Se você é novo nisso, provavelmente deve começar alterando apenas a configuração da quantidade de cabeceira.  
-Depois disso, você sempre pode alterar os outros valores e clicar em gerar rotas e dar uma olhada, que impacto certos valores têm na rota.  
-Experimentar e verificar o impacto que as diferentes configurações em diferentes campos têm é a melhor maneira de se acostumar com isso.  
+O gerador de rotas do Courseplay é uma ferramenta sofisticada que pode gerar rotas de trabalho de campo personalizados para cada trabalho possível.  
+Ele tem muitas configurações e pode levar algum tempo para se familiarizar com ele. Se você é novo no Courseplay, você deve  
+provavelmente começar a brincar com o número de cabeceiras primeiro e depois se aventurar nas configurações mais avançadas.  
+Depois de alterar um parâmetro, clique em Gerar para ver qual impacto a configuração tem. A melhor maneira de explorar todas as possibilidades  
+que o gerador oferece é experimentá-lo.  
 
 
   
-Fundamentos:  
+Noções básicas:  
 Os primeiros valores que você vê aqui são coisas realmente básicas.  
-- Largura de trabalho: a maioria das ferramentas detecta a largura de trabalho exata e você não precisa se preocupar com essa configuração. Ajustá-lo terá um impacto em seu curso geral.  
-- Multi implementos: Esta configuração é usada quando você deseja que mais de um veículo funcione na sua rota. Como isso fica um pouco mais complicado, há um tópico de ajuda separado para isso.  
-- Número de cabeceiras: A melhor maneira de manter seus veículos no campo enquanto vira no final de cada fileira é adicionar cabeceiras.  
-O número de cabeceiras multiplicado pela largura de trabalho deve ser pelo menos o comprimento total do seu veículo mais o implemento anexada.  
-Opções do centro:  
-- Centro de campo: Existem diferentes modos de como seu padrão de centro de campo deve se parecer. O clássico e mais usado é o cima/baixo.  
-Espiral, Pista e Terrenos têm suas próprias vantagens específicas sobre os outros. Os terrenos, por exemplo, terão o tubo da colheitadeira apontando para fora da fruta na maioria das vezes para descarregá-los mais facilmente.  
-- Direção da fileira para cima/para baixo: o automático geralmente encontra a melhor direção, mas às vezes a borda mais longa se encaixa melhor. Se você não estiver satisfeito com nenhum deles, escolha manual e defina a direção manualmente.  
-- Fileiras para pular: Esta é uma opção muito útil para acelerar seu trabalho, pois as ferramentas não terão que fazer backup para passar para a próxima fileira.  
-- Fileiras por Terreno: Isso só tem impacto quando o centro do campo está definido para terrenos e informará ao gerador quantas fileiras cada terreno deve ter. Quanto mais fileiras, menos terrenos serão gerados.  
-- Ângulo da fileira para cima/para baixo: Quando a direção da fileira para cima/para baixo é definida como manual, esta configuração informará a direção da geração.  
+- Largura de trabalho: O Courseplay detecta automaticamente a largura de trabalho para a maioria das ferramentas, então você não precisa se preocupar com isso,  
+mas se a detecção automática falhar, você pode defini-la manualmente. Esta configuração tem um impacto no curso geral.  
+- Margem de campo: valores positivos reduzem o tamanho do campo para adicionar um buffer ao redor da área trabalhada caso haja obstáculos perto da borda do campo.  
+Valores negativos aumentam a área trabalhada além do limite do campo para cobrir bordas de campo que não são perfeitamente detectadas.  
+- Número de cabeceiras: A melhor maneira de manter seus veículos no campo ao virar no final de cada linha é adicionar cabeceiras.  
+O número de cabeceiras multiplicado pela largura de trabalho deve ser pelo menos o comprimento total do seu veículo mais a ferramenta acoplada.  
+- Comece o trabalho em: Conforme mencionado no menu estendido de IA, a posição do campo é usada para definir a posição inicial ou final para  
+o curso de trabalho de campo. Você quer começar a trabalhar na cabeceira ao colher e trabalhar em direção ao meio do campo.  
+Arar, semear e cultivar deve começar no centro do campo e trabalhar em direção à cabeceira.  
 
 

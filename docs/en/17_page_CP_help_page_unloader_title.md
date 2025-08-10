@@ -19,8 +19,12 @@ is to avoid waiting for a combine to call with a trailer almost full.
 ## Using trailers
 
   
-If you use a trailer to unload, there are two ways to transport your harvest to a silo or to a selling point: the Giants helper or AutoDrive.  
-You can use the AI Menu and create a Job, then activate the Giants helper function and set the unload target at the bottom of the list.  
+If you use a trailer to unload, there are two ways to transport your harvest to a silo or to a selling point: the Giants helper  
+or AutoDrive.  
+You can either use the AI Menu and create a Job, then by activating the Giants helper function and unload target at the  
+bottom of the list, or by activation of the wheel icon on the HUD.  
+In the latter case, you have to choose the unload station after the wheel icon turns blue.  
+  
 Emptying a trailer with AutoDrive works the same as using a loading wagon, check out the AutoDrive Tutorials on the Internet.  
 
 
@@ -41,7 +45,8 @@ If no trailer is available, it will continue to unload the combine.
 The unloading position can be selected with the unload marker.  
 Unloading on the field must be activated.  
 The position needs to be on the same field or near the field edge.  
-If the marker points to an already existing heap, then this heap is used to unload to.  
+If the marker points to an already existing heap,   
+then this heap is used to unload to.  
 The direction of the marker is used for the unload direction.  
 With some trailers the tip side can be switched between the back and the grain door.  
 

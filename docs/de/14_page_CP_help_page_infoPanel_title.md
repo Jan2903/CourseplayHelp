@@ -11,7 +11,6 @@ Klickst du darauf, springst du direkt in das entsprechende Fahrzeug.
 
   
 Die Informationen sind:  
-  
 - Hängt fest  
 - Wird blockiert  
 - Sollte aufgetankt werden  

@@ -11,6 +11,8 @@ Conceptos básicos:
 Los primeros valores que verá aquí son datos muy básicos.  
 - Ancho de trabajo: Courseplay detecta automáticamente el ancho de trabajo para la mayoría de las herramientas, por lo que no tendrá que preocuparse por esto,  
 pero si la detección automática falla, puede configurarlo manualmente. Esta configuración tiene un impacto en el curso general.  
+- Margen del campo: los valores positivos reducen el tamaño del campo para agregar un margen alrededor del área trabajada en caso de que haya obstáculos cerca del borde del campo.  
+Los valores negativos amplían el área trabajada más allá del límite del campo para cubrir los bordes del campo que no se detectan perfectamente.  
 - Número de cabeceras: la mejor manera de mantener sus vehículos en el campo mientras gira al final de cada hilera es agregar cabeceras.  
 El número de cabeceras multiplicado por el ancho de trabajo debe ser al menos la longitud total de su vehículo más la herramienta adjunta.  
 - Comenzar a trabajar en: como se mencionó en el menú AI extendido, la posición del campo se usa para establecer la posición de inicio o finalización para  

@@ -27,7 +27,7 @@ La posizione di caricamento funziona allo stesso modo di quella della modalità 
 La posizione di scarico dipende se si desidera scaricare su un rimorchio o su una stazione di scarico.  
 Se viene selezionato lo scarico nel rimorchio, è necessario selezionare l'area in cui verrà parcheggiato il rimorchio nel menu IA.  
 L'aiutante si dirigerà verso qualsiasi rimorchio parcheggiato nella zona. La direzione del marcatore non ha alcun significato reale.  
-Se si desidera scaricare in una stazione di scarico, è necessario cambiare il target e quindi contrassegnare il grilletto con la posizione di scarico.  
+Se si desidera scaricare in una stazione di scarico, è necessario cambiare l'obiettivo e quindi contrassegnare il grilletto con la posizione di scarico.  
 
 
   

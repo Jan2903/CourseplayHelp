@@ -3,8 +3,8 @@
   
 Existen dos maneras de crear un campo personalizado.  
 Primera: Usar la función de grabación del HUD.  
-Inicie la grabación y grabe el borde de su campo.  
-Una vez hecho esto, presione el botón nuevamente y se le preguntará si desea guardarlo.  
+- Inicie la grabación y grabe el borde de su campo.  
+- Una vez hecho esto, presione el botón nuevamente y se le preguntará si desea guardarlo.  
 ¡El inicio y el final no deben superponerse!  
 
 
@@ -15,16 +15,17 @@ Los bordes de los campos personalizados se mostrarán en el menú de IA.
 Al hacer clic en el nombre, tendrá la opción de eliminarlo, cambiarle el nombre o editarlo con el editor.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-La segunda opción es dibujar el campo personalizado en el mapa del menú AI.  
-Si no se selecciona ningún punto de acceso, puede presionar el botón Dibujar campo personalizado que se encuentra a continuación.  
-Después de eso, aparecerá un texto en la parte superior de la pantalla.  
-Comience haciendo clic con el botón derecho del mouse para establecer la posición de inicio.  
-Los siguientes clics crearán líneas hasta el clic anterior.  
-Haga clic en el botón Guardar en la parte inferior para terminar de dibujar el campo.  
+La segunda opción es dibujar el campo personalizado en el mapa del menú de CP AI.  
+Para comenzar a dibujar:  
+- Pulsa el botón en la esquina inferior izquierda o presiona la tecla correspondiente.  
+- Después, aparecerá un texto en la parte superior de tu pantalla.  
+- Comienza haciendo clic con el botón derecho del ratón para establecer la posición inicial.  
+- Manteniendo presionada la tecla Shift, la línea se trazará recta en ángulos de 90°.  
+- Los siguientes clics crearán líneas conectadas al clic anterior.  
+Una vez que dibujes una segunda línea, el recorrido se cerrará automáticamente. Aún podrás dibujar más líneas para definir el campo con mayor precisión.  
+No es necesario dibujar la última línea hasta el punto de inicio, ya que se generará automáticamente en línea recta hacia el comienzo.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

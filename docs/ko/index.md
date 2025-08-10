@@ -1,22 +1,22 @@
-# General Information
+# 일반 정보
 
   
-Courseplay allows you to generate field courses with additional features, for example: headlands.  
-It also enables the usage of balers and foragewagons, that can be send on the same course, as a mower or harvester from before.  
-Another big feature is the collecting or wraping of bales on the field.  
-New with this iteration of CP is the vine fieldwork.  
-Fieldwork courses can be setup in multitool mode, which allows the use of up to 5 driver working in a convoy on the same field.  
-It's also possible to have the combine unload in a trailer on/near the field automatically.  
-Custom fieldborders can be assigned for courseplay to use, for example: in case of a meadow, which isn't recognised as a normal field.  
-Lastly cp has a interface for Autodrive, which allows for refilling of a seeder at a nearby silo or unloading a foragewagon and so on.  
+Courseplay를 사용하면 필드 작업 경로를 생성할 수 있으며, 헤드랜드 등 추가 기능을 활용할 수 있습니다.  
+또한 베일러 및 사료 수집기를 동일한 경로에서 사용하여 이전에 작동한 예초기나 수확기와 연동할 수 있습니다.  
+또 다른 주요 기능은 필드에서 베일을 수집하거나 포장하는 것입니다.  
+이번 Courseplay 버전에서는 포도밭 작업이 추가되었습니다.  
+필드 작업 경로는 멀티툴 모드에서 설정할 수 있으며, 한 필드에서 최대 5명의 작업자가 대열을 이루며 함께 작업할 수 있습니다.  
+또한 콤바인이 자동으로 필드 내 또는 근처 트레일러로 하역할 수도 있습니다.  
+Courseplay는 사용자 지정 필드 경계를 사용할 수 있도록 설정할 수 있으며, 예를 들어 일반 필드로 인식되지 않는 목초지에서도 활용할 수 있습니다.  
+마지막으로 Courseplay는 AutoDrive와의 인터페이스를 제공하여, 파종기가 가까운 사일로에서 자동으로 보급받거나 사료 수집기가 하역하도록 설정할 수 있습니다.  
   
-For more information please visit our github: https://github.com/Courseplay/Courseplay_FS22 .  
-There you can get help or report any issue you've experienced.  
-Finally we thank every translator and our community for reporting bugs, giving use feedback and new ideas.  
+추가 정보는 GitHub(https://github.com/Courseplay/Courseplay_FS22)를 방문해 주세요.  
+이곳에서 도움을 받거나 문제를 보고할 수 있습니다.  
+마지막으로 번역을 도와주신 분들과, 버그 리포트 및 피드백, 새로운 아이디어를 제공해 주신 커뮤니티 여러분께 감사드립니다.  
   
-What is the expert Mode:  
-When the expert Mode is deactivated, you have only access to some settings.  
-The other settings are hidden and set to default values, which works in most situations.  
-That way, we try to help Users to get easier into Courseplay without being overwhelmed from all the settings.  
+전문가 모드란 무엇인가요?  
+전문가 모드가 비활성화되면 일부 설정만 조정할 수 있습니다.  
+나머지 설정은 숨겨지며 기본값으로 설정됩니다. 이 기본값은 대부분의 경우 적절하게 작동합니다.  
+이를 통해 처음 Courseplay를 사용하는 사용자들이 너무 많은 설정에 부담을 느끼지 않고 쉽게 적응할 수 있도록 돕고자 합니다.  
 
 

@@ -1,16 +1,19 @@
-# Course generator expert
+# 경로 생성기 - 전문가 모드
 
   
-Some settings are only visible, if you set the expert mode to active on the global courseplay settings.  
-Before you play arround with those settings, you should make sure you know what the basic settings do.  
-Some expert settings only work properly under some conditions.  
+일부 설정은 Courseplay 전역 설정에서 전문가 모드를 활성화해야만 표시됩니다.  
+이 설정을 변경하기 전에, 먼저 기본 설정이 어떻게 작동하는지 충분히 숙지하는 것이 좋습니다.  
+또한 일부 전문가 모드 설정은 특정 조건에서만 정상적으로 작동합니다.  
   
-- Multiple Tools: This setting is used when you want more then just one vehicle to work on your course. As this gets a bit more complicated, there is a separate help topic for it.  
-- Narrow field: Creates the headland only at two short edges of the field. In that case, it is not possible to keep your vehicle on the field on the longest edges at the headland.  
-- Headland overlap: There is a default value that will always be used. This value can be changed with this setting. The overlap will be withing the field and won't overlap the field border.  
-- Field margin: This setting lets you move the field border in- or outwards of the original border.  
-- Use base line edge: A completly new feature, what only works on specific fields. If you have a field with a long radial border and place the field marker near it, the center line will follow that border.  
-IMPORTANT NOTE: Should the generated course not be perfect or even bad, the selected edge or the field will not work with this feature. There also won't be an Update for this!  
+- 다중 작업(Multiple Tools): 동일한 경로에서 둘 이상의 차량이 작업하도록 설정하는 옵션입니다. 다소 복잡한 설정이므로 별도의 도움말 항목이 제공됩니다.  
+- 좁은 필드(Narrow field): 헤드랜드를 필드의 짧은 두 가장자리에만 생성합니다. 이 경우, 헤드랜드에서 차량이 필드 안에서만 이동하는 것이 불가능할 수 있습니다.  
+- 헤드랜드 중첩(Headland overlap): 기본값이 항상 사용되며, 이 값을 변경할 수 있습니다.   
+  헤드랜드 중첩은 필드 내부에서만 이루어지며, 필드 경계를 벗어나지 않습니다.  
+- 필드 여백(Field margin): 필드 경계를 원래보다 안쪽 또는 바깥쪽으로 이동할 수 있도록 조정하는 설정입니다.  
+- 기준선 가장자리 사용(Use base line edge): 특정 필드에서만 작동하는 완전히 새로운 기능입니다.  
+  필드 경계가 길게 곡선을 이루는 경우, 필드 마커를 그 근처에 배치하면 중앙선이 해당 경계를 따라 생성됩니다.  
+  **중요:** 생성된 경로가 완벽하지 않거나 품질이 좋지 않다면, 선택한 가장자리 또는 필드가 이 기능과 호환되지 않는 것입니다.    
+  이 기능에 대한 추가 업데이트는 제공되지 않습니다.  
 
 
 ![Image](../assets/images/baseedge_0_0_1020_545.png)

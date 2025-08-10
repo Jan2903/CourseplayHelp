@@ -13,6 +13,8 @@ Temel bilgiler:
 Burada gördüğünüz ilk birkaç bilgi en temel bilgilerdir.  
 - Çalışma Genişliği: Courseplay, çoğu ekipman için çalışma genişliğini otomatik olarak algılar, bu yüzden bu konuda endişelenmenize gerek yoktur.   
 Ancak otomatik algılama başarısız olursa, kendiniz manuel olarak ayarlayabilirsiniz. Bu ayar bütün rotayı etkiler.  
+-Tarla Payı: Pozitif değerler, tarlanın etrafında engeller varsa bir tampon bölge oluşturup işlenecek alanı küçültür. Negatif değerler ise   
+tarla sınırlarını düzgün algılanamadığı bölgeleri kapatmak için işlenecek alanı tarlanın sınırları dışına genişletir.  
 - Manevra Koridoru Sayısı: Araçlarınızı her satır sonunda tarlada tutmanın en iyi yolu, manevra koridoru eklemektir.   
 Manevra koridorlarının sayısı ile çalışma genişliği çarpıldığında, bu değer en azından aracınızın ve bağlı olan ekipmanın toplam uzunluğu kadar olmalıdır.  
 - Başlama Noktası: Genişletilmiş YZ Menüsünde belirtildiği gibi, tarla konumu, tarla rotasının başlangıç veya bitiş konumunu belirlemek için kullanılır.   

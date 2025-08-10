@@ -14,15 +14,16 @@ Když se podíváte na nabídku AI, uvidíte hranici zaznamenaného pole.
 Kliknutím na Název získáte možnost jej buď smazat, nebo přejmenovat.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-Druhou možností je nakreslit jej na AI Menu Map.  
-Nemáte-li vybraný žádný traktor nebo jiné vozidlo (klikněte levým tlačítkem někam na mapu), získáte možnost nakreslit vlastní pole.  
-Po spuštění se zobrazí text kreslení vlastních čar pole kliknutím pravým tlačítkem.  
-Pomocí pravého tlačítka myši klikněte na pozici, kde chcete začít.  
-Další kliknutí pravým tlačítkem nakreslí čáru z vašeho počátečního bodu do vaší druhé pozice, která bude počátečním bodem pro další čáru.  
+Druhou možností je nakreslit vlastní pole na mapu v nabídce CP AI.  
+Chcete-li spustit kreslení, stiskněte tlačítko v levém dolním rohu nebo stiskněte odpovídající klávesu.  
+Poté se v horní části obrazovky zobrazí text.  
+Začněte kliknutím pravým tlačítkem myši pro nastavení počáteční pozice.  
+Podržením klávesy Shift se čára narovná v úhlech 90°.  
+Další kliknutí vytvoří čáry k předchozímu kliknutí.  
+Jakmile nakreslíte druhou čáru, pole se automaticky uzavře. Stále můžete nakreslit další čáry, abyste pole ještě více vymezili.  
+Poslední linii nemusíte kreslit až na začátek, protože se automaticky vygeneruje přímo na začátek.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

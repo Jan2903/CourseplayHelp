@@ -1,42 +1,50 @@
-# Wheelloader Driver
+# 휠로더 작업
 
   
-This mode enables wheel loader and tractors with a front loader.   
-With a shovel attached a heap can be picked up from the ground or loading from a bunker silo can be accomplished.  
-The picked up fill level can be unloaded automatically into a nearby trailer or a selected unloading station like a BGA.  
-The shovel will automatically be moved to the correct positions for loading, unloading and so on.  
-In case the mode is not directly visable on the hud, you can toggle the "start position" until the shovel mode appears.  
+이 모드는 휠로더 및 프론트 로더가 장착된 트랙터에서 사용할 수 있습니다.    
+삽(Shovel)이 장착된 경우, 지면에서 더미를 퍼올리거나 벙커 사일로에서 적재 작업을 수행할 수 있습니다.    
+적재된 자재는 근처 트레일러나 BGA와 같은 선택한 하역 지점에 자동으로 하역됩니다.    
   
-The target icon on the hud can be used to open the AI map to select the loading and the unloading targets.  
-The hud also shows the leftover fill level of the heap or silo, while the helper is working.  
-If the loading target is a bunker silo, then the work width might need to be adjusted to avoid hitting the side walls of the silo.  
+삽은 자동으로 로딩, 언로딩 등 올바른 위치로 이동합니다.    
+HUD에서 해당 모드가 바로 표시되지 않는 경우, '시작 위치' 옵션을 변경하면 삽 모드가 나타납니다.    
   
-The hight offset setting is used to adjust the hight above the ground, as not all shovel can calculated correctly.   
-This should be checked, if the shovel is to low for loading and the driver can't turn anymore or the shovel is to high and fill level is missed to the ground.  
-If the value gets changed, the shovel will automatically move to the loading position to show the impact of the offset.  
-To reset the offset you need to click on the settings text in the hud. The value can be adjusted from +1 to -1 in 0.1 setps.  
+HUD의 '목표 아이콘'을 사용하여 AI 지도에서 적재 및 하역 위치를 선택할 수 있습니다.    
+또한 작업 중일 때, HUD에는 더미 또는 사일로의 남은 적재량이 표시됩니다.    
   
-Shovels with a silage grab will open and close automatically for loading and unloading.  
-The shovel to shred sugar beets is completly functional as well.  
-
-
+하역 지점이 벙커 사일로인 경우, 사일로 벽과 충돌하지 않도록 작업 폭을 조정해야 할 수도 있습니다.    
   
-To start a wheel loader helper, you need to set the load and unload positions by clicking the target icon on the hud.  
-The loading position works the same like the one from the loader mode. A blue square will be created arround the heap.  
+**높이 간격 설정**은 삽이 지면에서 얼마나 떨어져 있어야 하는지를 조정하는 기능입니다.    
+모든 삽이 정확한 높이로 계산되지 않을 수 있으므로, 로딩이 제대로 되지 않거나    
+작업자가 운전할 수 없는 경우 높이를 조정해야 합니다.    
   
-The unloading position depends if you want to unload into a trailer or into an unloading station.  
-If unloading into the trailer is selected, then the area where the trailer will be parked needs to be selected on the AI Menu.  
-The helper will drive to any parked trailer in the area. The direction of the marker has no real meaning.  
-If you want to unload into an unloading station, you need to switch the target and then mark the trigger with the unloading position.  
+설정을 변경하면 삽이 자동으로 적재 위치로 이동하여 간격 조정이 미치는 영향을 보여줍니다.    
+기본값으로 재설정하려면 HUD에서 설정 텍스트를 클릭해야 합니다.    
+값은 **+1에서 -1까지 0.1 단위로 조정**할 수 있습니다.    
+  
+사일리지 집게가 장착된 삽은 적재 및 하역 시 자동으로 열리고 닫힙니다.    
+사탕무 절단기도 완전히 정상적으로 작동합니다.  
 
 
   
-Selecting a trigger does look a bit complicated at first, but in reality it is really easy.  
-Every building can have more then one trigger so you have to choose the one you want to unload to.  
-All available triggers will be shown with an orange cross on the AI Map.  
-To select one place the middle of the round marker on the middle of the cross.  
-The driection of the arrow tells the helper from which direction he will approach the trigger for unloading.  
-Now your selection should look similar to the image.  
+휠로더 작업자를 시작하려면 HUD에서 '목표 아이콘'을 클릭하여 적재 및 하역 위치를 설정해야 합니다.    
+적재 위치는 로더 모드에서와 동일하게 작동하며, 더미 주위에 파란색 사각형이 생성됩니다.    
+  
+하역 위치는 트레일러 또는 하역 지점 중 어디로 하역할지에 따라 달라집니다.    
+- 트레일러로 하역하는 경우, AI 메뉴에서 트레일러가 주차될 위치를 선택해야 합니다.    
+  작업자는 해당 영역 내에 있는 트레일러로 이동하여 하역을 진행합니다.    
+  이때 마커의 방향은 의미가 없습니다.    
+- 하역 지점으로 하역하려면, 목표를 변경한 후 하역 위치를 트리거에 맞춰 설정해야 합니다.  
+
+
+  
+트리거 선택은 처음에는 다소 복잡해 보일 수 있지만, 실제로는 매우 간단합니다.    
+건물마다 여러 개의 트리거가 있을 수 있으므로, 원하는 하역 지점을 직접 선택해야 합니다.    
+  
+사용 가능한 모든 트리거는 AI 지도에서 주황색 십자(+)로 표시됩니다.    
+트리거를 선택하려면 원형 마커의 중앙을 주황색 십자의 중심에 맞추세요.    
+  
+화살표 방향은 작업자가 어느 방향에서 트리거로 접근하여 하역할지를 나타냅니다.    
+이제 선택한 트리거가 이미지와 유사하게 표시될 것입니다.  
 
 
 ![Image](../assets/images/shovelloadertrigger_0_0_830_610.png)

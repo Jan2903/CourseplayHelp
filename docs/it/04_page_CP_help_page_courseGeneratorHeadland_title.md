@@ -15,8 +15,6 @@ Se sai che uno strumento di lavoro successivo ha un raggio minimo di 10, puoi im
 - Direzione della testata: in senso orario o antiorario.   
 Questo può essere importante per mietitrebbie e mietitrici, a seconda del lato del tubo o del nastro trasportatore.  
 - Sovrapposizione della testata: quanto una testata si sovrappone alla successiva. Questo per evitare di perdere frutta in alcuni casi.   
-- Margine campo: i valori positivi riducono la dimensione del campo per aggiungere un buffer attorno all'area lavorata nel caso in cui ci siano ostacoli vicino al bordo del campo.   
-I valori negativi ingrandiscono l'area lavorata oltre il bordo del campo per coprire i bordi del campo che non sono perfettamente rilevati.  
 
 
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)

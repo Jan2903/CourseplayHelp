@@ -15,8 +15,6 @@ Kavisli köşeler, aracın dönüş çapına dayalıdır, bu nedenle bu koridorl
 -Manevra Koridoru Yönü: Saat yönünde veya saat yönünün tersine. Bu ayar biçerdöverler ve hasat makineleri için boru veya konveyör bandının   
 hangi tarafta olduğuna bağlı olarak önem taşır.  
 -Manevra Koridoru Örtüşmesi: Bir manevra koridorunun bir sonrakiyle ne kadar örtüştüğünü belirtir. Bazı durumlarda ekin tahribatını önlemek için kullanılır.  
-Tarla Payı: Pozitif değerler, tarlanın etrafında engeller varsa bir tampon bölge oluşturup işlenecek alanı küçültür. Negatif değerler ise   
-tarla sınırlarını düzgün algılanamadığı bölgeleri kapatmak için işlenecek alanı tarlanın sınırları dışına genişletir.  
 
 
 ![Image](../assets/images/sharproundcorner_0_0_330_130.png)

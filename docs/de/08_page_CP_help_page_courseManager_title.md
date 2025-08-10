@@ -14,7 +14,7 @@ Ordner können ganz leicht durch den Button unten am Bildschirmrand erstellt wer
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
-Wenn du einen Kurs geladen hast, kannst du diesen speichern, indem du einen Ordner wählst in dem du den Kurs speichern möchtest und anschließend auf "Kurs speichern" klickst.  
+Wenn du einen Kurs geladen hast, kannst du diesen speichern, indem du einen Ordner wählst in dem du den Kurs speichern möchtest und anschließen auf "Kurs speichern" klickst.  
 Ein Fenster erscheint, wo du den Namen des Kurses eintragen kannst.  
 Der Name des Kurses kann später auch geändert werden.  
 Um einen Kurs aus dem Fahrzeug zu entfernen, reicht ein Klick auf "Kurs aus Fahrzeug entfernen".  
@@ -24,7 +24,6 @@ Durch Betätigen des "Modus wechseln"-Buttons, wird der Editiermodus des Kursman
 
   
 Mit dem Editiermodus erhältst du folgende Optionen:  
-  
 - Einen Kurs in einen anderen Ordner verschieben.  
 - Kurse oder Ordner löschen.  
 - Kurse oder Ordner umbenennen.  

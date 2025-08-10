@@ -11,15 +11,15 @@ If they are not on a field, you have to go over the AI Menu and place the field 
   
 The generator for vines has fewer options.  
 Depending on the tool, you have to choose to work on the vines or beside the vines.  
-The default harvester needs to drive and work on the vine.  
-The pre-pruner needs to drive left from the vines but works on the vine, so you have to choose to work on the vine, but drive with an offset.  
-Sprayers need to drive next to the vines and need to skip one row, since it sprays to the left and the right.  
+E.g. the default harvester needs to drive and work on the vine.  
+     The pre-pruner needs to drive left from the vines but works on the vine, so you have to choose to work on the vine, but drive with an offset.  
+     Sprayers need to drive next to the vines and need to skip one row, since it sprays to the left and the right.  
 
 
 ![Image](../assets/images/vineworkgen_0_0_765_510.png)
 
   
-A vine course should be generated on the vines, as the harvester has to drive and work on the vines.  
+A vine course should be generated on the vines, as it got to drive and work on the vines.  
 
 
 ![Image](../assets/images/vineworkharvest_0_0_765_510.png)

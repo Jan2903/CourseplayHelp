@@ -20,7 +20,7 @@ Die Spritze muss neben den Reben arbeiten und eine Reihe überspringen, da diese
 ![Image](../assets/images/vineworkgen_0_0_765_510.png)
 
   
-Der Rebenkurs sollte auf den Reben generiert werden, da der Ernter auf den Reben arbeitet.  
+Der Rebenkurs sollte auf den Reben generiert werden, da er auf den Reben arbeitet.  
 
 
 ![Image](../assets/images/vineworkharvest_0_0_765_510.png)

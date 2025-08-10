@@ -19,7 +19,7 @@ Quindi, cliccando su crea lavoro, puoi selezionare un lavoro CP per l'attrezzo o
   
 Con un lavoro CP selezionato, è necessario posizionare la posizione del campo su un campo per generare il percorso o utilizzare il cercatore di balle su di esso.  
 La posizione controlla anche approssimativamente il punto di partenza del tuo percorso.  
-Se vuoi usare l'aiutante Giants per guidare fino al campo, devi anche impostare la posizione target vicino al punto di partenza del percorso.  
+Se vuoi usare l'aiutante Giants per guidare fino al campo, devi anche impostare la posizione obiettivo vicino al punto di partenza del percorso.  
 L'impostazione della compensazione della corsia viene utilizzata solo se si desidera avere più assistenti che lavorano sullo stesso campo. Per questo, controlla la pagina del menu di aiuto separata di seguito.  
 Suggerimento:Sei già su un campo quando attraversi. "nessun percorso" Quando arrivi a questo menu, i marcatori sono già posizionati sul campo.  
 

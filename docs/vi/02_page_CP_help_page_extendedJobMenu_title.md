@@ -6,7 +6,7 @@ It works much like the old AI Menu.
 Select a vehicle in the AI menu for creating a job, based on the attached tools or selected vehicle.  
 Beside the map and the job settings, you will find the settings for the course generator and vine course generator at the top. Those are only accessible with a valid tool when you are creating a job.  
 For generating a course and starting the Courseplay jobs, you will need to create the job CP: Fieldwork with a valid tool or vehicle.  
-Tip: To gain quicker access, you can click on "No course" on the HUD. This will bring you to the menu with a job already created for the vehicle.  
+Tip: To gain quicker access, you can click on "no course" on the HUD. This will bring you to the menu with a job already created for the vehicle.  
 
 
 ![Image](../assets/images/startjobmenuhelp_0_0_1024_895.png)
@@ -21,7 +21,7 @@ With a CP job selected, you would need to place the field position on a field fo
 The position also roughly controls the starting point of your course.  
 If you want to use the Giants helper to drive to the field, then you also need to set the target position close to the starting point of the course.  
 The lane offset setting is only used if you want to have multiple helpers working on the same field. For this please check out the separate help menu page below.  
-Tip: If you stand already on the field when you click on "No course" to enter the menu, the markers are already placed.  
+Tip: If you stand already on the field when you click on "no course" to enter the menu, the markers are already placed.  
 
 
 ![Image](../assets/images/readyjobmenuhelp_0_0_765_510.png)

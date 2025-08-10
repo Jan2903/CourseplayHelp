@@ -14,16 +14,16 @@ The custom field borders will be displayed in the AI menu.
 By clicking on the name you will get the option to either delete or rename it.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-The second option is to draw the custom field on the map of the AI menu.  
-If no hotspot is selected, you can press the draw custom field button below.  
+The second option is to draw the custom field on the map of the CP AI menu.  
+To start the drawing, hit they button on the bottom left corner or hit corresponding key.  
 After that a text appears on the top of your screen.  
 Start by clicking the right mouse button for setting the start position.  
+By holding the shift key, the line will be set straight in 90° angles.  
 The next clicks will create lines to the previous click.  
-Click the save button at the bottom to finish drawing the field.  
+Once you draw a second line, the course will be automatically closed. You can still draw more lines to define the field even further.  
+You don't need to draw the last line to the start, as it gets generated automatically straight to the start.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

@@ -5,12 +5,13 @@ Algumas configurações só são visíveis se você definir o modo especialista 
 Antes de brincar com essas configurações, você deve ter certeza de que sabe o que as configurações básicas fazem.  
 Algumas configurações de especialista só funcionam corretamente sob algumas condições.  
   
-- Ferramentas múltiplas: esta configuração é usada quando você quer mais de um veículo para trabalhar em sua rota. Como isso fica um pouco mais complicado, há um tópico de ajuda separado para isso.  
-- Campo estreito: cria a cabeceira apenas em duas bordas curtas do campo. Nesse caso, não é possível manter seu veículo no campo nas bordas mais longas da cabeceira.  
-- Sobreposição da cabeceira: há um valor padrão que sempre será usado. Este valor pode ser alterado com esta configuração. A sobreposição estará dentro do campo e não se sobreporá à borda do campo.  
+- Ferramentas múltiplas: esta configuração é usada quando você quer que mais de um veículo trabalhe em seu percurso. Como isso fica um pouco mais complicado, há um tópico de ajuda separado para isso.  
+- Troca de faixas: com esta opção ativa, os veículos trocam de faixa a cada curva, então a curva de cada veículo tem a mesma largura. Veja o menu de ajuda extra "Troca de faixas" para mais detalhes.  
 - Margem do campo: esta configuração permite que você mova a borda do campo para dentro ou para fora da borda original.  
-- Usar borda da faixa de base: um recurso completamente novo, que só funciona em campos específicos. Se você tiver um campo com uma borda radial longa e colocar o marcador de campo próximo a ele, a faixa central seguirá essa borda.  
-NOTA IMPORTANTE: se a rota geradaa não for perfeito ou mesmo ruim, a borda selecionada ou o campo não funcionarão com este recurso. Também não haverá uma atualização para isso!  
+- Campo estreito: cria o promontório somente em duas bordas curtas do campo. Nesse caso, não é possível manter seu veículo no campo nas bordas mais longas do promontório.  
+- Sobreposição de promontório: por padrão, as passagens do promontório se sobrepõem (mas nunca à borda do campo) em alguns por cento para evitar perder frutas em alguns casos extremos. Você pode alterar essa sobreposição aqui.  
+- Usar borda da linha de base: com esta configuração, você pode gerar linhas curvas para cima/baixo, correndo paralelas à borda do campo perto do marcador de campo. Isso faz sentido quando a borda do campo não é reta, as linhas para cima/baixo seguirão a curva da borda.  
+NOTA IMPORTANTE: Esta é uma configuração experimental que pode não funcionar para todos os formatos de campo. Se não funcionar, tente outra configuração.  
 
 
 ![Image](../assets/images/baseedge_0_0_1020_545.png)

@@ -1,47 +1,57 @@
-# Course generator center
+# 중앙 경로 생성기
 
   
-For the center of the field, different strategies are available to do the work. Mostly the selected tool is a reason to choose a specific strategie over the other. The available strategies where created based on feedback and informations from our community.  
-The simple up down strategie works almost every time for any tool. But it can be better to choose another, for example when harvesting with a combine, lands is a better way to keep the pipe outside of the fruit for a more efficient unloading.  
-For Chopping, racetrack can be a better solution for less narrow turns to make the work for the unloader easier.  
-Spirale is a better solution for towed harvester with an offset, to keep the tool in the fruit and the tractor outside.  
+필드 중앙에서 작업을 수행하는 여러 가지 전략을 사용할 수 있습니다.   
+대부분 선택한 도구에 따라 적합한 전략이 달라지며, 이러한 전략들은 커뮤니티의 피드백과 정보에 기반하여 개발되었습니다.  
+가장 기본적인 상하(up/down) 방식은 거의 모든 도구에서 잘 작동합니다.   
+하지만 상황에 따라 다른 방식이 더 적합할 수 있습니다.   
+예를 들어 콤바인으로 수확할 때 '구획(Lands)' 방식을 사용하면 파이프가 작물 밖을 향하도록 유지할 수 있어 하역이 더 효율적입니다.  
+사료를 수확하는 경우, '레이스트랙(Racetrack)' 방식이 더 적합하며, 좁은 회전 반경을 줄여 언로더의 작업이 쉬워집니다.  
+'나선형(Spiral)' 방식은 간격이 있는 견인형(Towed) 수확기에 적합하며, 도구는 작물 내에서 작업하고 트랙터는 외부에서 주행할 수 있도록 합니다.  
 
 
   
-- Field center: There are different modes on how your field center pattern should look like. The classic and most used one is up/down.  
-Spiral, Racetrack and Lands have their own specific advantages over the others. Lands for example will have the combine's pipe point out of the fruit most of the time to easier unload them.  
-- Center direction: Works the same as the headland, but can now be set independantly.  
-- Even row width: If the center of a field have a total width, that can't be evenly split over the work width of the tool, the 1st or last line will have a narrow rest work. To prevent this the width of each row gets reduced to have a even split over all lines.  
-- Row direction: automatic mostly finds the best direction, but sometimes the longest edge fits better. If you are not happy with either one, choose manual and set the direction manually.  
-- Row angle: When the row direction is set to manual, this setting appears and will tell the generator the direction of the rows.  
+- 필드 중앙(Field center): 필드 중앙 패턴을 설정하는 여러 가지 모드가 있습니다.   
+  가장 일반적으로 사용되는 방식은 상하(up/down) 방식입니다.  
+  나선형(Spiral), 레이스트랙(Racetrack), 구획(Lands) 등은 각각 고유한 장점이 있습니다.   
+  예를 들어, '구획(Lands)' 방식은 콤바인의 파이프가 작물 밖을 향하도록 유지하여 하역을 쉽게 할 수 있습니다.  
+- 중앙 방향(Center direction): 헤드랜드 방향과 동일한 방식으로 작동하지만, 이제 개별적으로 설정할 수 있습니다.  
+- 행 폭 균등화(Even row width):   
+  필드 중앙이 특정 너비를 가지지만 도구의 작업 폭과 정확히 일치하지 않는 경우, 첫 번째 또는 마지막 줄이 좁은 작업 구역을 가질 수 있습니다.  
+  이를 방지하기 위해 각 줄의 너비를 조정하여 균등한 간격을 유지하도록 설정할 수 있습니다.  
+- 행 방향(Row direction): 자동(Auto) 설정이 대부분 최적의 방향을 찾지만, 때때로 가장 긴 가장자리가 더 적합할 수도 있습니다.  
+  원하는 방향이 나오지 않으면 수동(Manual)으로 설정하여 직접 방향을 지정할 수 있습니다.  
+- 행 각도(Row angle): 행 방향(Row direction)을 '수동'으로 설정하면 활성화됩니다. 이 값을 조정하면 생성기의 행 방향이 설정됩니다.  
   
-These settings appear only for specific settings you have done before:  
-- Rows to skip: Appears when field center is set to "up/down". This is a very helpful option to accelerate your work, as tools won't have to back up to turn into the next row.  
-- Rows per Land: Appears when field center is set to "lands". This has only impact when the field center is set to lands and will tell the generator how many rows each land should have. The more rows, the fewer lands will be generated.  
-- Spiral from inside: Appears when field center is set to "spiral".  
-- Number of circles: Appears when field center is set to "racetrack".  
+이 설정들은 특정 조건에서만 활성화됩니다:  
+- 건너뛸 행(Rows to skip): 필드 중앙이 "상하(up/down)" 방식으로 설정되었을 때 나타납니다.   
+  이 설정을 활성화하면 도구가 다음 행으로 진입할 때 후진할 필요가 없어 작업 속도를 더욱 높일 수 있습니다.  
+- 구획당 행 수(Rows per Land): 필드 중앙이 "구획(Lands)" 방식으로 설정되었을 때만 나타납니다.  
+  생성기에서 각 구획에 몇 개의 행을 포함할지 결정하는 값입니다. 값이 클수록 생성되는 구획 수는 줄어듭니다.  
+- 내부에서 시작(Spiral from inside): 필드 중앙이 "나선형(Spiral)"으로 설정되었을 때만 나타납니다.  
+- 원형 주행 횟수(Number of circles): 필드 중앙이 "레이스트랙(Racetrack)"으로 설정되었을 때만 나타납니다.  
 
 
 ## 
-up/down
+상하(up/down)
 
 
 ![Image](../assets/images/updown_0_0_1024_591.png)
 
 ## 
-lands
+구획(Lands)
 
 
 ![Image](../assets/images/lands_0_0_1024_599.png)
 
 ## 
-spiral
+나선형(Spiral)
 
 
 ![Image](../assets/images/spiral_0_0_1024_590.png)
 
 ## 
-racetrack
+레이스트랙(Racetrack)
 
 
 ![Image](../assets/images/racetrack_0_0_1024_589.png)

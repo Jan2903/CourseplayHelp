@@ -3,7 +3,7 @@
   
 Mit einem Radlader oder Traktor mit Frontlader und Schaufel lassen sich Haufen vom Boden oder aus einem Bunkersilo automatisch aufnehmen und in einen Anhänger oder Lager abladen.  
 Die Schaufel wird dabei automatisch an die richtigen Positionen gefahren.  
-Ist der Modus im HUD nicht direkt zu sehen, schalte die CP-Jobs durch bis der Modus erscheint.  
+Ist der Modus im HUD nicht direkt zu sehen, schalte die "Startposition" durch bis der Modus erscheint.  
   
 Im HUD erscheint dann das gewohnte Ziel-Icon um direkt mit dem richtigen Modus auf der Helferkarte zu landen.  
 Es gibt eine Anzeige, die die verbleibende Füllmenge des Haufens anzeigt.  

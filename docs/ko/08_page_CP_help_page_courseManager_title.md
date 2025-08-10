@@ -1,43 +1,49 @@
-# Course manager
+# 경로 관리자
 
   
-The course manager allows you to save courses and enables you to load the saved course later again.  
-This is really important, when you want to have multiple workers driving the same course for convoy (multi tools).  
-This feature also allows you to pickup the swath left behind by a combine or a windrower with a forage wagon or a baler.  
+경로 관리자를 사용하면 경로를 저장하고 나중에 다시 불러올 수 있습니다.  
+이는 여러 작업자가 동일한 경로를 따라 대열 주행(멀티툴)을 수행해야 할 때 매우 중요합니다.  
+또한, 콤바인이나 대형 집초기로 남겨진 곡물 스와드(swath)를 사료 수집기 또는 베일러로 회수할 때도 유용하게 사용할 수 있습니다.  
   
-The save location for the course files is: ..\My Games\FarmingSimulator2022\modSettings\FS22_Courseplay\Courses\Mapname.SampleModMap (or for vanilla e.g. MapUS).  
-The course manager works differently from what you are used to in FS19.  
-Courses are saved into folders, which will be displayed on the left. This means you would need at least one folder to start saving courses into.   
-Folders can simply created by the button at the bottom of the screen and entering a name.  
-Courses are only saved localy for now.  
+경로 파일의 저장 위치:  
+..\My Games\FarmingSimulator2022\modSettings\FS22_Courseplay\Courses\Mapname.SampleModMap   
+(또는 기본 맵의 경우 MapUS 등)  
+FS19에서 사용했던 방식과 다르게, 경로 관리자는 폴더 시스템을 기반으로 작동합니다.  
+경로는 왼쪽에 표시되는 폴더에 저장되며, 따라서 경로를 저장하려면 적어도 하나의 폴더가 필요합니다.  
+화면 하단의 버튼을 눌러 폴더를 생성하고 원하는 이름을 입력하면 폴더가 추가됩니다.  
+현재 저장된 경로는 로컬 저장소에만 보관됩니다.  
 
 
 ![Image](../assets/images/managerbasehelp_0_0_765_430.png)
 
   
-When you have a course loaded, you can save it by clicking on the save course button and then on the folder. Then a pop up window will appear where you can enter the name of your course.  
-The name and location can be changed later.  
-To remove the course from your vehicle, click on 'Clear current course' button.  
-For loading a course you would have to select the folder first, click on the load course button and then simply clicking on the course you want to load.  
-Clicking on change mode activates the edit mode of the course manager.  
+경로를 불러온 후, '경로 저장' 버튼을 클릭한 다음 원하는 폴더를 선택하면 저장할 수 있습니다.  
+이후 팝업 창이 나타나며, 여기에서 경로의 이름을 입력할 수 있습니다.  
+저장된 경로의 이름과 위치는 나중에 변경할 수 있습니다.  
+현재 차량에서 경로를 제거하려면 '현재 경로 삭제' 버튼을 클릭하세요.  
+경로를 불러오려면 먼저 폴더를 선택한 후, '경로 불러오기' 버튼을 누른 뒤 원하는 경로를 클릭하면 됩니다.  
+'모드 변경' 버튼을 클릭하면 경로 관리자 편집 모드가 활성화됩니다.  
 
 
   
-With the edit mode is active you have these options:  
-- Moving a course into another directory.  
-- Deleting courses or directories.  
-- Renaming courses or directories.  
+편집 모드가 활성화되면 다음과 같은 작업을 수행할 수 있습니다:  
+- 경로를 다른 디렉터리로 이동  
+- 경로 또는 디렉터리 삭제  
+- 경로 또는 디렉터리 이름 변경  
 
 
 ![Image](../assets/images/manageredithelp_0_0_765_430.png)
 
   
-For moving a course:   
-  1) Click on the move button at the bottom of the screen.  
-  2) Click on the course you want to move.  
-  3) Click on the directory where you want the course moved to.  
-For renaming you simply have to click the rename button and after that the directory or course. Then just type in the new name.  
-For deleting a course or directory click on the delete button and after that the folder or course you want to delete.  
-Directories must be empty if you want to delete them.  
+경로 이동 방법:    
+  1) 화면 하단의 '이동' 버튼을 클릭합니다.    
+  2) 이동할 경로를 선택합니다.    
+  3) 해당 경로를 이동할 디렉터리를 선택합니다.    
+경로 또는 디렉터리 이름 변경:    
+  - '이름 변경' 버튼을 클릭한 후, 변경할 디렉터리 또는 경로를 선택합니다.    
+  - 새 이름을 입력하면 됩니다.    
+경로 또는 디렉터리 삭제:    
+  - '삭제' 버튼을 클릭한 후, 삭제할 폴더 또는 경로를 선택합니다.    
+  - 디렉터리를 삭제하려면 해당 디렉터리가 비어 있어야 합니다.    
 
 

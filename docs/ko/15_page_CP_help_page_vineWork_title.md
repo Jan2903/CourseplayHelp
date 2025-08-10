@@ -1,39 +1,45 @@
-# Vine work
+# 포도밭 작업
 
   
-Working on vines is a bit more complex then working on a normal field.  
-To have the best result, the vines should all be next to each other within the default grid.  
-The end and start of each vine, should also be approximately the same length.  
-If the vines are on an existing field, you can open the generator the direct way like normal.  
-If they are not on a field, you have to go over the AI Menu and place the field marker on the vines.  
+포도밭 작업은 일반 필드 작업보다 더 복잡합니다.    
+최상의 작업 결과를 얻으려면 포도나무가 기본 그리드 내에서 나란히 배치되어 있어야 합니다.    
+또한 각 포도나무의 시작과 끝 지점의 길이가 대략적으로 동일해야 합니다.    
+  
+포도밭이 기존 필드에 있는 경우, 일반 필드 작업처럼 생성기를 바로 열 수 있습니다.    
+하지만 필드에 속하지 않은 경우, AI 메뉴를 통해 필드 마커를 포도나무 위에 배치해야 합니다.  
 
 
   
-The generator for vines has less options.  
-Depending on the tool, you have to choose to work on the vines or beside the vines.  
-E.g. the default harvester needs to drive and work on the vine.  
-     The pre-pruner needs to drive left from the vines but works on the vine, so you have to choose to work on the vine, but drive with an offset.  
-     Sprayers need to drive next to the vines and need to skip one row, since it sprays to the left and the right.  
+포도밭 작업을 위한 생성기는 옵션이 더 적습니다.    
+사용하는 도구에 따라 포도나무 위에서 작업할지, 옆에서 작업할지를 선택해야 합니다.    
+  
+예시:  
+- 기본 수확기는 포도나무 위에서 주행하며 작업해야 합니다.    
+- 프리프루너(가지치기 기계)는 포도나무 왼쪽에서 주행하지만 작업은 포도나무에서 이루어지므로,    
+  '포도나무에서 작업'을 선택한 후, 간격을 두고 주행해야 합니다.    
+- 살포기는 포도나무 옆에서 주행하며, 왼쪽과 오른쪽 모두 살포하므로 한 줄을 건너뛰어야 합니다.  
 
 
 ![Image](../assets/images/vineworkgen_0_0_765_510.png)
 
   
-A vine course should be generated on the vines, as it got to drive and work on the vines.  
+포도 수확 작업은 반드시 포도나무 위에서 경로를 생성해야 합니다.    
+이는 차량이 포도나무 위에서 주행하며 작업해야 하기 때문입니다.  
 
 
 ![Image](../assets/images/vineworkharvest_0_0_765_510.png)
 
   
-The pre-pruner works on the vines, so the course have to be generated on the vines.  
-The Tools comes with an offset for the tractor, so the tractor drives between the vines.  
+The pre-pruner works on the vines, so the course has to be generated on the vines.  
+The tool comes with an offset for the tractor, so the tractor drives between the vines.  
 
 
 ![Image](../assets/images/vineworkpruner_0_0_765_510.png)
 
   
-The sprayer works next to the vines so it has to drive either left or right from the vines.  
-Since the sprayer can work on the left and right vines at the same time, we can skip a row.  
+살포기는 포도나무 옆에서 주행하며 작업을 수행합니다.    
+따라서 포도나무의 왼쪽 또는 오른쪽에서 주행해야 합니다.    
+살포기는 좌우 양쪽 포도나무를 동시에 작업할 수 있으므로 한 줄을 건너뛸 수 있습니다.  
 
 
 ![Image](../assets/images/vineworkspray_0_0_765_510.png)

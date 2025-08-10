@@ -13,14 +13,15 @@
 通過單擊名稱，您將獲得刪除或重命名的選項。   
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
+The second option is to draw the custom field on the map of the CP AI menu.  
+To start the drawing, hit they button on the bottom left corner or hit corresponding key.  
+After that a text appears on the top of your screen.  
+Start by clicking the right mouse button for setting the start position.  
+By holding the shift key, the line will be set straight in 90° angles.  
+The next clicks will create lines to the previous click.  
+Once you draw a second line, the course will be automatically closed. You can still draw more lines to define the field even further.  
+You don't need to draw the last line to the start, as it gets generated automatically straight to the start.  
 
-第二個選項是在 AI 菜單地圖上繪製它。  
-沒有選擇拖拉機或其他車輛（左鍵單擊地圖上的某處），您可以選擇繪製自訂田地。  
-開始時，將顯示文本右鍵單擊繪製自訂田地線。  
-使用滑鼠右鍵單擊要開始的位置。  
-下一次右鍵單擊將從您的起點畫一條線到您的第二個位置，這將是下一條線的起點。  
 
-
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

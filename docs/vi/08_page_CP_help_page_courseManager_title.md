@@ -24,7 +24,6 @@ Clicking on change mode activates the edit mode of the course manager.
 
   
 When the edit mode is active you have these options:  
-  
 - Moving a course into another directory.  
 - Deleting courses or directories.  
 - Renaming courses or directories.  

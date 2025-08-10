@@ -15,16 +15,16 @@ Los bordes de los campos personalizados se mostrarán en el menú de IA.
 Al hacer clic en el nombre, tendrá la opción de eliminarlo, cambiarle el nombre o editarlo con el editor.  
 
 
-![Image](../assets/images/donecustomhelp_0_0_765_510.png)
-
   
-La segunda opción es dibujar el campo personalizado en el mapa del menú AI.  
-Si no se selecciona ningún punto de acceso, puede presionar el botón Dibujar campo personalizado que se encuentra a continuación.  
-Después de eso, aparecerá un texto en la parte superior de la pantalla.  
-Comience haciendo clic con el botón derecho del mouse para establecer la posición de inicio.  
-Los siguientes clics crearán líneas hasta el clic anterior.  
-Haga clic en el botón Guardar en la parte inferior para terminar de dibujar el campo.  
+The second option is to draw the custom field on the map of the CP AI menu.  
+To start the drawing, hit they button on the bottom left corner or hit corresponding key.  
+After that a text appears on the top of your screen.  
+Start by clicking the right mouse button for setting the start position.  
+By holding the shift key, the line will be set straight in 90° angles.  
+The next clicks will create lines to the previous click.  
+Once you draw a second line, the course will be automatically closed. You can still draw more lines to define the field even further.  
+You don't need to draw the last line to the start, as it gets generated automatically straight to the start.  
 
 
-![Image](../assets/images/drawcustomhelp_0_0_765_510.png)
+![Image](../assets/images/customfield_0_0_765_510.png)
 

@@ -1,10 +1,12 @@
 # Estender menu AI
 
   
-Primeiro você precisa selecionar um veículo no menu AI para criar uma rota de trabalho no campo ou obter acesso às configurações do veículo e ao gerenciador de rotas.  
-A rota carregada atualmente será exibido no mapa.  
-As configurações globais estão sempre visíveis.  
-Para criar uma rota e iniciar os trabalhos do courseplay, você precisará criar o trabalho CP: Trabalho no campo ou CP: fardos coletar/embalar, similar ao Giants ajuda.  
+As configurações do Helper agora estão em nosso próprio novo menu "Helper settings".  
+Funciona muito como o antigo AI Menu.  
+Selecione um veículo no menu AI para criar um trabalho, com base nas ferramentas anexadas ou no veículo selecionado.  
+Ao lado do mapa e das configurações do trabalho, você encontrará as configurações para o gerador de curso e o gerador de curso vine na parte superior. Elas só são acessíveis com uma ferramenta válida quando você está criando um trabalho.  
+Para gerar um curso e iniciar os trabalhos do Courseplay, você precisará criar o trabalho CP: Fieldwork com uma ferramenta ou veículo válido.  
+Dica: para obter acesso mais rápido, você pode clicar em "no course" no HUD. Isso o levará ao menu com um trabalho já criado para o veículo. ajuda.  
 
 
 ![Image](../assets/images/startjobmenuhelp_0_0_1024_895.png)

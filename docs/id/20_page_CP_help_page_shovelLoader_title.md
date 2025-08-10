@@ -5,7 +5,7 @@ This mode enables the use of wheel loaders and tractors with a front loader.
 With a shovel attached a heap can be picked up from the ground or loading from a bunker silo can be accomplished.  
 The picked up fill level can be unloaded automatically into a nearby trailer or a selected unloading station like a BGA.  
 The shovel will automatically be moved to the correct positions for loading, unloading and so on.  
-In case the mode is not directly visible on the HUD, you can toggle the CP jobs until the shovel mode appears.  
+In case the mode is not directly visible on the HUD, you can toggle the "start position" until the shovel mode appears.  
   
 The target icon on the HUD can be used to open the AI map to select the loading and the unloading targets.  
 The HUD also shows the leftover fill level of the heap or silo, while the helper is working.  
