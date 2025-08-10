@@ -9,8 +9,8 @@ import shutil
 
 # Constants for paths
 CURRENT_DIR = os.getcwd()
-CONFIG_FILE = os.path.join(CURRENT_DIR, "translation_data", "config.json")
-TRANSLATION_DIR = os.path.join(CURRENT_DIR, "translation_data")
+CONFIG_FILE = os.path.join(CURRENT_DIR, "data", "config.json")
+TRANSLATION_DIR = os.path.join(CURRENT_DIR, "data")
 OUTPUT_DIR = os.path.join(CURRENT_DIR, "docs")
 IMAGES_DIR = os.path.join(CURRENT_DIR, "docs", "assets", "images")
 
