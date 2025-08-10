@@ -15,10 +15,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     if: |
-      github.event.workflow_run.conclusion == 'success' && 
-      github.event.workflow_run.event == 'workflow_dispatch' || 
-      github.event.workflow_run.conclusion == 'success' && 
-      github.event.workflow_run.head_commit.message == 'Update generated markdown files'
+      github.event_name == 'workflow_dispatch' ||
+      (
+        github.event.workflow_run.conclusion == 'success' &&
+        github.event.workflow_run.head_commit.message == 'Update generated markdown files'
+      )
     steps:
       # Step 1: Checkout the repository
       - uses: actions/checkout@v4
