@@ -12,14 +12,6 @@ theme:
   features:
     - navigation.footer
   palette:
-  
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: custom
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -28,7 +20,14 @@ theme:
         icon: material/weather-night
         name: Light mode
       primary: custom
-
+  
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: custom
        
 markdown_extensions:
   - attr_list
@@ -132,7 +131,7 @@ extra:
     - icon: simple/github
       link: https://github.com/Courseplay/Courseplay_FS25/releases
     - icon: custom/modhub
-      link: https://www.farming-simulator.com/mods.php
+      link: https://www.farming-simulator.com/mod.php?mod_id=331515&title=fs2025
     - icon: custom/fs22
       link: https://courseplay.github.io/Courseplay_FS22.github.io/
 extra_css:
